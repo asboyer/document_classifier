@@ -1,0 +1,6 @@
+PyPDF2
+networkx
+matplotlib
+nltk
+pdf2image
+pytesseract

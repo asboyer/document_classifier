@@ -1,0 +1,101 @@
+{
+    "compliance_reports": {
+        "manual_keywords": [
+            "compliance report",
+            "usage",
+            "therapy",
+            "compliance period",
+            "period compliance",
+            "compliance percentage",
+            "epr fulltime",
+            "fulltime epr",
+            "median usage",
+            "minutes total",
+            "total used",
+            "hours value",
+            "last reset"
+        ]
+    },
+    "delivery_tickets": {
+        "manual_keywords": [
+            "delivery",
+            "delivery receipt",
+            "inv location",
+            "order",
+            "customer",
+            "account",
+            "dob",
+            "shippeddelivered",
+            "shippeddelivered to",
+            "phone",
+            "mobile",
+            "insurance",
+            "qty",
+            "ord qty",
+            "del qty",
+            "type item",
+            "ext. allow",
+            "copay"
+        ]
+    },
+    "orders": {
+        "manual_keywords": [
+            "provider",
+            "patient",
+            "order",
+            "services",
+            "equipment services",
+            "equipment",
+            "diagnoses",
+            "policy",
+            "equipmentservices",
+            "length of",
+            "signature"
+        ]
+    },
+    "phys_notes": {
+        "manual_keywords": [
+            "patient",
+            "reason",
+            "current medications",
+            "notes",
+            "new patient",
+            "the patient",
+            "history",
+            "past medical",
+            "medical history",
+            "allergies",
+            "drugsalcohol",
+            "exam",
+            "plan",
+            "pain"
+        ]
+    },
+    "prescriptions": {
+        "manual_keywords": [
+            "cpap",
+            "dme",
+            "patient",
+            "label",
+            "quantity",
+            "of need",
+            "duration of",
+            "length of",
+            "signature",
+            "order",
+            "pain",
+            "refill"
+        ]
+    },
+    "sleep_study_reports": {
+        "manual_keywords": [
+            "sleep",
+            "sleep study",
+            "events",
+            "respiratory",
+            "snoring",
+            "snoring level",
+            "of sleep"
+        ]
+    }
+}
