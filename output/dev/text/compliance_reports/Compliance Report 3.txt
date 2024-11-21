@@ -1,0 +1,104 @@
+oor’,
+e “.
+e *.
+ay °
+"eee®
+
+resmed
+
+airview"
+
+charleston
+
+2090 executive hall rd ste 100
+charleston
+
+south carolina, 29407
+
+phone: 843-554-4000
+fax: 843-769-6849
+email: t}@atlanticrespiratory.com
+
+compliance report
+
+payor standard
+usage days 207/212 days (98%)
+>= 4 hours 200 days (94%)
+< 4 hours 7 days (3%)
+usage hours 1,458 hours 37 minutes
+average usage (total days) 6 hours 53 minutes
+average usage (days used) 7 hours 3 minutes
+median usage (days used) 7 hours 9 minutes
+total used hours (value since last reset - 10/29/2023) 1,449 hours
+
+airsense 10 autoset
+
+serial number 23223420062
+mode autoset
+min pressure 5 cmh20
+max pressure 20 cmh20
+epr fulltime
+epr level 3
+response standard
+pressure - cmh20 median: 6.4 95th percentile: 9.6 maximum: 11.1
+leaks - l/min median: 7.5 95th percentile: 33.2 maximum: 54.8
+events per hour al: 1.3 hi: 0.8 ahi: = 2.1
+apnea index central: 0.5 obstructive: 0.6 unknown: 0.2
+rera index 0.1
+cheyne-stokes respiration (average duration per night) 1 minutes (0%)
+
+usage - hours
+
+printed on 10/30/2023 - resmed airview version 4.42.0-16.0 page 1 of 1
+charleston
+2090 executive hall rd ste 100
+charleston
+
+resmed = "7""""
+
+phone: 843-554-4000
+. . ™
+airview
+
+fax: 843-769-6849
+email: t}@atlanticrespiratory.com
+
+therapy report
+airs
+
+2322342006
+
+usage (hours)
+
+usage days 207/212
+>= 4 hour days 200 (9
+
+days not used 1 (0%)|
+days no data 4 (2%)
+used/day (avg.) 7.0 hrs.
+leak (l/min)
+set threshold 24.0 min
+maximum (avg) 54.8
+median (avg) 7.5
+pressure (cmh20)
+mode autoset
+set epr fulltime,
+3.0
+set max pressure 20.0)
+set min pressure 5.0
+maximum (avg) 11.1
+95th % (avg) 9.6
+median (avg) 6.4)
+
+ahi (events/hour)
+
+ah 21
+a
+al u 1.3
+cai 0.5
+oai 0.6
+uai 0.2
+rera 0.1
+csr% (avg) 0.3
+
+printed on 10/30/2023 - resmed airview version 4.42.0-16.0 page 1 of 1

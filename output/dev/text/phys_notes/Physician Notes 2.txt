@@ -1,0 +1,348 @@
+encounter date: 02/09/2023
+
+| progress notes ¥ encounter date: 2/9/2023
+
+physician addendum
+specialty: pulmonology
+
+& member of trinity health
+pulmonary consult note
+
+2/9/2023:
+
+a. is i present for consultation at the request of
+
+referring physician, md, regarding the following;
+
+chief complaint:
+
+chief complaint
+
+patient presents with
+* discuss hst result
+
+hpi:
+
+sleep medicine evaluation regarding obstructive sleep apnea and presents today for review of
+her recent home sleep study.
+
+this is a 86-year-old female past medical history significant for cva with expressive aphasia also
+no known history of congestive heart failure and atrial fibrillation on anticoagulation therapy
+who presents today as a new patient regarding further evaluation for obstructive sleep apnea.
+patient clinically notes snoring at night according to her daughter and has had witnessed
+apneas as well as gasping episodes. given the patient's expressive aphasia most of the history
+is obtained through the daughter. apparently sleeps on her back the entire night. notes 5 to
+10 pound weight gain over the last year with a current bmi of 30.8. sleep apnea was clinically
+suspected and underwent a home sleep study on december 3 which was a somewhat of a
+limited study given that there was less than 4 hours of monitoring time. however, home sleep
+study revealed an ahi index of 16 suggesting moderate obstructive sleep apnea associated
+with mild snoring throughout the night he had no significant nocturnal hypoxemia... awakens
+not well rested at times denies excessive daytime sleepiness. denies morning headaches.
+
+neck circumference 15 inches
+
+po encounter date: 02/09/2023
+ess equals 6
+
+review of systems:
+
+review of systems
+
+constitutional: negative for chills, fatigue, fever and unexpected weight change.
+
+hent: negative for congestion, ear pain, hearing loss, postnasal drip, sinus pain, sore throat,
+tinnitus and trouble swallowing.
+
+eyes: negative for photophobia, itching and visual disturbance.
+
+respiratory: negative for apnea, cough, chest tightness, shortness of breath, wheezing and
+stridor.
+
+cardiovascular: negative for chest pain, palpitations and leg swelling.
+
+gastrointestinal: negative for abdominal distention, abdominal pain, blood in stool,
+constipation, diarrhea and vomiting.
+
+endocrine: negative for cold intolerance and heat intolerance.
+
+genitourinary: negative for difficulty urinating, frequency and hematuria.
+
+musculoskeletal: negative for back pain, joint swelling and neck stiffness.
+
+skin: negative for pallor and rash.
+
+neurological: negative for dizziness, syncope, light-headedness and headaches.
+hematological: negative for adenopathy. does not bruise/bleed easily.
+psychiatric/behavioral: negative for agitation, confusion and sleep disturbance.
+
+medications:
+
+current outpatient medications:
+
++ apixaban (eliquis) 5 mg tablet, take 1 tablet (5 mg total) by mouth 2 (two) times a day., disp:
+60 each, rfl: 1
+
+* aspirin 81 mg ec tablet, daily, disp: , rft:
+
+* atorvastatin (lipitor) 40 mg tablet, take 1 tablet (40 mg total) by mouth at bedtime. take 1
+tablet at bedtime., disp: 90 each, rfl: 2
+
+* bacillus coagulans-inulin oral, probiotic caps refills: 0, disp: , rfl:
+
+* calcium carb/vit d3/minerals (calcium-vitamin d oral), take by mouth., disp: , rfl:
+
+* digoxin (lanoxin) 125 mcg (0.125 mg) tablet, take 0.5 tablet by mouth daily, disp: , rfl:
++ diltiazem (cardizem) 90 mg immediate release tablet, take 1 tablet (90 mg total) by mouth
+3 (three) times a day. take 1 tablet by mouth three times a day, disp: 180 tablet, rfl: 1
+
+* docusate sodium (colace) 250 mg capsule, take 1 capsule (250 mg total) by mouth 1 (one)
+time each day., disp: , rfl:
+
+* furosemide (lasix) 20 mg tablet, take 1 tablet (20 mg total) by mouth 1 (one) time each day.
+daily, disp: 30 each, rfl: 2
+
++ hylan (synvisc-one) 48 mg/6 ml syringe injection, inject one syringe into right knee., disp: ,
+
+[oo encounter date: 02/09/2023
+rfl:
+* potassium chloride 20 meq tablet extended release, take 1 tablet orally daily, disp:, rfl:
+* valsartan (diovan) 40 mg tablet, bedtime, disp: , rfl:
+
+patient history:
+social history
+
+tobacco use
+
++ smoking status: former
+years: 2.00
+types: cigarettes
+
+* smokeless tobacco: never
+
+substance use topics
+« drug use: never
+
+no family history on file.
+
+past medical history:
+diagnosis date
++ a-fib (cms/hcc)
+* acc/aha stage c heart
+failure with preserved
+ejection fraction (cms/hcc)
+« h/o ischemic left mca stroke
+* hypothyroidism
+
+past surgical history:
+
+procedure laterality date
+
+* cesarean
+section, low
+transverse
+
++ hip fracture
+surgery
+
++ hip resection
+arthroplasty
+
+* pelvic
+fracture
+surgery
+
+* thyroid
+surgery
+
+po encounter date: 02/09/2023
+« total hip
+arthroplasty
+
+allergies:
+
+patient has no known allergies.
+
+vital signs:
+
+visit vitals
+
+bp 113/74 (bp location: right arm,
+patient position: sitting, bp cuff
+size: adult)
+
+pulse 80
+
+temp 36.8 °c (98.2 °f) (temporal)
+
+resp 16
+
+ht 1.27 m (50")
+
+wt 62.6 kg (138 ib)
+
+spo02 95%
+
+bmi 38.81 kg/m?
+
+smoking status former
+
+bsa 1.4 m?
+
+physical exam:
+
+physical exam
+constitutional:
+general: she is not in acute distress.
+appearance: normal appearance. she is not toxic-appearing or diaphoretic.
+hent:
+head: normocephalic and atraumatic.
+mouth/throat:
+mouth: mucous membranes are dry.
+pharynx: oropharynx is clear. no oropharyngeal exudate or posterior oropharyngeal erythema
+
+eyes:
+general: no scleral icterus.
+extraocular movements: extraocular movements intact.
+conjunctiva/sclera: conjunctivae normal.
+pupils: pupils are equal, round, and reactive to light.
+neck:
+vascular: no carotid bruit.
+
+[po eneounter date: 02/09/2023
+cardiovascular:
+
+rate and rhythm: normal rate and regular rhythm.
+
+pulses: normal pulses.
+
+heart sounds: normal heart sounds. no murmur heard. no friction rub. no gailop.
+pulmonary:
+
+effort: pulmonary effort is normal. no respiratory distress.
+
+breath sounds: normal breath sounds. no stridor. no wheezing, rhonchi or rales.
+chest:
+
+chest wall: no tenderness.
+abdominal:
+
+general: abdomen is flat. bowe! sounds are normal. there is no distension.
+
+palpations: abdomen is soft. there is no mass.
+
+tenderness: there is no abdominal tenderness. there is no right cva tenderness, left cva
+tenderness, guarding or rebound.
+
+hernia: no hernia is present.
+musculoskeletal:
+
+general: normal range of motion.
+
+cervical back: normal range of motion and neck supple.
+lymphadenopathy:
+
+cervical: no cervical adenopathy.
+
+general: skin is warm and dry.
+
+coloration: skin is not jaundiced.
+
+findings: no bruising or rash.
+neurological:
+
+general: no focal deficit present.
+
+mental status: she is alert and oriented to person, place, and time. mental status is at
+baseline.
+
+cranial nerves: no cranial nerve deficit.
+
+psychiatric:
+mood and affect: mood normal.
+
+data review:
+
+no orders to display
+
+echo:
+
+po encounter date: 02/09/2023
+no results found for this or any previous visit.
+
+pulmonary functions testing results:
+no results found for: fev1, fvc, fev1fvc, tlc, dlco
+
+home sleep study dated december 3, 2022 reviewed with the daughter and patient which was
+somewhat of a limited study given short duration of monitoring time he had did reveal an ahi
+index of 16 suggesting moderate obstructive sleep apnea associated with mild snoring.
+
+assessment/plan:
+
+1. osa (obstructive sleep apnea) home sleep test
+
+2. atrial fibrillation, unspecified type
+(cms/hcc)
+
+3. congestive heart failure, unspecified hf
+chronicity, unspecified heart failure type
+(cms/hcc)
+
+4. acc/aha stage c heart failure with
+preserved ejection fraction (cms/hcc)
+
+5. hypothyroidism, unspecified type
+
+the patient will more than likely benefit from cpap therapy however, | have recommended that
+she repeat home sleep study and have recommended a 2 night home sleep study and follow-up
+in the cpap clinic for review,
+
+patient was counseled regarding sleep apnea and potential cardiovascular complications
+weight loss would be beneficial and the patient should avoid the supine position while sleeping
+alcohol and other sedatives should be avoided at night
+
+avoid driving if excessively sleepy
+
+follow-up in the cpap clinic for review of repeat sleep study once completed after which more
+than likely cpap therapy will be initiated and will follow-up in the cpap clinic for mask fitting.
+
+| have discussed at length the plan of care and differential diagnosis with the patient and/or the
+patient's family. the patient and/or the patient's family was given time to ask questions and
+raise concerns which were answered and addressed to the patient's/family's satisfaction.
+
+frank sorhage, md
+pulmonary & critical care medicine
+
+[oo encounter date: 02/09/2023
+electronically signed by frank sorhage, md at 2/9/2023 4:53 pm
+electronically signed by frank sorhage, md at 3/10/2023 8:50 am
+
+office visit on 2/9/2023 = note shared with patient
+additional documentation
+
+bp 113/74 (bp location: right arm, patient position: sitting, bp cuff size: adult) puise 80
+
+vitals:
+temp 36.8 °c (98.2 °f) (temporal) resp 16 ht 1.27 m (50") wt 62.6 kg (138 ib) spo2 95%
+bmi 38.81 kg/m? bsa 1.4 m? pain sc o-no pain
+
+flowsheets: vital signs, vitals reassessment
+
+orders placed
+
+home sleep test
+
+medication changes
+as of 2/9/2023 4:00 pm
+
+none
+
+visit diagnoses
+primary: osa (obstructive sleep apnea) g47.33
+
+atrial fibrillation, unspecified type (cms/hcc) 148.91
+congestive heart failure, unspecified hf chronicity, unspecified heart failure type (cms/hcc) 150.9
+
+acc/aha stage c heart failure with preserved ejection fraction (cms/hcc) 150.30
+hypothyroidism, unspecified type e03.9
+
+[oo eneounter date: 02/09/2023

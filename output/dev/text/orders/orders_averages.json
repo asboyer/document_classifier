@@ -1,0 +1,4027 @@
+{
+    "page": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 1.0
+    },
+    "date": {
+        "avg_count": 2.25,
+        "avg_order": 46.25,
+        "hit_rate": 1.0
+    },
+    "months": {
+        "avg_count": 5.25,
+        "avg_order": 104.0,
+        "hit_rate": 1.0
+    },
+    "apnea": {
+        "avg_count": 1.0,
+        "avg_order": 93.5,
+        "hit_rate": 1.0
+    },
+    "tubing": {
+        "avg_count": 1.25,
+        "avg_order": 146.5,
+        "hit_rate": 1.0
+    },
+    "month": {
+        "avg_count": 2.0,
+        "avg_order": 174.0,
+        "hit_rate": 1.0
+    },
+    "fax": {
+        "avg_count": 2.3333333333333335,
+        "avg_order": 14.0,
+        "hit_rate": 0.75
+    },
+    "page of": {
+        "avg_count": 1.0,
+        "avg_order": 194.0,
+        "hit_rate": 0.75
+    },
+    "patient": {
+        "avg_count": 2.0,
+        "avg_order": 31.333333333333332,
+        "hit_rate": 0.75
+    },
+    "revised": {
+        "avg_count": 1.0,
+        "avg_order": 59.333333333333336,
+        "hit_rate": 0.75
+    },
+    "revised date": {
+        "avg_count": 1.0,
+        "avg_order": 60.333333333333336,
+        "hit_rate": 0.75
+    },
+    "recertification": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.75
+    },
+    "length": {
+        "avg_count": 1.0,
+        "avg_order": 70.0,
+        "hit_rate": 0.75
+    },
+    "length of": {
+        "avg_count": 1.0,
+        "avg_order": 71.0,
+        "hit_rate": 0.75
+    },
+    "of need": {
+        "avg_count": 1.0,
+        "avg_order": 72.0,
+        "hit_rate": 0.75
+    },
+    "need": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 0.75
+    },
+    "phone": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.75
+    },
+    "diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 82.66666666666667,
+        "hit_rate": 0.75
+    },
+    "cade": {
+        "avg_count": 1.0,
+        "avg_order": 92.33333333333333,
+        "hit_rate": 0.75
+    },
+    "name": {
+        "avg_count": 1.3333333333333333,
+        "avg_order": 83.66666666666667,
+        "hit_rate": 0.75
+    },
+    "heated": {
+        "avg_count": 1.3333333333333333,
+        "avg_order": 117.66666666666667,
+        "hit_rate": 0.75
+    },
+    "pap": {
+        "avg_count": 1.6666666666666667,
+        "avg_order": 91.33333333333333,
+        "hit_rate": 0.75
+    },
+    "headgear": {
+        "avg_count": 1.0,
+        "avg_order": 135.66666666666666,
+        "hit_rate": 0.75
+    },
+    "per": {
+        "avg_count": 4.666666666666667,
+        "avg_order": 140.0,
+        "hit_rate": 0.75
+    },
+    "cushion": {
+        "avg_count": 1.0,
+        "avg_order": 168.33333333333334,
+        "hit_rate": 0.75
+    },
+    "filter": {
+        "avg_count": 1.3333333333333333,
+        "avg_order": 172.66666666666666,
+        "hit_rate": 0.75
+    },
+    "signature": {
+        "avg_count": 1.0,
+        "avg_order": 276.0,
+        "hit_rate": 0.75
+    },
+    "sleep": {
+        "avg_count": 1.3333333333333333,
+        "avg_order": 90.33333333333333,
+        "hit_rate": 0.75
+    },
+    "sleep apnea": {
+        "avg_count": 1.0,
+        "avg_order": 91.33333333333333,
+        "hit_rate": 0.75
+    },
+    "equipment": {
+        "avg_count": 1.0,
+        "avg_order": 172.33333333333334,
+        "hit_rate": 0.75
+    },
+    "office": {
+        "avg_count": 1.0,
+        "avg_order": 149.5,
+        "hit_rate": 0.5
+    },
+    "standard": {
+        "avg_count": 1.5,
+        "avg_order": 26.5,
+        "hit_rate": 0.5
+    },
+    "standard written": {
+        "avg_count": 1.0,
+        "avg_order": 27.5,
+        "hit_rate": 0.5
+    },
+    "written": {
+        "avg_count": 1.0,
+        "avg_order": 28.5,
+        "hit_rate": 0.5
+    },
+    "physician": {
+        "avg_count": 1.0,
+        "avg_order": 51.5,
+        "hit_rate": 0.5
+    },
+    "initial": {
+        "avg_count": 1.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.5
+    },
+    "initial date": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.5
+    },
+    "date revised": {
+        "avg_count": 1.0,
+        "avg_order": 55.5,
+        "hit_rate": 0.5
+    },
+    "florida": {
+        "avg_count": 1.5,
+        "avg_order": 48.0,
+        "hit_rate": 0.5
+    },
+    "florida recertification": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.5
+    },
+    "description": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.5
+    },
+    "item": {
+        "avg_count": 1.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.5
+    },
+    "humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 114.5,
+        "hit_rate": 0.5
+    },
+    "humidifier heated": {
+        "avg_count": 1.0,
+        "avg_order": 115.5,
+        "hit_rate": 0.5
+    },
+    "w pap": {
+        "avg_count": 1.0,
+        "avg_order": 120.5,
+        "hit_rate": 0.5
+    },
+    "pap at": {
+        "avg_count": 1.0,
+        "avg_order": 122.5,
+        "hit_rate": 0.5
+    },
+    "at night": {
+        "avg_count": 1.5,
+        "avg_order": 123.5,
+        "hit_rate": 0.5
+    },
+    "night": {
+        "avg_count": 2.0,
+        "avg_order": 124.5,
+        "hit_rate": 0.5
+    },
+    "pos": {
+        "avg_count": 1.0,
+        "avg_order": 128.5,
+        "hit_rate": 0.5
+    },
+    "pos airway": {
+        "avg_count": 1.0,
+        "avg_order": 129.5,
+        "hit_rate": 0.5
+    },
+    "airway": {
+        "avg_count": 1.0,
+        "avg_order": 130.5,
+        "hit_rate": 0.5
+    },
+    "airway press": {
+        "avg_count": 1.0,
+        "avg_order": 131.5,
+        "hit_rate": 0.5
+    },
+    "press": {
+        "avg_count": 1.0,
+        "avg_order": 132.5,
+        "hit_rate": 0.5
+    },
+    "press headgear": {
+        "avg_count": 1.0,
+        "avg_order": 133.5,
+        "hit_rate": 0.5
+    },
+    "headgear included": {
+        "avg_count": 1.0,
+        "avg_order": 135.5,
+        "hit_rate": 0.5
+    },
+    "included": {
+        "avg_count": 2.0,
+        "avg_order": 136.5,
+        "hit_rate": 0.5
+    },
+    "included per": {
+        "avg_count": 2.0,
+        "avg_order": 137.5,
+        "hit_rate": 0.5
+    },
+    "months a": {
+        "avg_count": 2.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.5
+    },
+    "pap slimline": {
+        "avg_count": 1.0,
+        "avg_order": 147.0,
+        "hit_rate": 0.5
+    },
+    "slimline": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.5
+    },
+    "slimline tubing": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 0.5
+    },
+    "tubing per": {
+        "avg_count": 1.0,
+        "avg_order": 151.0,
+        "hit_rate": 0.5
+    },
+    "per months": {
+        "avg_count": 4.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.5
+    },
+    "face": {
+        "avg_count": 1.0,
+        "avg_order": 182.0,
+        "hit_rate": 0.5
+    },
+    "face nasal": {
+        "avg_count": 1.0,
+        "avg_order": 183.0,
+        "hit_rate": 0.5
+    },
+    "nasal": {
+        "avg_count": 2.0,
+        "avg_order": 184.0,
+        "hit_rate": 0.5
+    },
+    "nasal pillow": {
+        "avg_count": 1.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.5
+    },
+    "pillow": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.5
+    },
+    "pillow or": {
+        "avg_count": 1.0,
+        "avg_order": 187.0,
+        "hit_rate": 0.5
+    },
+    "or nasal": {
+        "avg_count": 1.0,
+        "avg_order": 188.0,
+        "hit_rate": 0.5
+    },
+    "nasal cushion": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.5
+    },
+    "cushion included": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.5
+    },
+    "per month": {
+        "avg_count": 2.0,
+        "avg_order": 176.5,
+        "hit_rate": 0.5
+    },
+    "airsense": {
+        "avg_count": 1.0,
+        "avg_order": 172.5,
+        "hit_rate": 0.5
+    },
+    "airsense autoset": {
+        "avg_count": 1.0,
+        "avg_order": 173.5,
+        "hit_rate": 0.5
+    },
+    "autoset": {
+        "avg_count": 1.0,
+        "avg_order": 174.5,
+        "hit_rate": 0.5
+    },
+    "night a": {
+        "avg_count": 1.0,
+        "avg_order": 178.5,
+        "hit_rate": 0.5
+    },
+    "pack": {
+        "avg_count": 1.0,
+        "avg_order": 195.0,
+        "hit_rate": 0.5
+    },
+    "pack per": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.5
+    },
+    "chin": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.5
+    },
+    "apo": {
+        "avg_count": 1.0,
+        "avg_order": 181.5,
+        "hit_rate": 0.5
+    },
+    "medical": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.5
+    },
+    "health": {
+        "avg_count": 1.5,
+        "avg_order": 29.0,
+        "hit_rate": 0.5
+    },
+    "order": {
+        "avg_count": 3.0,
+        "avg_order": 45.5,
+        "hit_rate": 0.5
+    },
+    "obstructive": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.5
+    },
+    "obstructive sleep": {
+        "avg_count": 1.0,
+        "avg_order": 89.0,
+        "hit_rate": 0.5
+    },
+    "cpap": {
+        "avg_count": 1.0,
+        "avg_order": 137.5,
+        "hit_rate": 0.5
+    },
+    "mask": {
+        "avg_count": 1.0,
+        "avg_order": 127.5,
+        "hit_rate": 0.5
+    },
+    "supplies": {
+        "avg_count": 1.5,
+        "avg_order": 101.5,
+        "hit_rate": 0.5
+    },
+    "additional": {
+        "avg_count": 1.0,
+        "avg_order": 181.0,
+        "hit_rate": 0.5
+    },
+    "provider": {
+        "avg_count": 1.5,
+        "avg_order": 186.0,
+        "hit_rate": 0.5
+    },
+    "recertification length": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.5
+    },
+    "need in": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.5
+    },
+    "in months": {
+        "avg_count": 1.0,
+        "avg_order": 75.0,
+        "hit_rate": 0.5
+    },
+    "pediatric": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.5
+    },
+    "pediatric equipment": {
+        "avg_count": 1.0,
+        "avg_order": 97.0,
+        "hit_rate": 0.5
+    },
+    "equipment services": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 0.5
+    },
+    "services": {
+        "avg_count": 1.5,
+        "avg_order": 70.5,
+        "hit_rate": 0.5
+    },
+    "services qty": {
+        "avg_count": 1.0,
+        "avg_order": 101.0,
+        "hit_rate": 0.5
+    },
+    "qty": {
+        "avg_count": 1.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.5
+    },
+    "months i": {
+        "avg_count": 1.5,
+        "avg_order": 164.0,
+        "hit_rate": 0.5
+    },
+    "i a": {
+        "avg_count": 1.5,
+        "avg_order": 127.5,
+        "hit_rate": 0.5
+    },
+    "chamber": {
+        "avg_count": 1.0,
+        "avg_order": 184.5,
+        "hit_rate": 0.5
+    },
+    "am from": {
+        "avg_count": 1.0,
+        "avg_order": 0.0,
+        "hit_rate": 0.25
+    },
+    "from fax": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.25
+    },
+    "fax carlos": {
+        "avg_count": 1.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.25
+    },
+    "carlos": {
+        "avg_count": 2.0,
+        "avg_order": 4.0,
+        "hit_rate": 0.25
+    },
+    "carlos r": {
+        "avg_count": 2.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.25
+    },
+    "r santos": {
+        "avg_count": 2.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.25
+    },
+    "santos": {
+        "avg_count": 2.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.25
+    },
+    "santos md": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.25
+    },
+    "md pa": {
+        "avg_count": 1.0,
+        "avg_order": 9.0,
+        "hit_rate": 0.25
+    },
+    "pa n": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.25
+    },
+    "n miami": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.25
+    },
+    "miami": {
+        "avg_count": 2.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.25
+    },
+    "miami beach": {
+        "avg_count": 2.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.25
+    },
+    "beach": {
+        "avg_count": 2.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.25
+    },
+    "beach office": {
+        "avg_count": 1.0,
+        "avg_order": 15.0,
+        "hit_rate": 0.25
+    },
+    "office to": {
+        "avg_count": 1.0,
+        "avg_order": 17.0,
+        "hit_rate": 0.25
+    },
+    "to page": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.25
+    },
+    "of patient": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.25
+    },
+    "patient abreu": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.25
+    },
+    "abreu": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 0.25
+    },
+    "abreu juan": {
+        "avg_count": 1.0,
+        "avg_order": 25.0,
+        "hit_rate": 0.25
+    },
+    "juan": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 0.25
+    },
+    "juan dob": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.25
+    },
+    "dob": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.25
+    },
+    "dob aug": {
+        "avg_count": 1.0,
+        "avg_order": 29.0,
+        "hit_rate": 0.25
+    },
+    "aug": {
+        "avg_count": 1.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.25
+    },
+    "aug standard": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 0.25
+    },
+    "written or": {
+        "avg_count": 1.0,
+        "avg_order": 35.0,
+        "hit_rate": 0.25
+    },
+    "or l": {
+        "avg_count": 1.0,
+        "avg_order": 36.0,
+        "hit_rate": 0.25
+    },
+    "l doc": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.25
+    },
+    "doc": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.25
+    },
+    "doc physician": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.25
+    },
+    "physician carlos": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.25
+    },
+    "santos ne": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.25
+    },
+    "ne avesuite": {
+        "avg_count": 1.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.25
+    },
+    "avesuite": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.25
+    },
+    "avesuite a": {
+        "avg_count": 1.0,
+        "avg_order": 49.0,
+        "hit_rate": 0.25
+    },
+    "a initial": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.25
+    },
+    "date miami": {
+        "avg_count": 1.0,
+        "avg_order": 58.0,
+        "hit_rate": 0.25
+    },
+    "beach florida": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.25
+    },
+    "recertification license": {
+        "avg_count": 1.0,
+        "avg_order": 66.0,
+        "hit_rate": 0.25
+    },
+    "license": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.25
+    },
+    "license j": {
+        "avg_count": 1.0,
+        "avg_order": 68.0,
+        "hit_rate": 0.25
+    },
+    "j length": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.25
+    },
+    "need so": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.25
+    },
+    "so phone": {
+        "avg_count": 1.0,
+        "avg_order": 75.0,
+        "hit_rate": 0.25
+    },
+    "phone tin": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 0.25
+    },
+    "tin": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.25
+    },
+    "tin months": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.25
+    },
+    "months progrmeasis": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.25
+    },
+    "progrmeasis": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 0.25
+    },
+    "progrmeasis diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.25
+    },
+    "diagnosis cd": {
+        "avg_count": 1.0,
+        "avg_order": 85.0,
+        "hit_rate": 0.25
+    },
+    "cd cade": {
+        "avg_count": 1.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.25
+    },
+    "cade description": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.25
+    },
+    "description ats": {
+        "avg_count": 1.0,
+        "avg_order": 90.0,
+        "hit_rate": 0.25
+    },
+    "ats": {
+        "avg_count": 1.0,
+        "avg_order": 91.0,
+        "hit_rate": 0.25
+    },
+    "ats obstrudlve": {
+        "avg_count": 1.0,
+        "avg_order": 92.0,
+        "hit_rate": 0.25
+    },
+    "obstrudlve": {
+        "avg_count": 1.0,
+        "avg_order": 93.0,
+        "hit_rate": 0.25
+    },
+    "obstrudlve seep": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.25
+    },
+    "seep": {
+        "avg_count": 1.0,
+        "avg_order": 95.0,
+        "hit_rate": 0.25
+    },
+    "seep apnea": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.25
+    },
+    "apnea adel": {
+        "avg_count": 1.0,
+        "avg_order": 98.0,
+        "hit_rate": 0.25
+    },
+    "adel": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 0.25
+    },
+    "adel pedaukc": {
+        "avg_count": 1.0,
+        "avg_order": 100.0,
+        "hit_rate": 0.25
+    },
+    "pedaukc": {
+        "avg_count": 1.0,
+        "avg_order": 101.0,
+        "hit_rate": 0.25
+    },
+    "pedaukc equipmentservices": {
+        "avg_count": 1.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.25
+    },
+    "equipmentservices": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.25
+    },
+    "equipmentservices ots": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.25
+    },
+    "ots": {
+        "avg_count": 1.0,
+        "avg_order": 105.0,
+        "hit_rate": 0.25
+    },
+    "ots item": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.25
+    },
+    "item name": {
+        "avg_count": 1.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.25
+    },
+    "name narrative": {
+        "avg_count": 1.0,
+        "avg_order": 110.0,
+        "hit_rate": 0.25
+    },
+    "narrative": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.25
+    },
+    "narrative bos": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.25
+    },
+    "bos": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.25
+    },
+    "bos humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 114.0,
+        "hit_rate": 0.25
+    },
+    "heated useo": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.25
+    },
+    "useo": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.25
+    },
+    "useo w": {
+        "avg_count": 1.0,
+        "avg_order": 120.0,
+        "hit_rate": 0.25
+    },
+    "night aris": {
+        "avg_count": 1.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.25
+    },
+    "aris": {
+        "avg_count": 1.0,
+        "avg_order": 127.0,
+        "hit_rate": 0.25
+    },
+    "aris pos": {
+        "avg_count": 1.0,
+        "avg_order": 128.0,
+        "hit_rate": 0.25
+    },
+    "per g": {
+        "avg_count": 1.0,
+        "avg_order": 140.0,
+        "hit_rate": 0.25
+    },
+    "g months": {
+        "avg_count": 1.0,
+        "avg_order": 141.0,
+        "hit_rate": 0.25
+    },
+    "a ah": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.25
+    },
+    "ah pap": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.25
+    },
+    "a full": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.25
+    },
+    "full": {
+        "avg_count": 1.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.25
+    },
+    "full face": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.25
+    },
+    "month feey": {
+        "avg_count": 1.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.25
+    },
+    "feey": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.25
+    },
+    "feey resmeo": {
+        "avg_count": 1.0,
+        "avg_order": 177.0,
+        "hit_rate": 0.25
+    },
+    "resmeo": {
+        "avg_count": 1.0,
+        "avg_order": 178.0,
+        "hit_rate": 0.25
+    },
+    "resmeo crap": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 0.25
+    },
+    "crap": {
+        "avg_count": 1.0,
+        "avg_order": 180.0,
+        "hit_rate": 0.25
+    },
+    "crap airsense": {
+        "avg_count": 1.0,
+        "avg_order": 181.0,
+        "hit_rate": 0.25
+    },
+    "autoset af": {
+        "avg_count": 1.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.25
+    },
+    "af night": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.25
+    },
+    "a rasmed": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.25
+    },
+    "rasmed": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.25
+    },
+    "rasmed akfa": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 0.25
+    },
+    "akfa": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.25
+    },
+    "akfa f": {
+        "avg_count": 1.0,
+        "avg_order": 193.0,
+        "hit_rate": 0.25
+    },
+    "f system": {
+        "avg_count": 1.0,
+        "avg_order": 194.0,
+        "hit_rate": 0.25
+    },
+    "system": {
+        "avg_count": 1.0,
+        "avg_order": 195.0,
+        "hit_rate": 0.25
+    },
+    "system medium": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.25
+    },
+    "medium": {
+        "avg_count": 1.0,
+        "avg_order": 197.0,
+        "hit_rate": 0.25
+    },
+    "medium wihdgr": {
+        "avg_count": 1.0,
+        "avg_order": 198.0,
+        "hit_rate": 0.25
+    },
+    "wihdgr": {
+        "avg_count": 1.0,
+        "avg_order": 199.0,
+        "hit_rate": 0.25
+    },
+    "wihdgr peri": {
+        "avg_count": 1.0,
+        "avg_order": 200.0,
+        "hit_rate": 0.25
+    },
+    "peri": {
+        "avg_count": 1.0,
+        "avg_order": 201.0,
+        "hit_rate": 0.25
+    },
+    "peri months": {
+        "avg_count": 1.0,
+        "avg_order": 202.0,
+        "hit_rate": 0.25
+    },
+    "months arib": {
+        "avg_count": 1.0,
+        "avg_order": 204.0,
+        "hit_rate": 0.25
+    },
+    "arib": {
+        "avg_count": 1.0,
+        "avg_order": 205.0,
+        "hit_rate": 0.25
+    },
+    "arib aickt": {
+        "avg_count": 1.0,
+        "avg_order": 206.0,
+        "hit_rate": 0.25
+    },
+    "aickt": {
+        "avg_count": 1.0,
+        "avg_order": 207.0,
+        "hit_rate": 0.25
+    },
+    "aickt filter": {
+        "avg_count": 1.0,
+        "avg_order": 208.0,
+        "hit_rate": 0.25
+    },
+    "filter stantatd": {
+        "avg_count": 1.0,
+        "avg_order": 210.0,
+        "hit_rate": 0.25
+    },
+    "stantatd": {
+        "avg_count": 1.0,
+        "avg_order": 211.0,
+        "hit_rate": 0.25
+    },
+    "stantatd pack": {
+        "avg_count": 1.0,
+        "avg_order": 212.0,
+        "hit_rate": 0.25
+    },
+    "month apoi": {
+        "avg_count": 1.0,
+        "avg_order": 218.0,
+        "hit_rate": 0.25
+    },
+    "apoi": {
+        "avg_count": 1.0,
+        "avg_order": 219.0,
+        "hit_rate": 0.25
+    },
+    "apoi premium": {
+        "avg_count": 1.0,
+        "avg_order": 220.0,
+        "hit_rate": 0.25
+    },
+    "premium": {
+        "avg_count": 1.0,
+        "avg_order": 221.0,
+        "hit_rate": 0.25
+    },
+    "premium chin": {
+        "avg_count": 1.0,
+        "avg_order": 222.0,
+        "hit_rate": 0.25
+    },
+    "chin straps": {
+        "avg_count": 1.0,
+        "avg_order": 224.0,
+        "hit_rate": 0.25
+    },
+    "straps": {
+        "avg_count": 1.0,
+        "avg_order": 225.0,
+        "hit_rate": 0.25
+    },
+    "straps per": {
+        "avg_count": 1.0,
+        "avg_order": 226.0,
+        "hit_rate": 0.25
+    },
+    "months apo": {
+        "avg_count": 1.0,
+        "avg_order": 230.0,
+        "hit_rate": 0.25
+    },
+    "apo remstar": {
+        "avg_count": 1.0,
+        "avg_order": 232.0,
+        "hit_rate": 0.25
+    },
+    "remstar": {
+        "avg_count": 1.0,
+        "avg_order": 233.0,
+        "hit_rate": 0.25
+    },
+    "remstar pro": {
+        "avg_count": 1.0,
+        "avg_order": 234.0,
+        "hit_rate": 0.25
+    },
+    "pro": {
+        "avg_count": 1.0,
+        "avg_order": 235.0,
+        "hit_rate": 0.25
+    },
+    "pro pollen": {
+        "avg_count": 1.0,
+        "avg_order": 236.0,
+        "hit_rate": 0.25
+    },
+    "pollen": {
+        "avg_count": 1.0,
+        "avg_order": 237.0,
+        "hit_rate": 0.25
+    },
+    "pollen filter": {
+        "avg_count": 1.0,
+        "avg_order": 238.0,
+        "hit_rate": 0.25
+    },
+    "filter pk": {
+        "avg_count": 1.0,
+        "avg_order": 240.0,
+        "hit_rate": 0.25
+    },
+    "pk per": {
+        "avg_count": 1.0,
+        "avg_order": 241.0,
+        "hit_rate": 0.25
+    },
+    "months aag": {
+        "avg_count": 1.0,
+        "avg_order": 245.0,
+        "hit_rate": 0.25
+    },
+    "aag": {
+        "avg_count": 1.0,
+        "avg_order": 246.0,
+        "hit_rate": 0.25
+    },
+    "aag drearmstation": {
+        "avg_count": 1.0,
+        "avg_order": 247.0,
+        "hit_rate": 0.25
+    },
+    "drearmstation": {
+        "avg_count": 1.0,
+        "avg_order": 248.0,
+        "hit_rate": 0.25
+    },
+    "drearmstation waterchamber": {
+        "avg_count": 1.0,
+        "avg_order": 249.0,
+        "hit_rate": 0.25
+    },
+    "waterchamber": {
+        "avg_count": 1.0,
+        "avg_order": 250.0,
+        "hit_rate": 0.25
+    },
+    "waterchamber per": {
+        "avg_count": 1.0,
+        "avg_order": 251.0,
+        "hit_rate": 0.25
+    },
+    "months signature": {
+        "avg_count": 1.0,
+        "avg_order": 255.0,
+        "hit_rate": 0.25
+    },
+    "signature hnuseeaaaea": {
+        "avg_count": 1.0,
+        "avg_order": 257.0,
+        "hit_rate": 0.25
+    },
+    "hnuseeaaaea": {
+        "avg_count": 1.0,
+        "avg_order": 258.0,
+        "hit_rate": 0.25
+    },
+    "hnuseeaaaea an": {
+        "avg_count": 1.0,
+        "avg_order": 259.0,
+        "hit_rate": 0.25
+    },
+    "an a": {
+        "avg_count": 1.0,
+        "avg_order": 260.0,
+        "hit_rate": 0.25
+    },
+    "marmon": {
+        "avg_count": 1.0,
+        "avg_order": 0.0,
+        "hit_rate": 0.25
+    },
+    "marmon pm": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.25
+    },
+    "pm fax": {
+        "avg_count": 1.0,
+        "avg_order": 2.0,
+        "hit_rate": 0.25
+    },
+    "fax no": {
+        "avg_count": 1.0,
+        "avg_order": 4.0,
+        "hit_rate": 0.25
+    },
+    "no p": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.25
+    },
+    "p bush": {
+        "avg_count": 1.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.25
+    },
+    "bush": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.25
+    },
+    "bush robert": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.25
+    },
+    "robert": {
+        "avg_count": 1.0,
+        "avg_order": 9.0,
+        "hit_rate": 0.25
+    },
+    "robert mrn": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.25
+    },
+    "mrn": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.25
+    },
+    "mrn encounter": {
+        "avg_count": 1.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.25
+    },
+    "encounter": {
+        "avg_count": 1.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.25
+    },
+    "encounter date": {
+        "avg_count": 1.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.25
+    },
+    "date imusc": {
+        "avg_count": 1.0,
+        "avg_order": 16.0,
+        "hit_rate": 0.25
+    },
+    "imusc": {
+        "avg_count": 1.0,
+        "avg_order": 17.0,
+        "hit_rate": 0.25
+    },
+    "imusc medical": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.25
+    },
+    "medical university": {
+        "avg_count": 1.0,
+        "avg_order": 20.0,
+        "hit_rate": 0.25
+    },
+    "university": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.25
+    },
+    "university of": {
+        "avg_count": 1.0,
+        "avg_order": 22.0,
+        "hit_rate": 0.25
+    },
+    "of south": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.25
+    },
+    "south": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 0.25
+    },
+    "south carolina": {
+        "avg_count": 1.0,
+        "avg_order": 25.0,
+        "hit_rate": 0.25
+    },
+    "carolina": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 0.25
+    },
+    "carolina patient": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.25
+    },
+    "patient demographics": {
+        "avg_count": 1.0,
+        "avg_order": 29.0,
+        "hit_rate": 0.25
+    },
+    "demographics": {
+        "avg_count": 1.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.25
+    },
+    "demographics department": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 0.25
+    },
+    "department": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 0.25
+    },
+    "department name": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 0.25
+    },
+    "name address": {
+        "avg_count": 1.0,
+        "avg_order": 35.0,
+        "hit_rate": 0.25
+    },
+    "address": {
+        "avg_count": 1.0,
+        "avg_order": 36.0,
+        "hit_rate": 0.25
+    },
+    "address poor": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.25
+    },
+    "poor": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.25
+    },
+    "poor phane": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.25
+    },
+    "phane": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.25
+    },
+    "phane fax": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.25
+    },
+    "fax pulmonology": {
+        "avg_count": 1.0,
+        "avg_order": 43.0,
+        "hit_rate": 0.25
+    },
+    "pulmonology": {
+        "avg_count": 1.0,
+        "avg_order": 44.0,
+        "hit_rate": 0.25
+    },
+    "pulmonology at": {
+        "avg_count": 1.0,
+        "avg_order": 45.0,
+        "hit_rate": 0.25
+    },
+    "at musc": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.25
+    },
+    "musc": {
+        "avg_count": 2.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.25
+    },
+    "musc health": {
+        "avg_count": 2.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.25
+    },
+    "health midtown": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.25
+    },
+    "midtown": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.25
+    },
+    "midtown avenue": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.25
+    },
+    "avenue": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 0.25
+    },
+    "avenue nd": {
+        "avg_count": 1.0,
+        "avg_order": 54.0,
+        "hit_rate": 0.25
+    },
+    "nd floor": {
+        "avg_count": 1.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.25
+    },
+    "floor": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.25
+    },
+    "floor east": {
+        "avg_count": 1.0,
+        "avg_order": 57.0,
+        "hit_rate": 0.25
+    },
+    "east": {
+        "avg_count": 2.0,
+        "avg_order": 58.0,
+        "hit_rate": 0.25
+    },
+    "east cooper": {
+        "avg_count": 2.0,
+        "avg_order": 59.0,
+        "hit_rate": 0.25
+    },
+    "cooper": {
+        "avg_count": 2.0,
+        "avg_order": 60.0,
+        "hit_rate": 0.25
+    },
+    "cooper mt": {
+        "avg_count": 1.0,
+        "avg_order": 61.0,
+        "hit_rate": 0.25
+    },
+    "mt pleasant": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.25
+    },
+    "pleasant": {
+        "avg_count": 1.0,
+        "avg_order": 63.0,
+        "hit_rate": 0.25
+    },
+    "pleasant sc": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.25
+    },
+    "sc order": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.25
+    },
+    "order order": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.25
+    },
+    "order name": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.25
+    },
+    "name priority": {
+        "avg_count": 1.0,
+        "avg_order": 71.0,
+        "hit_rate": 0.25
+    },
+    "priority": {
+        "avg_count": 1.0,
+        "avg_order": 72.0,
+        "hit_rate": 0.25
+    },
+    "priority other": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 0.25
+    },
+    "other suppliesequipment": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.25
+    },
+    "suppliesequipment": {
+        "avg_count": 1.0,
+        "avg_order": 75.0,
+        "hit_rate": 0.25
+    },
+    "suppliesequipment routine": {
+        "avg_count": 1.0,
+        "avg_order": 76.0,
+        "hit_rate": 0.25
+    },
+    "routine": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 0.25
+    },
+    "routine associated": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.25
+    },
+    "associated": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.25
+    },
+    "associated diagnoses": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.25
+    },
+    "diagnoses": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.25
+    },
+    "diagnoses cdcm": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 0.25
+    },
+    "cdcm": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.25
+    },
+    "cdcm icdgm": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 0.25
+    },
+    "icdgm": {
+        "avg_count": 1.0,
+        "avg_order": 85.0,
+        "hit_rate": 0.25
+    },
+    "icdgm osa": {
+        "avg_count": 1.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.25
+    },
+    "osa": {
+        "avg_count": 2.0,
+        "avg_order": 87.0,
+        "hit_rate": 0.25
+    },
+    "osa obstructive": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.25
+    },
+    "apnea g": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.25
+    },
+    "g primary": {
+        "avg_count": 1.0,
+        "avg_order": 95.0,
+        "hit_rate": 0.25
+    },
+    "primary": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.25
+    },
+    "primary comments": {
+        "avg_count": 1.0,
+        "avg_order": 97.0,
+        "hit_rate": 0.25
+    },
+    "comments": {
+        "avg_count": 1.0,
+        "avg_order": 98.0,
+        "hit_rate": 0.25
+    },
+    "comments please": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 0.25
+    },
+    "please": {
+        "avg_count": 8.0,
+        "avg_order": 100.0,
+        "hit_rate": 0.25
+    },
+    "please setup": {
+        "avg_count": 2.0,
+        "avg_order": 101.0,
+        "hit_rate": 0.25
+    },
+    "setup": {
+        "avg_count": 4.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.25
+    },
+    "setup res": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.25
+    },
+    "res": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.25
+    },
+    "res med": {
+        "avg_count": 1.0,
+        "avg_order": 105.0,
+        "hit_rate": 0.25
+    },
+    "med": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.25
+    },
+    "med s": {
+        "avg_count": 1.0,
+        "avg_order": 107.0,
+        "hit_rate": 0.25
+    },
+    "s or": {
+        "avg_count": 1.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.25
+    },
+    "or auto": {
+        "avg_count": 1.0,
+        "avg_order": 109.0,
+        "hit_rate": 0.25
+    },
+    "auto": {
+        "avg_count": 1.0,
+        "avg_order": 110.0,
+        "hit_rate": 0.25
+    },
+    "auto elite": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.25
+    },
+    "elite": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.25
+    },
+    "elite cpap": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.25
+    },
+    "cpap at": {
+        "avg_count": 1.0,
+        "avg_order": 115.0,
+        "hit_rate": 0.25
+    },
+    "at emh": {
+        "avg_count": 1.0,
+        "avg_order": 116.0,
+        "hit_rate": 0.25
+    },
+    "emh": {
+        "avg_count": 1.0,
+        "avg_order": 117.0,
+        "hit_rate": 0.25
+    },
+    "emh with": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.25
+    },
+    "with heated": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.25
+    },
+    "heated humidification": {
+        "avg_count": 1.0,
+        "avg_order": 121.0,
+        "hit_rate": 0.25
+    },
+    "humidification": {
+        "avg_count": 1.0,
+        "avg_order": 122.0,
+        "hit_rate": 0.25
+    },
+    "humidification ramp": {
+        "avg_count": 1.0,
+        "avg_order": 123.0,
+        "hit_rate": 0.25
+    },
+    "ramp": {
+        "avg_count": 1.0,
+        "avg_order": 124.0,
+        "hit_rate": 0.25
+    },
+    "ramp as": {
+        "avg_count": 1.0,
+        "avg_order": 125.0,
+        "hit_rate": 0.25
+    },
+    "as needed": {
+        "avg_count": 2.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.25
+    },
+    "needed": {
+        "avg_count": 5.0,
+        "avg_order": 127.0,
+        "hit_rate": 0.25
+    },
+    "needed chin": {
+        "avg_count": 1.0,
+        "avg_order": 128.0,
+        "hit_rate": 0.25
+    },
+    "chin strap": {
+        "avg_count": 1.0,
+        "avg_order": 130.0,
+        "hit_rate": 0.25
+    },
+    "strap": {
+        "avg_count": 1.0,
+        "avg_order": 131.0,
+        "hit_rate": 0.25
+    },
+    "strap as": {
+        "avg_count": 1.0,
+        "avg_order": 132.0,
+        "hit_rate": 0.25
+    },
+    "needed filters": {
+        "avg_count": 1.0,
+        "avg_order": 135.0,
+        "hit_rate": 0.25
+    },
+    "filters": {
+        "avg_count": 1.0,
+        "avg_order": 136.0,
+        "hit_rate": 0.25
+    },
+    "filters headgear": {
+        "avg_count": 1.0,
+        "avg_order": 137.0,
+        "hit_rate": 0.25
+    },
+    "headgear mask": {
+        "avg_count": 1.0,
+        "avg_order": 139.0,
+        "hit_rate": 0.25
+    },
+    "mask as": {
+        "avg_count": 1.0,
+        "avg_order": 141.0,
+        "hit_rate": 0.25
+    },
+    "as per": {
+        "avg_count": 1.0,
+        "avg_order": 142.0,
+        "hit_rate": 0.25
+    },
+    "per choice": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.25
+    },
+    "choice": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.25
+    },
+    "choice tubing": {
+        "avg_count": 1.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.25
+    },
+    "tubing compliance": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.25
+    },
+    "compliance": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 0.25
+    },
+    "compliance card": {
+        "avg_count": 1.0,
+        "avg_order": 150.0,
+        "hit_rate": 0.25
+    },
+    "card": {
+        "avg_count": 1.0,
+        "avg_order": 151.0,
+        "hit_rate": 0.25
+    },
+    "card and": {
+        "avg_count": 1.0,
+        "avg_order": 152.0,
+        "hit_rate": 0.25
+    },
+    "and option": {
+        "avg_count": 1.0,
+        "avg_order": 153.0,
+        "hit_rate": 0.25
+    },
+    "option": {
+        "avg_count": 1.0,
+        "avg_order": 154.0,
+        "hit_rate": 0.25
+    },
+    "option for": {
+        "avg_count": 1.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.25
+    },
+    "for heated": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.25
+    },
+    "heated tubing": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.25
+    },
+    "tubing if": {
+        "avg_count": 1.0,
+        "avg_order": 160.0,
+        "hit_rate": 0.25
+    },
+    "if needed": {
+        "avg_count": 1.0,
+        "avg_order": 161.0,
+        "hit_rate": 0.25
+    },
+    "needed please": {
+        "avg_count": 1.0,
+        "avg_order": 163.0,
+        "hit_rate": 0.25
+    },
+    "setup with": {
+        "avg_count": 1.0,
+        "avg_order": 167.0,
+        "hit_rate": 0.25
+    },
+    "with supplies": {
+        "avg_count": 1.0,
+        "avg_order": 168.0,
+        "hit_rate": 0.25
+    },
+    "supplies asap": {
+        "avg_count": 1.0,
+        "avg_order": 170.0,
+        "hit_rate": 0.25
+    },
+    "asap": {
+        "avg_count": 2.0,
+        "avg_order": 171.0,
+        "hit_rate": 0.25
+    },
+    "asap please": {
+        "avg_count": 1.0,
+        "avg_order": 172.0,
+        "hit_rate": 0.25
+    },
+    "please download": {
+        "avg_count": 1.0,
+        "avg_order": 174.0,
+        "hit_rate": 0.25
+    },
+    "download": {
+        "avg_count": 1.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.25
+    },
+    "download in": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.25
+    },
+    "in one": {
+        "avg_count": 1.0,
+        "avg_order": 177.0,
+        "hit_rate": 0.25
+    },
+    "one": {
+        "avg_count": 1.0,
+        "avg_order": 178.0,
+        "hit_rate": 0.25
+    },
+    "one month": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 0.25
+    },
+    "month two": {
+        "avg_count": 1.0,
+        "avg_order": 181.0,
+        "hit_rate": 0.25
+    },
+    "two": {
+        "avg_count": 1.0,
+        "avg_order": 182.0,
+        "hit_rate": 0.25
+    },
+    "two months": {
+        "avg_count": 1.0,
+        "avg_order": 183.0,
+        "hit_rate": 0.25
+    },
+    "months and": {
+        "avg_count": 1.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.25
+    },
+    "and at": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.25
+    },
+    "at the": {
+        "avg_count": 1.0,
+        "avg_order": 187.0,
+        "hit_rate": 0.25
+    },
+    "the year": {
+        "avg_count": 1.0,
+        "avg_order": 188.0,
+        "hit_rate": 0.25
+    },
+    "year": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.25
+    },
+    "year mark": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.25
+    },
+    "mark": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 0.25
+    },
+    "mark and": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.25
+    },
+    "and fax": {
+        "avg_count": 1.0,
+        "avg_order": 193.0,
+        "hit_rate": 0.25
+    },
+    "fax to": {
+        "avg_count": 1.0,
+        "avg_order": 195.0,
+        "hit_rate": 0.25
+    },
+    "to attention": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.25
+    },
+    "attention": {
+        "avg_count": 1.0,
+        "avg_order": 197.0,
+        "hit_rate": 0.25
+    },
+    "attention dr": {
+        "avg_count": 1.0,
+        "avg_order": 198.0,
+        "hit_rate": 0.25
+    },
+    "dr rinn": {
+        "avg_count": 1.0,
+        "avg_order": 199.0,
+        "hit_rate": 0.25
+    },
+    "rinn": {
+        "avg_count": 1.0,
+        "avg_order": 200.0,
+        "hit_rate": 0.25
+    },
+    "rinn please": {
+        "avg_count": 1.0,
+        "avg_order": 201.0,
+        "hit_rate": 0.25
+    },
+    "please fax": {
+        "avg_count": 1.0,
+        "avg_order": 203.0,
+        "hit_rate": 0.25
+    },
+    "fax a": {
+        "avg_count": 1.0,
+        "avg_order": 205.0,
+        "hit_rate": 0.25
+    },
+    "a confirmation": {
+        "avg_count": 1.0,
+        "avg_order": 206.0,
+        "hit_rate": 0.25
+    },
+    "confirmation": {
+        "avg_count": 1.0,
+        "avg_order": 207.0,
+        "hit_rate": 0.25
+    },
+    "confirmation that": {
+        "avg_count": 1.0,
+        "avg_order": 208.0,
+        "hit_rate": 0.25
+    },
+    "that you": {
+        "avg_count": 1.0,
+        "avg_order": 209.0,
+        "hit_rate": 0.25
+    },
+    "you received": {
+        "avg_count": 1.0,
+        "avg_order": 210.0,
+        "hit_rate": 0.25
+    },
+    "received": {
+        "avg_count": 1.0,
+        "avg_order": 211.0,
+        "hit_rate": 0.25
+    },
+    "received this": {
+        "avg_count": 1.0,
+        "avg_order": 212.0,
+        "hit_rate": 0.25
+    },
+    "this order": {
+        "avg_count": 1.0,
+        "avg_order": 213.0,
+        "hit_rate": 0.25
+    },
+    "order any": {
+        "avg_count": 1.0,
+        "avg_order": 215.0,
+        "hit_rate": 0.25
+    },
+    "any additional": {
+        "avg_count": 1.0,
+        "avg_order": 216.0,
+        "hit_rate": 0.25
+    },
+    "additional items": {
+        "avg_count": 1.0,
+        "avg_order": 218.0,
+        "hit_rate": 0.25
+    },
+    "items": {
+        "avg_count": 1.0,
+        "avg_order": 219.0,
+        "hit_rate": 0.25
+    },
+    "items needed": {
+        "avg_count": 1.0,
+        "avg_order": 220.0,
+        "hit_rate": 0.25
+    },
+    "needed and": {
+        "avg_count": 1.0,
+        "avg_order": 222.0,
+        "hit_rate": 0.25
+    },
+    "and a": {
+        "avg_count": 1.0,
+        "avg_order": 223.0,
+        "hit_rate": 0.25
+    },
+    "a setup": {
+        "avg_count": 1.0,
+        "avg_order": 224.0,
+        "hit_rate": 0.25
+    },
+    "setup date": {
+        "avg_count": 1.0,
+        "avg_order": 226.0,
+        "hit_rate": 0.25
+    },
+    "date setup": {
+        "avg_count": 1.0,
+        "avg_order": 228.0,
+        "hit_rate": 0.25
+    },
+    "setup for": {
+        "avg_count": 1.0,
+        "avg_order": 230.0,
+        "hit_rate": 0.25
+    },
+    "for lifetime": {
+        "avg_count": 1.0,
+        "avg_order": 231.0,
+        "hit_rate": 0.25
+    },
+    "lifetime": {
+        "avg_count": 1.0,
+        "avg_order": 232.0,
+        "hit_rate": 0.25
+    },
+    "lifetime or": {
+        "avg_count": 1.0,
+        "avg_order": 233.0,
+        "hit_rate": 0.25
+    },
+    "or years": {
+        "avg_count": 1.0,
+        "avg_order": 234.0,
+        "hit_rate": 0.25
+    },
+    "years": {
+        "avg_count": 1.0,
+        "avg_order": 235.0,
+        "hit_rate": 0.25
+    },
+    "years please": {
+        "avg_count": 1.0,
+        "avg_order": 236.0,
+        "hit_rate": 0.25
+    },
+    "please add": {
+        "avg_count": 1.0,
+        "avg_order": 238.0,
+        "hit_rate": 0.25
+    },
+    "add": {
+        "avg_count": 1.0,
+        "avg_order": 239.0,
+        "hit_rate": 0.25
+    },
+    "add to": {
+        "avg_count": 1.0,
+        "avg_order": 240.0,
+        "hit_rate": 0.25
+    },
+    "to alrview": {
+        "avg_count": 1.0,
+        "avg_order": 241.0,
+        "hit_rate": 0.25
+    },
+    "alrview": {
+        "avg_count": 1.0,
+        "avg_order": 242.0,
+        "hit_rate": 0.25
+    },
+    "alrview musc": {
+        "avg_count": 1.0,
+        "avg_order": 243.0,
+        "hit_rate": 0.25
+    },
+    "health east": {
+        "avg_count": 1.0,
+        "avg_order": 247.0,
+        "hit_rate": 0.25
+    },
+    "cooper please": {
+        "avg_count": 1.0,
+        "avg_order": 251.0,
+        "hit_rate": 0.25
+    },
+    "please contact": {
+        "avg_count": 1.0,
+        "avg_order": 253.0,
+        "hit_rate": 0.25
+    },
+    "contact": {
+        "avg_count": 1.0,
+        "avg_order": 254.0,
+        "hit_rate": 0.25
+    },
+    "contact the": {
+        "avg_count": 1.0,
+        "avg_order": 255.0,
+        "hit_rate": 0.25
+    },
+    "the patient": {
+        "avg_count": 1.0,
+        "avg_order": 256.0,
+        "hit_rate": 0.25
+    },
+    "patient the": {
+        "avg_count": 1.0,
+        "avg_order": 258.0,
+        "hit_rate": 0.25
+    },
+    "the day": {
+        "avg_count": 1.0,
+        "avg_order": 259.0,
+        "hit_rate": 0.25
+    },
+    "day": {
+        "avg_count": 1.0,
+        "avg_order": 260.0,
+        "hit_rate": 0.25
+    },
+    "day you": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 0.25
+    },
+    "you receive": {
+        "avg_count": 1.0,
+        "avg_order": 262.0,
+        "hit_rate": 0.25
+    },
+    "receive": {
+        "avg_count": 1.0,
+        "avg_order": 263.0,
+        "hit_rate": 0.25
+    },
+    "receive thia": {
+        "avg_count": 1.0,
+        "avg_order": 264.0,
+        "hit_rate": 0.25
+    },
+    "thia": {
+        "avg_count": 1.0,
+        "avg_order": 265.0,
+        "hit_rate": 0.25
+    },
+    "thia order": {
+        "avg_count": 1.0,
+        "avg_order": 266.0,
+        "hit_rate": 0.25
+    },
+    "order if": {
+        "avg_count": 1.0,
+        "avg_order": 268.0,
+        "hit_rate": 0.25
+    },
+    "if you": {
+        "avg_count": 1.0,
+        "avg_order": 269.0,
+        "hit_rate": 0.25
+    },
+    "you cannot": {
+        "avg_count": 1.0,
+        "avg_order": 270.0,
+        "hit_rate": 0.25
+    },
+    "cannot": {
+        "avg_count": 1.0,
+        "avg_order": 271.0,
+        "hit_rate": 0.25
+    },
+    "cannot service": {
+        "avg_count": 1.0,
+        "avg_order": 272.0,
+        "hit_rate": 0.25
+    },
+    "service": {
+        "avg_count": 1.0,
+        "avg_order": 273.0,
+        "hit_rate": 0.25
+    },
+    "service this": {
+        "avg_count": 1.0,
+        "avg_order": 274.0,
+        "hit_rate": 0.25
+    },
+    "this patient": {
+        "avg_count": 1.0,
+        "avg_order": 275.0,
+        "hit_rate": 0.25
+    },
+    "patient please": {
+        "avg_count": 1.0,
+        "avg_order": 277.0,
+        "hit_rate": 0.25
+    },
+    "please call": {
+        "avg_count": 1.0,
+        "avg_order": 279.0,
+        "hit_rate": 0.25
+    },
+    "call": {
+        "avg_count": 1.0,
+        "avg_order": 280.0,
+        "hit_rate": 0.25
+    },
+    "call our": {
+        "avg_count": 1.0,
+        "avg_order": 281.0,
+        "hit_rate": 0.25
+    },
+    "our office": {
+        "avg_count": 1.0,
+        "avg_order": 282.0,
+        "hit_rate": 0.25
+    },
+    "office immediately": {
+        "avg_count": 1.0,
+        "avg_order": 284.0,
+        "hit_rate": 0.25
+    },
+    "immediately": {
+        "avg_count": 1.0,
+        "avg_order": 285.0,
+        "hit_rate": 0.25
+    },
+    "immediately fax": {
+        "avg_count": 1.0,
+        "avg_order": 286.0,
+        "hit_rate": 0.25
+    },
+    "fax number": {
+        "avg_count": 1.0,
+        "avg_order": 288.0,
+        "hit_rate": 0.25
+    },
+    "number": {
+        "avg_count": 1.0,
+        "avg_order": 289.0,
+        "hit_rate": 0.25
+    },
+    "number is": {
+        "avg_count": 1.0,
+        "avg_order": 290.0,
+        "hit_rate": 0.25
+    },
+    "is order": {
+        "avg_count": 1.0,
+        "avg_order": 291.0,
+        "hit_rate": 0.25
+    },
+    "order questions": {
+        "avg_count": 1.0,
+        "avg_order": 293.0,
+        "hit_rate": 0.25
+    },
+    "questions": {
+        "avg_count": 1.0,
+        "avg_order": 294.0,
+        "hit_rate": 0.25
+    },
+    "questions question": {
+        "avg_count": 1.0,
+        "avg_order": 295.0,
+        "hit_rate": 0.25
+    },
+    "question": {
+        "avg_count": 1.0,
+        "avg_order": 296.0,
+        "hit_rate": 0.25
+    },
+    "question ae": {
+        "avg_count": 1.0,
+        "avg_order": 297.0,
+        "hit_rate": 0.25
+    },
+    "ae on": {
+        "avg_count": 1.0,
+        "avg_order": 298.0,
+        "hit_rate": 0.25
+    },
+    "on answere": {
+        "avg_count": 1.0,
+        "avg_order": 299.0,
+        "hit_rate": 0.25
+    },
+    "answere": {
+        "avg_count": 1.0,
+        "avg_order": 300.0,
+        "hit_rate": 0.25
+    },
+    "answere og": {
+        "avg_count": 1.0,
+        "avg_order": 301.0,
+        "hit_rate": 0.25
+    },
+    "og me": {
+        "avg_count": 1.0,
+        "avg_order": 302.0,
+        "hit_rate": 0.25
+    },
+    "me how": {
+        "avg_count": 1.0,
+        "avg_order": 303.0,
+        "hit_rate": 0.25
+    },
+    "how will": {
+        "avg_count": 1.0,
+        "avg_order": 304.0,
+        "hit_rate": 0.25
+    },
+    "will dme": {
+        "avg_count": 1.0,
+        "avg_order": 305.0,
+        "hit_rate": 0.25
+    },
+    "dme": {
+        "avg_count": 1.0,
+        "avg_order": 306.0,
+        "hit_rate": 0.25
+    },
+    "dme be": {
+        "avg_count": 1.0,
+        "avg_order": 307.0,
+        "hit_rate": 0.25
+    },
+    "be supplied": {
+        "avg_count": 1.0,
+        "avg_order": 308.0,
+        "hit_rate": 0.25
+    },
+    "supplied": {
+        "avg_count": 2.0,
+        "avg_order": 309.0,
+        "hit_rate": 0.25
+    },
+    "supplied patient": {
+        "avg_count": 1.0,
+        "avg_order": 310.0,
+        "hit_rate": 0.25
+    },
+    "patient supplied": {
+        "avg_count": 1.0,
+        "avg_order": 312.0,
+        "hit_rate": 0.25
+    },
+    "supplied will": {
+        "avg_count": 1.0,
+        "avg_order": 314.0,
+        "hit_rate": 0.25
+    },
+    "will print": {
+        "avg_count": 1.0,
+        "avg_order": 315.0,
+        "hit_rate": 0.25
+    },
+    "print": {
+        "avg_count": 1.0,
+        "avg_order": 316.0,
+        "hit_rate": 0.25
+    },
+    "print supplies": {
+        "avg_count": 1.0,
+        "avg_order": 317.0,
+        "hit_rate": 0.25
+    },
+    "supplies or": {
+        "avg_count": 1.0,
+        "avg_order": 319.0,
+        "hit_rate": 0.25
+    },
+    "or equipment": {
+        "avg_count": 1.0,
+        "avg_order": 320.0,
+        "hit_rate": 0.25
+    },
+    "equipment needed": {
+        "avg_count": 1.0,
+        "avg_order": 322.0,
+        "hit_rate": 0.25
+    },
+    "needed osa": {
+        "avg_count": 1.0,
+        "avg_order": 324.0,
+        "hit_rate": 0.25
+    },
+    "osa tx": {
+        "avg_count": 1.0,
+        "avg_order": 326.0,
+        "hit_rate": 0.25
+    },
+    "tx asap": {
+        "avg_count": 1.0,
+        "avg_order": 327.0,
+        "hit_rate": 0.25
+    },
+    "asap authorization": {
+        "avg_count": 1.0,
+        "avg_order": 329.0,
+        "hit_rate": 0.25
+    },
+    "authorization": {
+        "avg_count": 1.0,
+        "avg_order": 330.0,
+        "hit_rate": 0.25
+    },
+    "authorization please": {
+        "avg_count": 1.0,
+        "avg_order": 331.0,
+        "hit_rate": 0.25
+    },
+    "please review": {
+        "avg_count": 1.0,
+        "avg_order": 333.0,
+        "hit_rate": 0.25
+    },
+    "review": {
+        "avg_count": 1.0,
+        "avg_order": 334.0,
+        "hit_rate": 0.25
+    },
+    "review provider": {
+        "avg_count": 1.0,
+        "avg_order": 335.0,
+        "hit_rate": 0.25
+    },
+    "provider signature": {
+        "avg_count": 1.0,
+        "avg_order": 337.0,
+        "hit_rate": 0.25
+    },
+    "signature if": {
+        "avg_count": 1.0,
+        "avg_order": 339.0,
+        "hit_rate": 0.25
+    },
+    "if not": {
+        "avg_count": 1.0,
+        "avg_order": 340.0,
+        "hit_rate": 0.25
+    },
+    "not electronically": {
+        "avg_count": 1.0,
+        "avg_order": 341.0,
+        "hit_rate": 0.25
+    },
+    "electronically": {
+        "avg_count": 1.0,
+        "avg_order": 342.0,
+        "hit_rate": 0.25
+    },
+    "electronically entered": {
+        "avg_count": 1.0,
+        "avg_order": 343.0,
+        "hit_rate": 0.25
+    },
+    "entered": {
+        "avg_count": 1.0,
+        "avg_order": 344.0,
+        "hit_rate": 0.25
+    },
+    "entered by": {
+        "avg_count": 1.0,
+        "avg_order": 345.0,
+        "hit_rate": 0.25
+    },
+    "by authorizing": {
+        "avg_count": 1.0,
+        "avg_order": 346.0,
+        "hit_rate": 0.25
+    },
+    "authorizing": {
+        "avg_count": 1.0,
+        "avg_order": 347.0,
+        "hit_rate": 0.25
+    },
+    "authorizing provider": {
+        "avg_count": 1.0,
+        "avg_order": 348.0,
+        "hit_rate": 0.25
+    },
+    "provider above": {
+        "avg_count": 1.0,
+        "avg_order": 350.0,
+        "hit_rate": 0.25
+    },
+    "above or": {
+        "avg_count": 1.0,
+        "avg_order": 351.0,
+        "hit_rate": 0.25
+    },
+    "or this": {
+        "avg_count": 1.0,
+        "avg_order": 352.0,
+        "hit_rate": 0.25
+    },
+    "this is": {
+        "avg_count": 1.0,
+        "avg_order": 353.0,
+        "hit_rate": 0.25
+    },
+    "is a": {
+        "avg_count": 1.0,
+        "avg_order": 354.0,
+        "hit_rate": 0.25
+    },
+    "a reprint": {
+        "avg_count": 1.0,
+        "avg_order": 355.0,
+        "hit_rate": 0.25
+    },
+    "reprint": {
+        "avg_count": 1.0,
+        "avg_order": 356.0,
+        "hit_rate": 0.25
+    },
+    "reprint of": {
+        "avg_count": 1.0,
+        "avg_order": 357.0,
+        "hit_rate": 0.25
+    },
+    "of an": {
+        "avg_count": 1.0,
+        "avg_order": 358.0,
+        "hit_rate": 0.25
+    },
+    "an original": {
+        "avg_count": 1.0,
+        "avg_order": 359.0,
+        "hit_rate": 0.25
+    },
+    "original": {
+        "avg_count": 1.0,
+        "avg_order": 360.0,
+        "hit_rate": 0.25
+    },
+    "original page": {
+        "avg_count": 1.0,
+        "avg_order": 361.0,
+        "hit_rate": 0.25
+    },
+    "g afb": {
+        "avg_count": 1.0,
+        "avg_order": 0.0,
+        "hit_rate": 0.25
+    },
+    "afb": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.25
+    },
+    "afb ob": {
+        "avg_count": 1.0,
+        "avg_order": 2.0,
+        "hit_rate": 0.25
+    },
+    "ob sp": {
+        "avg_count": 1.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.25
+    },
+    "sp he": {
+        "avg_count": 1.0,
+        "avg_order": 4.0,
+        "hit_rate": 0.25
+    },
+    "he ppar": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.25
+    },
+    "ppar": {
+        "avg_count": 1.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.25
+    },
+    "ppar ty": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.25
+    },
+    "ty health": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.25
+    },
+    "health vedzngn": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.25
+    },
+    "vedzngn": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.25
+    },
+    "vedzngn rfcomect": {
+        "avg_count": 1.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.25
+    },
+    "rfcomect": {
+        "avg_count": 1.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.25
+    },
+    "rfcomect pam": {
+        "avg_count": 1.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.25
+    },
+    "pam": {
+        "avg_count": 1.0,
+        "avg_order": 15.0,
+        "hit_rate": 0.25
+    },
+    "pam page": {
+        "avg_count": 1.0,
+        "avg_order": 16.0,
+        "hit_rate": 0.25
+    },
+    "page baz": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.25
+    },
+    "baz": {
+        "avg_count": 1.0,
+        "avg_order": 19.0,
+        "hit_rate": 0.25
+    },
+    "baz standard": {
+        "avg_count": 1.0,
+        "avg_order": 20.0,
+        "hit_rate": 0.25
+    },
+    "written order": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 0.25
+    },
+    "order provide": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 0.25
+    },
+    "provide": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.25
+    },
+    "provide fort": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.25
+    },
+    "fort": {
+        "avg_count": 1.0,
+        "avg_order": 29.0,
+        "hit_rate": 0.25
+    },
+    "fort laterdale": {
+        "avg_count": 1.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.25
+    },
+    "laterdale": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 0.25
+    },
+    "laterdale florida": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 0.25
+    },
+    "florida phone": {
+        "avg_count": 1.0,
+        "avg_order": 34.0,
+        "hit_rate": 0.25
+    },
+    "phone fax": {
+        "avg_count": 1.0,
+        "avg_order": 36.0,
+        "hit_rate": 0.25
+    },
+    "fax boc": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.25
+    },
+    "boc": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.25
+    },
+    "boc ids": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.25
+    },
+    "ids": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.25
+    },
+    "ids physicians": {
+        "avg_count": 1.0,
+        "avg_order": 42.0,
+        "hit_rate": 0.25
+    },
+    "physicians": {
+        "avg_count": 1.0,
+        "avg_order": 43.0,
+        "hit_rate": 0.25
+    },
+    "physicians prank": {
+        "avg_count": 1.0,
+        "avg_order": 44.0,
+        "hit_rate": 0.25
+    },
+    "prank": {
+        "avg_count": 1.0,
+        "avg_order": 45.0,
+        "hit_rate": 0.25
+    },
+    "prank sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.25
+    },
+    "sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.25
+    },
+    "sorhage ne": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.25
+    },
+    "ne th": {
+        "avg_count": 1.0,
+        "avg_order": 49.0,
+        "hit_rate": 0.25
+    },
+    "th st": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.25
+    },
+    "st suite": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.25
+    },
+    "suite": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.25
+    },
+    "suite initlai": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 0.25
+    },
+    "initlai": {
+        "avg_count": 1.0,
+        "avg_order": 54.0,
+        "hit_rate": 0.25
+    },
+    "initlai date": {
+        "avg_count": 1.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.25
+    },
+    "date ft": {
+        "avg_count": 1.0,
+        "avg_order": 61.0,
+        "hit_rate": 0.25
+    },
+    "ft lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.25
+    },
+    "lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 63.0,
+        "hit_rate": 0.25
+    },
+    "lauderdale florida": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.25
+    },
+    "months prognosis": {
+        "avg_count": 1.0,
+        "avg_order": 76.0,
+        "hit_rate": 0.25
+    },
+    "prognosis": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 0.25
+    },
+    "prognosis diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.25
+    },
+    "diagnosis icd": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.25
+    },
+    "icd": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.25
+    },
+    "icd cade": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 0.25
+    },
+    "cade deseription": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 0.25
+    },
+    "deseription": {
+        "avg_count": 1.0,
+        "avg_order": 85.0,
+        "hit_rate": 0.25
+    },
+    "deseription obstructive": {
+        "avg_count": 1.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.25
+    },
+    "apnea adtll": {
+        "avg_count": 1.0,
+        "avg_order": 92.0,
+        "hit_rate": 0.25
+    },
+    "adtll": {
+        "avg_count": 1.0,
+        "avg_order": 93.0,
+        "hit_rate": 0.25
+    },
+    "adtll pediatric": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.25
+    },
+    "qty prac": {
+        "avg_count": 1.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.25
+    },
+    "prac": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.25
+    },
+    "prac cede": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.25
+    },
+    "cede": {
+        "avg_count": 1.0,
+        "avg_order": 105.0,
+        "hit_rate": 0.25
+    },
+    "cede them": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.25
+    },
+    "them name": {
+        "avg_count": 1.0,
+        "avg_order": 107.0,
+        "hit_rate": 0.25
+    },
+    "name narratives": {
+        "avg_count": 1.0,
+        "avg_order": 109.0,
+        "hit_rate": 0.25
+    },
+    "narratives": {
+        "avg_count": 1.0,
+        "avg_order": 110.0,
+        "hit_rate": 0.25
+    },
+    "narratives l": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.25
+    },
+    "l es": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.25
+    },
+    "es humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.25
+    },
+    "heated used": {
+        "avg_count": 1.0,
+        "avg_order": 117.0,
+        "hit_rate": 0.25
+    },
+    "used": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.25
+    },
+    "used w": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.25
+    },
+    "night ft": {
+        "avg_count": 1.0,
+        "avg_order": 125.0,
+        "hit_rate": 0.25
+    },
+    "ft a": {
+        "avg_count": 1.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.25
+    },
+    "a pos": {
+        "avg_count": 1.0,
+        "avg_order": 127.0,
+        "hit_rate": 0.25
+    },
+    "a ahc": {
+        "avg_count": 1.0,
+        "avg_order": 143.0,
+        "hit_rate": 0.25
+    },
+    "ahc": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.25
+    },
+    "ahc pap": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.25
+    },
+    "months l": {
+        "avg_count": 1.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.25
+    },
+    "l eoeot": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.25
+    },
+    "eoeot": {
+        "avg_count": 1.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.25
+    },
+    "eoeot resmed": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.25
+    },
+    "resmed": {
+        "avg_count": 1.0,
+        "avg_order": 159.0,
+        "hit_rate": 0.25
+    },
+    "resmed cpap": {
+        "avg_count": 1.0,
+        "avg_order": 160.0,
+        "hit_rate": 0.25
+    },
+    "cpap airsense": {
+        "avg_count": 1.0,
+        "avg_order": 162.0,
+        "hit_rate": 0.25
+    },
+    "autoset at": {
+        "avg_count": 1.0,
+        "avg_order": 166.0,
+        "hit_rate": 0.25
+    },
+    "a alri": {
+        "avg_count": 1.0,
+        "avg_order": 170.0,
+        "hit_rate": 0.25
+    },
+    "alri": {
+        "avg_count": 1.0,
+        "avg_order": 171.0,
+        "hit_rate": 0.25
+    },
+    "alri filter": {
+        "avg_count": 1.0,
+        "avg_order": 172.0,
+        "hit_rate": 0.25
+    },
+    "filter standard": {
+        "avg_count": 1.0,
+        "avg_order": 174.0,
+        "hit_rate": 0.25
+    },
+    "standard pack": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.25
+    },
+    "month i": {
+        "avg_count": 1.0,
+        "avg_order": 182.0,
+        "hit_rate": 0.25
+    },
+    "i arc": {
+        "avg_count": 1.0,
+        "avg_order": 183.0,
+        "hit_rate": 0.25
+    },
+    "arc": {
+        "avg_count": 1.0,
+        "avg_order": 184.0,
+        "hit_rate": 0.25
+    },
+    "arc only": {
+        "avg_count": 1.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.25
+    },
+    "only fisher": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.25
+    },
+    "fisher": {
+        "avg_count": 1.0,
+        "avg_order": 187.0,
+        "hit_rate": 0.25
+    },
+    "fisher and": {
+        "avg_count": 1.0,
+        "avg_order": 188.0,
+        "hit_rate": 0.25
+    },
+    "and paykel": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.25
+    },
+    "paykel": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.25
+    },
+    "paykel vitera": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 0.25
+    },
+    "vitera": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.25
+    },
+    "vitera ff": {
+        "avg_count": 1.0,
+        "avg_order": 193.0,
+        "hit_rate": 0.25
+    },
+    "ff fitpack": {
+        "avg_count": 1.0,
+        "avg_order": 194.0,
+        "hit_rate": 0.25
+    },
+    "fitpack": {
+        "avg_count": 1.0,
+        "avg_order": 195.0,
+        "hit_rate": 0.25
+    },
+    "fitpack per": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.25
+    },
+    "i ao": {
+        "avg_count": 1.0,
+        "avg_order": 201.0,
+        "hit_rate": 0.25
+    },
+    "ao pull": {
+        "avg_count": 1.0,
+        "avg_order": 202.0,
+        "hit_rate": 0.25
+    },
+    "pull": {
+        "avg_count": 1.0,
+        "avg_order": 203.0,
+        "hit_rate": 0.25
+    },
+    "pull face": {
+        "avg_count": 1.0,
+        "avg_order": 204.0,
+        "hit_rate": 0.25
+    },
+    "month ayoag": {
+        "avg_count": 1.0,
+        "avg_order": 221.0,
+        "hit_rate": 0.25
+    },
+    "ayoag": {
+        "avg_count": 1.0,
+        "avg_order": 222.0,
+        "hit_rate": 0.25
+    },
+    "ayoag water": {
+        "avg_count": 1.0,
+        "avg_order": 223.0,
+        "hit_rate": 0.25
+    },
+    "water": {
+        "avg_count": 1.0,
+        "avg_order": 224.0,
+        "hit_rate": 0.25
+    },
+    "water chamber": {
+        "avg_count": 1.0,
+        "avg_order": 225.0,
+        "hit_rate": 0.25
+    },
+    "chamber per": {
+        "avg_count": 1.0,
+        "avg_order": 227.0,
+        "hit_rate": 0.25
+    },
+    "months cnot": {
+        "avg_count": 1.0,
+        "avg_order": 231.0,
+        "hit_rate": 0.25
+    },
+    "cnot": {
+        "avg_count": 1.0,
+        "avg_order": 232.0,
+        "hit_rate": 0.25
+    },
+    "cnot signature": {
+        "avg_count": 1.0,
+        "avg_order": 233.0,
+        "hit_rate": 0.25
+    },
+    "signature date": {
+        "avg_count": 1.0,
+        "avg_order": 235.0,
+        "hit_rate": 0.25
+    },
+    "date veit": {
+        "avg_count": 1.0,
+        "avg_order": 237.0,
+        "hit_rate": 0.25
+    },
+    "veit": {
+        "avg_count": 1.0,
+        "avg_order": 238.0,
+        "hit_rate": 0.25
+    },
+    "munson": {
+        "avg_count": 1.0,
+        "avg_order": 0.0,
+        "hit_rate": 0.25
+    },
+    "munson healthcare": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.25
+    },
+    "healthcare": {
+        "avg_count": 1.0,
+        "avg_order": 2.0,
+        "hit_rate": 0.25
+    },
+    "healthcare rrd": {
+        "avg_count": 1.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.25
+    },
+    "rrd": {
+        "avg_count": 1.0,
+        "avg_order": 4.0,
+        "hit_rate": 0.25
+    },
+    "rrd po": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.25
+    },
+    "po megp": {
+        "avg_count": 1.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.25
+    },
+    "megp": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.25
+    },
+    "megp gloc": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.25
+    },
+    "gloc": {
+        "avg_count": 1.0,
+        "avg_order": 9.0,
+        "hit_rate": 0.25
+    },
+    "gloc a": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.25
+    },
+    "a dha": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.25
+    },
+    "dha": {
+        "avg_count": 1.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.25
+    },
+    "dha tcs": {
+        "avg_count": 1.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.25
+    },
+    "tcs": {
+        "avg_count": 1.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.25
+    },
+    "tcs gtsg": {
+        "avg_count": 1.0,
+        "avg_order": 15.0,
+        "hit_rate": 0.25
+    },
+    "gtsg": {
+        "avg_count": 1.0,
+        "avg_order": 16.0,
+        "hit_rate": 0.25
+    },
+    "gtsg cbfc": {
+        "avg_count": 1.0,
+        "avg_order": 17.0,
+        "hit_rate": 0.25
+    },
+    "cbfc": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.25
+    },
+    "cbfc baui": {
+        "avg_count": 1.0,
+        "avg_order": 19.0,
+        "hit_rate": 0.25
+    },
+    "baui": {
+        "avg_count": 1.0,
+        "avg_order": 20.0,
+        "hit_rate": 0.25
+    },
+    "baui thv": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.25
+    },
+    "thv": {
+        "avg_count": 1.0,
+        "avg_order": 22.0,
+        "hit_rate": 0.25
+    },
+    "thv scb": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.25
+    },
+    "scb": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 0.25
+    },
+    "scb m": {
+        "avg_count": 1.0,
+        "avg_order": 25.0,
+        "hit_rate": 0.25
+    },
+    "m in": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 0.25
+    },
+    "in progress": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.25
+    },
+    "progress": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.25
+    },
+    "progress pg": {
+        "avg_count": 1.0,
+        "avg_order": 29.0,
+        "hit_rate": 0.25
+    },
+    "pg pap": {
+        "avg_count": 1.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.25
+    },
+    "pap and": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 0.25
+    },
+    "and supplies": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 0.25
+    },
+    "supplies provider": {
+        "avg_count": 1.0,
+        "avg_order": 35.0,
+        "hit_rate": 0.25
+    },
+    "provider mangon": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.25
+    },
+    "mangon": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.25
+    },
+    "mangon home": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.25
+    },
+    "home": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.25
+    },
+    "home services": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.25
+    },
+    "services patient": {
+        "avg_count": 1.0,
+        "avg_order": 43.0,
+        "hit_rate": 0.25
+    },
+    "patient s": {
+        "avg_count": 1.0,
+        "avg_order": 45.0,
+        "hit_rate": 0.25
+    },
+    "s w": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.25
+    },
+    "w front": {
+        "avg_count": 1.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.25
+    },
+    "front": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.25
+    },
+    "front street": {
+        "avg_count": 1.0,
+        "avg_order": 49.0,
+        "hit_rate": 0.25
+    },
+    "street": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.25
+    },
+    "street traverse": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.25
+    },
+    "traverse": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.25
+    },
+    "traverse city": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 0.25
+    },
+    "city": {
+        "avg_count": 1.0,
+        "avg_order": 54.0,
+        "hit_rate": 0.25
+    },
+    "city mi": {
+        "avg_count": 1.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.25
+    },
+    "mi phone": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.25
+    },
+    "phone initial": {
+        "avg_count": 1.0,
+        "avg_order": 58.0,
+        "hit_rate": 0.25
+    },
+    "date physician": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.25
+    },
+    "physician revised": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.25
+    },
+    "date recertification": {
+        "avg_count": 1.0,
+        "avg_order": 68.0,
+        "hit_rate": 0.25
+    },
+    "months policy": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.25
+    },
+    "policy": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.25
+    },
+    "policy sec": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.25
+    },
+    "sec": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.25
+    },
+    "sec laws": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 0.25
+    },
+    "laws": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.25
+    },
+    "laws diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 0.25
+    },
+    "diagnosis description": {
+        "avg_count": 1.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.25
+    },
+    "description oqustruclive": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.25
+    },
+    "oqustruclive": {
+        "avg_count": 1.0,
+        "avg_order": 89.0,
+        "hit_rate": 0.25
+    },
+    "oqustruclive sleep": {
+        "avg_count": 1.0,
+        "avg_order": 90.0,
+        "hit_rate": 0.25
+    },
+    "apnea adult": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.25
+    },
+    "adult": {
+        "avg_count": 1.0,
+        "avg_order": 95.0,
+        "hit_rate": 0.25
+    },
+    "adult pediatric": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.25
+    },
+    "qty proc": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.25
+    },
+    "proc": {
+        "avg_count": 1.0,
+        "avg_order": 105.0,
+        "hit_rate": 0.25
+    },
+    "proc cade": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.25
+    },
+    "cade item": {
+        "avg_count": 1.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.25
+    },
+    "item namenarrative": {
+        "avg_count": 1.0,
+        "avg_order": 110.0,
+        "hit_rate": 0.25
+    },
+    "namenarrative": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.25
+    },
+    "namenarrative i": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.25
+    },
+    "a mask": {
+        "avg_count": 1.0,
+        "avg_order": 114.0,
+        "hit_rate": 0.25
+    },
+    "mask airfitn": {
+        "avg_count": 1.0,
+        "avg_order": 116.0,
+        "hit_rate": 0.25
+    },
+    "airfitn": {
+        "avg_count": 1.0,
+        "avg_order": 117.0,
+        "hit_rate": 0.25
+    },
+    "airfitn large": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.25
+    },
+    "large": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.25
+    },
+    "large apore": {
+        "avg_count": 1.0,
+        "avg_order": 120.0,
+        "hit_rate": 0.25
+    },
+    "apore": {
+        "avg_count": 1.0,
+        "avg_order": 121.0,
+        "hit_rate": 0.25
+    },
+    "apore cushion": {
+        "avg_count": 1.0,
+        "avg_order": 122.0,
+        "hit_rate": 0.25
+    },
+    "cushion i": {
+        "avg_count": 1.0,
+        "avg_order": 124.0,
+        "hit_rate": 0.25
+    },
+    "a heacigear": {
+        "avg_count": 1.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.25
+    },
+    "heacigear": {
+        "avg_count": 1.0,
+        "avg_order": 127.0,
+        "hit_rate": 0.25
+    },
+    "heacigear ao": {
+        "avg_count": 1.0,
+        "avg_order": 128.0,
+        "hit_rate": 0.25
+    },
+    "ao chinatiap": {
+        "avg_count": 1.0,
+        "avg_order": 129.0,
+        "hit_rate": 0.25
+    },
+    "chinatiap": {
+        "avg_count": 1.0,
+        "avg_order": 130.0,
+        "hit_rate": 0.25
+    },
+    "chinatiap apo": {
+        "avg_count": 1.0,
+        "avg_order": 131.0,
+        "hit_rate": 0.25
+    },
+    "apo disposable": {
+        "avg_count": 1.0,
+        "avg_order": 133.0,
+        "hit_rate": 0.25
+    },
+    "disposable": {
+        "avg_count": 1.0,
+        "avg_order": 134.0,
+        "hit_rate": 0.25
+    },
+    "disposable filter": {
+        "avg_count": 1.0,
+        "avg_order": 135.0,
+        "hit_rate": 0.25
+    },
+    "filter a": {
+        "avg_count": 1.0,
+        "avg_order": 137.0,
+        "hit_rate": 0.25
+    },
+    "a tubing": {
+        "avg_count": 1.0,
+        "avg_order": 138.0,
+        "hit_rate": 0.25
+    },
+    "tubing apoag": {
+        "avg_count": 1.0,
+        "avg_order": 140.0,
+        "hit_rate": 0.25
+    },
+    "apoag": {
+        "avg_count": 1.0,
+        "avg_order": 141.0,
+        "hit_rate": 0.25
+    },
+    "apoag chamber": {
+        "avg_count": 1.0,
+        "avg_order": 142.0,
+        "hit_rate": 0.25
+    },
+    "chamber additional": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.25
+    },
+    "additional medical": {
+        "avg_count": 1.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.25
+    },
+    "medical information": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.25
+    },
+    "information": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 0.25
+    },
+    "information informational": {
+        "avg_count": 1.0,
+        "avg_order": 150.0,
+        "hit_rate": 0.25
+    },
+    "informational": {
+        "avg_count": 1.0,
+        "avg_order": 151.0,
+        "hit_rate": 0.25
+    },
+    "informational onlvgty": {
+        "avg_count": 1.0,
+        "avg_order": 152.0,
+        "hit_rate": 0.25
+    },
+    "onlvgty": {
+        "avg_count": 1.0,
+        "avg_order": 153.0,
+        "hit_rate": 0.25
+    },
+    "onlvgty limits": {
+        "avg_count": 1.0,
+        "avg_order": 154.0,
+        "hit_rate": 0.25
+    },
+    "limits": {
+        "avg_count": 1.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.25
+    },
+    "limits a": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.25
+    },
+    "a months": {
+        "avg_count": 3.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.25
+    },
+    "months ao": {
+        "avg_count": 1.0,
+        "avg_order": 159.0,
+        "hit_rate": 0.25
+    },
+    "ao month": {
+        "avg_count": 1.0,
+        "avg_order": 160.0,
+        "hit_rate": 0.25
+    },
+    "month a": {
+        "avg_count": 1.0,
+        "avg_order": 162.0,
+        "hit_rate": 0.25
+    },
+    "a pairmonth": {
+        "avg_count": 2.0,
+        "avg_order": 163.0,
+        "hit_rate": 0.25
+    },
+    "pairmonth": {
+        "avg_count": 2.0,
+        "avg_order": 164.0,
+        "hit_rate": 0.25
+    },
+    "pairmonth a": {
+        "avg_count": 2.0,
+        "avg_order": 165.0,
+        "hit_rate": 0.25
+    },
+    "a month": {
+        "avg_count": 1.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.25
+    },
+    "month months": {
+        "avg_count": 2.0,
+        "avg_order": 177.0,
+        "hit_rate": 0.25
+    },
+    "months month": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 0.25
+    },
+    "months months": {
+        "avg_count": 2.0,
+        "avg_order": 183.0,
+        "hit_rate": 0.25
+    },
+    "i i": {
+        "avg_count": 1.0,
+        "avg_order": 188.0,
+        "hit_rate": 0.25
+    },
+    "i un": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.25
+    },
+    "un ligtolbhgs": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.25
+    },
+    "ligtolbhgs": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 0.25
+    },
+    "ligtolbhgs sleep": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.25
+    },
+    "sleep disorders": {
+        "avg_count": 1.0,
+        "avg_order": 194.0,
+        "hit_rate": 0.25
+    },
+    "disorders": {
+        "avg_count": 1.0,
+        "avg_order": 195.0,
+        "hit_rate": 0.25
+    },
+    "disorders tc": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.25
+    },
+    "tc page": {
+        "avg_count": 1.0,
+        "avg_order": 197.0,
+        "hit_rate": 0.25
+    }
+}

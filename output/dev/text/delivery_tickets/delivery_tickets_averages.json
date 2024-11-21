@@ -1,0 +1,2972 @@
+{
+    "american": {
+        "avg_count": 2.0,
+        "avg_order": 2.0,
+        "hit_rate": 1.0
+    },
+    "american homecare": {
+        "avg_count": 2.0,
+        "avg_order": 3.0,
+        "hit_rate": 1.0
+    },
+    "homecare": {
+        "avg_count": 2.5,
+        "avg_order": 4.0,
+        "hit_rate": 1.0
+    },
+    "homecare quipment": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 1.0
+    },
+    "quipment": {
+        "avg_count": 1.0,
+        "avg_order": 6.0,
+        "hit_rate": 1.0
+    },
+    "quipment oxygen": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 1.0
+    },
+    "oxygen": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 1.0
+    },
+    "oxygen permit": {
+        "avg_count": 1.0,
+        "avg_order": 9.0,
+        "hit_rate": 1.0
+    },
+    "permit": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 1.0
+    },
+    "permit american": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 1.0
+    },
+    "homecare equipment": {
+        "avg_count": 1.5,
+        "avg_order": 15.0,
+        "hit_rate": 1.0
+    },
+    "equipment": {
+        "avg_count": 3.5,
+        "avg_order": 16.0,
+        "hit_rate": 1.0
+    },
+    "equipment inc": {
+        "avg_count": 1.5,
+        "avg_order": 17.0,
+        "hit_rate": 1.0
+    },
+    "inc": {
+        "avg_count": 1.5,
+        "avg_order": 18.0,
+        "hit_rate": 1.0
+    },
+    "inc nw": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 1.0
+    },
+    "nw th": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 1.0
+    },
+    "th ave": {
+        "avg_count": 1.0,
+        "avg_order": 25.0,
+        "hit_rate": 1.0
+    },
+    "ave": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 1.0
+    },
+    "suite": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 1.0
+    },
+    "suite fort": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 1.0
+    },
+    "fort": {
+        "avg_count": 1.0,
+        "avg_order": 34.0,
+        "hit_rate": 1.0
+    },
+    "fort lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 35.0,
+        "hit_rate": 1.0
+    },
+    "lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 36.0,
+        "hit_rate": 1.0
+    },
+    "lauderdale fl": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 1.0
+    },
+    "bill": {
+        "avg_count": 2.0,
+        "avg_order": 50.0,
+        "hit_rate": 1.0
+    },
+    "bill to": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 1.0
+    },
+    "insurance": {
+        "avg_count": 2.5,
+        "avg_order": 56.5,
+        "hit_rate": 1.0
+    },
+    "insurance cigna": {
+        "avg_count": 1.0,
+        "avg_order": 57.5,
+        "hit_rate": 1.0
+    },
+    "cigna": {
+        "avg_count": 1.0,
+        "avg_order": 58.5,
+        "hit_rate": 1.0
+    },
+    "cigna government": {
+        "avg_count": 1.0,
+        "avg_order": 59.5,
+        "hit_rate": 1.0
+    },
+    "government": {
+        "avg_count": 1.0,
+        "avg_order": 60.5,
+        "hit_rate": 1.0
+    },
+    "government services": {
+        "avg_count": 1.0,
+        "avg_order": 61.5,
+        "hit_rate": 1.0
+    },
+    "services": {
+        "avg_count": 5.0,
+        "avg_order": 62.5,
+        "hit_rate": 1.0
+    },
+    "comments": {
+        "avg_count": 1.0,
+        "avg_order": 71.0,
+        "hit_rate": 1.0
+    },
+    "comments or": {
+        "avg_count": 1.0,
+        "avg_order": 72.0,
+        "hit_rate": 1.0
+    },
+    "or special": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 1.0
+    },
+    "special": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 1.0
+    },
+    "special instructions": {
+        "avg_count": 1.0,
+        "avg_order": 75.0,
+        "hit_rate": 1.0
+    },
+    "instructions": {
+        "avg_count": 1.0,
+        "avg_order": 76.0,
+        "hit_rate": 1.0
+    },
+    "instructions mm": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 1.0
+    },
+    "mm rt": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 1.0
+    },
+    "rt new": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 1.0
+    },
+    "new": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 1.0
+    },
+    "new home": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 1.0
+    },
+    "home": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 1.0
+    },
+    "home set": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 1.0
+    },
+    "set": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 1.0
+    },
+    "set up": {
+        "avg_count": 1.0,
+        "avg_order": 85.0,
+        "hit_rate": 1.0
+    },
+    "compliance": {
+        "avg_count": 1.0,
+        "avg_order": 89.0,
+        "hit_rate": 1.0
+    },
+    "compliance required": {
+        "avg_count": 1.0,
+        "avg_order": 90.0,
+        "hit_rate": 1.0
+    },
+    "required": {
+        "avg_count": 1.0,
+        "avg_order": 91.0,
+        "hit_rate": 1.0
+    },
+    "delivery": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 1.0
+    },
+    "delivery receipt": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 1.0
+    },
+    "receipt": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 1.0
+    },
+    "inv": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 1.0
+    },
+    "inv location": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 1.0
+    },
+    "location": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 1.0
+    },
+    "date": {
+        "avg_count": 2.0,
+        "avg_order": 60.5,
+        "hit_rate": 1.0
+    },
+    "order": {
+        "avg_count": 3.0,
+        "avg_order": 64.0,
+        "hit_rate": 1.0
+    },
+    "order patient": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 1.0
+    },
+    "patient": {
+        "avg_count": 5.0,
+        "avg_order": 66.0,
+        "hit_rate": 1.0
+    },
+    "customer": {
+        "avg_count": 1.0,
+        "avg_order": 68.5,
+        "hit_rate": 1.0
+    },
+    "customer account": {
+        "avg_count": 1.0,
+        "avg_order": 69.5,
+        "hit_rate": 1.0
+    },
+    "account": {
+        "avg_count": 1.0,
+        "avg_order": 70.5,
+        "hit_rate": 1.0
+    },
+    "account dob": {
+        "avg_count": 1.0,
+        "avg_order": 71.5,
+        "hit_rate": 1.0
+    },
+    "dob": {
+        "avg_count": 1.0,
+        "avg_order": 72.5,
+        "hit_rate": 1.0
+    },
+    "dob gender": {
+        "avg_count": 1.0,
+        "avg_order": 73.5,
+        "hit_rate": 1.0
+    },
+    "gender": {
+        "avg_count": 1.0,
+        "avg_order": 74.5,
+        "hit_rate": 1.0
+    },
+    "shippeddelivered": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 1.0
+    },
+    "shippeddelivered to": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 1.0
+    },
+    "to phone": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 1.0
+    },
+    "phone": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 1.0
+    },
+    "phone mobile": {
+        "avg_count": 1.0,
+        "avg_order": 85.0,
+        "hit_rate": 1.0
+    },
+    "mobile": {
+        "avg_count": 1.0,
+        "avg_order": 86.0,
+        "hit_rate": 1.0
+    },
+    "hipaa": {
+        "avg_count": 1.0,
+        "avg_order": 93.0,
+        "hit_rate": 1.0
+    },
+    "hipaa signature": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 1.0
+    },
+    "signature": {
+        "avg_count": 3.0,
+        "avg_order": 95.0,
+        "hit_rate": 1.0
+    },
+    "signature on": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 1.0
+    },
+    "on file": {
+        "avg_count": 1.0,
+        "avg_order": 97.0,
+        "hit_rate": 1.0
+    },
+    "file": {
+        "avg_count": 1.0,
+        "avg_order": 98.0,
+        "hit_rate": 1.0
+    },
+    "file yes": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 1.0
+    },
+    "yes": {
+        "avg_count": 1.0,
+        "avg_order": 100.0,
+        "hit_rate": 1.0
+    },
+    "cpap": {
+        "avg_count": 5.5,
+        "avg_order": 150.0,
+        "hit_rate": 1.0
+    },
+    "cm h": {
+        "avg_count": 1.0,
+        "avg_order": 117.5,
+        "hit_rate": 1.0
+    },
+    "h with": {
+        "avg_count": 1.0,
+        "avg_order": 118.5,
+        "hit_rate": 1.0
+    },
+    "mask": {
+        "avg_count": 2.0,
+        "avg_order": 123.5,
+        "hit_rate": 1.0
+    },
+    "from dr": {
+        "avg_count": 1.0,
+        "avg_order": 127.0,
+        "hit_rate": 1.0
+    },
+    "ord": {
+        "avg_count": 2.0,
+        "avg_order": 147.0,
+        "hit_rate": 1.0
+    },
+    "ord qty": {
+        "avg_count": 2.0,
+        "avg_order": 148.0,
+        "hit_rate": 1.0
+    },
+    "qty": {
+        "avg_count": 4.0,
+        "avg_order": 149.0,
+        "hit_rate": 1.0
+    },
+    "qty del": {
+        "avg_count": 2.0,
+        "avg_order": 150.0,
+        "hit_rate": 1.0
+    },
+    "del": {
+        "avg_count": 2.0,
+        "avg_order": 151.0,
+        "hit_rate": 1.0
+    },
+    "del qty": {
+        "avg_count": 2.0,
+        "avg_order": 152.0,
+        "hit_rate": 1.0
+    },
+    "qty type": {
+        "avg_count": 2.0,
+        "avg_order": 154.0,
+        "hit_rate": 1.0
+    },
+    "type": {
+        "avg_count": 2.0,
+        "avg_order": 155.0,
+        "hit_rate": 1.0
+    },
+    "type item": {
+        "avg_count": 2.0,
+        "avg_order": 156.0,
+        "hit_rate": 1.0
+    },
+    "item": {
+        "avg_count": 2.0,
+        "avg_order": 157.0,
+        "hit_rate": 1.0
+    },
+    "item ext": {
+        "avg_count": 2.0,
+        "avg_order": 158.0,
+        "hit_rate": 1.0
+    },
+    "ext": {
+        "avg_count": 4.0,
+        "avg_order": 159.0,
+        "hit_rate": 1.0
+    },
+    "ext allow": {
+        "avg_count": 2.0,
+        "avg_order": 160.0,
+        "hit_rate": 1.0
+    },
+    "allow": {
+        "avg_count": 2.0,
+        "avg_order": 161.0,
+        "hit_rate": 1.0
+    },
+    "allow ext": {
+        "avg_count": 2.0,
+        "avg_order": 162.0,
+        "hit_rate": 1.0
+    },
+    "ext amt": {
+        "avg_count": 2.0,
+        "avg_order": 164.0,
+        "hit_rate": 1.0
+    },
+    "amt": {
+        "avg_count": 2.0,
+        "avg_order": 165.0,
+        "hit_rate": 1.0
+    },
+    "copay": {
+        "avg_count": 2.0,
+        "avg_order": 168.0,
+        "hit_rate": 1.0
+    },
+    "rental": {
+        "avg_count": 1.0,
+        "avg_order": 180.5,
+        "hit_rate": 1.0
+    },
+    "resmed": {
+        "avg_count": 4.0,
+        "avg_order": 175.5,
+        "hit_rate": 1.0
+    },
+    "resmed uomeaches": {
+        "avg_count": 2.5,
+        "avg_order": 180.5,
+        "hit_rate": 1.0
+    },
+    "uomeaches": {
+        "avg_count": 7.0,
+        "avg_order": 181.5,
+        "hit_rate": 1.0
+    },
+    "serial": {
+        "avg_count": 1.0,
+        "avg_order": 184.5,
+        "hit_rate": 1.0
+    },
+    "serial number": {
+        "avg_count": 1.0,
+        "avg_order": 185.5,
+        "hit_rate": 1.0
+    },
+    "number": {
+        "avg_count": 1.0,
+        "avg_order": 186.5,
+        "hit_rate": 1.0
+    },
+    "number note": {
+        "avg_count": 1.0,
+        "avg_order": 187.5,
+        "hit_rate": 1.0
+    },
+    "note": {
+        "avg_count": 8.0,
+        "avg_order": 188.5,
+        "hit_rate": 1.0
+    },
+    "cpgeneric": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 1.0
+    },
+    "cpgeneric cpap": {
+        "avg_count": 1.0,
+        "avg_order": 177.0,
+        "hit_rate": 1.0
+    },
+    "cpap standard": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 1.0
+    },
+    "standard": {
+        "avg_count": 2.0,
+        "avg_order": 180.0,
+        "hit_rate": 1.0
+    },
+    "standard or": {
+        "avg_count": 1.0,
+        "avg_order": 181.0,
+        "hit_rate": 1.0
+    },
+    "or auto": {
+        "avg_count": 1.0,
+        "avg_order": 182.0,
+        "hit_rate": 1.0
+    },
+    "auto": {
+        "avg_count": 1.0,
+        "avg_order": 183.0,
+        "hit_rate": 1.0
+    },
+    "auto resmed": {
+        "avg_count": 1.0,
+        "avg_order": 184.0,
+        "hit_rate": 1.0
+    },
+    "resmed cpap": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 1.0
+    },
+    "cpap airsense": {
+        "avg_count": 1.0,
+        "avg_order": 188.0,
+        "hit_rate": 1.0
+    },
+    "airsense": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 1.0
+    },
+    "airsense autoset": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 1.0
+    },
+    "autoset": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 1.0
+    },
+    "humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 199.0,
+        "hit_rate": 1.0
+    },
+    "humidifier heated": {
+        "avg_count": 1.0,
+        "avg_order": 200.0,
+        "hit_rate": 1.0
+    },
+    "heated": {
+        "avg_count": 1.0,
+        "avg_order": 201.0,
+        "hit_rate": 1.0
+    },
+    "heated used": {
+        "avg_count": 1.0,
+        "avg_order": 202.0,
+        "hit_rate": 1.0
+    },
+    "used": {
+        "avg_count": 1.0,
+        "avg_order": 203.0,
+        "hit_rate": 1.0
+    },
+    "used w": {
+        "avg_count": 1.0,
+        "avg_order": 204.0,
+        "hit_rate": 1.0
+    },
+    "w pap": {
+        "avg_count": 1.0,
+        "avg_order": 205.0,
+        "hit_rate": 1.0
+    },
+    "pap": {
+        "avg_count": 2.0,
+        "avg_order": 206.0,
+        "hit_rate": 1.0
+    },
+    "pap purchase": {
+        "avg_count": 1.0,
+        "avg_order": 207.0,
+        "hit_rate": 1.0
+    },
+    "purchase": {
+        "avg_count": 6.0,
+        "avg_order": 208.0,
+        "hit_rate": 1.0
+    },
+    "purchase uomeaches": {
+        "avg_count": 3.0,
+        "avg_order": 209.0,
+        "hit_rate": 1.0
+    },
+    "uomeaches note": {
+        "avg_count": 6.0,
+        "avg_order": 211.0,
+        "hit_rate": 1.0
+    },
+    "pillow": {
+        "avg_count": 2.0,
+        "avg_order": 221.0,
+        "hit_rate": 1.0
+    },
+    "pillow or": {
+        "avg_count": 2.0,
+        "avg_order": 222.0,
+        "hit_rate": 1.0
+    },
+    "or nasal": {
+        "avg_count": 2.0,
+        "avg_order": 223.0,
+        "hit_rate": 1.0
+    },
+    "nasal": {
+        "avg_count": 4.0,
+        "avg_order": 221.5,
+        "hit_rate": 1.0
+    },
+    "nasal purchase": {
+        "avg_count": 1.5,
+        "avg_order": 225.0,
+        "hit_rate": 1.0
+    },
+    "purchase resmed": {
+        "avg_count": 1.5,
+        "avg_order": 289.5,
+        "hit_rate": 1.0
+    },
+    "note maskffnpna": {
+        "avg_count": 1.0,
+        "avg_order": 219.5,
+        "hit_rate": 1.0
+    },
+    "maskffnpna": {
+        "avg_count": 1.0,
+        "avg_order": 220.5,
+        "hit_rate": 1.0
+    },
+    "maskffnpna genegeneric": {
+        "avg_count": 1.0,
+        "avg_order": 221.5,
+        "hit_rate": 1.0
+    },
+    "genegeneric": {
+        "avg_count": 1.0,
+        "avg_order": 222.5,
+        "hit_rate": 1.0
+    },
+    "genegeneric cpap": {
+        "avg_count": 1.0,
+        "avg_order": 223.5,
+        "hit_rate": 1.0
+    },
+    "cpap mask": {
+        "avg_count": 1.0,
+        "avg_order": 225.5,
+        "hit_rate": 1.0
+    },
+    "mask full": {
+        "avg_count": 1.0,
+        "avg_order": 227.5,
+        "hit_rate": 1.0
+    },
+    "full": {
+        "avg_count": 1.0,
+        "avg_order": 228.5,
+        "hit_rate": 1.0
+    },
+    "full face": {
+        "avg_count": 1.0,
+        "avg_order": 229.5,
+        "hit_rate": 1.0
+    },
+    "face": {
+        "avg_count": 2.0,
+        "avg_order": 230.5,
+        "hit_rate": 1.0
+    },
+    "face nasal": {
+        "avg_count": 2.0,
+        "avg_order": 231.5,
+        "hit_rate": 1.0
+    },
+    "purchase cushion": {
+        "avg_count": 1.0,
+        "avg_order": 265.5,
+        "hit_rate": 1.0
+    },
+    "cushion": {
+        "avg_count": 2.0,
+        "avg_order": 259.0,
+        "hit_rate": 1.0
+    },
+    "cushion included": {
+        "avg_count": 1.0,
+        "avg_order": 267.5,
+        "hit_rate": 1.0
+    },
+    "included": {
+        "avg_count": 2.0,
+        "avg_order": 268.5,
+        "hit_rate": 1.0
+    },
+    "included uomeaches": {
+        "avg_count": 1.0,
+        "avg_order": 269.5,
+        "hit_rate": 1.0
+    },
+    "note ahccpap": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 1.0
+    },
+    "ahccpap": {
+        "avg_count": 1.0,
+        "avg_order": 262.0,
+        "hit_rate": 1.0
+    },
+    "ahccpap cushion": {
+        "avg_count": 1.0,
+        "avg_order": 263.0,
+        "hit_rate": 1.0
+    },
+    "cushion repfull": {
+        "avg_count": 1.0,
+        "avg_order": 265.0,
+        "hit_rate": 1.0
+    },
+    "repfull": {
+        "avg_count": 1.0,
+        "avg_order": 266.0,
+        "hit_rate": 1.0
+    },
+    "repfull face": {
+        "avg_count": 1.0,
+        "avg_order": 267.0,
+        "hit_rate": 1.0
+    },
+    "nasal pillow": {
+        "avg_count": 1.5,
+        "avg_order": 249.0,
+        "hit_rate": 1.0
+    },
+    "name": {
+        "avg_count": 2.0,
+        "avg_order": 282.0,
+        "hit_rate": 1.0
+    },
+    "page": {
+        "avg_count": 2.0,
+        "avg_order": 289.0,
+        "hit_rate": 1.0
+    },
+    "page of": {
+        "avg_count": 2.0,
+        "avg_order": 290.0,
+        "hit_rate": 1.0
+    },
+    "amt tax": {
+        "avg_count": 1.5,
+        "avg_order": 236.0,
+        "hit_rate": 1.0
+    },
+    "tax": {
+        "avg_count": 1.5,
+        "avg_order": 237.0,
+        "hit_rate": 1.0
+    },
+    "tax copay": {
+        "avg_count": 1.5,
+        "avg_order": 238.0,
+        "hit_rate": 1.0
+    },
+    "copay apos": {
+        "avg_count": 1.0,
+        "avg_order": 316.0,
+        "hit_rate": 1.0
+    },
+    "apos": {
+        "avg_count": 1.0,
+        "avg_order": 317.0,
+        "hit_rate": 1.0
+    },
+    "apos airway": {
+        "avg_count": 1.0,
+        "avg_order": 318.0,
+        "hit_rate": 1.0
+    },
+    "airway": {
+        "avg_count": 1.0,
+        "avg_order": 319.0,
+        "hit_rate": 1.0
+    },
+    "airway press": {
+        "avg_count": 1.0,
+        "avg_order": 320.0,
+        "hit_rate": 1.0
+    },
+    "press": {
+        "avg_count": 1.0,
+        "avg_order": 321.0,
+        "hit_rate": 1.0
+    },
+    "press headgear": {
+        "avg_count": 1.0,
+        "avg_order": 322.0,
+        "hit_rate": 1.0
+    },
+    "headgear": {
+        "avg_count": 1.0,
+        "avg_order": 323.0,
+        "hit_rate": 1.0
+    },
+    "headgear included": {
+        "avg_count": 1.0,
+        "avg_order": 324.0,
+        "hit_rate": 1.0
+    },
+    "included purchase": {
+        "avg_count": 1.0,
+        "avg_order": 326.0,
+        "hit_rate": 1.0
+    },
+    "note filgen": {
+        "avg_count": 1.0,
+        "avg_order": 332.0,
+        "hit_rate": 1.0
+    },
+    "filgen": {
+        "avg_count": 1.0,
+        "avg_order": 333.0,
+        "hit_rate": 1.0
+    },
+    "filgen cpap": {
+        "avg_count": 1.0,
+        "avg_order": 334.0,
+        "hit_rate": 1.0
+    },
+    "cpap dispfilgeneric": {
+        "avg_count": 1.0,
+        "avg_order": 336.0,
+        "hit_rate": 1.0
+    },
+    "dispfilgeneric": {
+        "avg_count": 1.0,
+        "avg_order": 337.0,
+        "hit_rate": 1.0
+    },
+    "dispfilgeneric cpap": {
+        "avg_count": 1.0,
+        "avg_order": 338.0,
+        "hit_rate": 1.0
+    },
+    "cpap disposable": {
+        "avg_count": 1.0,
+        "avg_order": 340.0,
+        "hit_rate": 1.0
+    },
+    "disposable": {
+        "avg_count": 1.0,
+        "avg_order": 341.0,
+        "hit_rate": 1.0
+    },
+    "disposable filter": {
+        "avg_count": 1.0,
+        "avg_order": 342.0,
+        "hit_rate": 1.0
+    },
+    "filter": {
+        "avg_count": 2.0,
+        "avg_order": 343.0,
+        "hit_rate": 1.0
+    },
+    "filter air": {
+        "avg_count": 1.0,
+        "avg_order": 344.0,
+        "hit_rate": 1.0
+    },
+    "air": {
+        "avg_count": 1.0,
+        "avg_order": 345.0,
+        "hit_rate": 1.0
+    },
+    "air filter": {
+        "avg_count": 1.0,
+        "avg_order": 346.0,
+        "hit_rate": 1.0
+    },
+    "filter standard": {
+        "avg_count": 1.0,
+        "avg_order": 348.0,
+        "hit_rate": 1.0
+    },
+    "standard pack": {
+        "avg_count": 1.0,
+        "avg_order": 350.0,
+        "hit_rate": 1.0
+    },
+    "pack": {
+        "avg_count": 1.0,
+        "avg_order": 351.0,
+        "hit_rate": 1.0
+    },
+    "pack purchase": {
+        "avg_count": 1.0,
+        "avg_order": 352.0,
+        "hit_rate": 1.0
+    },
+    "note aslimahcahc": {
+        "avg_count": 1.0,
+        "avg_order": 360.0,
+        "hit_rate": 1.0
+    },
+    "aslimahcahc": {
+        "avg_count": 1.0,
+        "avg_order": 361.0,
+        "hit_rate": 1.0
+    },
+    "aslimahcahc pap": {
+        "avg_count": 1.0,
+        "avg_order": 362.0,
+        "hit_rate": 1.0
+    },
+    "pap slimline": {
+        "avg_count": 1.0,
+        "avg_order": 364.0,
+        "hit_rate": 1.0
+    },
+    "slimline": {
+        "avg_count": 1.0,
+        "avg_order": 365.0,
+        "hit_rate": 1.0
+    },
+    "slimline tubing": {
+        "avg_count": 1.0,
+        "avg_order": 366.0,
+        "hit_rate": 1.0
+    },
+    "tubing": {
+        "avg_count": 1.0,
+        "avg_order": 367.0,
+        "hit_rate": 1.0
+    },
+    "tubing purchase": {
+        "avg_count": 1.0,
+        "avg_order": 368.0,
+        "hit_rate": 1.0
+    },
+    "note total": {
+        "avg_count": 1.0,
+        "avg_order": 374.0,
+        "hit_rate": 1.0
+    },
+    "total": {
+        "avg_count": 1.0,
+        "avg_order": 375.0,
+        "hit_rate": 1.0
+    },
+    "total please": {
+        "avg_count": 1.0,
+        "avg_order": 376.0,
+        "hit_rate": 1.0
+    },
+    "please": {
+        "avg_count": 1.0,
+        "avg_order": 377.0,
+        "hit_rate": 1.0
+    },
+    "please note": {
+        "avg_count": 1.0,
+        "avg_order": 378.0,
+        "hit_rate": 1.0
+    },
+    "note that": {
+        "avg_count": 1.0,
+        "avg_order": 380.0,
+        "hit_rate": 1.0
+    },
+    "that the": {
+        "avg_count": 1.0,
+        "avg_order": 381.0,
+        "hit_rate": 1.0
+    },
+    "the above": {
+        "avg_count": 2.0,
+        "avg_order": 382.0,
+        "hit_rate": 1.0
+    },
+    "above pricing": {
+        "avg_count": 1.0,
+        "avg_order": 383.0,
+        "hit_rate": 1.0
+    },
+    "pricing": {
+        "avg_count": 1.0,
+        "avg_order": 384.0,
+        "hit_rate": 1.0
+    },
+    "pricing amounts": {
+        "avg_count": 1.0,
+        "avg_order": 385.0,
+        "hit_rate": 1.0
+    },
+    "amounts": {
+        "avg_count": 1.0,
+        "avg_order": 386.0,
+        "hit_rate": 1.0
+    },
+    "amounts are": {
+        "avg_count": 1.0,
+        "avg_order": 387.0,
+        "hit_rate": 1.0
+    },
+    "are an": {
+        "avg_count": 1.0,
+        "avg_order": 388.0,
+        "hit_rate": 1.0
+    },
+    "an estimate": {
+        "avg_count": 1.0,
+        "avg_order": 389.0,
+        "hit_rate": 1.0
+    },
+    "estimate": {
+        "avg_count": 1.0,
+        "avg_order": 390.0,
+        "hit_rate": 1.0
+    },
+    "estimate of": {
+        "avg_count": 1.0,
+        "avg_order": 391.0,
+        "hit_rate": 1.0
+    },
+    "of your": {
+        "avg_count": 2.0,
+        "avg_order": 392.0,
+        "hit_rate": 1.0
+    },
+    "your financial": {
+        "avg_count": 2.0,
+        "avg_order": 393.0,
+        "hit_rate": 1.0
+    },
+    "financial": {
+        "avg_count": 2.0,
+        "avg_order": 394.0,
+        "hit_rate": 1.0
+    },
+    "financial responsibility": {
+        "avg_count": 2.0,
+        "avg_order": 395.0,
+        "hit_rate": 1.0
+    },
+    "responsibility": {
+        "avg_count": 3.0,
+        "avg_order": 396.0,
+        "hit_rate": 1.0
+    },
+    "responsibility only": {
+        "avg_count": 1.0,
+        "avg_order": 397.0,
+        "hit_rate": 1.0
+    },
+    "only and": {
+        "avg_count": 1.0,
+        "avg_order": 398.0,
+        "hit_rate": 1.0
+    },
+    "and are": {
+        "avg_count": 1.0,
+        "avg_order": 399.0,
+        "hit_rate": 1.0
+    },
+    "are not": {
+        "avg_count": 1.0,
+        "avg_order": 400.0,
+        "hit_rate": 1.0
+    },
+    "not a": {
+        "avg_count": 1.0,
+        "avg_order": 401.0,
+        "hit_rate": 1.0
+    },
+    "a guarantee": {
+        "avg_count": 1.0,
+        "avg_order": 402.0,
+        "hit_rate": 1.0
+    },
+    "guarantee": {
+        "avg_count": 1.0,
+        "avg_order": 403.0,
+        "hit_rate": 1.0
+    },
+    "guarantee final": {
+        "avg_count": 1.0,
+        "avg_order": 404.0,
+        "hit_rate": 1.0
+    },
+    "final": {
+        "avg_count": 2.0,
+        "avg_order": 405.0,
+        "hit_rate": 1.0
+    },
+    "final determinatation": {
+        "avg_count": 1.0,
+        "avg_order": 406.0,
+        "hit_rate": 1.0
+    },
+    "determinatation": {
+        "avg_count": 1.0,
+        "avg_order": 407.0,
+        "hit_rate": 1.0
+    },
+    "determinatation of": {
+        "avg_count": 1.0,
+        "avg_order": 408.0,
+        "hit_rate": 1.0
+    },
+    "responsibility is": {
+        "avg_count": 1.0,
+        "avg_order": 414.0,
+        "hit_rate": 1.0
+    },
+    "is made": {
+        "avg_count": 1.0,
+        "avg_order": 415.0,
+        "hit_rate": 1.0
+    },
+    "made": {
+        "avg_count": 1.0,
+        "avg_order": 416.0,
+        "hit_rate": 1.0
+    },
+    "made by": {
+        "avg_count": 1.0,
+        "avg_order": 417.0,
+        "hit_rate": 1.0
+    },
+    "by your": {
+        "avg_count": 1.0,
+        "avg_order": 418.0,
+        "hit_rate": 1.0
+    },
+    "your insurance": {
+        "avg_count": 1.0,
+        "avg_order": 419.0,
+        "hit_rate": 1.0
+    },
+    "insurance provider": {
+        "avg_count": 1.0,
+        "avg_order": 421.0,
+        "hit_rate": 1.0
+    },
+    "provider": {
+        "avg_count": 1.0,
+        "avg_order": 422.0,
+        "hit_rate": 1.0
+    },
+    "provider after": {
+        "avg_count": 1.0,
+        "avg_order": 423.0,
+        "hit_rate": 1.0
+    },
+    "after your": {
+        "avg_count": 1.0,
+        "avg_order": 424.0,
+        "hit_rate": 1.0
+    },
+    "your claim": {
+        "avg_count": 1.0,
+        "avg_order": 425.0,
+        "hit_rate": 1.0
+    },
+    "claim": {
+        "avg_count": 2.0,
+        "avg_order": 426.0,
+        "hit_rate": 1.0
+    },
+    "claim for": {
+        "avg_count": 1.0,
+        "avg_order": 427.0,
+        "hit_rate": 1.0
+    },
+    "for services": {
+        "avg_count": 3.0,
+        "avg_order": 428.0,
+        "hit_rate": 1.0
+    },
+    "services has": {
+        "avg_count": 1.0,
+        "avg_order": 430.0,
+        "hit_rate": 1.0
+    },
+    "has been": {
+        "avg_count": 2.0,
+        "avg_order": 431.0,
+        "hit_rate": 1.0
+    },
+    "been submitted": {
+        "avg_count": 1.0,
+        "avg_order": 432.0,
+        "hit_rate": 1.0
+    },
+    "submitted": {
+        "avg_count": 1.0,
+        "avg_order": 433.0,
+        "hit_rate": 1.0
+    },
+    "submitted any": {
+        "avg_count": 1.0,
+        "avg_order": 434.0,
+        "hit_rate": 1.0
+    },
+    "any private": {
+        "avg_count": 1.0,
+        "avg_order": 435.0,
+        "hit_rate": 1.0
+    },
+    "private": {
+        "avg_count": 1.0,
+        "avg_order": 436.0,
+        "hit_rate": 1.0
+    },
+    "private pay": {
+        "avg_count": 1.0,
+        "avg_order": 437.0,
+        "hit_rate": 1.0
+    },
+    "pay": {
+        "avg_count": 1.0,
+        "avg_order": 438.0,
+        "hit_rate": 1.0
+    },
+    "pay or": {
+        "avg_count": 1.0,
+        "avg_order": 439.0,
+        "hit_rate": 1.0
+    },
+    "or otherwise": {
+        "avg_count": 1.0,
+        "avg_order": 440.0,
+        "hit_rate": 1.0
+    },
+    "otherwise": {
+        "avg_count": 1.0,
+        "avg_order": 441.0,
+        "hit_rate": 1.0
+    },
+    "otherwise patient": {
+        "avg_count": 1.0,
+        "avg_order": 442.0,
+        "hit_rate": 1.0
+    },
+    "patient responsibility": {
+        "avg_count": 1.0,
+        "avg_order": 444.0,
+        "hit_rate": 1.0
+    },
+    "responsibility equipment": {
+        "avg_count": 1.0,
+        "avg_order": 446.0,
+        "hit_rate": 1.0
+    },
+    "equipment sales": {
+        "avg_count": 1.0,
+        "avg_order": 448.0,
+        "hit_rate": 1.0
+    },
+    "sales": {
+        "avg_count": 1.0,
+        "avg_order": 449.0,
+        "hit_rate": 1.0
+    },
+    "sales services": {
+        "avg_count": 1.0,
+        "avg_order": 450.0,
+        "hit_rate": 1.0
+    },
+    "services or": {
+        "avg_count": 1.0,
+        "avg_order": 452.0,
+        "hit_rate": 1.0
+    },
+    "or copayscoinsurance": {
+        "avg_count": 1.0,
+        "avg_order": 453.0,
+        "hit_rate": 1.0
+    },
+    "copayscoinsurance": {
+        "avg_count": 1.0,
+        "avg_order": 454.0,
+        "hit_rate": 1.0
+    },
+    "copayscoinsurance are": {
+        "avg_count": 1.0,
+        "avg_order": 455.0,
+        "hit_rate": 1.0
+    },
+    "are considered": {
+        "avg_count": 1.0,
+        "avg_order": 456.0,
+        "hit_rate": 1.0
+    },
+    "considered": {
+        "avg_count": 1.0,
+        "avg_order": 457.0,
+        "hit_rate": 1.0
+    },
+    "considered final": {
+        "avg_count": 1.0,
+        "avg_order": 458.0,
+        "hit_rate": 1.0
+    },
+    "final and": {
+        "avg_count": 1.0,
+        "avg_order": 460.0,
+        "hit_rate": 1.0
+    },
+    "and nonrefunadable": {
+        "avg_count": 1.0,
+        "avg_order": 461.0,
+        "hit_rate": 1.0
+    },
+    "nonrefunadable": {
+        "avg_count": 1.0,
+        "avg_order": 462.0,
+        "hit_rate": 1.0
+    },
+    "nonrefunadable unless": {
+        "avg_count": 1.0,
+        "avg_order": 463.0,
+        "hit_rate": 1.0
+    },
+    "unless": {
+        "avg_count": 1.0,
+        "avg_order": 464.0,
+        "hit_rate": 1.0
+    },
+    "unless agreed": {
+        "avg_count": 1.0,
+        "avg_order": 465.0,
+        "hit_rate": 1.0
+    },
+    "agreed": {
+        "avg_count": 1.0,
+        "avg_order": 466.0,
+        "hit_rate": 1.0
+    },
+    "agreed to": {
+        "avg_count": 1.0,
+        "avg_order": 467.0,
+        "hit_rate": 1.0
+    },
+    "to seperately": {
+        "avg_count": 1.0,
+        "avg_order": 468.0,
+        "hit_rate": 1.0
+    },
+    "seperately": {
+        "avg_count": 1.0,
+        "avg_order": 469.0,
+        "hit_rate": 1.0
+    },
+    "seperately in": {
+        "avg_count": 1.0,
+        "avg_order": 470.0,
+        "hit_rate": 1.0
+    },
+    "in writing": {
+        "avg_count": 1.0,
+        "avg_order": 471.0,
+        "hit_rate": 1.0
+    },
+    "writing": {
+        "avg_count": 1.0,
+        "avg_order": 472.0,
+        "hit_rate": 1.0
+    },
+    "writing all": {
+        "avg_count": 1.0,
+        "avg_order": 473.0,
+        "hit_rate": 1.0
+    },
+    "all information": {
+        "avg_count": 1.0,
+        "avg_order": 474.0,
+        "hit_rate": 1.0
+    },
+    "information": {
+        "avg_count": 3.0,
+        "avg_order": 475.0,
+        "hit_rate": 1.0
+    },
+    "information has": {
+        "avg_count": 1.0,
+        "avg_order": 476.0,
+        "hit_rate": 1.0
+    },
+    "been given": {
+        "avg_count": 1.0,
+        "avg_order": 478.0,
+        "hit_rate": 1.0
+    },
+    "given": {
+        "avg_count": 1.0,
+        "avg_order": 479.0,
+        "hit_rate": 1.0
+    },
+    "given to": {
+        "avg_count": 1.0,
+        "avg_order": 480.0,
+        "hit_rate": 1.0
+    },
+    "to the": {
+        "avg_count": 2.0,
+        "avg_order": 481.0,
+        "hit_rate": 1.0
+    },
+    "the company": {
+        "avg_count": 1.0,
+        "avg_order": 482.0,
+        "hit_rate": 1.0
+    },
+    "company": {
+        "avg_count": 1.0,
+        "avg_order": 483.0,
+        "hit_rate": 1.0
+    },
+    "company to": {
+        "avg_count": 1.0,
+        "avg_order": 484.0,
+        "hit_rate": 1.0
+    },
+    "to bill": {
+        "avg_count": 1.0,
+        "avg_order": 485.0,
+        "hit_rate": 1.0
+    },
+    "bill any": {
+        "avg_count": 1.0,
+        "avg_order": 487.0,
+        "hit_rate": 1.0
+    },
+    "any resources": {
+        "avg_count": 1.0,
+        "avg_order": 488.0,
+        "hit_rate": 1.0
+    },
+    "resources": {
+        "avg_count": 1.0,
+        "avg_order": 489.0,
+        "hit_rate": 1.0
+    },
+    "resources for": {
+        "avg_count": 1.0,
+        "avg_order": 490.0,
+        "hit_rate": 1.0
+    },
+    "services provided": {
+        "avg_count": 1.0,
+        "avg_order": 493.0,
+        "hit_rate": 1.0
+    },
+    "provided": {
+        "avg_count": 1.0,
+        "avg_order": 494.0,
+        "hit_rate": 1.0
+    },
+    "provided certify": {
+        "avg_count": 1.0,
+        "avg_order": 495.0,
+        "hit_rate": 1.0
+    },
+    "certify": {
+        "avg_count": 1.0,
+        "avg_order": 496.0,
+        "hit_rate": 1.0
+    },
+    "certify this": {
+        "avg_count": 1.0,
+        "avg_order": 497.0,
+        "hit_rate": 1.0
+    },
+    "this information": {
+        "avg_count": 1.0,
+        "avg_order": 498.0,
+        "hit_rate": 1.0
+    },
+    "information is": {
+        "avg_count": 1.0,
+        "avg_order": 500.0,
+        "hit_rate": 1.0
+    },
+    "is correct": {
+        "avg_count": 1.0,
+        "avg_order": 501.0,
+        "hit_rate": 1.0
+    },
+    "correct": {
+        "avg_count": 1.0,
+        "avg_order": 502.0,
+        "hit_rate": 1.0
+    },
+    "correct have": {
+        "avg_count": 1.0,
+        "avg_order": 503.0,
+        "hit_rate": 1.0
+    },
+    "have been": {
+        "avg_count": 1.0,
+        "avg_order": 504.0,
+        "hit_rate": 1.0
+    },
+    "been instructed": {
+        "avg_count": 1.0,
+        "avg_order": 505.0,
+        "hit_rate": 1.0
+    },
+    "instructed": {
+        "avg_count": 1.0,
+        "avg_order": 506.0,
+        "hit_rate": 1.0
+    },
+    "instructed understand": {
+        "avg_count": 1.0,
+        "avg_order": 507.0,
+        "hit_rate": 1.0
+    },
+    "understand": {
+        "avg_count": 2.0,
+        "avg_order": 508.0,
+        "hit_rate": 1.0
+    },
+    "understand the": {
+        "avg_count": 2.0,
+        "avg_order": 509.0,
+        "hit_rate": 1.0
+    },
+    "the safe": {
+        "avg_count": 1.0,
+        "avg_order": 510.0,
+        "hit_rate": 1.0
+    },
+    "safe": {
+        "avg_count": 1.0,
+        "avg_order": 511.0,
+        "hit_rate": 1.0
+    },
+    "safe use": {
+        "avg_count": 1.0,
+        "avg_order": 512.0,
+        "hit_rate": 1.0
+    },
+    "use": {
+        "avg_count": 1.0,
+        "avg_order": 513.0,
+        "hit_rate": 1.0
+    },
+    "use maintenance": {
+        "avg_count": 1.0,
+        "avg_order": 514.0,
+        "hit_rate": 1.0
+    },
+    "maintenance": {
+        "avg_count": 1.0,
+        "avg_order": 515.0,
+        "hit_rate": 1.0
+    },
+    "maintenance of": {
+        "avg_count": 1.0,
+        "avg_order": 516.0,
+        "hit_rate": 1.0
+    },
+    "of the": {
+        "avg_count": 1.5,
+        "avg_order": 326.0,
+        "hit_rate": 1.0
+    },
+    "above equipment": {
+        "avg_count": 1.0,
+        "avg_order": 519.0,
+        "hit_rate": 1.0
+    },
+    "equipment authorize": {
+        "avg_count": 1.0,
+        "avg_order": 521.0,
+        "hit_rate": 1.0
+    },
+    "authorize": {
+        "avg_count": 1.5,
+        "avg_order": 317.5,
+        "hit_rate": 1.0
+    },
+    "authorize the": {
+        "avg_count": 1.0,
+        "avg_order": 523.0,
+        "hit_rate": 1.0
+    },
+    "the release": {
+        "avg_count": 1.0,
+        "avg_order": 524.0,
+        "hit_rate": 1.0
+    },
+    "release": {
+        "avg_count": 1.0,
+        "avg_order": 525.0,
+        "hit_rate": 1.0
+    },
+    "release of": {
+        "avg_count": 1.0,
+        "avg_order": 526.0,
+        "hit_rate": 1.0
+    },
+    "of any": {
+        "avg_count": 1.0,
+        "avg_order": 527.0,
+        "hit_rate": 1.0
+    },
+    "any medical": {
+        "avg_count": 1.0,
+        "avg_order": 528.0,
+        "hit_rate": 1.0
+    },
+    "medical": {
+        "avg_count": 2.0,
+        "avg_order": 529.0,
+        "hit_rate": 1.0
+    },
+    "medical information": {
+        "avg_count": 1.0,
+        "avg_order": 530.0,
+        "hit_rate": 1.0
+    },
+    "information necessary": {
+        "avg_count": 1.0,
+        "avg_order": 532.0,
+        "hit_rate": 1.0
+    },
+    "necessary": {
+        "avg_count": 1.0,
+        "avg_order": 533.0,
+        "hit_rate": 1.0
+    },
+    "necessary to": {
+        "avg_count": 1.0,
+        "avg_order": 534.0,
+        "hit_rate": 1.0
+    },
+    "to process": {
+        "avg_count": 1.0,
+        "avg_order": 535.0,
+        "hit_rate": 1.0
+    },
+    "process": {
+        "avg_count": 1.0,
+        "avg_order": 536.0,
+        "hit_rate": 1.0
+    },
+    "process this": {
+        "avg_count": 1.0,
+        "avg_order": 537.0,
+        "hit_rate": 1.0
+    },
+    "this claim": {
+        "avg_count": 1.0,
+        "avg_order": 538.0,
+        "hit_rate": 1.0
+    },
+    "claim also": {
+        "avg_count": 1.0,
+        "avg_order": 540.0,
+        "hit_rate": 1.0
+    },
+    "also": {
+        "avg_count": 1.0,
+        "avg_order": 541.0,
+        "hit_rate": 1.0
+    },
+    "also request": {
+        "avg_count": 1.0,
+        "avg_order": 542.0,
+        "hit_rate": 1.0
+    },
+    "request": {
+        "avg_count": 1.0,
+        "avg_order": 543.0,
+        "hit_rate": 1.0
+    },
+    "request payment": {
+        "avg_count": 1.0,
+        "avg_order": 544.0,
+        "hit_rate": 1.0
+    },
+    "payment": {
+        "avg_count": 1.0,
+        "avg_order": 545.0,
+        "hit_rate": 1.0
+    },
+    "payment of": {
+        "avg_count": 1.0,
+        "avg_order": 546.0,
+        "hit_rate": 1.0
+    },
+    "of medical": {
+        "avg_count": 1.0,
+        "avg_order": 547.0,
+        "hit_rate": 1.0
+    },
+    "medical benefits": {
+        "avg_count": 1.0,
+        "avg_order": 549.0,
+        "hit_rate": 1.0
+    },
+    "benefits": {
+        "avg_count": 1.0,
+        "avg_order": 550.0,
+        "hit_rate": 1.0
+    },
+    "benefits to": {
+        "avg_count": 1.0,
+        "avg_order": 551.0,
+        "hit_rate": 1.0
+    },
+    "the undersigned": {
+        "avg_count": 1.0,
+        "avg_order": 553.0,
+        "hit_rate": 1.0
+    },
+    "undersigned": {
+        "avg_count": 1.0,
+        "avg_order": 554.0,
+        "hit_rate": 1.0
+    },
+    "undersigned supplier": {
+        "avg_count": 1.0,
+        "avg_order": 555.0,
+        "hit_rate": 1.0
+    },
+    "supplier": {
+        "avg_count": 1.0,
+        "avg_order": 556.0,
+        "hit_rate": 1.0
+    },
+    "supplier for": {
+        "avg_count": 1.0,
+        "avg_order": 557.0,
+        "hit_rate": 1.0
+    },
+    "services have": {
+        "avg_count": 1.0,
+        "avg_order": 560.0,
+        "hit_rate": 1.0
+    },
+    "have read": {
+        "avg_count": 1.0,
+        "avg_order": 561.0,
+        "hit_rate": 1.0
+    },
+    "read": {
+        "avg_count": 1.0,
+        "avg_order": 562.0,
+        "hit_rate": 1.0
+    },
+    "read understand": {
+        "avg_count": 1.0,
+        "avg_order": 563.0,
+        "hit_rate": 1.0
+    },
+    "the provisions": {
+        "avg_count": 1.0,
+        "avg_order": 566.0,
+        "hit_rate": 1.0
+    },
+    "provisions": {
+        "avg_count": 1.0,
+        "avg_order": 567.0,
+        "hit_rate": 1.0
+    },
+    "provisions on": {
+        "avg_count": 1.0,
+        "avg_order": 568.0,
+        "hit_rate": 1.0
+    },
+    "on this": {
+        "avg_count": 1.0,
+        "avg_order": 569.0,
+        "hit_rate": 1.0
+    },
+    "this agreement": {
+        "avg_count": 1.0,
+        "avg_order": 570.0,
+        "hit_rate": 1.0
+    },
+    "agreement": {
+        "avg_count": 1.0,
+        "avg_order": 571.0,
+        "hit_rate": 1.0
+    },
+    "signature of": {
+        "avg_count": 1.0,
+        "avg_order": 578.0,
+        "hit_rate": 1.0
+    },
+    "of patient": {
+        "avg_count": 1.0,
+        "avg_order": 579.0,
+        "hit_rate": 1.0
+    },
+    "patient or": {
+        "avg_count": 1.0,
+        "avg_order": 581.0,
+        "hit_rate": 1.0
+    },
+    "or date": {
+        "avg_count": 1.0,
+        "avg_order": 582.0,
+        "hit_rate": 1.0
+    },
+    "date tech": {
+        "avg_count": 1.0,
+        "avg_order": 584.0,
+        "hit_rate": 1.0
+    },
+    "tech": {
+        "avg_count": 1.0,
+        "avg_order": 585.0,
+        "hit_rate": 1.0
+    },
+    "tech signature": {
+        "avg_count": 1.0,
+        "avg_order": 586.0,
+        "hit_rate": 1.0
+    },
+    "signature authorized": {
+        "avg_count": 1.0,
+        "avg_order": 588.0,
+        "hit_rate": 1.0
+    },
+    "authorized": {
+        "avg_count": 1.0,
+        "avg_order": 589.0,
+        "hit_rate": 1.0
+    },
+    "authorized representative": {
+        "avg_count": 1.0,
+        "avg_order": 590.0,
+        "hit_rate": 1.0
+    },
+    "representative": {
+        "avg_count": 1.0,
+        "avg_order": 591.0,
+        "hit_rate": 1.0
+    },
+    "relationship": {
+        "avg_count": 1.0,
+        "avg_order": 599.0,
+        "hit_rate": 1.0
+    },
+    "relationship to": {
+        "avg_count": 1.0,
+        "avg_order": 600.0,
+        "hit_rate": 1.0
+    },
+    "to patient": {
+        "avg_count": 1.0,
+        "avg_order": 601.0,
+        "hit_rate": 1.0
+    },
+    "patient self": {
+        "avg_count": 1.0,
+        "avg_order": 603.0,
+        "hit_rate": 1.0
+    },
+    "self": {
+        "avg_count": 1.0,
+        "avg_order": 604.0,
+        "hit_rate": 1.0
+    },
+    "self reason": {
+        "avg_count": 1.0,
+        "avg_order": 605.0,
+        "hit_rate": 1.0
+    },
+    "reason": {
+        "avg_count": 1.0,
+        "avg_order": 606.0,
+        "hit_rate": 1.0
+    },
+    "reason patient": {
+        "avg_count": 1.0,
+        "avg_order": 607.0,
+        "hit_rate": 1.0
+    },
+    "patient could": {
+        "avg_count": 1.0,
+        "avg_order": 609.0,
+        "hit_rate": 1.0
+    },
+    "could": {
+        "avg_count": 1.0,
+        "avg_order": 610.0,
+        "hit_rate": 1.0
+    },
+    "could not": {
+        "avg_count": 1.0,
+        "avg_order": 611.0,
+        "hit_rate": 1.0
+    },
+    "not sign": {
+        "avg_count": 1.0,
+        "avg_order": 612.0,
+        "hit_rate": 1.0
+    },
+    "sign": {
+        "avg_count": 1.0,
+        "avg_order": 613.0,
+        "hit_rate": 1.0
+    },
+    "sign name": {
+        "avg_count": 1.0,
+        "avg_order": 614.0,
+        "hit_rate": 1.0
+    },
+    "of order": {
+        "avg_count": 1.5,
+        "avg_order": 457.0,
+        "hit_rate": 1.0
+    },
+    "ave suite": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.5
+    },
+    "fl bill": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.5
+    },
+    "to insurance": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 0.5
+    },
+    "services medicaid": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.5
+    },
+    "medicaid": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.5
+    },
+    "medicaid comments": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.5
+    },
+    "up compliance": {
+        "avg_count": 1.0,
+        "avg_order": 57.0,
+        "hit_rate": 0.5
+    },
+    "required delivery": {
+        "avg_count": 1.0,
+        "avg_order": 61.0,
+        "hit_rate": 0.5
+    },
+    "receipt branch": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.5
+    },
+    "branch": {
+        "avg_count": 1.0,
+        "avg_order": 66.0,
+        "hit_rate": 0.5
+    },
+    "branch inv": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.5
+    },
+    "location date": {
+        "avg_count": 1.0,
+        "avg_order": 71.0,
+        "hit_rate": 0.5
+    },
+    "date cs": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 0.5
+    },
+    "cs order": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.5
+    },
+    "patient id": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.5
+    },
+    "id customer": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.5
+    },
+    "gender shippeddelivered": {
+        "avg_count": 1.0,
+        "avg_order": 87.0,
+        "hit_rate": 0.5
+    },
+    "mobile hipaa": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.5
+    },
+    "yes rx": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.5
+    },
+    "rx cpap": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.5
+    },
+    "cpap at": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.5
+    },
+    "at cm": {
+        "avg_count": 1.0,
+        "avg_order": 107.0,
+        "hit_rate": 0.5
+    },
+    "with epr": {
+        "avg_count": 1.0,
+        "avg_order": 110.0,
+        "hit_rate": 0.5
+    },
+    "epr": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.5
+    },
+    "epr and": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.5
+    },
+    "and airtouch": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.5
+    },
+    "airtouch": {
+        "avg_count": 1.0,
+        "avg_order": 114.0,
+        "hit_rate": 0.5
+    },
+    "airtouch f": {
+        "avg_count": 1.0,
+        "avg_order": 115.0,
+        "hit_rate": 0.5
+    },
+    "f mask": {
+        "avg_count": 1.0,
+        "avg_order": 116.0,
+        "hit_rate": 0.5
+    },
+    "mask from": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.5
+    },
+    "dr carlos": {
+        "avg_count": 1.0,
+        "avg_order": 120.0,
+        "hit_rate": 0.5
+    },
+    "carlos": {
+        "avg_count": 1.0,
+        "avg_order": 121.0,
+        "hit_rate": 0.5
+    },
+    "carlos santos": {
+        "avg_count": 1.0,
+        "avg_order": 122.0,
+        "hit_rate": 0.5
+    },
+    "santos": {
+        "avg_count": 1.0,
+        "avg_order": 123.0,
+        "hit_rate": 0.5
+    },
+    "santos ord": {
+        "avg_count": 1.0,
+        "avg_order": 124.0,
+        "hit_rate": 0.5
+    },
+    "amt copay": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.5
+    },
+    "copay rental": {
+        "avg_count": 1.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.5
+    },
+    "rental resmed": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.5
+    },
+    "uomeaches serial": {
+        "avg_count": 1.0,
+        "avg_order": 152.0,
+        "hit_rate": 0.5
+    },
+    "note cpgeneric": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.5
+    },
+    "autoset humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.5
+    },
+    "note pillow": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.5
+    },
+    "nasal resmed": {
+        "avg_count": 1.0,
+        "avg_order": 217.0,
+        "hit_rate": 0.5
+    },
+    "resmed airfit": {
+        "avg_count": 1.0,
+        "avg_order": 219.0,
+        "hit_rate": 0.5
+    },
+    "airfit": {
+        "avg_count": 1.0,
+        "avg_order": 220.0,
+        "hit_rate": 0.5
+    },
+    "airfit f": {
+        "avg_count": 1.0,
+        "avg_order": 221.0,
+        "hit_rate": 0.5
+    },
+    "f system": {
+        "avg_count": 1.0,
+        "avg_order": 222.0,
+        "hit_rate": 0.5
+    },
+    "system": {
+        "avg_count": 1.0,
+        "avg_order": 223.0,
+        "hit_rate": 0.5
+    },
+    "system medium": {
+        "avg_count": 1.0,
+        "avg_order": 224.0,
+        "hit_rate": 0.5
+    },
+    "medium": {
+        "avg_count": 1.0,
+        "avg_order": 225.0,
+        "hit_rate": 0.5
+    },
+    "medium whdgr": {
+        "avg_count": 1.0,
+        "avg_order": 226.0,
+        "hit_rate": 0.5
+    },
+    "whdgr": {
+        "avg_count": 1.0,
+        "avg_order": 227.0,
+        "hit_rate": 0.5
+    },
+    "whdgr purchase": {
+        "avg_count": 1.0,
+        "avg_order": 228.0,
+        "hit_rate": 0.5
+    },
+    "nasal name": {
+        "avg_count": 1.0,
+        "avg_order": 253.0,
+        "hit_rate": 0.5
+    },
+    "name abreu": {
+        "avg_count": 2.0,
+        "avg_order": 255.0,
+        "hit_rate": 0.5
+    },
+    "abreu": {
+        "avg_count": 3.0,
+        "avg_order": 256.0,
+        "hit_rate": 0.5
+    },
+    "abreu juan": {
+        "avg_count": 3.0,
+        "avg_order": 257.0,
+        "hit_rate": 0.5
+    },
+    "juan": {
+        "avg_count": 3.0,
+        "avg_order": 258.0,
+        "hit_rate": 0.5
+    },
+    "juan order": {
+        "avg_count": 1.0,
+        "avg_order": 259.0,
+        "hit_rate": 0.5
+    },
+    "order page": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 0.5
+    },
+    "of ord": {
+        "avg_count": 1.0,
+        "avg_order": 264.0,
+        "hit_rate": 0.5
+    },
+    "agreement linh": {
+        "avg_count": 1.0,
+        "avg_order": 544.0,
+        "hit_rate": 0.5
+    },
+    "linh": {
+        "avg_count": 1.0,
+        "avg_order": 545.0,
+        "hit_rate": 0.5
+    },
+    "linh dl": {
+        "avg_count": 1.0,
+        "avg_order": 546.0,
+        "hit_rate": 0.5
+    },
+    "dl signature": {
+        "avg_count": 1.0,
+        "avg_order": 547.0,
+        "hit_rate": 0.5
+    },
+    "representative abreu": {
+        "avg_count": 1.0,
+        "avg_order": 563.0,
+        "hit_rate": 0.5
+    },
+    "juan daniel": {
+        "avg_count": 1.0,
+        "avg_order": 567.0,
+        "hit_rate": 0.5
+    },
+    "daniel": {
+        "avg_count": 1.0,
+        "avg_order": 568.0,
+        "hit_rate": 0.5
+    },
+    "daniel torres": {
+        "avg_count": 1.0,
+        "avg_order": 569.0,
+        "hit_rate": 0.5
+    },
+    "torres": {
+        "avg_count": 1.0,
+        "avg_order": 570.0,
+        "hit_rate": 0.5
+    },
+    "torres relationship": {
+        "avg_count": 1.0,
+        "avg_order": 571.0,
+        "hit_rate": 0.5
+    },
+    "juan page": {
+        "avg_count": 1.0,
+        "avg_order": 593.0,
+        "hit_rate": 0.5
+    },
+    "receipt american": {
+        "avg_count": 1.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.5
+    },
+    "inc branchamerican": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.5
+    },
+    "branchamerican": {
+        "avg_count": 1.0,
+        "avg_order": 22.0,
+        "hit_rate": 0.5
+    },
+    "branchamerican homecare": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.5
+    },
+    "ave inv": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 0.5
+    },
+    "location miami": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.5
+    },
+    "miami": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.5
+    },
+    "miami warehouse": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.5
+    },
+    "warehouse": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.5
+    },
+    "warehouse suite": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.5
+    },
+    "fl date": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.5
+    },
+    "date csr": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.5
+    },
+    "csr": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.5
+    },
+    "csr order": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.5
+    },
+    "patient customer": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.5
+    },
+    "gender female": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.5
+    },
+    "female": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.5
+    },
+    "female ht": {
+        "avg_count": 1.0,
+        "avg_order": 66.0,
+        "hit_rate": 0.5
+    },
+    "ht in": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.5
+    },
+    "in wt": {
+        "avg_count": 1.0,
+        "avg_order": 68.0,
+        "hit_rate": 0.5
+    },
+    "wt ib": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.5
+    },
+    "ib bill": {
+        "avg_count": 1.0,
+        "avg_order": 70.0,
+        "hit_rate": 0.5
+    },
+    "to shippeddelivered": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 0.5
+    },
+    "mobile insurance": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.5
+    },
+    "services aarp": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.5
+    },
+    "aarp": {
+        "avg_count": 1.0,
+        "avg_order": 89.0,
+        "hit_rate": 0.5
+    },
+    "aarp hipaa": {
+        "avg_count": 1.0,
+        "avg_order": 90.0,
+        "hit_rate": 0.5
+    },
+    "yes comments": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 0.5
+    },
+    "up hcmg": {
+        "avg_count": 1.0,
+        "avg_order": 115.0,
+        "hit_rate": 0.5
+    },
+    "hcmg": {
+        "avg_count": 1.0,
+        "avg_order": 116.0,
+        "hit_rate": 0.5
+    },
+    "hcmg clinic": {
+        "avg_count": 1.0,
+        "avg_order": 117.0,
+        "hit_rate": 0.5
+    },
+    "clinic": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.5
+    },
+    "clinic compliance": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.5
+    },
+    "required rx": {
+        "avg_count": 1.0,
+        "avg_order": 123.0,
+        "hit_rate": 0.5
+    },
+    "rx apap": {
+        "avg_count": 1.0,
+        "avg_order": 124.0,
+        "hit_rate": 0.5
+    },
+    "apap": {
+        "avg_count": 1.0,
+        "avg_order": 125.0,
+        "hit_rate": 0.5
+    },
+    "apap cm": {
+        "avg_count": 1.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.5
+    },
+    "with mask": {
+        "avg_count": 1.0,
+        "avg_order": 129.0,
+        "hit_rate": 0.5
+    },
+    "mask of": {
+        "avg_count": 1.0,
+        "avg_order": 131.0,
+        "hit_rate": 0.5
+    },
+    "of choice": {
+        "avg_count": 1.0,
+        "avg_order": 132.0,
+        "hit_rate": 0.5
+    },
+    "choice": {
+        "avg_count": 1.0,
+        "avg_order": 133.0,
+        "hit_rate": 0.5
+    },
+    "choice from": {
+        "avg_count": 1.0,
+        "avg_order": 134.0,
+        "hit_rate": 0.5
+    },
+    "dr frank": {
+        "avg_count": 1.0,
+        "avg_order": 136.0,
+        "hit_rate": 0.5
+    },
+    "frank": {
+        "avg_count": 1.0,
+        "avg_order": 137.0,
+        "hit_rate": 0.5
+    },
+    "frank sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 138.0,
+        "hit_rate": 0.5
+    },
+    "sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 139.0,
+        "hit_rate": 0.5
+    },
+    "sorhage authorize": {
+        "avg_count": 1.0,
+        "avg_order": 140.0,
+        "hit_rate": 0.5
+    },
+    "authorize credit": {
+        "avg_count": 1.0,
+        "avg_order": 142.0,
+        "hit_rate": 0.5
+    },
+    "credit": {
+        "avg_count": 1.0,
+        "avg_order": 143.0,
+        "hit_rate": 0.5
+    },
+    "credit card": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.5
+    },
+    "card": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.5
+    },
+    "card ending": {
+        "avg_count": 1.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.5
+    },
+    "ending": {
+        "avg_count": 1.0,
+        "avg_order": 147.0,
+        "hit_rate": 0.5
+    },
+    "ending in": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.5
+    },
+    "in to": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 0.5
+    },
+    "to be": {
+        "avg_count": 1.0,
+        "avg_order": 150.0,
+        "hit_rate": 0.5
+    },
+    "be charged": {
+        "avg_count": 1.0,
+        "avg_order": 151.0,
+        "hit_rate": 0.5
+    },
+    "charged": {
+        "avg_count": 1.0,
+        "avg_order": 152.0,
+        "hit_rate": 0.5
+    },
+    "charged for": {
+        "avg_count": 1.0,
+        "avg_order": 153.0,
+        "hit_rate": 0.5
+    },
+    "for current": {
+        "avg_count": 1.0,
+        "avg_order": 154.0,
+        "hit_rate": 0.5
+    },
+    "current": {
+        "avg_count": 1.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.5
+    },
+    "current and": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.5
+    },
+    "and future": {
+        "avg_count": 1.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.5
+    },
+    "future": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.5
+    },
+    "future insurance": {
+        "avg_count": 1.0,
+        "avg_order": 159.0,
+        "hit_rate": 0.5
+    },
+    "insurance out": {
+        "avg_count": 1.0,
+        "avg_order": 161.0,
+        "hit_rate": 0.5
+    },
+    "out of": {
+        "avg_count": 1.0,
+        "avg_order": 162.0,
+        "hit_rate": 0.5
+    },
+    "the pocket": {
+        "avg_count": 1.0,
+        "avg_order": 164.0,
+        "hit_rate": 0.5
+    },
+    "pocket": {
+        "avg_count": 1.0,
+        "avg_order": 165.0,
+        "hit_rate": 0.5
+    },
+    "pocket responsibilities": {
+        "avg_count": 1.0,
+        "avg_order": 166.0,
+        "hit_rate": 0.5
+    },
+    "responsibilities": {
+        "avg_count": 1.0,
+        "avg_order": 167.0,
+        "hit_rate": 0.5
+    },
+    "responsibilities ord": {
+        "avg_count": 1.0,
+        "avg_order": 168.0,
+        "hit_rate": 0.5
+    },
+    "copay cpgeneric": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.5
+    },
+    "autoset resmed": {
+        "avg_count": 1.0,
+        "avg_order": 209.0,
+        "hit_rate": 0.5
+    },
+    "uomeaches rental": {
+        "avg_count": 1.0,
+        "avg_order": 213.0,
+        "hit_rate": 0.5
+    },
+    "rental serial": {
+        "avg_count": 1.0,
+        "avg_order": 215.0,
+        "hit_rate": 0.5
+    },
+    "note humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 221.0,
+        "hit_rate": 0.5
+    },
+    "purchase vitsmla": {
+        "avg_count": 1.0,
+        "avg_order": 257.0,
+        "hit_rate": 0.5
+    },
+    "vitsmla": {
+        "avg_count": 1.0,
+        "avg_order": 258.0,
+        "hit_rate": 0.5
+    },
+    "vitsmla ahc": {
+        "avg_count": 1.0,
+        "avg_order": 259.0,
+        "hit_rate": 0.5
+    },
+    "ahc": {
+        "avg_count": 1.0,
+        "avg_order": 260.0,
+        "hit_rate": 0.5
+    },
+    "ahc only": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 0.5
+    },
+    "only fisher": {
+        "avg_count": 1.0,
+        "avg_order": 262.0,
+        "hit_rate": 0.5
+    },
+    "fisher": {
+        "avg_count": 2.0,
+        "avg_order": 263.0,
+        "hit_rate": 0.5
+    },
+    "fisher and": {
+        "avg_count": 1.0,
+        "avg_order": 264.0,
+        "hit_rate": 0.5
+    },
+    "and paykel": {
+        "avg_count": 1.0,
+        "avg_order": 265.0,
+        "hit_rate": 0.5
+    },
+    "paykel": {
+        "avg_count": 2.0,
+        "avg_order": 266.0,
+        "hit_rate": 0.5
+    },
+    "paykel vitera": {
+        "avg_count": 1.0,
+        "avg_order": 267.0,
+        "hit_rate": 0.5
+    },
+    "vitera": {
+        "avg_count": 1.0,
+        "avg_order": 268.0,
+        "hit_rate": 0.5
+    },
+    "vitera ff": {
+        "avg_count": 1.0,
+        "avg_order": 269.0,
+        "hit_rate": 0.5
+    },
+    "ff fitpack": {
+        "avg_count": 1.0,
+        "avg_order": 270.0,
+        "hit_rate": 0.5
+    },
+    "fitpack": {
+        "avg_count": 1.0,
+        "avg_order": 271.0,
+        "hit_rate": 0.5
+    },
+    "fitpack fisher": {
+        "avg_count": 1.0,
+        "avg_order": 272.0,
+        "hit_rate": 0.5
+    },
+    "fisher paykel": {
+        "avg_count": 1.0,
+        "avg_order": 274.0,
+        "hit_rate": 0.5
+    },
+    "paykel healthcare": {
+        "avg_count": 1.0,
+        "avg_order": 276.0,
+        "hit_rate": 0.5
+    },
+    "healthcare": {
+        "avg_count": 1.0,
+        "avg_order": 277.0,
+        "hit_rate": 0.5
+    },
+    "healthcare vitismla": {
+        "avg_count": 1.0,
+        "avg_order": 278.0,
+        "hit_rate": 0.5
+    },
+    "vitismla": {
+        "avg_count": 1.0,
+        "avg_order": 279.0,
+        "hit_rate": 0.5
+    },
+    "vitismla uomeaches": {
+        "avg_count": 1.0,
+        "avg_order": 280.0,
+        "hit_rate": 0.5
+    },
+    "note name": {
+        "avg_count": 1.0,
+        "avg_order": 309.0,
+        "hit_rate": 0.5
+    },
+    "name shamlian": {
+        "avg_count": 2.0,
+        "avg_order": 311.0,
+        "hit_rate": 0.5
+    },
+    "shamlian": {
+        "avg_count": 2.0,
+        "avg_order": 312.0,
+        "hit_rate": 0.5
+    },
+    "shamlian diane": {
+        "avg_count": 2.0,
+        "avg_order": 313.0,
+        "hit_rate": 0.5
+    },
+    "diane": {
+        "avg_count": 2.0,
+        "avg_order": 314.0,
+        "hit_rate": 0.5
+    },
+    "diane page": {
+        "avg_count": 2.0,
+        "avg_order": 315.0,
+        "hit_rate": 0.5
+    },
+    "order ord": {
+        "avg_count": 1.0,
+        "avg_order": 320.0,
+        "hit_rate": 0.5
+    },
+    "agreement fhe": {
+        "avg_count": 1.0,
+        "avg_order": 600.0,
+        "hit_rate": 0.5
+    },
+    "fhe": {
+        "avg_count": 1.0,
+        "avg_order": 601.0,
+        "hit_rate": 0.5
+    },
+    "fhe emt": {
+        "avg_count": 1.0,
+        "avg_order": 602.0,
+        "hit_rate": 0.5
+    },
+    "emt": {
+        "avg_count": 1.0,
+        "avg_order": 603.0,
+        "hit_rate": 0.5
+    },
+    "emt le": {
+        "avg_count": 1.0,
+        "avg_order": 604.0,
+        "hit_rate": 0.5
+    },
+    "le signature": {
+        "avg_count": 1.0,
+        "avg_order": 605.0,
+        "hit_rate": 0.5
+    },
+    "representative humberto": {
+        "avg_count": 1.0,
+        "avg_order": 621.0,
+        "hit_rate": 0.5
+    },
+    "humberto": {
+        "avg_count": 1.0,
+        "avg_order": 622.0,
+        "hit_rate": 0.5
+    },
+    "humberto landa": {
+        "avg_count": 1.0,
+        "avg_order": 623.0,
+        "hit_rate": 0.5
+    },
+    "landa": {
+        "avg_count": 1.0,
+        "avg_order": 624.0,
+        "hit_rate": 0.5
+    },
+    "landa relationship": {
+        "avg_count": 1.0,
+        "avg_order": 625.0,
+        "hit_rate": 0.5
+    }
+}

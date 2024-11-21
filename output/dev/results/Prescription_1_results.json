@@ -1,0 +1,136 @@
+[
+    [
+        "prescriptions",
+        [
+            14.666666666666666,
+            [
+                [
+                    "cpap",
+                    8.0
+                ],
+                [
+                    "pain",
+                    5
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ],
+    [
+        "phys_notes",
+        [
+            12.839285714285714,
+            [
+                [
+                    "pain",
+                    8.0
+                ],
+                [
+                    "am from",
+                    2.25
+                ],
+                [
+                    "page of",
+                    1.875
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ],
+    [
+        "orders",
+        [
+            12.75,
+            [
+                [
+                    "am from",
+                    3.75
+                ],
+                [
+                    "page of",
+                    3.75
+                ],
+                [
+                    "cpap",
+                    3.0
+                ],
+                [
+                    "suite",
+                    2.25
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ],
+    [
+        "delivery_tickets",
+        [
+            10.5,
+            [
+                [
+                    "suite",
+                    4.5
+                ],
+                [
+                    "page of",
+                    3.0
+                ],
+                [
+                    "cpap",
+                    3.0
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ],
+    [
+        "sleep_study_reports",
+        [
+            5.25,
+            [
+                [
+                    "am from",
+                    2.25
+                ],
+                [
+                    "page of",
+                    1.5
+                ],
+                [
+                    "cpap",
+                    1.5
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ],
+    [
+        "compliance_reports",
+        [
+            3.0,
+            [
+                [
+                    "page of",
+                    1.5
+                ],
+                [
+                    "cpap",
+                    1.5
+                ]
+            ],
+            {
+                "length_bonus": 0
+            }
+        ]
+    ]
+]

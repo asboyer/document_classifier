@@ -1,0 +1,4898 @@
+{
+    "compliance_report_4": {
+        "resivied": {
+            "count": 1,
+            "order": 0
+        },
+        "resivied airview": {
+            "count": 1,
+            "order": 1
+        },
+        "airview": {
+            "count": 2,
+            "order": 2
+        },
+        "airview compliance": {
+            "count": 1,
+            "order": 3
+        },
+        "compliance": {
+            "count": 4,
+            "order": 4
+        },
+        "compliance report": {
+            "count": 1,
+            "order": 5
+        },
+        "report": {
+            "count": 1,
+            "order": 6
+        },
+        "report initial": {
+            "count": 1,
+            "order": 7
+        },
+        "initial": {
+            "count": 1,
+            "order": 8
+        },
+        "initial compliance": {
+            "count": 1,
+            "order": 9
+        },
+        "compliance period": {
+            "count": 1,
+            "order": 11
+        },
+        "period": {
+            "count": 1,
+            "order": 12
+        },
+        "period compliance": {
+            "count": 1,
+            "order": 13
+        },
+        "compliance met": {
+            "count": 1,
+            "order": 15
+        },
+        "met": {
+            "count": 1,
+            "order": 16
+        },
+        "met yes": {
+            "count": 1,
+            "order": 17
+        },
+        "yes": {
+            "count": 1,
+            "order": 18
+        },
+        "yes compliance": {
+            "count": 1,
+            "order": 19
+        },
+        "compliance percentage": {
+            "count": 1,
+            "order": 21
+        },
+        "percentage": {
+            "count": 1,
+            "order": 22
+        },
+        "percentage payor": {
+            "count": 1,
+            "order": 23
+        },
+        "payor": {
+            "count": 1,
+            "order": 24
+        },
+        "payor standard": {
+            "count": 1,
+            "order": 25
+        },
+        "standard": {
+            "count": 1,
+            "order": 26
+        },
+        "standard usage": {
+            "count": 1,
+            "order": 27
+        },
+        "usage": {
+            "count": 6,
+            "order": 28
+        },
+        "usage days": {
+            "count": 3,
+            "order": 29
+        },
+        "days": {
+            "count": 7,
+            "order": 30
+        },
+        "days days": {
+            "count": 1,
+            "order": 31
+        },
+        "days hours": {
+            "count": 3,
+            "order": 33
+        },
+        "hours": {
+            "count": 10,
+            "order": 34
+        },
+        "hours days": {
+            "count": 2,
+            "order": 35
+        },
+        "days usage": {
+            "count": 1,
+            "order": 41
+        },
+        "usage hours": {
+            "count": 2,
+            "order": 43
+        },
+        "hours hours": {
+            "count": 1,
+            "order": 45
+        },
+        "hours minutes": {
+            "count": 4,
+            "order": 47
+        },
+        "minutes": {
+            "count": 5,
+            "order": 48
+        },
+        "minutes average": {
+            "count": 2,
+            "order": 49
+        },
+        "average": {
+            "count": 3,
+            "order": 50
+        },
+        "average usage": {
+            "count": 2,
+            "order": 51
+        },
+        "usage total": {
+            "count": 1,
+            "order": 53
+        },
+        "total": {
+            "count": 2,
+            "order": 54
+        },
+        "total days": {
+            "count": 1,
+            "order": 55
+        },
+        "days used": {
+            "count": 2,
+            "order": 67
+        },
+        "used": {
+            "count": 3,
+            "order": 68
+        },
+        "used hours": {
+            "count": 3,
+            "order": 69
+        },
+        "minutes median": {
+            "count": 1,
+            "order": 73
+        },
+        "median": {
+            "count": 2,
+            "order": 74
+        },
+        "median usage": {
+            "count": 1,
+            "order": 75
+        },
+        "minutes total": {
+            "count": 1,
+            "order": 85
+        },
+        "total used": {
+            "count": 1,
+            "order": 87
+        },
+        "hours value": {
+            "count": 1,
+            "order": 91
+        },
+        "value": {
+            "count": 1,
+            "order": 92
+        },
+        "value since": {
+            "count": 1,
+            "order": 93
+        },
+        "since": {
+            "count": 1,
+            "order": 94
+        },
+        "since last": {
+            "count": 1,
+            "order": 95
+        },
+        "last": {
+            "count": 1,
+            "order": 96
+        },
+        "last reset": {
+            "count": 1,
+            "order": 97
+        },
+        "reset": {
+            "count": 1,
+            "order": 98
+        },
+        "reset hours": {
+            "count": 1,
+            "order": 99
+        },
+        "hours mirsanca": {
+            "count": 1,
+            "order": 101
+        },
+        "mirsanca": {
+            "count": 1,
+            "order": 102
+        },
+        "mirsanca autose": {
+            "count": 1,
+            "order": 103
+        },
+        "autose": {
+            "count": 1,
+            "order": 104
+        },
+        "autose serial": {
+            "count": 1,
+            "order": 105
+        },
+        "serial": {
+            "count": 1,
+            "order": 106
+        },
+        "serial number": {
+            "count": 1,
+            "order": 107
+        },
+        "number": {
+            "count": 1,
+            "order": 108
+        },
+        "number mode": {
+            "count": 1,
+            "order": 109
+        },
+        "mode": {
+            "count": 1,
+            "order": 110
+        },
+        "mode cpap": {
+            "count": 1,
+            "order": 111
+        },
+        "cpap": {
+            "count": 1,
+            "order": 112
+        },
+        "cpap set": {
+            "count": 1,
+            "order": 113
+        },
+        "set": {
+            "count": 1,
+            "order": 114
+        },
+        "set pressure": {
+            "count": 1,
+            "order": 115
+        },
+        "pressure": {
+            "count": 1,
+            "order": 116
+        },
+        "pressure cemh": {
+            "count": 1,
+            "order": 117
+        },
+        "cemh": {
+            "count": 1,
+            "order": 118
+        },
+        "cemh epr": {
+            "count": 1,
+            "order": 119
+        },
+        "epr": {
+            "count": 2,
+            "order": 120
+        },
+        "epr fulltime": {
+            "count": 1,
+            "order": 121
+        },
+        "fulltime": {
+            "count": 1,
+            "order": 122
+        },
+        "fulltime epr": {
+            "count": 1,
+            "order": 123
+        },
+        "epr level": {
+            "count": 1,
+            "order": 125
+        },
+        "level": {
+            "count": 1,
+            "order": 126
+        },
+        "level erap": {
+            "count": 1,
+            "order": 127
+        },
+        "erap": {
+            "count": 1,
+            "order": 128
+        },
+        "erap leaks": {
+            "count": 1,
+            "order": 129
+        },
+        "leaks": {
+            "count": 1,
+            "order": 130
+        },
+        "leaks lmin": {
+            "count": 1,
+            "order": 131
+        },
+        "lmin": {
+            "count": 1,
+            "order": 132
+        },
+        "lmin median": {
+            "count": 1,
+            "order": 133
+        },
+        "median th": {
+            "count": 1,
+            "order": 135
+        },
+        "th percentile": {
+            "count": 1,
+            "order": 136
+        },
+        "percentile": {
+            "count": 1,
+            "order": 137
+        },
+        "percentile maximum": {
+            "count": 1,
+            "order": 138
+        },
+        "maximum": {
+            "count": 1,
+            "order": 139
+        },
+        "maximum events": {
+            "count": 1,
+            "order": 140
+        },
+        "events": {
+            "count": 1,
+            "order": 141
+        },
+        "events per": {
+            "count": 1,
+            "order": 142
+        },
+        "per": {
+            "count": 2,
+            "order": 143
+        },
+        "per hour": {
+            "count": 1,
+            "order": 144
+        },
+        "hour": {
+            "count": 1,
+            "order": 145
+        },
+        "hour al": {
+            "count": 1,
+            "order": 146
+        },
+        "al hk": {
+            "count": 1,
+            "order": 147
+        },
+        "hk ahi": {
+            "count": 1,
+            "order": 148
+        },
+        "ahi": {
+            "count": 1,
+            "order": 149
+        },
+        "ahi apnea": {
+            "count": 1,
+            "order": 150
+        },
+        "apnea": {
+            "count": 1,
+            "order": 151
+        },
+        "apnea index": {
+            "count": 1,
+            "order": 152
+        },
+        "index": {
+            "count": 2,
+            "order": 153
+        },
+        "index central": {
+            "count": 1,
+            "order": 154
+        },
+        "central": {
+            "count": 1,
+            "order": 155
+        },
+        "central obstructive": {
+            "count": 1,
+            "order": 156
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 157
+        },
+        "obstructive unknown": {
+            "count": 1,
+            "order": 158
+        },
+        "unknown": {
+            "count": 1,
+            "order": 159
+        },
+        "unknown rera": {
+            "count": 1,
+            "order": 160
+        },
+        "rera": {
+            "count": 1,
+            "order": 161
+        },
+        "rera index": {
+            "count": 1,
+            "order": 162
+        },
+        "index cheynestokes": {
+            "count": 1,
+            "order": 164
+        },
+        "cheynestokes": {
+            "count": 1,
+            "order": 165
+        },
+        "cheynestokes respiration": {
+            "count": 1,
+            "order": 166
+        },
+        "respiration": {
+            "count": 1,
+            "order": 167
+        },
+        "respiration average": {
+            "count": 1,
+            "order": 168
+        },
+        "average duration": {
+            "count": 1,
+            "order": 170
+        },
+        "duration": {
+            "count": 1,
+            "order": 171
+        },
+        "duration per": {
+            "count": 1,
+            "order": 172
+        },
+        "per night": {
+            "count": 1,
+            "order": 174
+        },
+        "night": {
+            "count": 1,
+            "order": 175
+        },
+        "night minutes": {
+            "count": 1,
+            "order": 176
+        },
+        "minutes usage": {
+            "count": 1,
+            "order": 178
+        },
+        "hours printed": {
+            "count": 1,
+            "order": 182
+        },
+        "printed": {
+            "count": 1,
+            "order": 183
+        },
+        "printed on": {
+            "count": 1,
+            "order": 184
+        },
+        "on resmed": {
+            "count": 1,
+            "order": 185
+        },
+        "resmed": {
+            "count": 1,
+            "order": 186
+        },
+        "resmed airview": {
+            "count": 1,
+            "order": 187
+        },
+        "airview version": {
+            "count": 1,
+            "order": 189
+        },
+        "version": {
+            "count": 1,
+            "order": 190
+        },
+        "version page": {
+            "count": 1,
+            "order": 191
+        },
+        "page": {
+            "count": 1,
+            "order": 192
+        },
+        "page of": {
+            "count": 1,
+            "order": 193
+        },
+        "of i": {
+            "count": 1,
+            "order": 194
+        }
+    },
+    "compliance_report_2": {
+        "resmed": {
+            "count": 4,
+            "order": 0
+        },
+        "resmed airview": {
+            "count": 2,
+            "order": 1
+        },
+        "airview": {
+            "count": 5,
+            "order": 2
+        },
+        "airview fort": {
+            "count": 2,
+            "order": 3
+        },
+        "fort": {
+            "count": 8,
+            "order": 4
+        },
+        "fort lauderdale": {
+            "count": 8,
+            "order": 5
+        },
+        "lauderdale": {
+            "count": 8,
+            "order": 6
+        },
+        "lauderdale nw": {
+            "count": 4,
+            "order": 7
+        },
+        "nw th": {
+            "count": 4,
+            "order": 8
+        },
+        "th ave": {
+            "count": 4,
+            "order": 9
+        },
+        "ave": {
+            "count": 4,
+            "order": 10
+        },
+        "ave ste": {
+            "count": 4,
+            "order": 11
+        },
+        "ste": {
+            "count": 4,
+            "order": 12
+        },
+        "ste fort": {
+            "count": 4,
+            "order": 13
+        },
+        "lauderdale florida": {
+            "count": 2,
+            "order": 17
+        },
+        "florida": {
+            "count": 4,
+            "order": 18
+        },
+        "florida phone": {
+            "count": 4,
+            "order": 19
+        },
+        "phone": {
+            "count": 4,
+            "order": 20
+        },
+        "phone email": {
+            "count": 4,
+            "order": 21
+        },
+        "email": {
+            "count": 4,
+            "order": 22
+        },
+        "email lsologurenahcequipcom": {
+            "count": 4,
+            "order": 23
+        },
+        "lsologurenahcequipcom": {
+            "count": 4,
+            "order": 24
+        },
+        "lsologurenahcequipcom compliance": {
+            "count": 1,
+            "order": 25
+        },
+        "compliance": {
+            "count": 4,
+            "order": 26
+        },
+        "compliance report": {
+            "count": 1,
+            "order": 27
+        },
+        "report": {
+            "count": 4,
+            "order": 28
+        },
+        "report initial": {
+            "count": 1,
+            "order": 29
+        },
+        "initial": {
+            "count": 1,
+            "order": 30
+        },
+        "initial compliance": {
+            "count": 1,
+            "order": 31
+        },
+        "compliance period": {
+            "count": 1,
+            "order": 33
+        },
+        "period": {
+            "count": 1,
+            "order": 34
+        },
+        "period compliance": {
+            "count": 1,
+            "order": 35
+        },
+        "compliance met": {
+            "count": 1,
+            "order": 37
+        },
+        "met": {
+            "count": 1,
+            "order": 38
+        },
+        "met yes": {
+            "count": 1,
+            "order": 39
+        },
+        "yes": {
+            "count": 1,
+            "order": 40
+        },
+        "yes compliance": {
+            "count": 1,
+            "order": 41
+        },
+        "compliance percentage": {
+            "count": 1,
+            "order": 43
+        },
+        "percentage": {
+            "count": 1,
+            "order": 44
+        },
+        "percentage payor": {
+            "count": 1,
+            "order": 45
+        },
+        "payor": {
+            "count": 1,
+            "order": 46
+        },
+        "payor medicare": {
+            "count": 1,
+            "order": 47
+        },
+        "medicare": {
+            "count": 1,
+            "order": 48
+        },
+        "medicare usage": {
+            "count": 1,
+            "order": 49
+        },
+        "usage": {
+            "count": 9,
+            "order": 50
+        },
+        "usage usage": {
+            "count": 1,
+            "order": 51
+        },
+        "usage days": {
+            "count": 4,
+            "order": 53
+        },
+        "days": {
+            "count": 11,
+            "order": 54
+        },
+        "days days": {
+            "count": 2,
+            "order": 55
+        },
+        "days hours": {
+            "count": 3,
+            "order": 57
+        },
+        "hours": {
+            "count": 11,
+            "order": 58
+        },
+        "hours days": {
+            "count": 2,
+            "order": 59
+        },
+        "days usage": {
+            "count": 1,
+            "order": 65
+        },
+        "usage hours": {
+            "count": 3,
+            "order": 67
+        },
+        "hours hours": {
+            "count": 1,
+            "order": 69
+        },
+        "hours minutes": {
+            "count": 4,
+            "order": 71
+        },
+        "minutes": {
+            "count": 5,
+            "order": 72
+        },
+        "minutes average": {
+            "count": 2,
+            "order": 73
+        },
+        "average": {
+            "count": 3,
+            "order": 74
+        },
+        "average usage": {
+            "count": 2,
+            "order": 75
+        },
+        "usage total": {
+            "count": 1,
+            "order": 77
+        },
+        "total": {
+            "count": 2,
+            "order": 78
+        },
+        "total days": {
+            "count": 1,
+            "order": 79
+        },
+        "days used": {
+            "count": 2,
+            "order": 91
+        },
+        "used": {
+            "count": 5,
+            "order": 92
+        },
+        "used hours": {
+            "count": 3,
+            "order": 93
+        },
+        "minutes median": {
+            "count": 1,
+            "order": 97
+        },
+        "median": {
+            "count": 8,
+            "order": 98
+        },
+        "median usage": {
+            "count": 1,
+            "order": 99
+        },
+        "minutes total": {
+            "count": 1,
+            "order": 109
+        },
+        "total used": {
+            "count": 1,
+            "order": 111
+        },
+        "hours value": {
+            "count": 1,
+            "order": 115
+        },
+        "value": {
+            "count": 1,
+            "order": 116
+        },
+        "value since": {
+            "count": 1,
+            "order": 117
+        },
+        "since": {
+            "count": 1,
+            "order": 118
+        },
+        "since last": {
+            "count": 1,
+            "order": 119
+        },
+        "last": {
+            "count": 1,
+            "order": 120
+        },
+        "last reset": {
+            "count": 1,
+            "order": 121
+        },
+        "reset": {
+            "count": 1,
+            "order": 122
+        },
+        "reset hours": {
+            "count": 1,
+            "order": 123
+        },
+        "hours airsense": {
+            "count": 1,
+            "order": 125
+        },
+        "airsense": {
+            "count": 5,
+            "order": 126
+        },
+        "airsense autoset": {
+            "count": 4,
+            "order": 127
+        },
+        "autoset": {
+            "count": 6,
+            "order": 128
+        },
+        "autoset serial": {
+            "count": 1,
+            "order": 129
+        },
+        "serial": {
+            "count": 1,
+            "order": 130
+        },
+        "serial number": {
+            "count": 1,
+            "order": 131
+        },
+        "number": {
+            "count": 1,
+            "order": 132
+        },
+        "number mode": {
+            "count": 1,
+            "order": 133
+        },
+        "mode": {
+            "count": 2,
+            "order": 134
+        },
+        "mode autoset": {
+            "count": 2,
+            "order": 135
+        },
+        "autoset min": {
+            "count": 1,
+            "order": 137
+        },
+        "min": {
+            "count": 3,
+            "order": 138
+        },
+        "min pressure": {
+            "count": 2,
+            "order": 139
+        },
+        "pressure": {
+            "count": 6,
+            "order": 140
+        },
+        "pressure cmh": {
+            "count": 4,
+            "order": 141
+        },
+        "cmh": {
+            "count": 4,
+            "order": 142
+        },
+        "cmh max": {
+            "count": 1,
+            "order": 143
+        },
+        "max": {
+            "count": 2,
+            "order": 144
+        },
+        "max pressure": {
+            "count": 2,
+            "order": 145
+        },
+        "cmh epr": {
+            "count": 1,
+            "order": 149
+        },
+        "epr": {
+            "count": 3,
+            "order": 150
+        },
+        "epr ramp": {
+            "count": 2,
+            "order": 151
+        },
+        "ramp": {
+            "count": 2,
+            "order": 152
+        },
+        "ramp only": {
+            "count": 2,
+            "order": 153
+        },
+        "only epr": {
+            "count": 1,
+            "order": 154
+        },
+        "epr level": {
+            "count": 1,
+            "order": 156
+        },
+        "level": {
+            "count": 1,
+            "order": 157
+        },
+        "level response": {
+            "count": 1,
+            "order": 158
+        },
+        "response": {
+            "count": 1,
+            "order": 159
+        },
+        "response standard": {
+            "count": 1,
+            "order": 160
+        },
+        "standard": {
+            "count": 1,
+            "order": 161
+        },
+        "standard therapy": {
+            "count": 1,
+            "order": 162
+        },
+        "therapy": {
+            "count": 10,
+            "order": 163
+        },
+        "therapy pressure": {
+            "count": 1,
+            "order": 164
+        },
+        "cmh median": {
+            "count": 1,
+            "order": 168
+        },
+        "median th": {
+            "count": 2,
+            "order": 170
+        },
+        "th percentile": {
+            "count": 2,
+            "order": 171
+        },
+        "percentile": {
+            "count": 2,
+            "order": 172
+        },
+        "percentile maximum": {
+            "count": 2,
+            "order": 173
+        },
+        "maximum": {
+            "count": 7,
+            "order": 174
+        },
+        "maximum leaks": {
+            "count": 1,
+            "order": 175
+        },
+        "leaks": {
+            "count": 1,
+            "order": 176
+        },
+        "leaks lmin": {
+            "count": 1,
+            "order": 177
+        },
+        "lmin": {
+            "count": 2,
+            "order": 178
+        },
+        "lmin median": {
+            "count": 1,
+            "order": 179
+        },
+        "maximum events": {
+            "count": 1,
+            "order": 186
+        },
+        "events": {
+            "count": 1,
+            "order": 187
+        },
+        "events per": {
+            "count": 1,
+            "order": 188
+        },
+        "per": {
+            "count": 3,
+            "order": 189
+        },
+        "per hour": {
+            "count": 1,
+            "order": 190
+        },
+        "hour": {
+            "count": 2,
+            "order": 191
+        },
+        "hour al": {
+            "count": 1,
+            "order": 192
+        },
+        "al hi": {
+            "count": 1,
+            "order": 193
+        },
+        "hi ahi": {
+            "count": 1,
+            "order": 194
+        },
+        "ahi": {
+            "count": 2,
+            "order": 195
+        },
+        "ahi apnea": {
+            "count": 1,
+            "order": 196
+        },
+        "apnea": {
+            "count": 1,
+            "order": 197
+        },
+        "apnea index": {
+            "count": 1,
+            "order": 198
+        },
+        "index": {
+            "count": 2,
+            "order": 199
+        },
+        "index central": {
+            "count": 1,
+            "order": 200
+        },
+        "central": {
+            "count": 1,
+            "order": 201
+        },
+        "central obstructive": {
+            "count": 1,
+            "order": 202
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 203
+        },
+        "obstructive unknown": {
+            "count": 1,
+            "order": 204
+        },
+        "unknown": {
+            "count": 1,
+            "order": 205
+        },
+        "unknown rera": {
+            "count": 1,
+            "order": 206
+        },
+        "rera": {
+            "count": 2,
+            "order": 207
+        },
+        "rera index": {
+            "count": 1,
+            "order": 208
+        },
+        "index cheynestokes": {
+            "count": 1,
+            "order": 210
+        },
+        "cheynestokes": {
+            "count": 1,
+            "order": 211
+        },
+        "cheynestokes respiration": {
+            "count": 1,
+            "order": 212
+        },
+        "respiration": {
+            "count": 1,
+            "order": 213
+        },
+        "respiration average": {
+            "count": 1,
+            "order": 214
+        },
+        "average duration": {
+            "count": 1,
+            "order": 216
+        },
+        "duration": {
+            "count": 1,
+            "order": 217
+        },
+        "duration per": {
+            "count": 1,
+            "order": 218
+        },
+        "per night": {
+            "count": 1,
+            "order": 220
+        },
+        "night": {
+            "count": 1,
+            "order": 221
+        },
+        "night minutes": {
+            "count": 1,
+            "order": 222
+        },
+        "minutes usage": {
+            "count": 1,
+            "order": 224
+        },
+        "hours fort": {
+            "count": 1,
+            "order": 228
+        },
+        "lauderdale resmed": {
+            "count": 2,
+            "order": 242
+        },
+        "resmed florida": {
+            "count": 2,
+            "order": 244
+        },
+        "lsologurenahcequipcom airview": {
+            "count": 2,
+            "order": 252
+        },
+        "airview therapy": {
+            "count": 2,
+            "order": 254
+        },
+        "therapy report": {
+            "count": 3,
+            "order": 256
+        },
+        "report airsense": {
+            "count": 3,
+            "order": 258
+        },
+        "autoset usage": {
+            "count": 1,
+            "order": 262
+        },
+        "hours usage": {
+            "count": 1,
+            "order": 266
+        },
+        "days hour": {
+            "count": 1,
+            "order": 270
+        },
+        "hour days": {
+            "count": 1,
+            "order": 272
+        },
+        "days not": {
+            "count": 1,
+            "order": 276
+        },
+        "not used": {
+            "count": 1,
+            "order": 277
+        },
+        "used days": {
+            "count": 1,
+            "order": 279
+        },
+        "days no": {
+            "count": 1,
+            "order": 281
+        },
+        "no data": {
+            "count": 1,
+            "order": 282
+        },
+        "data": {
+            "count": 3,
+            "order": 283
+        },
+        "data usedday": {
+            "count": 1,
+            "order": 284
+        },
+        "usedday": {
+            "count": 1,
+            "order": 285
+        },
+        "usedday avg": {
+            "count": 1,
+            "order": 286
+        },
+        "avg": {
+            "count": 16,
+            "order": 287
+        },
+        "avg hrs": {
+            "count": 1,
+            "order": 288
+        },
+        "hrs": {
+            "count": 1,
+            "order": 289
+        },
+        "hrs leak": {
+            "count": 1,
+            "order": 290
+        },
+        "leak": {
+            "count": 1,
+            "order": 291
+        },
+        "leak lmin": {
+            "count": 1,
+            "order": 292
+        },
+        "lmin set": {
+            "count": 1,
+            "order": 294
+        },
+        "set": {
+            "count": 4,
+            "order": 295
+        },
+        "set threshold": {
+            "count": 1,
+            "order": 296
+        },
+        "threshold": {
+            "count": 1,
+            "order": 297
+        },
+        "threshold min": {
+            "count": 1,
+            "order": 298
+        },
+        "min maximum": {
+            "count": 1,
+            "order": 300
+        },
+        "maximum avg": {
+            "count": 5,
+            "order": 302
+        },
+        "avg median": {
+            "count": 5,
+            "order": 304
+        },
+        "median avg": {
+            "count": 5,
+            "order": 306
+        },
+        "avg pressure": {
+            "count": 1,
+            "order": 308
+        },
+        "cmh mode": {
+            "count": 1,
+            "order": 312
+        },
+        "autoset set": {
+            "count": 1,
+            "order": 316
+        },
+        "set epr": {
+            "count": 1,
+            "order": 318
+        },
+        "only set": {
+            "count": 1,
+            "order": 323
+        },
+        "set max": {
+            "count": 1,
+            "order": 325
+        },
+        "pressure set": {
+            "count": 1,
+            "order": 329
+        },
+        "set min": {
+            "count": 1,
+            "order": 331
+        },
+        "pressure maximum": {
+            "count": 1,
+            "order": 335
+        },
+        "avg th": {
+            "count": 4,
+            "order": 339
+        },
+        "th avg": {
+            "count": 4,
+            "order": 340
+        },
+        "avg ahi": {
+            "count": 1,
+            "order": 346
+        },
+        "ahi eventshour": {
+            "count": 1,
+            "order": 348
+        },
+        "eventshour": {
+            "count": 1,
+            "order": 349
+        },
+        "eventshour ah": {
+            "count": 1,
+            "order": 350
+        },
+        "ah a": {
+            "count": 1,
+            "order": 351
+        },
+        "a al": {
+            "count": 1,
+            "order": 352
+        },
+        "al cai": {
+            "count": 1,
+            "order": 353
+        },
+        "cai": {
+            "count": 1,
+            "order": 354
+        },
+        "cai oai": {
+            "count": 1,
+            "order": 355
+        },
+        "oai": {
+            "count": 1,
+            "order": 356
+        },
+        "oai uai": {
+            "count": 1,
+            "order": 357
+        },
+        "uai": {
+            "count": 1,
+            "order": 358
+        },
+        "uai rera": {
+            "count": 1,
+            "order": 359
+        },
+        "rera csr": {
+            "count": 1,
+            "order": 361
+        },
+        "csr": {
+            "count": 1,
+            "order": 362
+        },
+        "csr avg": {
+            "count": 1,
+            "order": 363
+        },
+        "avg fort": {
+            "count": 1,
+            "order": 365
+        },
+        "autoset tidal": {
+            "count": 1,
+            "order": 399
+        },
+        "tidal": {
+            "count": 1,
+            "order": 400
+        },
+        "tidal volume": {
+            "count": 1,
+            "order": 401
+        },
+        "volume": {
+            "count": 1,
+            "order": 402
+        },
+        "volume maximum": {
+            "count": 1,
+            "order": 403
+        },
+        "avg respiratory": {
+            "count": 1,
+            "order": 414
+        },
+        "respiratory": {
+            "count": 1,
+            "order": 415
+        },
+        "respiratory ratabreathsmin": {
+            "count": 1,
+            "order": 416
+        },
+        "ratabreathsmin": {
+            "count": 1,
+            "order": 417
+        },
+        "ratabreathsmin maximum": {
+            "count": 1,
+            "order": 418
+        },
+        "avg minute": {
+            "count": 1,
+            "order": 429
+        },
+        "minute": {
+            "count": 1,
+            "order": 430
+        },
+        "minute ventilationlmin": {
+            "count": 1,
+            "order": 431
+        },
+        "ventilationlmin": {
+            "count": 1,
+            "order": 432
+        },
+        "ventilationlmin maximum": {
+            "count": 1,
+            "order": 433
+        },
+        "avg resmed": {
+            "count": 1,
+            "order": 444
+        },
+        "lsologurenahcequipcom therapy": {
+            "count": 1,
+            "order": 470
+        },
+        "autoset care": {
+            "count": 1,
+            "order": 478
+        },
+        "care": {
+            "count": 3,
+            "order": 479
+        },
+        "care checkin": {
+            "count": 3,
+            "order": 480
+        },
+        "checkin": {
+            "count": 3,
+            "order": 481
+        },
+        "checkin no": {
+            "count": 1,
+            "order": 482
+        },
+        "no available": {
+            "count": 1,
+            "order": 483
+        },
+        "available": {
+            "count": 1,
+            "order": 484
+        },
+        "available data": {
+            "count": 1,
+            "order": 485
+        },
+        "data because": {
+            "count": 1,
+            "order": 487
+        },
+        "because the": {
+            "count": 1,
+            "order": 488
+        },
+        "the user": {
+            "count": 2,
+            "order": 489
+        },
+        "user": {
+            "count": 2,
+            "order": 490
+        },
+        "user declined": {
+            "count": 1,
+            "order": 491
+        },
+        "declined": {
+            "count": 1,
+            "order": 492
+        },
+        "declined to": {
+            "count": 1,
+            "order": 493
+        },
+        "to answer": {
+            "count": 1,
+            "order": 494
+        },
+        "answer": {
+            "count": 1,
+            "order": 495
+        },
+        "answer the": {
+            "count": 1,
+            "order": 496
+        },
+        "the therapy": {
+            "count": 1,
+            "order": 497
+        },
+        "therapy questions": {
+            "count": 1,
+            "order": 499
+        },
+        "questions": {
+            "count": 3,
+            "order": 500
+        },
+        "questions this": {
+            "count": 1,
+            "order": 501
+        },
+        "this feature": {
+            "count": 1,
+            "order": 502
+        },
+        "feature": {
+            "count": 1,
+            "order": 503
+        },
+        "feature was": {
+            "count": 1,
+            "order": 504
+        },
+        "was turned": {
+            "count": 1,
+            "order": 505
+        },
+        "turned": {
+            "count": 1,
+            "order": 506
+        },
+        "turned off": {
+            "count": 1,
+            "order": 507
+        },
+        "off on": {
+            "count": 1,
+            "order": 508
+        },
+        "on the": {
+            "count": 2,
+            "order": 509
+        },
+        "the users": {
+            "count": 1,
+            "order": 510
+        },
+        "users": {
+            "count": 2,
+            "order": 511
+        },
+        "users machine": {
+            "count": 1,
+            "order": 512
+        },
+        "machine": {
+            "count": 2,
+            "order": 513
+        },
+        "machine or": {
+            "count": 1,
+            "order": 514
+        },
+        "or the": {
+            "count": 1,
+            "order": 515
+        },
+        "user did": {
+            "count": 1,
+            "order": 518
+        },
+        "did not": {
+            "count": 1,
+            "order": 519
+        },
+        "not consent": {
+            "count": 1,
+            "order": 520
+        },
+        "consent": {
+            "count": 1,
+            "order": 521
+        },
+        "consent to": {
+            "count": 1,
+            "order": 522
+        },
+        "to share": {
+            "count": 1,
+            "order": 523
+        },
+        "share": {
+            "count": 2,
+            "order": 524
+        },
+        "share their": {
+            "count": 1,
+            "order": 525
+        },
+        "their data": {
+            "count": 1,
+            "order": 526
+        },
+        "data with": {
+            "count": 1,
+            "order": 528
+        },
+        "with myair": {
+            "count": 1,
+            "order": 529
+        },
+        "myair": {
+            "count": 2,
+            "order": 530
+        },
+        "myair about": {
+            "count": 1,
+            "order": 531
+        },
+        "about care": {
+            "count": 1,
+            "order": 532
+        },
+        "checkin short": {
+            "count": 1,
+            "order": 536
+        },
+        "short": {
+            "count": 1,
+            "order": 537
+        },
+        "short patient": {
+            "count": 1,
+            "order": 538
+        },
+        "patient": {
+            "count": 4,
+            "order": 539
+        },
+        "patient surveys": {
+            "count": 1,
+            "order": 540
+        },
+        "surveys": {
+            "count": 1,
+            "order": 541
+        },
+        "surveys are": {
+            "count": 1,
+            "order": 542
+        },
+        "are conducted": {
+            "count": 1,
+            "order": 543
+        },
+        "conducted": {
+            "count": 1,
+            "order": 544
+        },
+        "conducted on": {
+            "count": 1,
+            "order": 545
+        },
+        "the airsense": {
+            "count": 1,
+            "order": 547
+        },
+        "airsense and": {
+            "count": 1,
+            "order": 549
+        },
+        "and myair": {
+            "count": 1,
+            "order": 550
+        },
+        "myair app": {
+            "count": 1,
+            "order": 552
+        },
+        "app": {
+            "count": 1,
+            "order": 553
+        },
+        "app to": {
+            "count": 1,
+            "order": 554
+        },
+        "to better": {
+            "count": 1,
+            "order": 555
+        },
+        "better": {
+            "count": 1,
+            "order": 556
+        },
+        "better understand": {
+            "count": 1,
+            "order": 557
+        },
+        "understand": {
+            "count": 1,
+            "order": 558
+        },
+        "understand how": {
+            "count": 1,
+            "order": 559
+        },
+        "how the": {
+            "count": 1,
+            "order": 560
+        },
+        "the patient": {
+            "count": 3,
+            "order": 561
+        },
+        "patient is": {
+            "count": 2,
+            "order": 563
+        },
+        "is doing": {
+            "count": 1,
+            "order": 564
+        },
+        "doing with": {
+            "count": 1,
+            "order": 565
+        },
+        "with therapy": {
+            "count": 1,
+            "order": 566
+        },
+        "therapy if": {
+            "count": 1,
+            "order": 568
+        },
+        "if the": {
+            "count": 1,
+            "order": 569
+        },
+        "patient consents": {
+            "count": 1,
+            "order": 572
+        },
+        "consents": {
+            "count": 1,
+            "order": 573
+        },
+        "consents we": {
+            "count": 1,
+            "order": 574
+        },
+        "we can": {
+            "count": 1,
+            "order": 575
+        },
+        "can share": {
+            "count": 1,
+            "order": 576
+        },
+        "share care": {
+            "count": 1,
+            "order": 578
+        },
+        "checkin information": {
+            "count": 1,
+            "order": 582
+        },
+        "information": {
+            "count": 1,
+            "order": 583
+        },
+        "information through": {
+            "count": 1,
+            "order": 584
+        },
+        "through airview": {
+            "count": 1,
+            "order": 585
+        },
+        "airview for": {
+            "count": 1,
+            "order": 587
+        },
+        "for clinical": {
+            "count": 1,
+            "order": 588
+        },
+        "clinical": {
+            "count": 1,
+            "order": 589
+        },
+        "clinical users": {
+            "count": 1,
+            "order": 590
+        },
+        "users questions": {
+            "count": 1,
+            "order": 592
+        },
+        "questions and": {
+            "count": 1,
+            "order": 594
+        },
+        "and answers": {
+            "count": 1,
+            "order": 595
+        },
+        "answers": {
+            "count": 1,
+            "order": 596
+        },
+        "answers at": {
+            "count": 1,
+            "order": 597
+        },
+        "at the": {
+            "count": 1,
+            "order": 598
+        },
+        "the beginning": {
+            "count": 1,
+            "order": 599
+        },
+        "beginning": {
+            "count": 1,
+            "order": 600
+        },
+        "beginning of": {
+            "count": 1,
+            "order": 601
+        },
+        "of therapy": {
+            "count": 2,
+            "order": 602
+        },
+        "therapy the": {
+            "count": 1,
+            "order": 604
+        },
+        "is asked": {
+            "count": 1,
+            "order": 608
+        },
+        "asked": {
+            "count": 2,
+            "order": 609
+        },
+        "asked a": {
+            "count": 1,
+            "order": 610
+        },
+        "a baseline": {
+            "count": 1,
+            "order": 611
+        },
+        "baseline": {
+            "count": 1,
+            "order": 612
+        },
+        "baseline question": {
+            "count": 1,
+            "order": 613
+        },
+        "question": {
+            "count": 1,
+            "order": 614
+        },
+        "question a": {
+            "count": 1,
+            "order": 615
+        },
+        "a few": {
+            "count": 1,
+            "order": 616
+        },
+        "few additional": {
+            "count": 1,
+            "order": 617
+        },
+        "additional": {
+            "count": 1,
+            "order": 618
+        },
+        "additional questions": {
+            "count": 1,
+            "order": 619
+        },
+        "questions are": {
+            "count": 1,
+            "order": 621
+        },
+        "are asked": {
+            "count": 1,
+            "order": 622
+        },
+        "asked about": {
+            "count": 1,
+            "order": 624
+        },
+        "about once": {
+            "count": 1,
+            "order": 625
+        },
+        "once per": {
+            "count": 1,
+            "order": 626
+        },
+        "per week": {
+            "count": 1,
+            "order": 628
+        },
+        "week": {
+            "count": 2,
+            "order": 629
+        },
+        "week during": {
+            "count": 1,
+            "order": 630
+        },
+        "during the": {
+            "count": 1,
+            "order": 631
+        },
+        "the early": {
+            "count": 1,
+            "order": 632
+        },
+        "early": {
+            "count": 1,
+            "order": 633
+        },
+        "early stages": {
+            "count": 1,
+            "order": 634
+        },
+        "stages": {
+            "count": 1,
+            "order": 635
+        },
+        "stages of": {
+            "count": 1,
+            "order": 636
+        },
+        "therapy for": {
+            "count": 1,
+            "order": 639
+        },
+        "for example": {
+            "count": 1,
+            "order": 640
+        },
+        "example": {
+            "count": 1,
+            "order": 641
+        },
+        "example how": {
+            "count": 1,
+            "order": 642
+        },
+        "how sleepy": {
+            "count": 1,
+            "order": 643
+        },
+        "sleepy": {
+            "count": 1,
+            "order": 644
+        },
+        "sleepy did": {
+            "count": 1,
+            "order": 645
+        },
+        "did you": {
+            "count": 1,
+            "order": 646
+        },
+        "you feel": {
+            "count": 1,
+            "order": 647
+        },
+        "feel": {
+            "count": 1,
+            "order": 648
+        },
+        "feel this": {
+            "count": 1,
+            "order": 649
+        },
+        "this week": {
+            "count": 1,
+            "order": 650
+        },
+        "week extremely": {
+            "count": 1,
+            "order": 652
+        },
+        "extremely": {
+            "count": 1,
+            "order": 653
+        },
+        "extremely very": {
+            "count": 1,
+            "order": 654
+        },
+        "very moderately": {
+            "count": 1,
+            "order": 655
+        },
+        "moderately": {
+            "count": 1,
+            "order": 656
+        },
+        "moderately slightly": {
+            "count": 1,
+            "order": 657
+        },
+        "slightly": {
+            "count": 1,
+            "order": 658
+        },
+        "slightly not": {
+            "count": 1,
+            "order": 659
+        },
+        "not at": {
+            "count": 1,
+            "order": 660
+        },
+        "at all": {
+            "count": 1,
+            "order": 661
+        },
+        "all how": {
+            "count": 1,
+            "order": 662
+        },
+        "how is": {
+            "count": 1,
+            "order": 663
+        },
+        "is your": {
+            "count": 1,
+            "order": 664
+        },
+        "your therapy": {
+            "count": 1,
+            "order": 665
+        },
+        "therapy great": {
+            "count": 1,
+            "order": 667
+        },
+        "great": {
+            "count": 1,
+            "order": 668
+        },
+        "great ok": {
+            "count": 1,
+            "order": 669
+        },
+        "ok challenging": {
+            "count": 1,
+            "order": 670
+        },
+        "challenging": {
+            "count": 1,
+            "order": 671
+        },
+        "challenging what": {
+            "count": 1,
+            "order": 672
+        },
+        "what bothers": {
+            "count": 1,
+            "order": 673
+        },
+        "bothers": {
+            "count": 1,
+            "order": 674
+        },
+        "bothers you": {
+            "count": 1,
+            "order": 675
+        },
+        "you most": {
+            "count": 1,
+            "order": 676
+        },
+        "most getting": {
+            "count": 1,
+            "order": 677
+        },
+        "getting": {
+            "count": 1,
+            "order": 678
+        },
+        "getting used": {
+            "count": 1,
+            "order": 679
+        },
+        "used to": {
+            "count": 1,
+            "order": 681
+        },
+        "to therapy": {
+            "count": 1,
+            "order": 682
+        },
+        "therapy fitting": {
+            "count": 1,
+            "order": 684
+        },
+        "fitting": {
+            "count": 1,
+            "order": 685
+        },
+        "fitting the": {
+            "count": 1,
+            "order": 686
+        },
+        "the mask": {
+            "count": 1,
+            "order": 687
+        },
+        "mask": {
+            "count": 1,
+            "order": 688
+        },
+        "mask using": {
+            "count": 1,
+            "order": 689
+        },
+        "using": {
+            "count": 1,
+            "order": 690
+        },
+        "using the": {
+            "count": 1,
+            "order": 691
+        },
+        "the machine": {
+            "count": 1,
+            "order": 692
+        }
+    },
+    "compliance_report_3": {
+        "oor": {
+            "count": 1,
+            "order": 0
+        },
+        "oor e": {
+            "count": 1,
+            "order": 1
+        },
+        "e e": {
+            "count": 1,
+            "order": 2
+        },
+        "e ay": {
+            "count": 1,
+            "order": 3
+        },
+        "ay eee": {
+            "count": 1,
+            "order": 4
+        },
+        "eee": {
+            "count": 1,
+            "order": 5
+        },
+        "eee resmed": {
+            "count": 1,
+            "order": 6
+        },
+        "resmed": {
+            "count": 4,
+            "order": 7
+        },
+        "resmed airview": {
+            "count": 3,
+            "order": 8
+        },
+        "airview": {
+            "count": 4,
+            "order": 9
+        },
+        "airview charleston": {
+            "count": 1,
+            "order": 10
+        },
+        "charleston": {
+            "count": 4,
+            "order": 11
+        },
+        "charleston executive": {
+            "count": 2,
+            "order": 12
+        },
+        "executive": {
+            "count": 2,
+            "order": 13
+        },
+        "executive hall": {
+            "count": 2,
+            "order": 14
+        },
+        "hall": {
+            "count": 2,
+            "order": 15
+        },
+        "hall rd": {
+            "count": 2,
+            "order": 16
+        },
+        "rd ste": {
+            "count": 2,
+            "order": 17
+        },
+        "ste": {
+            "count": 2,
+            "order": 18
+        },
+        "ste charleston": {
+            "count": 2,
+            "order": 19
+        },
+        "charleston south": {
+            "count": 1,
+            "order": 21
+        },
+        "south": {
+            "count": 1,
+            "order": 22
+        },
+        "south carolina": {
+            "count": 1,
+            "order": 23
+        },
+        "carolina": {
+            "count": 1,
+            "order": 24
+        },
+        "carolina phone": {
+            "count": 1,
+            "order": 25
+        },
+        "phone": {
+            "count": 2,
+            "order": 26
+        },
+        "phone fax": {
+            "count": 1,
+            "order": 27
+        },
+        "fax": {
+            "count": 2,
+            "order": 28
+        },
+        "fax email": {
+            "count": 2,
+            "order": 29
+        },
+        "email": {
+            "count": 2,
+            "order": 30
+        },
+        "email tatlanticrespiratorycom": {
+            "count": 2,
+            "order": 31
+        },
+        "tatlanticrespiratorycom": {
+            "count": 2,
+            "order": 32
+        },
+        "tatlanticrespiratorycom compliance": {
+            "count": 1,
+            "order": 33
+        },
+        "compliance": {
+            "count": 1,
+            "order": 34
+        },
+        "compliance report": {
+            "count": 1,
+            "order": 35
+        },
+        "report": {
+            "count": 2,
+            "order": 36
+        },
+        "report payor": {
+            "count": 1,
+            "order": 37
+        },
+        "payor": {
+            "count": 1,
+            "order": 38
+        },
+        "payor standard": {
+            "count": 1,
+            "order": 39
+        },
+        "standard": {
+            "count": 2,
+            "order": 40
+        },
+        "standard usage": {
+            "count": 1,
+            "order": 41
+        },
+        "usage": {
+            "count": 8,
+            "order": 42
+        },
+        "usage days": {
+            "count": 4,
+            "order": 43
+        },
+        "days": {
+            "count": 11,
+            "order": 44
+        },
+        "days days": {
+            "count": 2,
+            "order": 45
+        },
+        "days hours": {
+            "count": 3,
+            "order": 47
+        },
+        "hours": {
+            "count": 11,
+            "order": 48
+        },
+        "hours days": {
+            "count": 2,
+            "order": 49
+        },
+        "days usage": {
+            "count": 1,
+            "order": 55
+        },
+        "usage hours": {
+            "count": 3,
+            "order": 57
+        },
+        "hours hours": {
+            "count": 1,
+            "order": 59
+        },
+        "hours minutes": {
+            "count": 4,
+            "order": 61
+        },
+        "minutes": {
+            "count": 5,
+            "order": 62
+        },
+        "minutes average": {
+            "count": 2,
+            "order": 63
+        },
+        "average": {
+            "count": 3,
+            "order": 64
+        },
+        "average usage": {
+            "count": 2,
+            "order": 65
+        },
+        "usage total": {
+            "count": 1,
+            "order": 67
+        },
+        "total": {
+            "count": 2,
+            "order": 68
+        },
+        "total days": {
+            "count": 1,
+            "order": 69
+        },
+        "days used": {
+            "count": 2,
+            "order": 81
+        },
+        "used": {
+            "count": 4,
+            "order": 82
+        },
+        "used hours": {
+            "count": 3,
+            "order": 83
+        },
+        "minutes median": {
+            "count": 1,
+            "order": 87
+        },
+        "median": {
+            "count": 5,
+            "order": 88
+        },
+        "median usage": {
+            "count": 1,
+            "order": 89
+        },
+        "minutes total": {
+            "count": 1,
+            "order": 99
+        },
+        "total used": {
+            "count": 1,
+            "order": 101
+        },
+        "hours value": {
+            "count": 1,
+            "order": 105
+        },
+        "value": {
+            "count": 1,
+            "order": 106
+        },
+        "value since": {
+            "count": 1,
+            "order": 107
+        },
+        "since": {
+            "count": 1,
+            "order": 108
+        },
+        "since last": {
+            "count": 1,
+            "order": 109
+        },
+        "last": {
+            "count": 1,
+            "order": 110
+        },
+        "last reset": {
+            "count": 1,
+            "order": 111
+        },
+        "reset": {
+            "count": 1,
+            "order": 112
+        },
+        "reset hours": {
+            "count": 1,
+            "order": 113
+        },
+        "hours airsense": {
+            "count": 1,
+            "order": 115
+        },
+        "airsense": {
+            "count": 1,
+            "order": 116
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 117
+        },
+        "autoset": {
+            "count": 3,
+            "order": 118
+        },
+        "autoset serial": {
+            "count": 1,
+            "order": 119
+        },
+        "serial": {
+            "count": 1,
+            "order": 120
+        },
+        "serial number": {
+            "count": 1,
+            "order": 121
+        },
+        "number": {
+            "count": 1,
+            "order": 122
+        },
+        "number mode": {
+            "count": 1,
+            "order": 123
+        },
+        "mode": {
+            "count": 2,
+            "order": 124
+        },
+        "mode autoset": {
+            "count": 2,
+            "order": 125
+        },
+        "autoset min": {
+            "count": 1,
+            "order": 127
+        },
+        "min": {
+            "count": 3,
+            "order": 128
+        },
+        "min pressure": {
+            "count": 2,
+            "order": 129
+        },
+        "pressure": {
+            "count": 6,
+            "order": 130
+        },
+        "pressure cmh": {
+            "count": 4,
+            "order": 131
+        },
+        "cmh": {
+            "count": 4,
+            "order": 132
+        },
+        "cmh max": {
+            "count": 1,
+            "order": 133
+        },
+        "max": {
+            "count": 2,
+            "order": 134
+        },
+        "max pressure": {
+            "count": 2,
+            "order": 135
+        },
+        "cmh epr": {
+            "count": 1,
+            "order": 139
+        },
+        "epr": {
+            "count": 3,
+            "order": 140
+        },
+        "epr fulltime": {
+            "count": 2,
+            "order": 141
+        },
+        "fulltime": {
+            "count": 2,
+            "order": 142
+        },
+        "fulltime epr": {
+            "count": 1,
+            "order": 143
+        },
+        "epr level": {
+            "count": 1,
+            "order": 145
+        },
+        "level": {
+            "count": 1,
+            "order": 146
+        },
+        "level response": {
+            "count": 1,
+            "order": 147
+        },
+        "response": {
+            "count": 1,
+            "order": 148
+        },
+        "response standard": {
+            "count": 1,
+            "order": 149
+        },
+        "standard pressure": {
+            "count": 1,
+            "order": 151
+        },
+        "cmh median": {
+            "count": 1,
+            "order": 155
+        },
+        "median th": {
+            "count": 2,
+            "order": 157
+        },
+        "th percentile": {
+            "count": 2,
+            "order": 158
+        },
+        "percentile": {
+            "count": 2,
+            "order": 159
+        },
+        "percentile maximum": {
+            "count": 2,
+            "order": 160
+        },
+        "maximum": {
+            "count": 4,
+            "order": 161
+        },
+        "maximum leaks": {
+            "count": 1,
+            "order": 162
+        },
+        "leaks": {
+            "count": 1,
+            "order": 163
+        },
+        "leaks lmin": {
+            "count": 1,
+            "order": 164
+        },
+        "lmin": {
+            "count": 2,
+            "order": 165
+        },
+        "lmin median": {
+            "count": 1,
+            "order": 166
+        },
+        "maximum events": {
+            "count": 1,
+            "order": 173
+        },
+        "events": {
+            "count": 1,
+            "order": 174
+        },
+        "events per": {
+            "count": 1,
+            "order": 175
+        },
+        "per": {
+            "count": 2,
+            "order": 176
+        },
+        "per hour": {
+            "count": 1,
+            "order": 177
+        },
+        "hour": {
+            "count": 2,
+            "order": 178
+        },
+        "hour al": {
+            "count": 1,
+            "order": 179
+        },
+        "al hi": {
+            "count": 1,
+            "order": 180
+        },
+        "hi ahi": {
+            "count": 1,
+            "order": 181
+        },
+        "ahi": {
+            "count": 2,
+            "order": 182
+        },
+        "ahi apnea": {
+            "count": 1,
+            "order": 183
+        },
+        "apnea": {
+            "count": 1,
+            "order": 184
+        },
+        "apnea index": {
+            "count": 1,
+            "order": 185
+        },
+        "index": {
+            "count": 2,
+            "order": 186
+        },
+        "index central": {
+            "count": 1,
+            "order": 187
+        },
+        "central": {
+            "count": 1,
+            "order": 188
+        },
+        "central obstructive": {
+            "count": 1,
+            "order": 189
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 190
+        },
+        "obstructive unknown": {
+            "count": 1,
+            "order": 191
+        },
+        "unknown": {
+            "count": 1,
+            "order": 192
+        },
+        "unknown rera": {
+            "count": 1,
+            "order": 193
+        },
+        "rera": {
+            "count": 2,
+            "order": 194
+        },
+        "rera index": {
+            "count": 1,
+            "order": 195
+        },
+        "index cheynestokes": {
+            "count": 1,
+            "order": 197
+        },
+        "cheynestokes": {
+            "count": 1,
+            "order": 198
+        },
+        "cheynestokes respiration": {
+            "count": 1,
+            "order": 199
+        },
+        "respiration": {
+            "count": 1,
+            "order": 200
+        },
+        "respiration average": {
+            "count": 1,
+            "order": 201
+        },
+        "average duration": {
+            "count": 1,
+            "order": 203
+        },
+        "duration": {
+            "count": 1,
+            "order": 204
+        },
+        "duration per": {
+            "count": 1,
+            "order": 205
+        },
+        "per night": {
+            "count": 1,
+            "order": 207
+        },
+        "night": {
+            "count": 1,
+            "order": 208
+        },
+        "night minutes": {
+            "count": 1,
+            "order": 209
+        },
+        "minutes usage": {
+            "count": 1,
+            "order": 211
+        },
+        "hours printed": {
+            "count": 1,
+            "order": 215
+        },
+        "printed": {
+            "count": 2,
+            "order": 216
+        },
+        "printed on": {
+            "count": 2,
+            "order": 217
+        },
+        "on resmed": {
+            "count": 2,
+            "order": 218
+        },
+        "airview version": {
+            "count": 2,
+            "order": 222
+        },
+        "version": {
+            "count": 2,
+            "order": 223
+        },
+        "version page": {
+            "count": 2,
+            "order": 224
+        },
+        "page": {
+            "count": 2,
+            "order": 225
+        },
+        "page of": {
+            "count": 2,
+            "order": 226
+        },
+        "of charleston": {
+            "count": 1,
+            "order": 227
+        },
+        "charleston resmed": {
+            "count": 1,
+            "order": 238
+        },
+        "resmed phone": {
+            "count": 1,
+            "order": 240
+        },
+        "phone airview": {
+            "count": 1,
+            "order": 242
+        },
+        "airview fax": {
+            "count": 1,
+            "order": 244
+        },
+        "tatlanticrespiratorycom therapy": {
+            "count": 1,
+            "order": 250
+        },
+        "therapy": {
+            "count": 1,
+            "order": 251
+        },
+        "therapy report": {
+            "count": 1,
+            "order": 252
+        },
+        "report airs": {
+            "count": 1,
+            "order": 254
+        },
+        "airs": {
+            "count": 1,
+            "order": 255
+        },
+        "airs usage": {
+            "count": 1,
+            "order": 256
+        },
+        "hours usage": {
+            "count": 1,
+            "order": 260
+        },
+        "days hour": {
+            "count": 1,
+            "order": 264
+        },
+        "hour days": {
+            "count": 1,
+            "order": 266
+        },
+        "days not": {
+            "count": 1,
+            "order": 270
+        },
+        "not used": {
+            "count": 1,
+            "order": 271
+        },
+        "used days": {
+            "count": 1,
+            "order": 273
+        },
+        "days no": {
+            "count": 1,
+            "order": 275
+        },
+        "no data": {
+            "count": 1,
+            "order": 276
+        },
+        "data": {
+            "count": 1,
+            "order": 277
+        },
+        "data usedday": {
+            "count": 1,
+            "order": 278
+        },
+        "usedday": {
+            "count": 1,
+            "order": 279
+        },
+        "usedday avg": {
+            "count": 1,
+            "order": 280
+        },
+        "avg": {
+            "count": 7,
+            "order": 281
+        },
+        "avg hrs": {
+            "count": 1,
+            "order": 282
+        },
+        "hrs": {
+            "count": 1,
+            "order": 283
+        },
+        "hrs leak": {
+            "count": 1,
+            "order": 284
+        },
+        "leak": {
+            "count": 1,
+            "order": 285
+        },
+        "leak lmin": {
+            "count": 1,
+            "order": 286
+        },
+        "lmin set": {
+            "count": 1,
+            "order": 288
+        },
+        "set": {
+            "count": 4,
+            "order": 289
+        },
+        "set threshold": {
+            "count": 1,
+            "order": 290
+        },
+        "threshold": {
+            "count": 1,
+            "order": 291
+        },
+        "threshold min": {
+            "count": 1,
+            "order": 292
+        },
+        "min maximum": {
+            "count": 1,
+            "order": 294
+        },
+        "maximum avg": {
+            "count": 2,
+            "order": 296
+        },
+        "avg median": {
+            "count": 2,
+            "order": 298
+        },
+        "median avg": {
+            "count": 2,
+            "order": 300
+        },
+        "avg pressure": {
+            "count": 1,
+            "order": 302
+        },
+        "cmh mode": {
+            "count": 1,
+            "order": 306
+        },
+        "autoset set": {
+            "count": 1,
+            "order": 310
+        },
+        "set epr": {
+            "count": 1,
+            "order": 312
+        },
+        "fulltime set": {
+            "count": 1,
+            "order": 316
+        },
+        "set max": {
+            "count": 1,
+            "order": 318
+        },
+        "pressure set": {
+            "count": 1,
+            "order": 322
+        },
+        "set min": {
+            "count": 1,
+            "order": 324
+        },
+        "pressure maximum": {
+            "count": 1,
+            "order": 328
+        },
+        "avg th": {
+            "count": 1,
+            "order": 332
+        },
+        "th avg": {
+            "count": 1,
+            "order": 333
+        },
+        "avg ahi": {
+            "count": 1,
+            "order": 339
+        },
+        "ahi eventshour": {
+            "count": 1,
+            "order": 341
+        },
+        "eventshour": {
+            "count": 1,
+            "order": 342
+        },
+        "eventshour ah": {
+            "count": 1,
+            "order": 343
+        },
+        "ah a": {
+            "count": 1,
+            "order": 344
+        },
+        "a al": {
+            "count": 1,
+            "order": 345
+        },
+        "al u": {
+            "count": 1,
+            "order": 346
+        },
+        "u cai": {
+            "count": 1,
+            "order": 347
+        },
+        "cai": {
+            "count": 1,
+            "order": 348
+        },
+        "cai oai": {
+            "count": 1,
+            "order": 349
+        },
+        "oai": {
+            "count": 1,
+            "order": 350
+        },
+        "oai uai": {
+            "count": 1,
+            "order": 351
+        },
+        "uai": {
+            "count": 1,
+            "order": 352
+        },
+        "uai rera": {
+            "count": 1,
+            "order": 353
+        },
+        "rera csr": {
+            "count": 1,
+            "order": 355
+        },
+        "csr": {
+            "count": 1,
+            "order": 356
+        },
+        "csr avg": {
+            "count": 1,
+            "order": 357
+        },
+        "avg printed": {
+            "count": 1,
+            "order": 359
+        }
+    },
+    "compliance_report_1": {
+        "oor": {
+            "count": 1,
+            "order": 0
+        },
+        "oor e": {
+            "count": 1,
+            "order": 1
+        },
+        "e e": {
+            "count": 1,
+            "order": 2
+        },
+        "e ay": {
+            "count": 1,
+            "order": 3
+        },
+        "ay eee": {
+            "count": 1,
+            "order": 4
+        },
+        "eee": {
+            "count": 1,
+            "order": 5
+        },
+        "eee resmed": {
+            "count": 1,
+            "order": 6
+        },
+        "resmed": {
+            "count": 3,
+            "order": 7
+        },
+        "resmed airview": {
+            "count": 3,
+            "order": 8
+        },
+        "airview": {
+            "count": 4,
+            "order": 9
+        },
+        "airview age": {
+            "count": 2,
+            "order": 10
+        },
+        "age": {
+            "count": 2,
+            "order": 11
+        },
+        "age years": {
+            "count": 2,
+            "order": 12
+        },
+        "years": {
+            "count": 2,
+            "order": 13
+        },
+        "years compliance": {
+            "count": 1,
+            "order": 14
+        },
+        "compliance": {
+            "count": 3,
+            "order": 15
+        },
+        "compliance report": {
+            "count": 1,
+            "order": 16
+        },
+        "report": {
+            "count": 4,
+            "order": 17
+        },
+        "report gender": {
+            "count": 2,
+            "order": 18
+        },
+        "gender": {
+            "count": 2,
+            "order": 19
+        },
+        "gender male": {
+            "count": 2,
+            "order": 20
+        },
+        "male": {
+            "count": 2,
+            "order": 21
+        },
+        "male compliance": {
+            "count": 1,
+            "order": 22
+        },
+        "compliance met": {
+            "count": 1,
+            "order": 24
+        },
+        "met": {
+            "count": 1,
+            "order": 25
+        },
+        "met yes": {
+            "count": 1,
+            "order": 26
+        },
+        "yes": {
+            "count": 1,
+            "order": 27
+        },
+        "yes compliance": {
+            "count": 1,
+            "order": 28
+        },
+        "compliance percentage": {
+            "count": 1,
+            "order": 30
+        },
+        "percentage": {
+            "count": 1,
+            "order": 31
+        },
+        "percentage payor": {
+            "count": 1,
+            "order": 32
+        },
+        "payor": {
+            "count": 1,
+            "order": 33
+        },
+        "payor medicare": {
+            "count": 1,
+            "order": 34
+        },
+        "medicare": {
+            "count": 1,
+            "order": 35
+        },
+        "medicare usage": {
+            "count": 1,
+            "order": 36
+        },
+        "usage": {
+            "count": 8,
+            "order": 37
+        },
+        "usage days": {
+            "count": 4,
+            "order": 38
+        },
+        "days": {
+            "count": 11,
+            "order": 39
+        },
+        "days days": {
+            "count": 2,
+            "order": 40
+        },
+        "days hours": {
+            "count": 3,
+            "order": 42
+        },
+        "hours": {
+            "count": 11,
+            "order": 43
+        },
+        "hours days": {
+            "count": 2,
+            "order": 44
+        },
+        "days usage": {
+            "count": 1,
+            "order": 50
+        },
+        "usage hours": {
+            "count": 3,
+            "order": 52
+        },
+        "hours hours": {
+            "count": 1,
+            "order": 54
+        },
+        "hours minutes": {
+            "count": 4,
+            "order": 56
+        },
+        "minutes": {
+            "count": 5,
+            "order": 57
+        },
+        "minutes average": {
+            "count": 2,
+            "order": 58
+        },
+        "average": {
+            "count": 3,
+            "order": 59
+        },
+        "average usage": {
+            "count": 2,
+            "order": 60
+        },
+        "usage total": {
+            "count": 1,
+            "order": 62
+        },
+        "total": {
+            "count": 2,
+            "order": 63
+        },
+        "total days": {
+            "count": 1,
+            "order": 64
+        },
+        "days used": {
+            "count": 2,
+            "order": 76
+        },
+        "used": {
+            "count": 5,
+            "order": 77
+        },
+        "used hours": {
+            "count": 3,
+            "order": 78
+        },
+        "minutes median": {
+            "count": 1,
+            "order": 82
+        },
+        "median": {
+            "count": 6,
+            "order": 83
+        },
+        "median usage": {
+            "count": 1,
+            "order": 84
+        },
+        "minutes total": {
+            "count": 1,
+            "order": 94
+        },
+        "total used": {
+            "count": 1,
+            "order": 96
+        },
+        "hours value": {
+            "count": 1,
+            "order": 100
+        },
+        "value": {
+            "count": 1,
+            "order": 101
+        },
+        "value since": {
+            "count": 1,
+            "order": 102
+        },
+        "since": {
+            "count": 1,
+            "order": 103
+        },
+        "since last": {
+            "count": 1,
+            "order": 104
+        },
+        "last": {
+            "count": 2,
+            "order": 105
+        },
+        "last reset": {
+            "count": 1,
+            "order": 106
+        },
+        "reset": {
+            "count": 1,
+            "order": 107
+        },
+        "reset hours": {
+            "count": 1,
+            "order": 108
+        },
+        "hours airsense": {
+            "count": 1,
+            "order": 110
+        },
+        "airsense": {
+            "count": 3,
+            "order": 111
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 112
+        },
+        "autoset": {
+            "count": 3,
+            "order": 113
+        },
+        "autoset serial": {
+            "count": 1,
+            "order": 114
+        },
+        "serial": {
+            "count": 1,
+            "order": 115
+        },
+        "serial number": {
+            "count": 1,
+            "order": 116
+        },
+        "number": {
+            "count": 1,
+            "order": 117
+        },
+        "number mode": {
+            "count": 1,
+            "order": 118
+        },
+        "mode": {
+            "count": 2,
+            "order": 119
+        },
+        "mode cpap": {
+            "count": 2,
+            "order": 120
+        },
+        "cpap": {
+            "count": 2,
+            "order": 121
+        },
+        "cpap set": {
+            "count": 2,
+            "order": 122
+        },
+        "set": {
+            "count": 4,
+            "order": 123
+        },
+        "set pressure": {
+            "count": 2,
+            "order": 124
+        },
+        "pressure": {
+            "count": 3,
+            "order": 125
+        },
+        "pressure cmh": {
+            "count": 2,
+            "order": 126
+        },
+        "cmh": {
+            "count": 2,
+            "order": 127
+        },
+        "cmh epr": {
+            "count": 1,
+            "order": 128
+        },
+        "epr": {
+            "count": 3,
+            "order": 129
+        },
+        "epr fulltime": {
+            "count": 2,
+            "order": 130
+        },
+        "fulltime": {
+            "count": 2,
+            "order": 131
+        },
+        "fulltime epr": {
+            "count": 1,
+            "order": 132
+        },
+        "epr level": {
+            "count": 1,
+            "order": 134
+        },
+        "level": {
+            "count": 1,
+            "order": 135
+        },
+        "level leaks": {
+            "count": 1,
+            "order": 136
+        },
+        "leaks": {
+            "count": 1,
+            "order": 137
+        },
+        "leaks lmin": {
+            "count": 1,
+            "order": 138
+        },
+        "lmin": {
+            "count": 1,
+            "order": 139
+        },
+        "lmin median": {
+            "count": 1,
+            "order": 140
+        },
+        "median th": {
+            "count": 1,
+            "order": 142
+        },
+        "th percentile": {
+            "count": 1,
+            "order": 143
+        },
+        "percentile": {
+            "count": 1,
+            "order": 144
+        },
+        "percentile maximum": {
+            "count": 1,
+            "order": 145
+        },
+        "maximum": {
+            "count": 5,
+            "order": 146
+        },
+        "maximum events": {
+            "count": 1,
+            "order": 147
+        },
+        "events": {
+            "count": 1,
+            "order": 148
+        },
+        "events per": {
+            "count": 1,
+            "order": 149
+        },
+        "per": {
+            "count": 3,
+            "order": 150
+        },
+        "per hour": {
+            "count": 1,
+            "order": 151
+        },
+        "hour": {
+            "count": 2,
+            "order": 152
+        },
+        "hour al": {
+            "count": 1,
+            "order": 153
+        },
+        "al hi": {
+            "count": 1,
+            "order": 154
+        },
+        "hi ahi": {
+            "count": 1,
+            "order": 155
+        },
+        "ahi": {
+            "count": 2,
+            "order": 156
+        },
+        "ahi apnea": {
+            "count": 1,
+            "order": 157
+        },
+        "apnea": {
+            "count": 1,
+            "order": 158
+        },
+        "apnea index": {
+            "count": 1,
+            "order": 159
+        },
+        "index": {
+            "count": 2,
+            "order": 160
+        },
+        "index central": {
+            "count": 1,
+            "order": 161
+        },
+        "central": {
+            "count": 1,
+            "order": 162
+        },
+        "central obstructive": {
+            "count": 1,
+            "order": 163
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 164
+        },
+        "obstructive unknown": {
+            "count": 1,
+            "order": 165
+        },
+        "unknown": {
+            "count": 1,
+            "order": 166
+        },
+        "unknown rera": {
+            "count": 1,
+            "order": 167
+        },
+        "rera": {
+            "count": 2,
+            "order": 168
+        },
+        "rera index": {
+            "count": 1,
+            "order": 169
+        },
+        "index cheynestokes": {
+            "count": 1,
+            "order": 171
+        },
+        "cheynestokes": {
+            "count": 1,
+            "order": 172
+        },
+        "cheynestokes respiration": {
+            "count": 1,
+            "order": 173
+        },
+        "respiration": {
+            "count": 1,
+            "order": 174
+        },
+        "respiration average": {
+            "count": 1,
+            "order": 175
+        },
+        "average duration": {
+            "count": 1,
+            "order": 177
+        },
+        "duration": {
+            "count": 1,
+            "order": 178
+        },
+        "duration per": {
+            "count": 1,
+            "order": 179
+        },
+        "per night": {
+            "count": 1,
+            "order": 181
+        },
+        "night": {
+            "count": 1,
+            "order": 182
+        },
+        "night minutes": {
+            "count": 1,
+            "order": 183
+        },
+        "minutes usage": {
+            "count": 1,
+            "order": 185
+        },
+        "hours resmed": {
+            "count": 1,
+            "order": 189
+        },
+        "years therapy": {
+            "count": 1,
+            "order": 197
+        },
+        "therapy": {
+            "count": 9,
+            "order": 198
+        },
+        "therapy report": {
+            "count": 3,
+            "order": 199
+        },
+        "male nse": {
+            "count": 1,
+            "order": 205
+        },
+        "nse": {
+            "count": 1,
+            "order": 206
+        },
+        "nse autoset": {
+            "count": 1,
+            "order": 207
+        },
+        "autoset usage": {
+            "count": 1,
+            "order": 209
+        },
+        "hours usage": {
+            "count": 1,
+            "order": 213
+        },
+        "days hour": {
+            "count": 1,
+            "order": 217
+        },
+        "hour days": {
+            "count": 1,
+            "order": 219
+        },
+        "days not": {
+            "count": 1,
+            "order": 223
+        },
+        "not used": {
+            "count": 1,
+            "order": 224
+        },
+        "used days": {
+            "count": 1,
+            "order": 226
+        },
+        "days no": {
+            "count": 1,
+            "order": 228
+        },
+        "no data": {
+            "count": 1,
+            "order": 229
+        },
+        "data": {
+            "count": 3,
+            "order": 230
+        },
+        "data usedday": {
+            "count": 1,
+            "order": 231
+        },
+        "usedday": {
+            "count": 1,
+            "order": 232
+        },
+        "usedday avg": {
+            "count": 1,
+            "order": 233
+        },
+        "avg": {
+            "count": 13,
+            "order": 234
+        },
+        "avg hrs": {
+            "count": 1,
+            "order": 235
+        },
+        "hrs": {
+            "count": 1,
+            "order": 236
+        },
+        "hrs leak": {
+            "count": 1,
+            "order": 237
+        },
+        "leak": {
+            "count": 1,
+            "order": 238
+        },
+        "leak tmin": {
+            "count": 1,
+            "order": 239
+        },
+        "tmin": {
+            "count": 1,
+            "order": 240
+        },
+        "tmin set": {
+            "count": 1,
+            "order": 241
+        },
+        "set threshold": {
+            "count": 1,
+            "order": 243
+        },
+        "threshold": {
+            "count": 1,
+            "order": 244
+        },
+        "threshold min": {
+            "count": 1,
+            "order": 245
+        },
+        "min": {
+            "count": 1,
+            "order": 246
+        },
+        "min maximum": {
+            "count": 1,
+            "order": 247
+        },
+        "maximum avg": {
+            "count": 4,
+            "order": 249
+        },
+        "avg median": {
+            "count": 4,
+            "order": 251
+        },
+        "median avg": {
+            "count": 4,
+            "order": 253
+        },
+        "avg pressure": {
+            "count": 1,
+            "order": 255
+        },
+        "cmh mode": {
+            "count": 1,
+            "order": 259
+        },
+        "set epr": {
+            "count": 1,
+            "order": 265
+        },
+        "fulltime set": {
+            "count": 1,
+            "order": 269
+        },
+        "pressure ahi": {
+            "count": 1,
+            "order": 273
+        },
+        "ahi eventshour": {
+            "count": 1,
+            "order": 275
+        },
+        "eventshour": {
+            "count": 1,
+            "order": 276
+        },
+        "eventshour ah": {
+            "count": 1,
+            "order": 277
+        },
+        "ah cal": {
+            "count": 1,
+            "order": 278
+        },
+        "cal": {
+            "count": 1,
+            "order": 279
+        },
+        "cal oal": {
+            "count": 1,
+            "order": 280
+        },
+        "oal": {
+            "count": 1,
+            "order": 281
+        },
+        "oal uai": {
+            "count": 1,
+            "order": 282
+        },
+        "uai": {
+            "count": 1,
+            "order": 283
+        },
+        "uai rera": {
+            "count": 1,
+            "order": 284
+        },
+        "rera csr": {
+            "count": 1,
+            "order": 286
+        },
+        "csr": {
+            "count": 1,
+            "order": 287
+        },
+        "csr avg": {
+            "count": 1,
+            "order": 288
+        },
+        "avg maximum": {
+            "count": 3,
+            "order": 290
+        },
+        "avg th": {
+            "count": 3,
+            "order": 294
+        },
+        "th avg": {
+            "count": 3,
+            "order": 295
+        },
+        "avg therapy": {
+            "count": 1,
+            "order": 323
+        },
+        "report airsense": {
+            "count": 1,
+            "order": 327
+        },
+        "airsense oset": {
+            "count": 1,
+            "order": 329
+        },
+        "oset": {
+            "count": 1,
+            "order": 330
+        },
+        "oset sn": {
+            "count": 1,
+            "order": 331
+        },
+        "sn tidal": {
+            "count": 1,
+            "order": 332
+        },
+        "tidal": {
+            "count": 1,
+            "order": 333
+        },
+        "tidal volume": {
+            "count": 1,
+            "order": 334
+        },
+        "volume": {
+            "count": 1,
+            "order": 335
+        },
+        "volume respiratory": {
+            "count": 1,
+            "order": 336
+        },
+        "respiratory": {
+            "count": 1,
+            "order": 337
+        },
+        "respiratory ratabreathsmin": {
+            "count": 1,
+            "order": 338
+        },
+        "ratabreathsmin": {
+            "count": 1,
+            "order": 339
+        },
+        "ratabreathsmin minute": {
+            "count": 1,
+            "order": 340
+        },
+        "minute": {
+            "count": 1,
+            "order": 341
+        },
+        "minute ventilationlmin": {
+            "count": 1,
+            "order": 342
+        },
+        "ventilationlmin": {
+            "count": 1,
+            "order": 343
+        },
+        "ventilationlmin resmed": {
+            "count": 1,
+            "order": 344
+        },
+        "airview therapy": {
+            "count": 1,
+            "order": 348
+        },
+        "report sense": {
+            "count": 1,
+            "order": 352
+        },
+        "sense": {
+            "count": 1,
+            "order": 353
+        },
+        "sense autoset": {
+            "count": 1,
+            "order": 354
+        },
+        "autoset care": {
+            "count": 1,
+            "order": 356
+        },
+        "care": {
+            "count": 3,
+            "order": 357
+        },
+        "care checkin": {
+            "count": 3,
+            "order": 358
+        },
+        "checkin": {
+            "count": 3,
+            "order": 359
+        },
+        "checkin no": {
+            "count": 1,
+            "order": 360
+        },
+        "no available": {
+            "count": 1,
+            "order": 361
+        },
+        "available": {
+            "count": 1,
+            "order": 362
+        },
+        "available data": {
+            "count": 1,
+            "order": 363
+        },
+        "data because": {
+            "count": 1,
+            "order": 365
+        },
+        "because the": {
+            "count": 1,
+            "order": 366
+        },
+        "the user": {
+            "count": 2,
+            "order": 367
+        },
+        "user": {
+            "count": 2,
+            "order": 368
+        },
+        "user declined": {
+            "count": 1,
+            "order": 369
+        },
+        "declined": {
+            "count": 1,
+            "order": 370
+        },
+        "declined to": {
+            "count": 1,
+            "order": 371
+        },
+        "to answer": {
+            "count": 1,
+            "order": 372
+        },
+        "answer": {
+            "count": 1,
+            "order": 373
+        },
+        "answer the": {
+            "count": 1,
+            "order": 374
+        },
+        "the therapy": {
+            "count": 1,
+            "order": 375
+        },
+        "therapy questions": {
+            "count": 1,
+            "order": 377
+        },
+        "questions": {
+            "count": 3,
+            "order": 378
+        },
+        "questions this": {
+            "count": 1,
+            "order": 379
+        },
+        "this feature": {
+            "count": 1,
+            "order": 380
+        },
+        "feature": {
+            "count": 1,
+            "order": 381
+        },
+        "feature was": {
+            "count": 1,
+            "order": 382
+        },
+        "was turned": {
+            "count": 1,
+            "order": 383
+        },
+        "turned": {
+            "count": 1,
+            "order": 384
+        },
+        "turned off": {
+            "count": 1,
+            "order": 385
+        },
+        "off on": {
+            "count": 1,
+            "order": 386
+        },
+        "on the": {
+            "count": 2,
+            "order": 387
+        },
+        "the users": {
+            "count": 1,
+            "order": 388
+        },
+        "users": {
+            "count": 2,
+            "order": 389
+        },
+        "users machine": {
+            "count": 1,
+            "order": 390
+        },
+        "machine": {
+            "count": 2,
+            "order": 391
+        },
+        "machine or": {
+            "count": 1,
+            "order": 392
+        },
+        "or the": {
+            "count": 1,
+            "order": 393
+        },
+        "user did": {
+            "count": 1,
+            "order": 396
+        },
+        "did not": {
+            "count": 1,
+            "order": 397
+        },
+        "not consent": {
+            "count": 1,
+            "order": 398
+        },
+        "consent": {
+            "count": 1,
+            "order": 399
+        },
+        "consent to": {
+            "count": 1,
+            "order": 400
+        },
+        "to share": {
+            "count": 1,
+            "order": 401
+        },
+        "share": {
+            "count": 2,
+            "order": 402
+        },
+        "share their": {
+            "count": 1,
+            "order": 403
+        },
+        "their data": {
+            "count": 1,
+            "order": 404
+        },
+        "data with": {
+            "count": 1,
+            "order": 406
+        },
+        "with myair": {
+            "count": 1,
+            "order": 407
+        },
+        "myair": {
+            "count": 2,
+            "order": 408
+        },
+        "myair about": {
+            "count": 1,
+            "order": 409
+        },
+        "about care": {
+            "count": 1,
+            "order": 410
+        },
+        "checkin short": {
+            "count": 1,
+            "order": 414
+        },
+        "short": {
+            "count": 1,
+            "order": 415
+        },
+        "short patient": {
+            "count": 1,
+            "order": 416
+        },
+        "patient": {
+            "count": 4,
+            "order": 417
+        },
+        "patient surveys": {
+            "count": 1,
+            "order": 418
+        },
+        "surveys": {
+            "count": 1,
+            "order": 419
+        },
+        "surveys are": {
+            "count": 1,
+            "order": 420
+        },
+        "are conducted": {
+            "count": 1,
+            "order": 421
+        },
+        "conducted": {
+            "count": 1,
+            "order": 422
+        },
+        "conducted on": {
+            "count": 1,
+            "order": 423
+        },
+        "the airsense": {
+            "count": 1,
+            "order": 425
+        },
+        "airsense and": {
+            "count": 1,
+            "order": 427
+        },
+        "and myair": {
+            "count": 1,
+            "order": 428
+        },
+        "myair app": {
+            "count": 1,
+            "order": 430
+        },
+        "app": {
+            "count": 1,
+            "order": 431
+        },
+        "app to": {
+            "count": 1,
+            "order": 432
+        },
+        "to better": {
+            "count": 1,
+            "order": 433
+        },
+        "better": {
+            "count": 1,
+            "order": 434
+        },
+        "better understand": {
+            "count": 1,
+            "order": 435
+        },
+        "understand": {
+            "count": 1,
+            "order": 436
+        },
+        "understand how": {
+            "count": 1,
+            "order": 437
+        },
+        "how the": {
+            "count": 1,
+            "order": 438
+        },
+        "the patient": {
+            "count": 3,
+            "order": 439
+        },
+        "patient is": {
+            "count": 2,
+            "order": 441
+        },
+        "is doing": {
+            "count": 1,
+            "order": 442
+        },
+        "doing with": {
+            "count": 1,
+            "order": 443
+        },
+        "with therapy": {
+            "count": 1,
+            "order": 444
+        },
+        "therapy if": {
+            "count": 1,
+            "order": 446
+        },
+        "if the": {
+            "count": 1,
+            "order": 447
+        },
+        "patient consents": {
+            "count": 1,
+            "order": 450
+        },
+        "consents": {
+            "count": 1,
+            "order": 451
+        },
+        "consents we": {
+            "count": 1,
+            "order": 452
+        },
+        "we can": {
+            "count": 1,
+            "order": 453
+        },
+        "can share": {
+            "count": 1,
+            "order": 454
+        },
+        "share care": {
+            "count": 1,
+            "order": 456
+        },
+        "checkin information": {
+            "count": 1,
+            "order": 460
+        },
+        "information": {
+            "count": 1,
+            "order": 461
+        },
+        "information through": {
+            "count": 1,
+            "order": 462
+        },
+        "through airview": {
+            "count": 1,
+            "order": 463
+        },
+        "airview for": {
+            "count": 1,
+            "order": 465
+        },
+        "for clinical": {
+            "count": 1,
+            "order": 466
+        },
+        "clinical": {
+            "count": 1,
+            "order": 467
+        },
+        "clinical users": {
+            "count": 1,
+            "order": 468
+        },
+        "users questions": {
+            "count": 1,
+            "order": 470
+        },
+        "questions and": {
+            "count": 1,
+            "order": 472
+        },
+        "and answers": {
+            "count": 1,
+            "order": 473
+        },
+        "answers": {
+            "count": 1,
+            "order": 474
+        },
+        "answers at": {
+            "count": 1,
+            "order": 475
+        },
+        "at the": {
+            "count": 1,
+            "order": 476
+        },
+        "the beginning": {
+            "count": 1,
+            "order": 477
+        },
+        "beginning": {
+            "count": 1,
+            "order": 478
+        },
+        "beginning of": {
+            "count": 1,
+            "order": 479
+        },
+        "of therapy": {
+            "count": 2,
+            "order": 480
+        },
+        "therapy the": {
+            "count": 1,
+            "order": 482
+        },
+        "is asked": {
+            "count": 1,
+            "order": 486
+        },
+        "asked": {
+            "count": 2,
+            "order": 487
+        },
+        "asked a": {
+            "count": 1,
+            "order": 488
+        },
+        "a baseline": {
+            "count": 1,
+            "order": 489
+        },
+        "baseline": {
+            "count": 1,
+            "order": 490
+        },
+        "baseline question": {
+            "count": 1,
+            "order": 491
+        },
+        "question": {
+            "count": 1,
+            "order": 492
+        },
+        "question a": {
+            "count": 1,
+            "order": 493
+        },
+        "a few": {
+            "count": 1,
+            "order": 494
+        },
+        "few additional": {
+            "count": 1,
+            "order": 495
+        },
+        "additional": {
+            "count": 1,
+            "order": 496
+        },
+        "additional questions": {
+            "count": 1,
+            "order": 497
+        },
+        "questions are": {
+            "count": 1,
+            "order": 499
+        },
+        "are asked": {
+            "count": 1,
+            "order": 500
+        },
+        "asked about": {
+            "count": 1,
+            "order": 502
+        },
+        "about once": {
+            "count": 1,
+            "order": 503
+        },
+        "once per": {
+            "count": 1,
+            "order": 504
+        },
+        "per week": {
+            "count": 1,
+            "order": 506
+        },
+        "week": {
+            "count": 3,
+            "order": 507
+        },
+        "week during": {
+            "count": 1,
+            "order": 508
+        },
+        "during the": {
+            "count": 1,
+            "order": 509
+        },
+        "the early": {
+            "count": 1,
+            "order": 510
+        },
+        "early": {
+            "count": 1,
+            "order": 511
+        },
+        "early stages": {
+            "count": 1,
+            "order": 512
+        },
+        "stages": {
+            "count": 1,
+            "order": 513
+        },
+        "stages of": {
+            "count": 1,
+            "order": 514
+        },
+        "therapy for": {
+            "count": 1,
+            "order": 517
+        },
+        "for example": {
+            "count": 1,
+            "order": 518
+        },
+        "example": {
+            "count": 1,
+            "order": 519
+        },
+        "example how": {
+            "count": 1,
+            "order": 520
+        },
+        "how sleepy": {
+            "count": 1,
+            "order": 521
+        },
+        "sleepy": {
+            "count": 1,
+            "order": 522
+        },
+        "sleepy did": {
+            "count": 1,
+            "order": 523
+        },
+        "did you": {
+            "count": 1,
+            "order": 524
+        },
+        "you feel": {
+            "count": 1,
+            "order": 525
+        },
+        "feel": {
+            "count": 1,
+            "order": 526
+        },
+        "feel this": {
+            "count": 1,
+            "order": 527
+        },
+        "this week": {
+            "count": 1,
+            "order": 528
+        },
+        "week extremely": {
+            "count": 1,
+            "order": 530
+        },
+        "extremely": {
+            "count": 1,
+            "order": 531
+        },
+        "extremely very": {
+            "count": 1,
+            "order": 532
+        },
+        "very moderately": {
+            "count": 1,
+            "order": 533
+        },
+        "moderately": {
+            "count": 1,
+            "order": 534
+        },
+        "moderately slightly": {
+            "count": 1,
+            "order": 535
+        },
+        "slightly": {
+            "count": 1,
+            "order": 536
+        },
+        "slightly not": {
+            "count": 1,
+            "order": 537
+        },
+        "not at": {
+            "count": 1,
+            "order": 538
+        },
+        "at all": {
+            "count": 1,
+            "order": 539
+        },
+        "all how": {
+            "count": 1,
+            "order": 540
+        },
+        "how is": {
+            "count": 1,
+            "order": 541
+        },
+        "is your": {
+            "count": 1,
+            "order": 542
+        },
+        "your therapy": {
+            "count": 1,
+            "order": 543
+        },
+        "therapy great": {
+            "count": 1,
+            "order": 545
+        },
+        "great": {
+            "count": 1,
+            "order": 546
+        },
+        "great ok": {
+            "count": 1,
+            "order": 547
+        },
+        "ok challenging": {
+            "count": 1,
+            "order": 548
+        },
+        "challenging": {
+            "count": 1,
+            "order": 549
+        },
+        "challenging what": {
+            "count": 1,
+            "order": 550
+        },
+        "what bothers": {
+            "count": 1,
+            "order": 551
+        },
+        "bothers": {
+            "count": 1,
+            "order": 552
+        },
+        "bothers you": {
+            "count": 1,
+            "order": 553
+        },
+        "you most": {
+            "count": 1,
+            "order": 554
+        },
+        "most getting": {
+            "count": 1,
+            "order": 555
+        },
+        "getting": {
+            "count": 1,
+            "order": 556
+        },
+        "getting used": {
+            "count": 1,
+            "order": 557
+        },
+        "used to": {
+            "count": 1,
+            "order": 559
+        },
+        "to therapy": {
+            "count": 1,
+            "order": 560
+        },
+        "therapy fitting": {
+            "count": 1,
+            "order": 562
+        },
+        "fitting": {
+            "count": 1,
+            "order": 563
+        },
+        "fitting the": {
+            "count": 1,
+            "order": 564
+        },
+        "the mask": {
+            "count": 1,
+            "order": 565
+        },
+        "mask": {
+            "count": 1,
+            "order": 566
+        },
+        "mask using": {
+            "count": 1,
+            "order": 567
+        },
+        "using": {
+            "count": 1,
+            "order": 568
+        },
+        "using the": {
+            "count": 1,
+            "order": 569
+        },
+        "the machine": {
+            "count": 1,
+            "order": 570
+        },
+        "machine please": {
+            "count": 1,
+            "order": 572
+        },
+        "please": {
+            "count": 1,
+            "order": 573
+        },
+        "please rate": {
+            "count": 1,
+            "order": 574
+        },
+        "rate": {
+            "count": 1,
+            "order": 575
+        },
+        "rate your": {
+            "count": 1,
+            "order": 576
+        },
+        "your usual": {
+            "count": 1,
+            "order": 577
+        },
+        "usual": {
+            "count": 1,
+            "order": 578
+        },
+        "usual sleep": {
+            "count": 1,
+            "order": 579
+        },
+        "sleep": {
+            "count": 2,
+            "order": 580
+        },
+        "sleep quality": {
+            "count": 2,
+            "order": 581
+        },
+        "quality": {
+            "count": 2,
+            "order": 582
+        },
+        "quality very": {
+            "count": 1,
+            "order": 583
+        },
+        "very poor": {
+            "count": 2,
+            "order": 584
+        },
+        "poor": {
+            "count": 4,
+            "order": 585
+        },
+        "poor poor": {
+            "count": 2,
+            "order": 586
+        },
+        "poor ok": {
+            "count": 2,
+            "order": 588
+        },
+        "ok good": {
+            "count": 2,
+            "order": 589
+        },
+        "good": {
+            "count": 2,
+            "order": 590
+        },
+        "good excellent": {
+            "count": 2,
+            "order": 591
+        },
+        "excellent": {
+            "count": 2,
+            "order": 592
+        },
+        "excellent how": {
+            "count": 1,
+            "order": 593
+        },
+        "how was": {
+            "count": 1,
+            "order": 594
+        },
+        "was your": {
+            "count": 1,
+            "order": 595
+        },
+        "your sleep": {
+            "count": 1,
+            "order": 596
+        },
+        "quality in": {
+            "count": 1,
+            "order": 600
+        },
+        "in the": {
+            "count": 1,
+            "order": 601
+        },
+        "the last": {
+            "count": 1,
+            "order": 602
+        },
+        "last week": {
+            "count": 1,
+            "order": 604
+        },
+        "week very": {
+            "count": 1,
+            "order": 606
+        }
+    }
+}

@@ -1,0 +1,135 @@
+american homecare
+quipment
+‘oxygen permit #327067
+
+american homecare equipment, inc.
+6600 nw 12th ave
+
+suite 217
+
+fort lauderdale, fl 33309
+954-772-5052
+
+bill to:
+
+insurance: cigna government services / medicaid
+
+comments or special instructions:
+
+mm - rt new home set up.
+*compliance required
+
+delivery receipt
+
+branch:
+
+inv location:
+date:
+
+cs
+order #:
+patient id:
+customer #:
+account #;
+dob:
+gender:
+
+shipped/delivered to:
+
+phone:
+mobile:
+
+hipaa signature on file: yes
+
+rx cpap at 15 cm h20 with epr 3 and airtouch f20 mask from dr carlos santos
+
+ord qty [del qty type item
+
+ext. allow ext. amt. co-pay
+
+rental resmed / 39000
+
+uom:each(es)
+
+serial number: 22231038074
+
+note:
+
+cp0100/generic cpap standard or auto.
+39000 / resmed cpap airsense 11 autoset
+
+$63.08 $152.50 $0.00 $0.00
+
+£0562/humidifier heated used w pap.
+
+purchase uom:each(es)
+
+note:
+
+$206.32 $330.30 $0.00 $0.00
+
+pillow or nasal
+purchase
+resmed / 63401
+uom:each(es)
+
+note:
+
+mask-ff-np-na gene/generic cpap mask full face, nasal
+
+63401 / resmed airfit f20 system medium w/hdgr
+
+$130.37 $250.00 $0.00 $0.00
+
+purchase cushion included
+
+uom:each(es)
+
+note:
+
+ahc-cpap cushion rep/full face, nasal pillow or nasal
+
+$49.59 $122.10 $0.00 $0.00
+
+name: abreu, juan
+order#: 196580
+
+page 1 of 2
+ord qty [del qty type item ext. allow ext. amt. tax co-pay
+a7035/pos airway press headgear included
+1 1 purchase uom:each(es) $25.74 $50.00 $0.00 $0.00
+note:
+fil-gen cpap dispfil/generic cpap disposable filter
+39301 / air11 filter standard, 2 pack
+6 6 purchase resmed / 30303 $19.50 $54.00 $0.00 $0.00
+uom:each(es)
+note:
+a7037-slim-ahc/ahc pap slimline tubing
+1 1 purchase uom:each(es) $21.20 $75.00 $0.00 $0.00
+note:
+total $515.80 $1,033.90 $0.00 $0.00
+
+please note that the above pricing amounts are an estimate of your financial responsibility only and are not a
+guarantee. final determinatation of your financial responsibility is made by your insurance provider after your
+claim for services has been submitted. any private pay or otherwise patient responsibility equipment sales,
+services, or copays/coinsurance are considered final and non-refunadable, unless agreed to seperately in
+writing.
+
+all information has been given to the company to bill any resources for services provided. | certify this
+information is correct. | have been instructed & understand the safe use & maintenance of the above equipment. |
+authorize the release of any medical information necessary to process this claim. | also request payment of
+medical benefits to the undersigned supplier for services. | have read & understand the provisions on this
+agreement.
+
+linh 19 dl
+
+signature of patient or date tech signature
+authorized representative
+abreu, juan 07/19/2023 14:15 daniel torres
+
+relationship to patient: self
+
+reason patient could not sign:
+
+name: abreu, juan page 2 of 2
+order#: 196580

@@ -1,0 +1,4002 @@
+{
+    "delivery_ticket_1": {
+        "american": {
+            "count": 2,
+            "order": 0
+        },
+        "american homecare": {
+            "count": 2,
+            "order": 1
+        },
+        "homecare": {
+            "count": 2,
+            "order": 2
+        },
+        "homecare quipment": {
+            "count": 1,
+            "order": 3
+        },
+        "quipment": {
+            "count": 1,
+            "order": 4
+        },
+        "quipment oxygen": {
+            "count": 1,
+            "order": 5
+        },
+        "oxygen": {
+            "count": 1,
+            "order": 6
+        },
+        "oxygen permit": {
+            "count": 1,
+            "order": 7
+        },
+        "permit": {
+            "count": 1,
+            "order": 8
+        },
+        "permit american": {
+            "count": 1,
+            "order": 9
+        },
+        "homecare equipment": {
+            "count": 1,
+            "order": 13
+        },
+        "equipment": {
+            "count": 3,
+            "order": 14
+        },
+        "equipment inc": {
+            "count": 1,
+            "order": 15
+        },
+        "inc": {
+            "count": 1,
+            "order": 16
+        },
+        "inc nw": {
+            "count": 1,
+            "order": 17
+        },
+        "nw th": {
+            "count": 1,
+            "order": 18
+        },
+        "th ave": {
+            "count": 1,
+            "order": 19
+        },
+        "ave": {
+            "count": 1,
+            "order": 20
+        },
+        "ave suite": {
+            "count": 1,
+            "order": 21
+        },
+        "suite": {
+            "count": 1,
+            "order": 22
+        },
+        "suite fort": {
+            "count": 1,
+            "order": 23
+        },
+        "fort": {
+            "count": 1,
+            "order": 24
+        },
+        "fort lauderdale": {
+            "count": 1,
+            "order": 25
+        },
+        "lauderdale": {
+            "count": 1,
+            "order": 26
+        },
+        "lauderdale fl": {
+            "count": 1,
+            "order": 27
+        },
+        "fl bill": {
+            "count": 1,
+            "order": 28
+        },
+        "bill": {
+            "count": 2,
+            "order": 29
+        },
+        "bill to": {
+            "count": 1,
+            "order": 30
+        },
+        "to insurance": {
+            "count": 1,
+            "order": 31
+        },
+        "insurance": {
+            "count": 2,
+            "order": 32
+        },
+        "insurance cigna": {
+            "count": 1,
+            "order": 33
+        },
+        "cigna": {
+            "count": 1,
+            "order": 34
+        },
+        "cigna government": {
+            "count": 1,
+            "order": 35
+        },
+        "government": {
+            "count": 1,
+            "order": 36
+        },
+        "government services": {
+            "count": 1,
+            "order": 37
+        },
+        "services": {
+            "count": 5,
+            "order": 38
+        },
+        "services medicaid": {
+            "count": 1,
+            "order": 39
+        },
+        "medicaid": {
+            "count": 1,
+            "order": 40
+        },
+        "medicaid comments": {
+            "count": 1,
+            "order": 41
+        },
+        "comments": {
+            "count": 1,
+            "order": 42
+        },
+        "comments or": {
+            "count": 1,
+            "order": 43
+        },
+        "or special": {
+            "count": 1,
+            "order": 44
+        },
+        "special": {
+            "count": 1,
+            "order": 45
+        },
+        "special instructions": {
+            "count": 1,
+            "order": 46
+        },
+        "instructions": {
+            "count": 1,
+            "order": 47
+        },
+        "instructions mm": {
+            "count": 1,
+            "order": 48
+        },
+        "mm rt": {
+            "count": 1,
+            "order": 49
+        },
+        "rt new": {
+            "count": 1,
+            "order": 50
+        },
+        "new": {
+            "count": 1,
+            "order": 51
+        },
+        "new home": {
+            "count": 1,
+            "order": 52
+        },
+        "home": {
+            "count": 1,
+            "order": 53
+        },
+        "home set": {
+            "count": 1,
+            "order": 54
+        },
+        "set": {
+            "count": 1,
+            "order": 55
+        },
+        "set up": {
+            "count": 1,
+            "order": 56
+        },
+        "up compliance": {
+            "count": 1,
+            "order": 57
+        },
+        "compliance": {
+            "count": 1,
+            "order": 58
+        },
+        "compliance required": {
+            "count": 1,
+            "order": 59
+        },
+        "required": {
+            "count": 1,
+            "order": 60
+        },
+        "required delivery": {
+            "count": 1,
+            "order": 61
+        },
+        "delivery": {
+            "count": 1,
+            "order": 62
+        },
+        "delivery receipt": {
+            "count": 1,
+            "order": 63
+        },
+        "receipt": {
+            "count": 1,
+            "order": 64
+        },
+        "receipt branch": {
+            "count": 1,
+            "order": 65
+        },
+        "branch": {
+            "count": 1,
+            "order": 66
+        },
+        "branch inv": {
+            "count": 1,
+            "order": 67
+        },
+        "inv": {
+            "count": 1,
+            "order": 68
+        },
+        "inv location": {
+            "count": 1,
+            "order": 69
+        },
+        "location": {
+            "count": 1,
+            "order": 70
+        },
+        "location date": {
+            "count": 1,
+            "order": 71
+        },
+        "date": {
+            "count": 2,
+            "order": 72
+        },
+        "date cs": {
+            "count": 1,
+            "order": 73
+        },
+        "cs order": {
+            "count": 1,
+            "order": 74
+        },
+        "order": {
+            "count": 3,
+            "order": 75
+        },
+        "order patient": {
+            "count": 1,
+            "order": 76
+        },
+        "patient": {
+            "count": 5,
+            "order": 77
+        },
+        "patient id": {
+            "count": 1,
+            "order": 78
+        },
+        "id customer": {
+            "count": 1,
+            "order": 79
+        },
+        "customer": {
+            "count": 1,
+            "order": 80
+        },
+        "customer account": {
+            "count": 1,
+            "order": 81
+        },
+        "account": {
+            "count": 1,
+            "order": 82
+        },
+        "account dob": {
+            "count": 1,
+            "order": 83
+        },
+        "dob": {
+            "count": 1,
+            "order": 84
+        },
+        "dob gender": {
+            "count": 1,
+            "order": 85
+        },
+        "gender": {
+            "count": 1,
+            "order": 86
+        },
+        "gender shippeddelivered": {
+            "count": 1,
+            "order": 87
+        },
+        "shippeddelivered": {
+            "count": 1,
+            "order": 88
+        },
+        "shippeddelivered to": {
+            "count": 1,
+            "order": 89
+        },
+        "to phone": {
+            "count": 1,
+            "order": 90
+        },
+        "phone": {
+            "count": 1,
+            "order": 91
+        },
+        "phone mobile": {
+            "count": 1,
+            "order": 92
+        },
+        "mobile": {
+            "count": 1,
+            "order": 93
+        },
+        "mobile hipaa": {
+            "count": 1,
+            "order": 94
+        },
+        "hipaa": {
+            "count": 1,
+            "order": 95
+        },
+        "hipaa signature": {
+            "count": 1,
+            "order": 96
+        },
+        "signature": {
+            "count": 3,
+            "order": 97
+        },
+        "signature on": {
+            "count": 1,
+            "order": 98
+        },
+        "on file": {
+            "count": 1,
+            "order": 99
+        },
+        "file": {
+            "count": 1,
+            "order": 100
+        },
+        "file yes": {
+            "count": 1,
+            "order": 101
+        },
+        "yes": {
+            "count": 1,
+            "order": 102
+        },
+        "yes rx": {
+            "count": 1,
+            "order": 103
+        },
+        "rx cpap": {
+            "count": 1,
+            "order": 104
+        },
+        "cpap": {
+            "count": 6,
+            "order": 105
+        },
+        "cpap at": {
+            "count": 1,
+            "order": 106
+        },
+        "at cm": {
+            "count": 1,
+            "order": 107
+        },
+        "cm h": {
+            "count": 1,
+            "order": 108
+        },
+        "h with": {
+            "count": 1,
+            "order": 109
+        },
+        "with epr": {
+            "count": 1,
+            "order": 110
+        },
+        "epr": {
+            "count": 1,
+            "order": 111
+        },
+        "epr and": {
+            "count": 1,
+            "order": 112
+        },
+        "and airtouch": {
+            "count": 1,
+            "order": 113
+        },
+        "airtouch": {
+            "count": 1,
+            "order": 114
+        },
+        "airtouch f": {
+            "count": 1,
+            "order": 115
+        },
+        "f mask": {
+            "count": 1,
+            "order": 116
+        },
+        "mask": {
+            "count": 2,
+            "order": 117
+        },
+        "mask from": {
+            "count": 1,
+            "order": 118
+        },
+        "from dr": {
+            "count": 1,
+            "order": 119
+        },
+        "dr carlos": {
+            "count": 1,
+            "order": 120
+        },
+        "carlos": {
+            "count": 1,
+            "order": 121
+        },
+        "carlos santos": {
+            "count": 1,
+            "order": 122
+        },
+        "santos": {
+            "count": 1,
+            "order": 123
+        },
+        "santos ord": {
+            "count": 1,
+            "order": 124
+        },
+        "ord": {
+            "count": 2,
+            "order": 125
+        },
+        "ord qty": {
+            "count": 2,
+            "order": 126
+        },
+        "qty": {
+            "count": 4,
+            "order": 127
+        },
+        "qty del": {
+            "count": 2,
+            "order": 128
+        },
+        "del": {
+            "count": 2,
+            "order": 129
+        },
+        "del qty": {
+            "count": 2,
+            "order": 130
+        },
+        "qty type": {
+            "count": 2,
+            "order": 132
+        },
+        "type": {
+            "count": 2,
+            "order": 133
+        },
+        "type item": {
+            "count": 2,
+            "order": 134
+        },
+        "item": {
+            "count": 2,
+            "order": 135
+        },
+        "item ext": {
+            "count": 2,
+            "order": 136
+        },
+        "ext": {
+            "count": 4,
+            "order": 137
+        },
+        "ext allow": {
+            "count": 2,
+            "order": 138
+        },
+        "allow": {
+            "count": 2,
+            "order": 139
+        },
+        "allow ext": {
+            "count": 2,
+            "order": 140
+        },
+        "ext amt": {
+            "count": 2,
+            "order": 142
+        },
+        "amt": {
+            "count": 2,
+            "order": 143
+        },
+        "amt copay": {
+            "count": 1,
+            "order": 144
+        },
+        "copay": {
+            "count": 2,
+            "order": 145
+        },
+        "copay rental": {
+            "count": 1,
+            "order": 146
+        },
+        "rental": {
+            "count": 1,
+            "order": 147
+        },
+        "rental resmed": {
+            "count": 1,
+            "order": 148
+        },
+        "resmed": {
+            "count": 5,
+            "order": 149
+        },
+        "resmed uomeaches": {
+            "count": 3,
+            "order": 150
+        },
+        "uomeaches": {
+            "count": 7,
+            "order": 151
+        },
+        "uomeaches serial": {
+            "count": 1,
+            "order": 152
+        },
+        "serial": {
+            "count": 1,
+            "order": 153
+        },
+        "serial number": {
+            "count": 1,
+            "order": 154
+        },
+        "number": {
+            "count": 1,
+            "order": 155
+        },
+        "number note": {
+            "count": 1,
+            "order": 156
+        },
+        "note": {
+            "count": 8,
+            "order": 157
+        },
+        "note cpgeneric": {
+            "count": 1,
+            "order": 158
+        },
+        "cpgeneric": {
+            "count": 1,
+            "order": 159
+        },
+        "cpgeneric cpap": {
+            "count": 1,
+            "order": 160
+        },
+        "cpap standard": {
+            "count": 1,
+            "order": 162
+        },
+        "standard": {
+            "count": 2,
+            "order": 163
+        },
+        "standard or": {
+            "count": 1,
+            "order": 164
+        },
+        "or auto": {
+            "count": 1,
+            "order": 165
+        },
+        "auto": {
+            "count": 1,
+            "order": 166
+        },
+        "auto resmed": {
+            "count": 1,
+            "order": 167
+        },
+        "resmed cpap": {
+            "count": 1,
+            "order": 169
+        },
+        "cpap airsense": {
+            "count": 1,
+            "order": 171
+        },
+        "airsense": {
+            "count": 1,
+            "order": 172
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 173
+        },
+        "autoset": {
+            "count": 1,
+            "order": 174
+        },
+        "autoset humidifier": {
+            "count": 1,
+            "order": 175
+        },
+        "humidifier": {
+            "count": 1,
+            "order": 176
+        },
+        "humidifier heated": {
+            "count": 1,
+            "order": 177
+        },
+        "heated": {
+            "count": 1,
+            "order": 178
+        },
+        "heated used": {
+            "count": 1,
+            "order": 179
+        },
+        "used": {
+            "count": 1,
+            "order": 180
+        },
+        "used w": {
+            "count": 1,
+            "order": 181
+        },
+        "w pap": {
+            "count": 1,
+            "order": 182
+        },
+        "pap": {
+            "count": 2,
+            "order": 183
+        },
+        "pap purchase": {
+            "count": 1,
+            "order": 184
+        },
+        "purchase": {
+            "count": 6,
+            "order": 185
+        },
+        "purchase uomeaches": {
+            "count": 3,
+            "order": 186
+        },
+        "uomeaches note": {
+            "count": 6,
+            "order": 188
+        },
+        "note pillow": {
+            "count": 1,
+            "order": 190
+        },
+        "pillow": {
+            "count": 2,
+            "order": 191
+        },
+        "pillow or": {
+            "count": 2,
+            "order": 192
+        },
+        "or nasal": {
+            "count": 2,
+            "order": 193
+        },
+        "nasal": {
+            "count": 4,
+            "order": 194
+        },
+        "nasal purchase": {
+            "count": 1,
+            "order": 195
+        },
+        "purchase resmed": {
+            "count": 2,
+            "order": 197
+        },
+        "note maskffnpna": {
+            "count": 1,
+            "order": 203
+        },
+        "maskffnpna": {
+            "count": 1,
+            "order": 204
+        },
+        "maskffnpna genegeneric": {
+            "count": 1,
+            "order": 205
+        },
+        "genegeneric": {
+            "count": 1,
+            "order": 206
+        },
+        "genegeneric cpap": {
+            "count": 1,
+            "order": 207
+        },
+        "cpap mask": {
+            "count": 1,
+            "order": 209
+        },
+        "mask full": {
+            "count": 1,
+            "order": 211
+        },
+        "full": {
+            "count": 1,
+            "order": 212
+        },
+        "full face": {
+            "count": 1,
+            "order": 213
+        },
+        "face": {
+            "count": 2,
+            "order": 214
+        },
+        "face nasal": {
+            "count": 2,
+            "order": 215
+        },
+        "nasal resmed": {
+            "count": 1,
+            "order": 217
+        },
+        "resmed airfit": {
+            "count": 1,
+            "order": 219
+        },
+        "airfit": {
+            "count": 1,
+            "order": 220
+        },
+        "airfit f": {
+            "count": 1,
+            "order": 221
+        },
+        "f system": {
+            "count": 1,
+            "order": 222
+        },
+        "system": {
+            "count": 1,
+            "order": 223
+        },
+        "system medium": {
+            "count": 1,
+            "order": 224
+        },
+        "medium": {
+            "count": 1,
+            "order": 225
+        },
+        "medium whdgr": {
+            "count": 1,
+            "order": 226
+        },
+        "whdgr": {
+            "count": 1,
+            "order": 227
+        },
+        "whdgr purchase": {
+            "count": 1,
+            "order": 228
+        },
+        "purchase cushion": {
+            "count": 1,
+            "order": 230
+        },
+        "cushion": {
+            "count": 2,
+            "order": 231
+        },
+        "cushion included": {
+            "count": 1,
+            "order": 232
+        },
+        "included": {
+            "count": 2,
+            "order": 233
+        },
+        "included uomeaches": {
+            "count": 1,
+            "order": 234
+        },
+        "note ahccpap": {
+            "count": 1,
+            "order": 238
+        },
+        "ahccpap": {
+            "count": 1,
+            "order": 239
+        },
+        "ahccpap cushion": {
+            "count": 1,
+            "order": 240
+        },
+        "cushion repfull": {
+            "count": 1,
+            "order": 242
+        },
+        "repfull": {
+            "count": 1,
+            "order": 243
+        },
+        "repfull face": {
+            "count": 1,
+            "order": 244
+        },
+        "nasal pillow": {
+            "count": 1,
+            "order": 248
+        },
+        "nasal name": {
+            "count": 1,
+            "order": 253
+        },
+        "name": {
+            "count": 2,
+            "order": 254
+        },
+        "name abreu": {
+            "count": 2,
+            "order": 255
+        },
+        "abreu": {
+            "count": 3,
+            "order": 256
+        },
+        "abreu juan": {
+            "count": 3,
+            "order": 257
+        },
+        "juan": {
+            "count": 3,
+            "order": 258
+        },
+        "juan order": {
+            "count": 1,
+            "order": 259
+        },
+        "order page": {
+            "count": 1,
+            "order": 261
+        },
+        "page": {
+            "count": 2,
+            "order": 262
+        },
+        "page of": {
+            "count": 2,
+            "order": 263
+        },
+        "of ord": {
+            "count": 1,
+            "order": 264
+        },
+        "amt tax": {
+            "count": 1,
+            "order": 284
+        },
+        "tax": {
+            "count": 1,
+            "order": 285
+        },
+        "tax copay": {
+            "count": 1,
+            "order": 286
+        },
+        "copay apos": {
+            "count": 1,
+            "order": 288
+        },
+        "apos": {
+            "count": 1,
+            "order": 289
+        },
+        "apos airway": {
+            "count": 1,
+            "order": 290
+        },
+        "airway": {
+            "count": 1,
+            "order": 291
+        },
+        "airway press": {
+            "count": 1,
+            "order": 292
+        },
+        "press": {
+            "count": 1,
+            "order": 293
+        },
+        "press headgear": {
+            "count": 1,
+            "order": 294
+        },
+        "headgear": {
+            "count": 1,
+            "order": 295
+        },
+        "headgear included": {
+            "count": 1,
+            "order": 296
+        },
+        "included purchase": {
+            "count": 1,
+            "order": 298
+        },
+        "note filgen": {
+            "count": 1,
+            "order": 304
+        },
+        "filgen": {
+            "count": 1,
+            "order": 305
+        },
+        "filgen cpap": {
+            "count": 1,
+            "order": 306
+        },
+        "cpap dispfilgeneric": {
+            "count": 1,
+            "order": 308
+        },
+        "dispfilgeneric": {
+            "count": 1,
+            "order": 309
+        },
+        "dispfilgeneric cpap": {
+            "count": 1,
+            "order": 310
+        },
+        "cpap disposable": {
+            "count": 1,
+            "order": 312
+        },
+        "disposable": {
+            "count": 1,
+            "order": 313
+        },
+        "disposable filter": {
+            "count": 1,
+            "order": 314
+        },
+        "filter": {
+            "count": 2,
+            "order": 315
+        },
+        "filter air": {
+            "count": 1,
+            "order": 316
+        },
+        "air": {
+            "count": 1,
+            "order": 317
+        },
+        "air filter": {
+            "count": 1,
+            "order": 318
+        },
+        "filter standard": {
+            "count": 1,
+            "order": 320
+        },
+        "standard pack": {
+            "count": 1,
+            "order": 322
+        },
+        "pack": {
+            "count": 1,
+            "order": 323
+        },
+        "pack purchase": {
+            "count": 1,
+            "order": 324
+        },
+        "note aslimahcahc": {
+            "count": 1,
+            "order": 332
+        },
+        "aslimahcahc": {
+            "count": 1,
+            "order": 333
+        },
+        "aslimahcahc pap": {
+            "count": 1,
+            "order": 334
+        },
+        "pap slimline": {
+            "count": 1,
+            "order": 336
+        },
+        "slimline": {
+            "count": 1,
+            "order": 337
+        },
+        "slimline tubing": {
+            "count": 1,
+            "order": 338
+        },
+        "tubing": {
+            "count": 1,
+            "order": 339
+        },
+        "tubing purchase": {
+            "count": 1,
+            "order": 340
+        },
+        "note total": {
+            "count": 1,
+            "order": 346
+        },
+        "total": {
+            "count": 1,
+            "order": 347
+        },
+        "total please": {
+            "count": 1,
+            "order": 348
+        },
+        "please": {
+            "count": 1,
+            "order": 349
+        },
+        "please note": {
+            "count": 1,
+            "order": 350
+        },
+        "note that": {
+            "count": 1,
+            "order": 352
+        },
+        "that the": {
+            "count": 1,
+            "order": 353
+        },
+        "the above": {
+            "count": 2,
+            "order": 354
+        },
+        "above pricing": {
+            "count": 1,
+            "order": 355
+        },
+        "pricing": {
+            "count": 1,
+            "order": 356
+        },
+        "pricing amounts": {
+            "count": 1,
+            "order": 357
+        },
+        "amounts": {
+            "count": 1,
+            "order": 358
+        },
+        "amounts are": {
+            "count": 1,
+            "order": 359
+        },
+        "are an": {
+            "count": 1,
+            "order": 360
+        },
+        "an estimate": {
+            "count": 1,
+            "order": 361
+        },
+        "estimate": {
+            "count": 1,
+            "order": 362
+        },
+        "estimate of": {
+            "count": 1,
+            "order": 363
+        },
+        "of your": {
+            "count": 2,
+            "order": 364
+        },
+        "your financial": {
+            "count": 2,
+            "order": 365
+        },
+        "financial": {
+            "count": 2,
+            "order": 366
+        },
+        "financial responsibility": {
+            "count": 2,
+            "order": 367
+        },
+        "responsibility": {
+            "count": 3,
+            "order": 368
+        },
+        "responsibility only": {
+            "count": 1,
+            "order": 369
+        },
+        "only and": {
+            "count": 1,
+            "order": 370
+        },
+        "and are": {
+            "count": 1,
+            "order": 371
+        },
+        "are not": {
+            "count": 1,
+            "order": 372
+        },
+        "not a": {
+            "count": 1,
+            "order": 373
+        },
+        "a guarantee": {
+            "count": 1,
+            "order": 374
+        },
+        "guarantee": {
+            "count": 1,
+            "order": 375
+        },
+        "guarantee final": {
+            "count": 1,
+            "order": 376
+        },
+        "final": {
+            "count": 2,
+            "order": 377
+        },
+        "final determinatation": {
+            "count": 1,
+            "order": 378
+        },
+        "determinatation": {
+            "count": 1,
+            "order": 379
+        },
+        "determinatation of": {
+            "count": 1,
+            "order": 380
+        },
+        "responsibility is": {
+            "count": 1,
+            "order": 386
+        },
+        "is made": {
+            "count": 1,
+            "order": 387
+        },
+        "made": {
+            "count": 1,
+            "order": 388
+        },
+        "made by": {
+            "count": 1,
+            "order": 389
+        },
+        "by your": {
+            "count": 1,
+            "order": 390
+        },
+        "your insurance": {
+            "count": 1,
+            "order": 391
+        },
+        "insurance provider": {
+            "count": 1,
+            "order": 393
+        },
+        "provider": {
+            "count": 1,
+            "order": 394
+        },
+        "provider after": {
+            "count": 1,
+            "order": 395
+        },
+        "after your": {
+            "count": 1,
+            "order": 396
+        },
+        "your claim": {
+            "count": 1,
+            "order": 397
+        },
+        "claim": {
+            "count": 2,
+            "order": 398
+        },
+        "claim for": {
+            "count": 1,
+            "order": 399
+        },
+        "for services": {
+            "count": 3,
+            "order": 400
+        },
+        "services has": {
+            "count": 1,
+            "order": 402
+        },
+        "has been": {
+            "count": 2,
+            "order": 403
+        },
+        "been submitted": {
+            "count": 1,
+            "order": 404
+        },
+        "submitted": {
+            "count": 1,
+            "order": 405
+        },
+        "submitted any": {
+            "count": 1,
+            "order": 406
+        },
+        "any private": {
+            "count": 1,
+            "order": 407
+        },
+        "private": {
+            "count": 1,
+            "order": 408
+        },
+        "private pay": {
+            "count": 1,
+            "order": 409
+        },
+        "pay": {
+            "count": 1,
+            "order": 410
+        },
+        "pay or": {
+            "count": 1,
+            "order": 411
+        },
+        "or otherwise": {
+            "count": 1,
+            "order": 412
+        },
+        "otherwise": {
+            "count": 1,
+            "order": 413
+        },
+        "otherwise patient": {
+            "count": 1,
+            "order": 414
+        },
+        "patient responsibility": {
+            "count": 1,
+            "order": 416
+        },
+        "responsibility equipment": {
+            "count": 1,
+            "order": 418
+        },
+        "equipment sales": {
+            "count": 1,
+            "order": 420
+        },
+        "sales": {
+            "count": 1,
+            "order": 421
+        },
+        "sales services": {
+            "count": 1,
+            "order": 422
+        },
+        "services or": {
+            "count": 1,
+            "order": 424
+        },
+        "or copayscoinsurance": {
+            "count": 1,
+            "order": 425
+        },
+        "copayscoinsurance": {
+            "count": 1,
+            "order": 426
+        },
+        "copayscoinsurance are": {
+            "count": 1,
+            "order": 427
+        },
+        "are considered": {
+            "count": 1,
+            "order": 428
+        },
+        "considered": {
+            "count": 1,
+            "order": 429
+        },
+        "considered final": {
+            "count": 1,
+            "order": 430
+        },
+        "final and": {
+            "count": 1,
+            "order": 432
+        },
+        "and nonrefunadable": {
+            "count": 1,
+            "order": 433
+        },
+        "nonrefunadable": {
+            "count": 1,
+            "order": 434
+        },
+        "nonrefunadable unless": {
+            "count": 1,
+            "order": 435
+        },
+        "unless": {
+            "count": 1,
+            "order": 436
+        },
+        "unless agreed": {
+            "count": 1,
+            "order": 437
+        },
+        "agreed": {
+            "count": 1,
+            "order": 438
+        },
+        "agreed to": {
+            "count": 1,
+            "order": 439
+        },
+        "to seperately": {
+            "count": 1,
+            "order": 440
+        },
+        "seperately": {
+            "count": 1,
+            "order": 441
+        },
+        "seperately in": {
+            "count": 1,
+            "order": 442
+        },
+        "in writing": {
+            "count": 1,
+            "order": 443
+        },
+        "writing": {
+            "count": 1,
+            "order": 444
+        },
+        "writing all": {
+            "count": 1,
+            "order": 445
+        },
+        "all information": {
+            "count": 1,
+            "order": 446
+        },
+        "information": {
+            "count": 3,
+            "order": 447
+        },
+        "information has": {
+            "count": 1,
+            "order": 448
+        },
+        "been given": {
+            "count": 1,
+            "order": 450
+        },
+        "given": {
+            "count": 1,
+            "order": 451
+        },
+        "given to": {
+            "count": 1,
+            "order": 452
+        },
+        "to the": {
+            "count": 2,
+            "order": 453
+        },
+        "the company": {
+            "count": 1,
+            "order": 454
+        },
+        "company": {
+            "count": 1,
+            "order": 455
+        },
+        "company to": {
+            "count": 1,
+            "order": 456
+        },
+        "to bill": {
+            "count": 1,
+            "order": 457
+        },
+        "bill any": {
+            "count": 1,
+            "order": 459
+        },
+        "any resources": {
+            "count": 1,
+            "order": 460
+        },
+        "resources": {
+            "count": 1,
+            "order": 461
+        },
+        "resources for": {
+            "count": 1,
+            "order": 462
+        },
+        "services provided": {
+            "count": 1,
+            "order": 465
+        },
+        "provided": {
+            "count": 1,
+            "order": 466
+        },
+        "provided certify": {
+            "count": 1,
+            "order": 467
+        },
+        "certify": {
+            "count": 1,
+            "order": 468
+        },
+        "certify this": {
+            "count": 1,
+            "order": 469
+        },
+        "this information": {
+            "count": 1,
+            "order": 470
+        },
+        "information is": {
+            "count": 1,
+            "order": 472
+        },
+        "is correct": {
+            "count": 1,
+            "order": 473
+        },
+        "correct": {
+            "count": 1,
+            "order": 474
+        },
+        "correct have": {
+            "count": 1,
+            "order": 475
+        },
+        "have been": {
+            "count": 1,
+            "order": 476
+        },
+        "been instructed": {
+            "count": 1,
+            "order": 477
+        },
+        "instructed": {
+            "count": 1,
+            "order": 478
+        },
+        "instructed understand": {
+            "count": 1,
+            "order": 479
+        },
+        "understand": {
+            "count": 2,
+            "order": 480
+        },
+        "understand the": {
+            "count": 2,
+            "order": 481
+        },
+        "the safe": {
+            "count": 1,
+            "order": 482
+        },
+        "safe": {
+            "count": 1,
+            "order": 483
+        },
+        "safe use": {
+            "count": 1,
+            "order": 484
+        },
+        "use": {
+            "count": 1,
+            "order": 485
+        },
+        "use maintenance": {
+            "count": 1,
+            "order": 486
+        },
+        "maintenance": {
+            "count": 1,
+            "order": 487
+        },
+        "maintenance of": {
+            "count": 1,
+            "order": 488
+        },
+        "of the": {
+            "count": 1,
+            "order": 489
+        },
+        "above equipment": {
+            "count": 1,
+            "order": 491
+        },
+        "equipment authorize": {
+            "count": 1,
+            "order": 493
+        },
+        "authorize": {
+            "count": 1,
+            "order": 494
+        },
+        "authorize the": {
+            "count": 1,
+            "order": 495
+        },
+        "the release": {
+            "count": 1,
+            "order": 496
+        },
+        "release": {
+            "count": 1,
+            "order": 497
+        },
+        "release of": {
+            "count": 1,
+            "order": 498
+        },
+        "of any": {
+            "count": 1,
+            "order": 499
+        },
+        "any medical": {
+            "count": 1,
+            "order": 500
+        },
+        "medical": {
+            "count": 2,
+            "order": 501
+        },
+        "medical information": {
+            "count": 1,
+            "order": 502
+        },
+        "information necessary": {
+            "count": 1,
+            "order": 504
+        },
+        "necessary": {
+            "count": 1,
+            "order": 505
+        },
+        "necessary to": {
+            "count": 1,
+            "order": 506
+        },
+        "to process": {
+            "count": 1,
+            "order": 507
+        },
+        "process": {
+            "count": 1,
+            "order": 508
+        },
+        "process this": {
+            "count": 1,
+            "order": 509
+        },
+        "this claim": {
+            "count": 1,
+            "order": 510
+        },
+        "claim also": {
+            "count": 1,
+            "order": 512
+        },
+        "also": {
+            "count": 1,
+            "order": 513
+        },
+        "also request": {
+            "count": 1,
+            "order": 514
+        },
+        "request": {
+            "count": 1,
+            "order": 515
+        },
+        "request payment": {
+            "count": 1,
+            "order": 516
+        },
+        "payment": {
+            "count": 1,
+            "order": 517
+        },
+        "payment of": {
+            "count": 1,
+            "order": 518
+        },
+        "of medical": {
+            "count": 1,
+            "order": 519
+        },
+        "medical benefits": {
+            "count": 1,
+            "order": 521
+        },
+        "benefits": {
+            "count": 1,
+            "order": 522
+        },
+        "benefits to": {
+            "count": 1,
+            "order": 523
+        },
+        "the undersigned": {
+            "count": 1,
+            "order": 525
+        },
+        "undersigned": {
+            "count": 1,
+            "order": 526
+        },
+        "undersigned supplier": {
+            "count": 1,
+            "order": 527
+        },
+        "supplier": {
+            "count": 1,
+            "order": 528
+        },
+        "supplier for": {
+            "count": 1,
+            "order": 529
+        },
+        "services have": {
+            "count": 1,
+            "order": 532
+        },
+        "have read": {
+            "count": 1,
+            "order": 533
+        },
+        "read": {
+            "count": 1,
+            "order": 534
+        },
+        "read understand": {
+            "count": 1,
+            "order": 535
+        },
+        "the provisions": {
+            "count": 1,
+            "order": 538
+        },
+        "provisions": {
+            "count": 1,
+            "order": 539
+        },
+        "provisions on": {
+            "count": 1,
+            "order": 540
+        },
+        "on this": {
+            "count": 1,
+            "order": 541
+        },
+        "this agreement": {
+            "count": 1,
+            "order": 542
+        },
+        "agreement": {
+            "count": 1,
+            "order": 543
+        },
+        "agreement linh": {
+            "count": 1,
+            "order": 544
+        },
+        "linh": {
+            "count": 1,
+            "order": 545
+        },
+        "linh dl": {
+            "count": 1,
+            "order": 546
+        },
+        "dl signature": {
+            "count": 1,
+            "order": 547
+        },
+        "signature of": {
+            "count": 1,
+            "order": 549
+        },
+        "of patient": {
+            "count": 1,
+            "order": 550
+        },
+        "patient or": {
+            "count": 1,
+            "order": 552
+        },
+        "or date": {
+            "count": 1,
+            "order": 553
+        },
+        "date tech": {
+            "count": 1,
+            "order": 555
+        },
+        "tech": {
+            "count": 1,
+            "order": 556
+        },
+        "tech signature": {
+            "count": 1,
+            "order": 557
+        },
+        "signature authorized": {
+            "count": 1,
+            "order": 559
+        },
+        "authorized": {
+            "count": 1,
+            "order": 560
+        },
+        "authorized representative": {
+            "count": 1,
+            "order": 561
+        },
+        "representative": {
+            "count": 1,
+            "order": 562
+        },
+        "representative abreu": {
+            "count": 1,
+            "order": 563
+        },
+        "juan daniel": {
+            "count": 1,
+            "order": 567
+        },
+        "daniel": {
+            "count": 1,
+            "order": 568
+        },
+        "daniel torres": {
+            "count": 1,
+            "order": 569
+        },
+        "torres": {
+            "count": 1,
+            "order": 570
+        },
+        "torres relationship": {
+            "count": 1,
+            "order": 571
+        },
+        "relationship": {
+            "count": 1,
+            "order": 572
+        },
+        "relationship to": {
+            "count": 1,
+            "order": 573
+        },
+        "to patient": {
+            "count": 1,
+            "order": 574
+        },
+        "patient self": {
+            "count": 1,
+            "order": 576
+        },
+        "self": {
+            "count": 1,
+            "order": 577
+        },
+        "self reason": {
+            "count": 1,
+            "order": 578
+        },
+        "reason": {
+            "count": 1,
+            "order": 579
+        },
+        "reason patient": {
+            "count": 1,
+            "order": 580
+        },
+        "patient could": {
+            "count": 1,
+            "order": 582
+        },
+        "could": {
+            "count": 1,
+            "order": 583
+        },
+        "could not": {
+            "count": 1,
+            "order": 584
+        },
+        "not sign": {
+            "count": 1,
+            "order": 585
+        },
+        "sign": {
+            "count": 1,
+            "order": 586
+        },
+        "sign name": {
+            "count": 1,
+            "order": 587
+        },
+        "juan page": {
+            "count": 1,
+            "order": 593
+        },
+        "of order": {
+            "count": 1,
+            "order": 596
+        }
+    },
+    "delivery_ticket_2": {
+        "delivery": {
+            "count": 1,
+            "order": 0
+        },
+        "delivery receipt": {
+            "count": 1,
+            "order": 1
+        },
+        "receipt": {
+            "count": 1,
+            "order": 2
+        },
+        "receipt american": {
+            "count": 1,
+            "order": 3
+        },
+        "american": {
+            "count": 2,
+            "order": 4
+        },
+        "american homecare": {
+            "count": 2,
+            "order": 5
+        },
+        "homecare": {
+            "count": 3,
+            "order": 6
+        },
+        "homecare quipment": {
+            "count": 1,
+            "order": 7
+        },
+        "quipment": {
+            "count": 1,
+            "order": 8
+        },
+        "quipment oxygen": {
+            "count": 1,
+            "order": 9
+        },
+        "oxygen": {
+            "count": 1,
+            "order": 10
+        },
+        "oxygen permit": {
+            "count": 1,
+            "order": 11
+        },
+        "permit": {
+            "count": 1,
+            "order": 12
+        },
+        "permit american": {
+            "count": 1,
+            "order": 13
+        },
+        "homecare equipment": {
+            "count": 2,
+            "order": 17
+        },
+        "equipment": {
+            "count": 4,
+            "order": 18
+        },
+        "equipment inc": {
+            "count": 2,
+            "order": 19
+        },
+        "inc": {
+            "count": 2,
+            "order": 20
+        },
+        "inc branchamerican": {
+            "count": 1,
+            "order": 21
+        },
+        "branchamerican": {
+            "count": 1,
+            "order": 22
+        },
+        "branchamerican homecare": {
+            "count": 1,
+            "order": 23
+        },
+        "inc nw": {
+            "count": 1,
+            "order": 29
+        },
+        "nw th": {
+            "count": 1,
+            "order": 30
+        },
+        "th ave": {
+            "count": 1,
+            "order": 31
+        },
+        "ave": {
+            "count": 1,
+            "order": 32
+        },
+        "ave inv": {
+            "count": 1,
+            "order": 33
+        },
+        "inv": {
+            "count": 1,
+            "order": 34
+        },
+        "inv location": {
+            "count": 1,
+            "order": 35
+        },
+        "location": {
+            "count": 1,
+            "order": 36
+        },
+        "location miami": {
+            "count": 1,
+            "order": 37
+        },
+        "miami": {
+            "count": 1,
+            "order": 38
+        },
+        "miami warehouse": {
+            "count": 1,
+            "order": 39
+        },
+        "warehouse": {
+            "count": 1,
+            "order": 40
+        },
+        "warehouse suite": {
+            "count": 1,
+            "order": 41
+        },
+        "suite": {
+            "count": 1,
+            "order": 42
+        },
+        "suite fort": {
+            "count": 1,
+            "order": 43
+        },
+        "fort": {
+            "count": 1,
+            "order": 44
+        },
+        "fort lauderdale": {
+            "count": 1,
+            "order": 45
+        },
+        "lauderdale": {
+            "count": 1,
+            "order": 46
+        },
+        "lauderdale fl": {
+            "count": 1,
+            "order": 47
+        },
+        "fl date": {
+            "count": 1,
+            "order": 48
+        },
+        "date": {
+            "count": 2,
+            "order": 49
+        },
+        "date csr": {
+            "count": 1,
+            "order": 50
+        },
+        "csr": {
+            "count": 1,
+            "order": 51
+        },
+        "csr order": {
+            "count": 1,
+            "order": 52
+        },
+        "order": {
+            "count": 3,
+            "order": 53
+        },
+        "order patient": {
+            "count": 1,
+            "order": 54
+        },
+        "patient": {
+            "count": 5,
+            "order": 55
+        },
+        "patient customer": {
+            "count": 1,
+            "order": 56
+        },
+        "customer": {
+            "count": 1,
+            "order": 57
+        },
+        "customer account": {
+            "count": 1,
+            "order": 58
+        },
+        "account": {
+            "count": 1,
+            "order": 59
+        },
+        "account dob": {
+            "count": 1,
+            "order": 60
+        },
+        "dob": {
+            "count": 1,
+            "order": 61
+        },
+        "dob gender": {
+            "count": 1,
+            "order": 62
+        },
+        "gender": {
+            "count": 1,
+            "order": 63
+        },
+        "gender female": {
+            "count": 1,
+            "order": 64
+        },
+        "female": {
+            "count": 1,
+            "order": 65
+        },
+        "female ht": {
+            "count": 1,
+            "order": 66
+        },
+        "ht in": {
+            "count": 1,
+            "order": 67
+        },
+        "in wt": {
+            "count": 1,
+            "order": 68
+        },
+        "wt ib": {
+            "count": 1,
+            "order": 69
+        },
+        "ib bill": {
+            "count": 1,
+            "order": 70
+        },
+        "bill": {
+            "count": 2,
+            "order": 71
+        },
+        "bill to": {
+            "count": 1,
+            "order": 72
+        },
+        "to shippeddelivered": {
+            "count": 1,
+            "order": 73
+        },
+        "shippeddelivered": {
+            "count": 1,
+            "order": 74
+        },
+        "shippeddelivered to": {
+            "count": 1,
+            "order": 75
+        },
+        "to phone": {
+            "count": 1,
+            "order": 76
+        },
+        "phone": {
+            "count": 1,
+            "order": 77
+        },
+        "phone mobile": {
+            "count": 1,
+            "order": 78
+        },
+        "mobile": {
+            "count": 1,
+            "order": 79
+        },
+        "mobile insurance": {
+            "count": 1,
+            "order": 80
+        },
+        "insurance": {
+            "count": 3,
+            "order": 81
+        },
+        "insurance cigna": {
+            "count": 1,
+            "order": 82
+        },
+        "cigna": {
+            "count": 1,
+            "order": 83
+        },
+        "cigna government": {
+            "count": 1,
+            "order": 84
+        },
+        "government": {
+            "count": 1,
+            "order": 85
+        },
+        "government services": {
+            "count": 1,
+            "order": 86
+        },
+        "services": {
+            "count": 5,
+            "order": 87
+        },
+        "services aarp": {
+            "count": 1,
+            "order": 88
+        },
+        "aarp": {
+            "count": 1,
+            "order": 89
+        },
+        "aarp hipaa": {
+            "count": 1,
+            "order": 90
+        },
+        "hipaa": {
+            "count": 1,
+            "order": 91
+        },
+        "hipaa signature": {
+            "count": 1,
+            "order": 92
+        },
+        "signature": {
+            "count": 3,
+            "order": 93
+        },
+        "signature on": {
+            "count": 1,
+            "order": 94
+        },
+        "on file": {
+            "count": 1,
+            "order": 95
+        },
+        "file": {
+            "count": 1,
+            "order": 96
+        },
+        "file yes": {
+            "count": 1,
+            "order": 97
+        },
+        "yes": {
+            "count": 1,
+            "order": 98
+        },
+        "yes comments": {
+            "count": 1,
+            "order": 99
+        },
+        "comments": {
+            "count": 1,
+            "order": 100
+        },
+        "comments or": {
+            "count": 1,
+            "order": 101
+        },
+        "or special": {
+            "count": 1,
+            "order": 102
+        },
+        "special": {
+            "count": 1,
+            "order": 103
+        },
+        "special instructions": {
+            "count": 1,
+            "order": 104
+        },
+        "instructions": {
+            "count": 1,
+            "order": 105
+        },
+        "instructions mm": {
+            "count": 1,
+            "order": 106
+        },
+        "mm rt": {
+            "count": 1,
+            "order": 107
+        },
+        "rt new": {
+            "count": 1,
+            "order": 108
+        },
+        "new": {
+            "count": 1,
+            "order": 109
+        },
+        "new home": {
+            "count": 1,
+            "order": 110
+        },
+        "home": {
+            "count": 1,
+            "order": 111
+        },
+        "home set": {
+            "count": 1,
+            "order": 112
+        },
+        "set": {
+            "count": 1,
+            "order": 113
+        },
+        "set up": {
+            "count": 1,
+            "order": 114
+        },
+        "up hcmg": {
+            "count": 1,
+            "order": 115
+        },
+        "hcmg": {
+            "count": 1,
+            "order": 116
+        },
+        "hcmg clinic": {
+            "count": 1,
+            "order": 117
+        },
+        "clinic": {
+            "count": 1,
+            "order": 118
+        },
+        "clinic compliance": {
+            "count": 1,
+            "order": 119
+        },
+        "compliance": {
+            "count": 1,
+            "order": 120
+        },
+        "compliance required": {
+            "count": 1,
+            "order": 121
+        },
+        "required": {
+            "count": 1,
+            "order": 122
+        },
+        "required rx": {
+            "count": 1,
+            "order": 123
+        },
+        "rx apap": {
+            "count": 1,
+            "order": 124
+        },
+        "apap": {
+            "count": 1,
+            "order": 125
+        },
+        "apap cm": {
+            "count": 1,
+            "order": 126
+        },
+        "cm h": {
+            "count": 1,
+            "order": 127
+        },
+        "h with": {
+            "count": 1,
+            "order": 128
+        },
+        "with mask": {
+            "count": 1,
+            "order": 129
+        },
+        "mask": {
+            "count": 2,
+            "order": 130
+        },
+        "mask of": {
+            "count": 1,
+            "order": 131
+        },
+        "of choice": {
+            "count": 1,
+            "order": 132
+        },
+        "choice": {
+            "count": 1,
+            "order": 133
+        },
+        "choice from": {
+            "count": 1,
+            "order": 134
+        },
+        "from dr": {
+            "count": 1,
+            "order": 135
+        },
+        "dr frank": {
+            "count": 1,
+            "order": 136
+        },
+        "frank": {
+            "count": 1,
+            "order": 137
+        },
+        "frank sorhage": {
+            "count": 1,
+            "order": 138
+        },
+        "sorhage": {
+            "count": 1,
+            "order": 139
+        },
+        "sorhage authorize": {
+            "count": 1,
+            "order": 140
+        },
+        "authorize": {
+            "count": 2,
+            "order": 141
+        },
+        "authorize credit": {
+            "count": 1,
+            "order": 142
+        },
+        "credit": {
+            "count": 1,
+            "order": 143
+        },
+        "credit card": {
+            "count": 1,
+            "order": 144
+        },
+        "card": {
+            "count": 1,
+            "order": 145
+        },
+        "card ending": {
+            "count": 1,
+            "order": 146
+        },
+        "ending": {
+            "count": 1,
+            "order": 147
+        },
+        "ending in": {
+            "count": 1,
+            "order": 148
+        },
+        "in to": {
+            "count": 1,
+            "order": 149
+        },
+        "to be": {
+            "count": 1,
+            "order": 150
+        },
+        "be charged": {
+            "count": 1,
+            "order": 151
+        },
+        "charged": {
+            "count": 1,
+            "order": 152
+        },
+        "charged for": {
+            "count": 1,
+            "order": 153
+        },
+        "for current": {
+            "count": 1,
+            "order": 154
+        },
+        "current": {
+            "count": 1,
+            "order": 155
+        },
+        "current and": {
+            "count": 1,
+            "order": 156
+        },
+        "and future": {
+            "count": 1,
+            "order": 157
+        },
+        "future": {
+            "count": 1,
+            "order": 158
+        },
+        "future insurance": {
+            "count": 1,
+            "order": 159
+        },
+        "insurance out": {
+            "count": 1,
+            "order": 161
+        },
+        "out of": {
+            "count": 1,
+            "order": 162
+        },
+        "of the": {
+            "count": 2,
+            "order": 163
+        },
+        "the pocket": {
+            "count": 1,
+            "order": 164
+        },
+        "pocket": {
+            "count": 1,
+            "order": 165
+        },
+        "pocket responsibilities": {
+            "count": 1,
+            "order": 166
+        },
+        "responsibilities": {
+            "count": 1,
+            "order": 167
+        },
+        "responsibilities ord": {
+            "count": 1,
+            "order": 168
+        },
+        "ord": {
+            "count": 2,
+            "order": 169
+        },
+        "ord qty": {
+            "count": 2,
+            "order": 170
+        },
+        "qty": {
+            "count": 4,
+            "order": 171
+        },
+        "qty del": {
+            "count": 2,
+            "order": 172
+        },
+        "del": {
+            "count": 2,
+            "order": 173
+        },
+        "del qty": {
+            "count": 2,
+            "order": 174
+        },
+        "qty type": {
+            "count": 2,
+            "order": 176
+        },
+        "type": {
+            "count": 2,
+            "order": 177
+        },
+        "type item": {
+            "count": 2,
+            "order": 178
+        },
+        "item": {
+            "count": 2,
+            "order": 179
+        },
+        "item ext": {
+            "count": 2,
+            "order": 180
+        },
+        "ext": {
+            "count": 4,
+            "order": 181
+        },
+        "ext allow": {
+            "count": 2,
+            "order": 182
+        },
+        "allow": {
+            "count": 2,
+            "order": 183
+        },
+        "allow ext": {
+            "count": 2,
+            "order": 184
+        },
+        "ext amt": {
+            "count": 2,
+            "order": 186
+        },
+        "amt": {
+            "count": 2,
+            "order": 187
+        },
+        "amt tax": {
+            "count": 2,
+            "order": 188
+        },
+        "tax": {
+            "count": 2,
+            "order": 189
+        },
+        "tax copay": {
+            "count": 2,
+            "order": 190
+        },
+        "copay": {
+            "count": 2,
+            "order": 191
+        },
+        "copay cpgeneric": {
+            "count": 1,
+            "order": 192
+        },
+        "cpgeneric": {
+            "count": 1,
+            "order": 193
+        },
+        "cpgeneric cpap": {
+            "count": 1,
+            "order": 194
+        },
+        "cpap": {
+            "count": 5,
+            "order": 195
+        },
+        "cpap standard": {
+            "count": 1,
+            "order": 196
+        },
+        "standard": {
+            "count": 2,
+            "order": 197
+        },
+        "standard or": {
+            "count": 1,
+            "order": 198
+        },
+        "or auto": {
+            "count": 1,
+            "order": 199
+        },
+        "auto": {
+            "count": 1,
+            "order": 200
+        },
+        "auto resmed": {
+            "count": 1,
+            "order": 201
+        },
+        "resmed": {
+            "count": 3,
+            "order": 202
+        },
+        "resmed cpap": {
+            "count": 1,
+            "order": 203
+        },
+        "cpap airsense": {
+            "count": 1,
+            "order": 205
+        },
+        "airsense": {
+            "count": 1,
+            "order": 206
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 207
+        },
+        "autoset": {
+            "count": 1,
+            "order": 208
+        },
+        "autoset resmed": {
+            "count": 1,
+            "order": 209
+        },
+        "resmed uomeaches": {
+            "count": 2,
+            "order": 211
+        },
+        "uomeaches": {
+            "count": 7,
+            "order": 212
+        },
+        "uomeaches rental": {
+            "count": 1,
+            "order": 213
+        },
+        "rental": {
+            "count": 1,
+            "order": 214
+        },
+        "rental serial": {
+            "count": 1,
+            "order": 215
+        },
+        "serial": {
+            "count": 1,
+            "order": 216
+        },
+        "serial number": {
+            "count": 1,
+            "order": 217
+        },
+        "number": {
+            "count": 1,
+            "order": 218
+        },
+        "number note": {
+            "count": 1,
+            "order": 219
+        },
+        "note": {
+            "count": 8,
+            "order": 220
+        },
+        "note humidifier": {
+            "count": 1,
+            "order": 221
+        },
+        "humidifier": {
+            "count": 1,
+            "order": 222
+        },
+        "humidifier heated": {
+            "count": 1,
+            "order": 223
+        },
+        "heated": {
+            "count": 1,
+            "order": 224
+        },
+        "heated used": {
+            "count": 1,
+            "order": 225
+        },
+        "used": {
+            "count": 1,
+            "order": 226
+        },
+        "used w": {
+            "count": 1,
+            "order": 227
+        },
+        "w pap": {
+            "count": 1,
+            "order": 228
+        },
+        "pap": {
+            "count": 2,
+            "order": 229
+        },
+        "pap purchase": {
+            "count": 1,
+            "order": 230
+        },
+        "purchase": {
+            "count": 6,
+            "order": 231
+        },
+        "purchase uomeaches": {
+            "count": 3,
+            "order": 232
+        },
+        "uomeaches note": {
+            "count": 6,
+            "order": 234
+        },
+        "note maskffnpna": {
+            "count": 1,
+            "order": 236
+        },
+        "maskffnpna": {
+            "count": 1,
+            "order": 237
+        },
+        "maskffnpna genegeneric": {
+            "count": 1,
+            "order": 238
+        },
+        "genegeneric": {
+            "count": 1,
+            "order": 239
+        },
+        "genegeneric cpap": {
+            "count": 1,
+            "order": 240
+        },
+        "cpap mask": {
+            "count": 1,
+            "order": 242
+        },
+        "mask full": {
+            "count": 1,
+            "order": 244
+        },
+        "full": {
+            "count": 1,
+            "order": 245
+        },
+        "full face": {
+            "count": 1,
+            "order": 246
+        },
+        "face": {
+            "count": 2,
+            "order": 247
+        },
+        "face nasal": {
+            "count": 2,
+            "order": 248
+        },
+        "nasal": {
+            "count": 4,
+            "order": 249
+        },
+        "nasal pillow": {
+            "count": 2,
+            "order": 250
+        },
+        "pillow": {
+            "count": 2,
+            "order": 251
+        },
+        "pillow or": {
+            "count": 2,
+            "order": 252
+        },
+        "or nasal": {
+            "count": 2,
+            "order": 253
+        },
+        "nasal purchase": {
+            "count": 2,
+            "order": 255
+        },
+        "purchase vitsmla": {
+            "count": 1,
+            "order": 257
+        },
+        "vitsmla": {
+            "count": 1,
+            "order": 258
+        },
+        "vitsmla ahc": {
+            "count": 1,
+            "order": 259
+        },
+        "ahc": {
+            "count": 1,
+            "order": 260
+        },
+        "ahc only": {
+            "count": 1,
+            "order": 261
+        },
+        "only fisher": {
+            "count": 1,
+            "order": 262
+        },
+        "fisher": {
+            "count": 2,
+            "order": 263
+        },
+        "fisher and": {
+            "count": 1,
+            "order": 264
+        },
+        "and paykel": {
+            "count": 1,
+            "order": 265
+        },
+        "paykel": {
+            "count": 2,
+            "order": 266
+        },
+        "paykel vitera": {
+            "count": 1,
+            "order": 267
+        },
+        "vitera": {
+            "count": 1,
+            "order": 268
+        },
+        "vitera ff": {
+            "count": 1,
+            "order": 269
+        },
+        "ff fitpack": {
+            "count": 1,
+            "order": 270
+        },
+        "fitpack": {
+            "count": 1,
+            "order": 271
+        },
+        "fitpack fisher": {
+            "count": 1,
+            "order": 272
+        },
+        "fisher paykel": {
+            "count": 1,
+            "order": 274
+        },
+        "paykel healthcare": {
+            "count": 1,
+            "order": 276
+        },
+        "healthcare": {
+            "count": 1,
+            "order": 277
+        },
+        "healthcare vitismla": {
+            "count": 1,
+            "order": 278
+        },
+        "vitismla": {
+            "count": 1,
+            "order": 279
+        },
+        "vitismla uomeaches": {
+            "count": 1,
+            "order": 280
+        },
+        "note ahccpap": {
+            "count": 1,
+            "order": 284
+        },
+        "ahccpap": {
+            "count": 1,
+            "order": 285
+        },
+        "ahccpap cushion": {
+            "count": 1,
+            "order": 286
+        },
+        "cushion": {
+            "count": 2,
+            "order": 287
+        },
+        "cushion repfull": {
+            "count": 1,
+            "order": 288
+        },
+        "repfull": {
+            "count": 1,
+            "order": 289
+        },
+        "repfull face": {
+            "count": 1,
+            "order": 290
+        },
+        "purchase cushion": {
+            "count": 1,
+            "order": 301
+        },
+        "cushion included": {
+            "count": 1,
+            "order": 303
+        },
+        "included": {
+            "count": 2,
+            "order": 304
+        },
+        "included uomeaches": {
+            "count": 1,
+            "order": 305
+        },
+        "note name": {
+            "count": 1,
+            "order": 309
+        },
+        "name": {
+            "count": 2,
+            "order": 310
+        },
+        "name shamlian": {
+            "count": 2,
+            "order": 311
+        },
+        "shamlian": {
+            "count": 2,
+            "order": 312
+        },
+        "shamlian diane": {
+            "count": 2,
+            "order": 313
+        },
+        "diane": {
+            "count": 2,
+            "order": 314
+        },
+        "diane page": {
+            "count": 2,
+            "order": 315
+        },
+        "page": {
+            "count": 2,
+            "order": 316
+        },
+        "page of": {
+            "count": 2,
+            "order": 317
+        },
+        "of order": {
+            "count": 2,
+            "order": 318
+        },
+        "order ord": {
+            "count": 1,
+            "order": 320
+        },
+        "copay apos": {
+            "count": 1,
+            "order": 344
+        },
+        "apos": {
+            "count": 1,
+            "order": 345
+        },
+        "apos airway": {
+            "count": 1,
+            "order": 346
+        },
+        "airway": {
+            "count": 1,
+            "order": 347
+        },
+        "airway press": {
+            "count": 1,
+            "order": 348
+        },
+        "press": {
+            "count": 1,
+            "order": 349
+        },
+        "press headgear": {
+            "count": 1,
+            "order": 350
+        },
+        "headgear": {
+            "count": 1,
+            "order": 351
+        },
+        "headgear included": {
+            "count": 1,
+            "order": 352
+        },
+        "included purchase": {
+            "count": 1,
+            "order": 354
+        },
+        "note filgen": {
+            "count": 1,
+            "order": 360
+        },
+        "filgen": {
+            "count": 1,
+            "order": 361
+        },
+        "filgen cpap": {
+            "count": 1,
+            "order": 362
+        },
+        "cpap dispfilgeneric": {
+            "count": 1,
+            "order": 364
+        },
+        "dispfilgeneric": {
+            "count": 1,
+            "order": 365
+        },
+        "dispfilgeneric cpap": {
+            "count": 1,
+            "order": 366
+        },
+        "cpap disposable": {
+            "count": 1,
+            "order": 368
+        },
+        "disposable": {
+            "count": 1,
+            "order": 369
+        },
+        "disposable filter": {
+            "count": 1,
+            "order": 370
+        },
+        "filter": {
+            "count": 2,
+            "order": 371
+        },
+        "filter air": {
+            "count": 1,
+            "order": 372
+        },
+        "air": {
+            "count": 1,
+            "order": 373
+        },
+        "air filter": {
+            "count": 1,
+            "order": 374
+        },
+        "filter standard": {
+            "count": 1,
+            "order": 376
+        },
+        "standard pack": {
+            "count": 1,
+            "order": 378
+        },
+        "pack": {
+            "count": 1,
+            "order": 379
+        },
+        "pack purchase": {
+            "count": 1,
+            "order": 380
+        },
+        "purchase resmed": {
+            "count": 1,
+            "order": 382
+        },
+        "note aslimahcahc": {
+            "count": 1,
+            "order": 388
+        },
+        "aslimahcahc": {
+            "count": 1,
+            "order": 389
+        },
+        "aslimahcahc pap": {
+            "count": 1,
+            "order": 390
+        },
+        "pap slimline": {
+            "count": 1,
+            "order": 392
+        },
+        "slimline": {
+            "count": 1,
+            "order": 393
+        },
+        "slimline tubing": {
+            "count": 1,
+            "order": 394
+        },
+        "tubing": {
+            "count": 1,
+            "order": 395
+        },
+        "tubing purchase": {
+            "count": 1,
+            "order": 396
+        },
+        "note total": {
+            "count": 1,
+            "order": 402
+        },
+        "total": {
+            "count": 1,
+            "order": 403
+        },
+        "total please": {
+            "count": 1,
+            "order": 404
+        },
+        "please": {
+            "count": 1,
+            "order": 405
+        },
+        "please note": {
+            "count": 1,
+            "order": 406
+        },
+        "note that": {
+            "count": 1,
+            "order": 408
+        },
+        "that the": {
+            "count": 1,
+            "order": 409
+        },
+        "the above": {
+            "count": 2,
+            "order": 410
+        },
+        "above pricing": {
+            "count": 1,
+            "order": 411
+        },
+        "pricing": {
+            "count": 1,
+            "order": 412
+        },
+        "pricing amounts": {
+            "count": 1,
+            "order": 413
+        },
+        "amounts": {
+            "count": 1,
+            "order": 414
+        },
+        "amounts are": {
+            "count": 1,
+            "order": 415
+        },
+        "are an": {
+            "count": 1,
+            "order": 416
+        },
+        "an estimate": {
+            "count": 1,
+            "order": 417
+        },
+        "estimate": {
+            "count": 1,
+            "order": 418
+        },
+        "estimate of": {
+            "count": 1,
+            "order": 419
+        },
+        "of your": {
+            "count": 2,
+            "order": 420
+        },
+        "your financial": {
+            "count": 2,
+            "order": 421
+        },
+        "financial": {
+            "count": 2,
+            "order": 422
+        },
+        "financial responsibility": {
+            "count": 2,
+            "order": 423
+        },
+        "responsibility": {
+            "count": 3,
+            "order": 424
+        },
+        "responsibility only": {
+            "count": 1,
+            "order": 425
+        },
+        "only and": {
+            "count": 1,
+            "order": 426
+        },
+        "and are": {
+            "count": 1,
+            "order": 427
+        },
+        "are not": {
+            "count": 1,
+            "order": 428
+        },
+        "not a": {
+            "count": 1,
+            "order": 429
+        },
+        "a guarantee": {
+            "count": 1,
+            "order": 430
+        },
+        "guarantee": {
+            "count": 1,
+            "order": 431
+        },
+        "guarantee final": {
+            "count": 1,
+            "order": 432
+        },
+        "final": {
+            "count": 2,
+            "order": 433
+        },
+        "final determinatation": {
+            "count": 1,
+            "order": 434
+        },
+        "determinatation": {
+            "count": 1,
+            "order": 435
+        },
+        "determinatation of": {
+            "count": 1,
+            "order": 436
+        },
+        "responsibility is": {
+            "count": 1,
+            "order": 442
+        },
+        "is made": {
+            "count": 1,
+            "order": 443
+        },
+        "made": {
+            "count": 1,
+            "order": 444
+        },
+        "made by": {
+            "count": 1,
+            "order": 445
+        },
+        "by your": {
+            "count": 1,
+            "order": 446
+        },
+        "your insurance": {
+            "count": 1,
+            "order": 447
+        },
+        "insurance provider": {
+            "count": 1,
+            "order": 449
+        },
+        "provider": {
+            "count": 1,
+            "order": 450
+        },
+        "provider after": {
+            "count": 1,
+            "order": 451
+        },
+        "after your": {
+            "count": 1,
+            "order": 452
+        },
+        "your claim": {
+            "count": 1,
+            "order": 453
+        },
+        "claim": {
+            "count": 2,
+            "order": 454
+        },
+        "claim for": {
+            "count": 1,
+            "order": 455
+        },
+        "for services": {
+            "count": 3,
+            "order": 456
+        },
+        "services has": {
+            "count": 1,
+            "order": 458
+        },
+        "has been": {
+            "count": 2,
+            "order": 459
+        },
+        "been submitted": {
+            "count": 1,
+            "order": 460
+        },
+        "submitted": {
+            "count": 1,
+            "order": 461
+        },
+        "submitted any": {
+            "count": 1,
+            "order": 462
+        },
+        "any private": {
+            "count": 1,
+            "order": 463
+        },
+        "private": {
+            "count": 1,
+            "order": 464
+        },
+        "private pay": {
+            "count": 1,
+            "order": 465
+        },
+        "pay": {
+            "count": 1,
+            "order": 466
+        },
+        "pay or": {
+            "count": 1,
+            "order": 467
+        },
+        "or otherwise": {
+            "count": 1,
+            "order": 468
+        },
+        "otherwise": {
+            "count": 1,
+            "order": 469
+        },
+        "otherwise patient": {
+            "count": 1,
+            "order": 470
+        },
+        "patient responsibility": {
+            "count": 1,
+            "order": 472
+        },
+        "responsibility equipment": {
+            "count": 1,
+            "order": 474
+        },
+        "equipment sales": {
+            "count": 1,
+            "order": 476
+        },
+        "sales": {
+            "count": 1,
+            "order": 477
+        },
+        "sales services": {
+            "count": 1,
+            "order": 478
+        },
+        "services or": {
+            "count": 1,
+            "order": 480
+        },
+        "or copayscoinsurance": {
+            "count": 1,
+            "order": 481
+        },
+        "copayscoinsurance": {
+            "count": 1,
+            "order": 482
+        },
+        "copayscoinsurance are": {
+            "count": 1,
+            "order": 483
+        },
+        "are considered": {
+            "count": 1,
+            "order": 484
+        },
+        "considered": {
+            "count": 1,
+            "order": 485
+        },
+        "considered final": {
+            "count": 1,
+            "order": 486
+        },
+        "final and": {
+            "count": 1,
+            "order": 488
+        },
+        "and nonrefunadable": {
+            "count": 1,
+            "order": 489
+        },
+        "nonrefunadable": {
+            "count": 1,
+            "order": 490
+        },
+        "nonrefunadable unless": {
+            "count": 1,
+            "order": 491
+        },
+        "unless": {
+            "count": 1,
+            "order": 492
+        },
+        "unless agreed": {
+            "count": 1,
+            "order": 493
+        },
+        "agreed": {
+            "count": 1,
+            "order": 494
+        },
+        "agreed to": {
+            "count": 1,
+            "order": 495
+        },
+        "to seperately": {
+            "count": 1,
+            "order": 496
+        },
+        "seperately": {
+            "count": 1,
+            "order": 497
+        },
+        "seperately in": {
+            "count": 1,
+            "order": 498
+        },
+        "in writing": {
+            "count": 1,
+            "order": 499
+        },
+        "writing": {
+            "count": 1,
+            "order": 500
+        },
+        "writing all": {
+            "count": 1,
+            "order": 501
+        },
+        "all information": {
+            "count": 1,
+            "order": 502
+        },
+        "information": {
+            "count": 3,
+            "order": 503
+        },
+        "information has": {
+            "count": 1,
+            "order": 504
+        },
+        "been given": {
+            "count": 1,
+            "order": 506
+        },
+        "given": {
+            "count": 1,
+            "order": 507
+        },
+        "given to": {
+            "count": 1,
+            "order": 508
+        },
+        "to the": {
+            "count": 2,
+            "order": 509
+        },
+        "the company": {
+            "count": 1,
+            "order": 510
+        },
+        "company": {
+            "count": 1,
+            "order": 511
+        },
+        "company to": {
+            "count": 1,
+            "order": 512
+        },
+        "to bill": {
+            "count": 1,
+            "order": 513
+        },
+        "bill any": {
+            "count": 1,
+            "order": 515
+        },
+        "any resources": {
+            "count": 1,
+            "order": 516
+        },
+        "resources": {
+            "count": 1,
+            "order": 517
+        },
+        "resources for": {
+            "count": 1,
+            "order": 518
+        },
+        "services provided": {
+            "count": 1,
+            "order": 521
+        },
+        "provided": {
+            "count": 1,
+            "order": 522
+        },
+        "provided certify": {
+            "count": 1,
+            "order": 523
+        },
+        "certify": {
+            "count": 1,
+            "order": 524
+        },
+        "certify this": {
+            "count": 1,
+            "order": 525
+        },
+        "this information": {
+            "count": 1,
+            "order": 526
+        },
+        "information is": {
+            "count": 1,
+            "order": 528
+        },
+        "is correct": {
+            "count": 1,
+            "order": 529
+        },
+        "correct": {
+            "count": 1,
+            "order": 530
+        },
+        "correct have": {
+            "count": 1,
+            "order": 531
+        },
+        "have been": {
+            "count": 1,
+            "order": 532
+        },
+        "been instructed": {
+            "count": 1,
+            "order": 533
+        },
+        "instructed": {
+            "count": 1,
+            "order": 534
+        },
+        "instructed understand": {
+            "count": 1,
+            "order": 535
+        },
+        "understand": {
+            "count": 2,
+            "order": 536
+        },
+        "understand the": {
+            "count": 2,
+            "order": 537
+        },
+        "the safe": {
+            "count": 1,
+            "order": 538
+        },
+        "safe": {
+            "count": 1,
+            "order": 539
+        },
+        "safe use": {
+            "count": 1,
+            "order": 540
+        },
+        "use": {
+            "count": 1,
+            "order": 541
+        },
+        "use maintenance": {
+            "count": 1,
+            "order": 542
+        },
+        "maintenance": {
+            "count": 1,
+            "order": 543
+        },
+        "maintenance of": {
+            "count": 1,
+            "order": 544
+        },
+        "above equipment": {
+            "count": 1,
+            "order": 547
+        },
+        "equipment authorize": {
+            "count": 1,
+            "order": 549
+        },
+        "authorize the": {
+            "count": 1,
+            "order": 551
+        },
+        "the release": {
+            "count": 1,
+            "order": 552
+        },
+        "release": {
+            "count": 1,
+            "order": 553
+        },
+        "release of": {
+            "count": 1,
+            "order": 554
+        },
+        "of any": {
+            "count": 1,
+            "order": 555
+        },
+        "any medical": {
+            "count": 1,
+            "order": 556
+        },
+        "medical": {
+            "count": 2,
+            "order": 557
+        },
+        "medical information": {
+            "count": 1,
+            "order": 558
+        },
+        "information necessary": {
+            "count": 1,
+            "order": 560
+        },
+        "necessary": {
+            "count": 1,
+            "order": 561
+        },
+        "necessary to": {
+            "count": 1,
+            "order": 562
+        },
+        "to process": {
+            "count": 1,
+            "order": 563
+        },
+        "process": {
+            "count": 1,
+            "order": 564
+        },
+        "process this": {
+            "count": 1,
+            "order": 565
+        },
+        "this claim": {
+            "count": 1,
+            "order": 566
+        },
+        "claim also": {
+            "count": 1,
+            "order": 568
+        },
+        "also": {
+            "count": 1,
+            "order": 569
+        },
+        "also request": {
+            "count": 1,
+            "order": 570
+        },
+        "request": {
+            "count": 1,
+            "order": 571
+        },
+        "request payment": {
+            "count": 1,
+            "order": 572
+        },
+        "payment": {
+            "count": 1,
+            "order": 573
+        },
+        "payment of": {
+            "count": 1,
+            "order": 574
+        },
+        "of medical": {
+            "count": 1,
+            "order": 575
+        },
+        "medical benefits": {
+            "count": 1,
+            "order": 577
+        },
+        "benefits": {
+            "count": 1,
+            "order": 578
+        },
+        "benefits to": {
+            "count": 1,
+            "order": 579
+        },
+        "the undersigned": {
+            "count": 1,
+            "order": 581
+        },
+        "undersigned": {
+            "count": 1,
+            "order": 582
+        },
+        "undersigned supplier": {
+            "count": 1,
+            "order": 583
+        },
+        "supplier": {
+            "count": 1,
+            "order": 584
+        },
+        "supplier for": {
+            "count": 1,
+            "order": 585
+        },
+        "services have": {
+            "count": 1,
+            "order": 588
+        },
+        "have read": {
+            "count": 1,
+            "order": 589
+        },
+        "read": {
+            "count": 1,
+            "order": 590
+        },
+        "read understand": {
+            "count": 1,
+            "order": 591
+        },
+        "the provisions": {
+            "count": 1,
+            "order": 594
+        },
+        "provisions": {
+            "count": 1,
+            "order": 595
+        },
+        "provisions on": {
+            "count": 1,
+            "order": 596
+        },
+        "on this": {
+            "count": 1,
+            "order": 597
+        },
+        "this agreement": {
+            "count": 1,
+            "order": 598
+        },
+        "agreement": {
+            "count": 1,
+            "order": 599
+        },
+        "agreement fhe": {
+            "count": 1,
+            "order": 600
+        },
+        "fhe": {
+            "count": 1,
+            "order": 601
+        },
+        "fhe emt": {
+            "count": 1,
+            "order": 602
+        },
+        "emt": {
+            "count": 1,
+            "order": 603
+        },
+        "emt le": {
+            "count": 1,
+            "order": 604
+        },
+        "le signature": {
+            "count": 1,
+            "order": 605
+        },
+        "signature of": {
+            "count": 1,
+            "order": 607
+        },
+        "of patient": {
+            "count": 1,
+            "order": 608
+        },
+        "patient or": {
+            "count": 1,
+            "order": 610
+        },
+        "or date": {
+            "count": 1,
+            "order": 611
+        },
+        "date tech": {
+            "count": 1,
+            "order": 613
+        },
+        "tech": {
+            "count": 1,
+            "order": 614
+        },
+        "tech signature": {
+            "count": 1,
+            "order": 615
+        },
+        "signature authorized": {
+            "count": 1,
+            "order": 617
+        },
+        "authorized": {
+            "count": 1,
+            "order": 618
+        },
+        "authorized representative": {
+            "count": 1,
+            "order": 619
+        },
+        "representative": {
+            "count": 1,
+            "order": 620
+        },
+        "representative humberto": {
+            "count": 1,
+            "order": 621
+        },
+        "humberto": {
+            "count": 1,
+            "order": 622
+        },
+        "humberto landa": {
+            "count": 1,
+            "order": 623
+        },
+        "landa": {
+            "count": 1,
+            "order": 624
+        },
+        "landa relationship": {
+            "count": 1,
+            "order": 625
+        },
+        "relationship": {
+            "count": 1,
+            "order": 626
+        },
+        "relationship to": {
+            "count": 1,
+            "order": 627
+        },
+        "to patient": {
+            "count": 1,
+            "order": 628
+        },
+        "patient self": {
+            "count": 1,
+            "order": 630
+        },
+        "self": {
+            "count": 1,
+            "order": 631
+        },
+        "self reason": {
+            "count": 1,
+            "order": 632
+        },
+        "reason": {
+            "count": 1,
+            "order": 633
+        },
+        "reason patient": {
+            "count": 1,
+            "order": 634
+        },
+        "patient could": {
+            "count": 1,
+            "order": 636
+        },
+        "could": {
+            "count": 1,
+            "order": 637
+        },
+        "could not": {
+            "count": 1,
+            "order": 638
+        },
+        "not sign": {
+            "count": 1,
+            "order": 639
+        },
+        "sign": {
+            "count": 1,
+            "order": 640
+        },
+        "sign name": {
+            "count": 1,
+            "order": 641
+        }
+    }
+}

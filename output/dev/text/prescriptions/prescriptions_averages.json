@@ -1,0 +1,3152 @@
+{
+    "dme": {
+        "avg_count": 1.5,
+        "avg_order": 13.0,
+        "hit_rate": 1.0
+    },
+    "sleep": {
+        "avg_count": 2.0,
+        "avg_order": 24.0,
+        "hit_rate": 1.0
+    },
+    "patient": {
+        "avg_count": 3.0,
+        "avg_order": 93.5,
+        "hit_rate": 1.0
+    },
+    "fax": {
+        "avg_count": 1.0,
+        "avg_order": 21.5,
+        "hit_rate": 1.0
+    },
+    "date": {
+        "avg_count": 2.0,
+        "avg_order": 16.5,
+        "hit_rate": 1.0
+    },
+    "phone": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 1.0
+    },
+    "new": {
+        "avg_count": 1.0,
+        "avg_order": 92.0,
+        "hit_rate": 1.0
+    },
+    "mask": {
+        "avg_count": 3.5,
+        "avg_order": 140.0,
+        "hit_rate": 1.0
+    },
+    "diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 67.5,
+        "hit_rate": 1.0
+    },
+    "osa": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 1.0
+    },
+    "osa g": {
+        "avg_count": 1.0,
+        "avg_order": 197.0,
+        "hit_rate": 1.0
+    },
+    "of need": {
+        "avg_count": 1.5,
+        "avg_order": 194.5,
+        "hit_rate": 1.0
+    },
+    "need": {
+        "avg_count": 2.5,
+        "avg_order": 195.5,
+        "hit_rate": 1.0
+    },
+    "need months": {
+        "avg_count": 1.5,
+        "avg_order": 196.5,
+        "hit_rate": 1.0
+    },
+    "months": {
+        "avg_count": 1.5,
+        "avg_order": 197.5,
+        "hit_rate": 1.0
+    },
+    "cpap": {
+        "avg_count": 2.5,
+        "avg_order": 78.0,
+        "hit_rate": 1.0
+    },
+    "auto": {
+        "avg_count": 1.5,
+        "avg_order": 172.5,
+        "hit_rate": 1.0
+    },
+    "events": {
+        "avg_count": 2.5,
+        "avg_order": 158.5,
+        "hit_rate": 1.0
+    },
+    "humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 292.5,
+        "hit_rate": 1.0
+    },
+    "fit": {
+        "avg_count": 1.0,
+        "avg_order": 279.0,
+        "hit_rate": 1.0
+    },
+    "supplies": {
+        "avg_count": 1.0,
+        "avg_order": 250.0,
+        "hit_rate": 1.0
+    },
+    "length": {
+        "avg_count": 1.0,
+        "avg_order": 308.0,
+        "hit_rate": 1.0
+    },
+    "length of": {
+        "avg_count": 1.0,
+        "avg_order": 309.0,
+        "hit_rate": 1.0
+    },
+    "chamber": {
+        "avg_count": 1.0,
+        "avg_order": 311.5,
+        "hit_rate": 1.0
+    },
+    "heated": {
+        "avg_count": 1.5,
+        "avg_order": 286.5,
+        "hit_rate": 1.0
+    },
+    "heated tubing": {
+        "avg_count": 1.5,
+        "avg_order": 287.5,
+        "hit_rate": 1.0
+    },
+    "tubing": {
+        "avg_count": 3.5,
+        "avg_order": 282.0,
+        "hit_rate": 1.0
+    },
+    "tubing a": {
+        "avg_count": 2.0,
+        "avg_order": 283.0,
+        "hit_rate": 1.0
+    },
+    "face": {
+        "avg_count": 2.0,
+        "avg_order": 274.0,
+        "hit_rate": 1.0
+    },
+    "disposable": {
+        "avg_count": 1.0,
+        "avg_order": 317.0,
+        "hit_rate": 1.0
+    },
+    "dme rx": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.5
+    },
+    "rx munson": {
+        "avg_count": 1.0,
+        "avg_order": 2.0,
+        "hit_rate": 0.5
+    },
+    "munson": {
+        "avg_count": 2.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.5
+    },
+    "munson traverse": {
+        "avg_count": 1.0,
+        "avg_order": 4.0,
+        "hit_rate": 0.5
+    },
+    "traverse": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.5
+    },
+    "traverse city": {
+        "avg_count": 1.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.5
+    },
+    "city": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.5
+    },
+    "city sleep": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.5
+    },
+    "sleep disorders": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.5
+    },
+    "disorders": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.5
+    },
+    "disorders center": {
+        "avg_count": 1.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.5
+    },
+    "center": {
+        "avg_count": 1.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.5
+    },
+    "center munson": {
+        "avg_count": 1.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.5
+    },
+    "munson ave": {
+        "avg_count": 1.0,
+        "avg_order": 16.0,
+        "hit_rate": 0.5
+    },
+    "ave": {
+        "avg_count": 1.0,
+        "avg_order": 17.0,
+        "hit_rate": 0.5
+    },
+    "ave patient": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.5
+    },
+    "patient fax": {
+        "avg_count": 1.0,
+        "avg_order": 20.0,
+        "hit_rate": 0.5
+    },
+    "fax sticker": {
+        "avg_count": 1.0,
+        "avg_order": 22.0,
+        "hit_rate": 0.5
+    },
+    "sticker": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.5
+    },
+    "sticker patient": {
+        "avg_count": 1.0,
+        "avg_order": 24.0,
+        "hit_rate": 0.5
+    },
+    "patient name": {
+        "avg_count": 1.0,
+        "avg_order": 26.0,
+        "hit_rate": 0.5
+    },
+    "name": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.5
+    },
+    "name date": {
+        "avg_count": 1.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.5
+    },
+    "date of": {
+        "avg_count": 2.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.5
+    },
+    "of arn": {
+        "avg_count": 1.0,
+        "avg_order": 31.0,
+        "hit_rate": 0.5
+    },
+    "arn": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 0.5
+    },
+    "arn home": {
+        "avg_count": 1.0,
+        "avg_order": 33.0,
+        "hit_rate": 0.5
+    },
+    "home": {
+        "avg_count": 1.0,
+        "avg_order": 34.0,
+        "hit_rate": 0.5
+    },
+    "home phone": {
+        "avg_count": 1.0,
+        "avg_order": 35.0,
+        "hit_rate": 0.5
+    },
+    "phone dme": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.5
+    },
+    "dme company": {
+        "avg_count": 1.0,
+        "avg_order": 39.0,
+        "hit_rate": 0.5
+    },
+    "company": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.5
+    },
+    "company e": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.5
+    },
+    "e new": {
+        "avg_count": 1.0,
+        "avg_order": 42.0,
+        "hit_rate": 0.5
+    },
+    "new pap": {
+        "avg_count": 1.0,
+        "avg_order": 44.0,
+        "hit_rate": 0.5
+    },
+    "pap": {
+        "avg_count": 3.0,
+        "avg_order": 45.0,
+        "hit_rate": 0.5
+    },
+    "pap device": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.5
+    },
+    "device": {
+        "avg_count": 1.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.5
+    },
+    "device wd": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.5
+    },
+    "wd download": {
+        "avg_count": 1.0,
+        "avg_order": 49.0,
+        "hit_rate": 0.5
+    },
+    "download": {
+        "avg_count": 2.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.5
+    },
+    "download pressure": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.5
+    },
+    "pressure": {
+        "avg_count": 5.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.5
+    },
+    "pressure change": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 0.5
+    },
+    "change": {
+        "avg_count": 2.0,
+        "avg_order": 54.0,
+        "hit_rate": 0.5
+    },
+    "change o": {
+        "avg_count": 2.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.5
+    },
+    "o if": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.5
+    },
+    "if done": {
+        "avg_count": 1.0,
+        "avg_order": 57.0,
+        "hit_rate": 0.5
+    },
+    "done": {
+        "avg_count": 1.0,
+        "avg_order": 58.0,
+        "hit_rate": 0.5
+    },
+    "done in": {
+        "avg_count": 1.0,
+        "avg_order": 59.0,
+        "hit_rate": 0.5
+    },
+    "in office": {
+        "avg_count": 1.0,
+        "avg_order": 60.0,
+        "hit_rate": 0.5
+    },
+    "office": {
+        "avg_count": 1.0,
+        "avg_order": 61.0,
+        "hit_rate": 0.5
+    },
+    "office please": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.5
+    },
+    "please": {
+        "avg_count": 1.0,
+        "avg_order": 63.0,
+        "hit_rate": 0.5
+    },
+    "please indicate": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.5
+    },
+    "indicate": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.5
+    },
+    "indicate o": {
+        "avg_count": 1.0,
+        "avg_order": 66.0,
+        "hit_rate": 0.5
+    },
+    "o mask": {
+        "avg_count": 2.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.5
+    },
+    "mask change": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.5
+    },
+    "o download": {
+        "avg_count": 1.0,
+        "avg_order": 72.0,
+        "hit_rate": 0.5
+    },
+    "download in": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.5
+    },
+    "in bays": {
+        "avg_count": 1.0,
+        "avg_order": 75.0,
+        "hit_rate": 0.5
+    },
+    "bays": {
+        "avg_count": 1.0,
+        "avg_order": 76.0,
+        "hit_rate": 0.5
+    },
+    "bays ocontinne": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 0.5
+    },
+    "ocontinne": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.5
+    },
+    "ocontinne current": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.5
+    },
+    "current": {
+        "avg_count": 3.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.5
+    },
+    "current pressure": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.5
+    },
+    "pressure o": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.5
+    },
+    "o continue": {
+        "avg_count": 2.0,
+        "avg_order": 84.0,
+        "hit_rate": 0.5
+    },
+    "continue": {
+        "avg_count": 2.0,
+        "avg_order": 85.0,
+        "hit_rate": 0.5
+    },
+    "continue current": {
+        "avg_count": 2.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.5
+    },
+    "current mask": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.5
+    },
+    "mask o": {
+        "avg_count": 1.0,
+        "avg_order": 90.0,
+        "hit_rate": 0.5
+    },
+    "current maskand": {
+        "avg_count": 1.0,
+        "avg_order": 95.0,
+        "hit_rate": 0.5
+    },
+    "maskand": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.5
+    },
+    "maskand pressure": {
+        "avg_count": 1.0,
+        "avg_order": 97.0,
+        "hit_rate": 0.5
+    },
+    "pressure diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 99.0,
+        "hit_rate": 0.5
+    },
+    "diagnosis icd": {
+        "avg_count": 1.0,
+        "avg_order": 101.0,
+        "hit_rate": 0.5
+    },
+    "icd": {
+        "avg_count": 1.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.5
+    },
+    "icd osa": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.5
+    },
+    "g o": {
+        "avg_count": 3.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.5
+    },
+    "o csa": {
+        "avg_count": 1.0,
+        "avg_order": 107.0,
+        "hit_rate": 0.5
+    },
+    "csa": {
+        "avg_count": 2.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.5
+    },
+    "csa g": {
+        "avg_count": 2.0,
+        "avg_order": 109.0,
+        "hit_rate": 0.5
+    },
+    "o tx": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.5
+    },
+    "tx emerg": {
+        "avg_count": 1.0,
+        "avg_order": 112.0,
+        "hit_rate": 0.5
+    },
+    "emerg": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.5
+    },
+    "emerg csa": {
+        "avg_count": 1.0,
+        "avg_order": 114.0,
+        "hit_rate": 0.5
+    },
+    "o copd": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.5
+    },
+    "copd": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.5
+    },
+    "copd other": {
+        "avg_count": 1.0,
+        "avg_order": 120.0,
+        "hit_rate": 0.5
+    },
+    "other duration": {
+        "avg_count": 1.0,
+        "avg_order": 121.0,
+        "hit_rate": 0.5
+    },
+    "duration": {
+        "avg_count": 1.0,
+        "avg_order": 122.0,
+        "hit_rate": 0.5
+    },
+    "duration of": {
+        "avg_count": 1.0,
+        "avg_order": 123.0,
+        "hit_rate": 0.5
+    },
+    "months or": {
+        "avg_count": 1.0,
+        "avg_order": 128.0,
+        "hit_rate": 0.5
+    },
+    "or o": {
+        "avg_count": 1.0,
+        "avg_order": 129.0,
+        "hit_rate": 0.5
+    },
+    "o other": {
+        "avg_count": 1.0,
+        "avg_order": 130.0,
+        "hit_rate": 0.5
+    },
+    "other cpap": {
+        "avg_count": 1.0,
+        "avg_order": 131.0,
+        "hit_rate": 0.5
+    },
+    "cpap e": {
+        "avg_count": 1.0,
+        "avg_order": 133.0,
+        "hit_rate": 0.5
+    },
+    "e pressure": {
+        "avg_count": 1.0,
+        "avg_order": 134.0,
+        "hit_rate": 0.5
+    },
+    "pressure y": {
+        "avg_count": 1.0,
+        "avg_order": 136.0,
+        "hit_rate": 0.5
+    },
+    "y cflexepr": {
+        "avg_count": 1.0,
+        "avg_order": 137.0,
+        "hit_rate": 0.5
+    },
+    "cflexepr": {
+        "avg_count": 2.0,
+        "avg_order": 138.0,
+        "hit_rate": 0.5
+    },
+    "cflexepr setting": {
+        "avg_count": 2.0,
+        "avg_order": 139.0,
+        "hit_rate": 0.5
+    },
+    "setting": {
+        "avg_count": 3.0,
+        "avg_order": 140.0,
+        "hit_rate": 0.5
+    },
+    "setting o": {
+        "avg_count": 3.0,
+        "avg_order": 141.0,
+        "hit_rate": 0.5
+    },
+    "o autopap": {
+        "avg_count": 1.0,
+        "avg_order": 142.0,
+        "hit_rate": 0.5
+    },
+    "autopap": {
+        "avg_count": 1.0,
+        "avg_order": 143.0,
+        "hit_rate": 0.5
+    },
+    "autopap eq": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.5
+    },
+    "eq pressure": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.5
+    },
+    "pressure range": {
+        "avg_count": 1.0,
+        "avg_order": 147.0,
+        "hit_rate": 0.5
+    },
+    "range": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.5
+    },
+    "range cflexepr": {
+        "avg_count": 1.0,
+        "avg_order": 149.0,
+        "hit_rate": 0.5
+    },
+    "o bipap": {
+        "avg_count": 1.0,
+        "avg_order": 154.0,
+        "hit_rate": 0.5
+    },
+    "bipap": {
+        "avg_count": 5.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.5
+    },
+    "bipap s": {
+        "avg_count": 1.0,
+        "avg_order": 156.0,
+        "hit_rate": 0.5
+    },
+    "s e": {
+        "avg_count": 1.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.5
+    },
+    "e ipap": {
+        "avg_count": 2.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.5
+    },
+    "ipap": {
+        "avg_count": 3.0,
+        "avg_order": 159.0,
+        "hit_rate": 0.5
+    },
+    "ipap epap": {
+        "avg_count": 2.0,
+        "avg_order": 160.0,
+        "hit_rate": 0.5
+    },
+    "epap": {
+        "avg_count": 8.0,
+        "avg_order": 161.0,
+        "hit_rate": 0.5
+    },
+    "epap biflex": {
+        "avg_count": 1.0,
+        "avg_order": 162.0,
+        "hit_rate": 0.5
+    },
+    "biflex": {
+        "avg_count": 1.0,
+        "avg_order": 163.0,
+        "hit_rate": 0.5
+    },
+    "biflex setting": {
+        "avg_count": 1.0,
+        "avg_order": 164.0,
+        "hit_rate": 0.5
+    },
+    "o auto": {
+        "avg_count": 1.0,
+        "avg_order": 167.0,
+        "hit_rate": 0.5
+    },
+    "auto bipap": {
+        "avg_count": 1.0,
+        "avg_order": 169.0,
+        "hit_rate": 0.5
+    },
+    "bipap min": {
+        "avg_count": 1.0,
+        "avg_order": 171.0,
+        "hit_rate": 0.5
+    },
+    "min": {
+        "avg_count": 5.0,
+        "avg_order": 172.0,
+        "hit_rate": 0.5
+    },
+    "min epap": {
+        "avg_count": 3.0,
+        "avg_order": 173.0,
+        "hit_rate": 0.5
+    },
+    "epap max": {
+        "avg_count": 3.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.5
+    },
+    "max": {
+        "avg_count": 3.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.5
+    },
+    "max pap": {
+        "avg_count": 1.0,
+        "avg_order": 177.0,
+        "hit_rate": 0.5
+    },
+    "pap ps": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 0.5
+    },
+    "ps for": {
+        "avg_count": 1.0,
+        "avg_order": 180.0,
+        "hit_rate": 0.5
+    },
+    "for bipap": {
+        "avg_count": 2.0,
+        "avg_order": 181.0,
+        "hit_rate": 0.5
+    },
+    "bipap e": {
+        "avg_count": 1.0,
+        "avg_order": 183.0,
+        "hit_rate": 0.5
+    },
+    "e o": {
+        "avg_count": 1.0,
+        "avg_order": 184.0,
+        "hit_rate": 0.5
+    },
+    "o tried": {
+        "avg_count": 1.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.5
+    },
+    "tried": {
+        "avg_count": 2.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.5
+    },
+    "tried cpap": {
+        "avg_count": 1.0,
+        "avg_order": 187.0,
+        "hit_rate": 0.5
+    },
+    "cpap and": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.5
+    },
+    "and failed": {
+        "avg_count": 1.0,
+        "avg_order": 190.0,
+        "hit_rate": 0.5
+    },
+    "failed": {
+        "avg_count": 1.0,
+        "avg_order": 191.0,
+        "hit_rate": 0.5
+    },
+    "failed highest": {
+        "avg_count": 1.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.5
+    },
+    "highest": {
+        "avg_count": 1.0,
+        "avg_order": 193.0,
+        "hit_rate": 0.5
+    },
+    "highest cpap": {
+        "avg_count": 1.0,
+        "avg_order": 194.0,
+        "hit_rate": 0.5
+    },
+    "cpap tried": {
+        "avg_count": 1.0,
+        "avg_order": 196.0,
+        "hit_rate": 0.5
+    },
+    "tried e": {
+        "avg_count": 1.0,
+        "avg_order": 198.0,
+        "hit_rate": 0.5
+    },
+    "e bipap": {
+        "avg_count": 1.0,
+        "avg_order": 199.0,
+        "hit_rate": 0.5
+    },
+    "bipap st": {
+        "avg_count": 1.0,
+        "avg_order": 201.0,
+        "hit_rate": 0.5
+    },
+    "st e": {
+        "avg_count": 1.0,
+        "avg_order": 202.0,
+        "hit_rate": 0.5
+    },
+    "epap back": {
+        "avg_count": 1.0,
+        "avg_order": 207.0,
+        "hit_rate": 0.5
+    },
+    "back": {
+        "avg_count": 1.0,
+        "avg_order": 208.0,
+        "hit_rate": 0.5
+    },
+    "back up": {
+        "avg_count": 1.0,
+        "avg_order": 209.0,
+        "hit_rate": 0.5
+    },
+    "up rate": {
+        "avg_count": 1.0,
+        "avg_order": 210.0,
+        "hit_rate": 0.5
+    },
+    "rate": {
+        "avg_count": 3.0,
+        "avg_order": 211.0,
+        "hit_rate": 0.5
+    },
+    "rate for": {
+        "avg_count": 1.0,
+        "avg_order": 212.0,
+        "hit_rate": 0.5
+    },
+    "bipap w": {
+        "avg_count": 1.0,
+        "avg_order": 215.0,
+        "hit_rate": 0.5
+    },
+    "w backup": {
+        "avg_count": 1.0,
+        "avg_order": 216.0,
+        "hit_rate": 0.5
+    },
+    "backup": {
+        "avg_count": 1.0,
+        "avg_order": 217.0,
+        "hit_rate": 0.5
+    },
+    "backup rate": {
+        "avg_count": 1.0,
+        "avg_order": 218.0,
+        "hit_rate": 0.5
+    },
+    "rate es": {
+        "avg_count": 1.0,
+        "avg_order": 220.0,
+        "hit_rate": 0.5
+    },
+    "es patient": {
+        "avg_count": 1.0,
+        "avg_order": 221.0,
+        "hit_rate": 0.5
+    },
+    "patient had": {
+        "avg_count": 2.0,
+        "avg_order": 223.0,
+        "hit_rate": 0.5
+    },
+    "had central": {
+        "avg_count": 2.0,
+        "avg_order": 224.0,
+        "hit_rate": 0.5
+    },
+    "central": {
+        "avg_count": 2.0,
+        "avg_order": 225.0,
+        "hit_rate": 0.5
+    },
+    "central events": {
+        "avg_count": 2.0,
+        "avg_order": 226.0,
+        "hit_rate": 0.5
+    },
+    "events need": {
+        "avg_count": 2.0,
+        "avg_order": 228.0,
+        "hit_rate": 0.5
+    },
+    "need centrals": {
+        "avg_count": 2.0,
+        "avg_order": 230.0,
+        "hit_rate": 0.5
+    },
+    "centrals": {
+        "avg_count": 2.0,
+        "avg_order": 231.0,
+        "hit_rate": 0.5
+    },
+    "centrals o": {
+        "avg_count": 2.0,
+        "avg_order": 232.0,
+        "hit_rate": 0.5
+    },
+    "o asv": {
+        "avg_count": 2.0,
+        "avg_order": 233.0,
+        "hit_rate": 0.5
+    },
+    "asv": {
+        "avg_count": 3.0,
+        "avg_order": 234.0,
+        "hit_rate": 0.5
+    },
+    "asv e": {
+        "avg_count": 1.0,
+        "avg_order": 235.0,
+        "hit_rate": 0.5
+    },
+    "e epap": {
+        "avg_count": 1.0,
+        "avg_order": 236.0,
+        "hit_rate": 0.5
+    },
+    "epap maxps": {
+        "avg_count": 1.0,
+        "avg_order": 238.0,
+        "hit_rate": 0.5
+    },
+    "maxps": {
+        "avg_count": 4.0,
+        "avg_order": 239.0,
+        "hit_rate": 0.5
+    },
+    "maxps min": {
+        "avg_count": 1.0,
+        "avg_order": 240.0,
+        "hit_rate": 0.5
+    },
+    "min ps": {
+        "avg_count": 2.0,
+        "avg_order": 242.0,
+        "hit_rate": 0.5
+    },
+    "ps o": {
+        "avg_count": 1.0,
+        "avg_order": 243.0,
+        "hit_rate": 0.5
+    },
+    "asv auto": {
+        "avg_count": 1.0,
+        "avg_order": 246.0,
+        "hit_rate": 0.5
+    },
+    "auto e": {
+        "avg_count": 1.0,
+        "avg_order": 248.0,
+        "hit_rate": 0.5
+    },
+    "e min": {
+        "avg_count": 1.0,
+        "avg_order": 249.0,
+        "hit_rate": 0.5
+    },
+    "max ipap": {
+        "avg_count": 1.0,
+        "avg_order": 255.0,
+        "hit_rate": 0.5
+    },
+    "ipap ss": {
+        "avg_count": 1.0,
+        "avg_order": 257.0,
+        "hit_rate": 0.5
+    },
+    "ss min": {
+        "avg_count": 1.0,
+        "avg_order": 258.0,
+        "hit_rate": 0.5
+    },
+    "ps maxps": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 0.5
+    },
+    "maxps for": {
+        "avg_count": 1.0,
+        "avg_order": 263.0,
+        "hit_rate": 0.5
+    },
+    "for asv": {
+        "avg_count": 1.0,
+        "avg_order": 264.0,
+        "hit_rate": 0.5
+    },
+    "asv patient": {
+        "avg_count": 1.0,
+        "avg_order": 266.0,
+        "hit_rate": 0.5
+    },
+    "o iaps": {
+        "avg_count": 1.0,
+        "avg_order": 278.0,
+        "hit_rate": 0.5
+    },
+    "iaps": {
+        "avg_count": 1.0,
+        "avg_order": 279.0,
+        "hit_rate": 0.5
+    },
+    "iaps e": {
+        "avg_count": 1.0,
+        "avg_order": 280.0,
+        "hit_rate": 0.5
+    },
+    "e pt": {
+        "avg_count": 1.0,
+        "avg_order": 281.0,
+        "hit_rate": 0.5
+    },
+    "pt hts": {
+        "avg_count": 1.0,
+        "avg_order": 282.0,
+        "hit_rate": 0.5
+    },
+    "hts": {
+        "avg_count": 1.0,
+        "avg_order": 283.0,
+        "hit_rate": 0.5
+    },
+    "hts target": {
+        "avg_count": 1.0,
+        "avg_order": 284.0,
+        "hit_rate": 0.5
+    },
+    "target": {
+        "avg_count": 4.0,
+        "avg_order": 285.0,
+        "hit_rate": 0.5
+    },
+    "target rates": {
+        "avg_count": 1.0,
+        "avg_order": 286.0,
+        "hit_rate": 0.5
+    },
+    "rates": {
+        "avg_count": 1.0,
+        "avg_order": 287.0,
+        "hit_rate": 0.5
+    },
+    "rates target": {
+        "avg_count": 1.0,
+        "avg_order": 288.0,
+        "hit_rate": 0.5
+    },
+    "target volmin": {
+        "avg_count": 1.0,
+        "avg_order": 290.0,
+        "hit_rate": 0.5
+    },
+    "volmin": {
+        "avg_count": 1.0,
+        "avg_order": 291.0,
+        "hit_rate": 0.5
+    },
+    "volmin epap": {
+        "avg_count": 1.0,
+        "avg_order": 292.0,
+        "hit_rate": 0.5
+    },
+    "epap minps": {
+        "avg_count": 1.0,
+        "avg_order": 294.0,
+        "hit_rate": 0.5
+    },
+    "minps": {
+        "avg_count": 2.0,
+        "avg_order": 295.0,
+        "hit_rate": 0.5
+    },
+    "minps maxps": {
+        "avg_count": 2.0,
+        "avg_order": 296.0,
+        "hit_rate": 0.5
+    },
+    "maxps o": {
+        "avg_count": 1.0,
+        "avg_order": 298.0,
+        "hit_rate": 0.5
+    },
+    "o avaps": {
+        "avg_count": 1.0,
+        "avg_order": 299.0,
+        "hit_rate": 0.5
+    },
+    "avaps": {
+        "avg_count": 1.0,
+        "avg_order": 300.0,
+        "hit_rate": 0.5
+    },
+    "avaps pt": {
+        "avg_count": 1.0,
+        "avg_order": 301.0,
+        "hit_rate": 0.5
+    },
+    "pt ht": {
+        "avg_count": 1.0,
+        "avg_order": 302.0,
+        "hit_rate": 0.5
+    },
+    "ht target": {
+        "avg_count": 1.0,
+        "avg_order": 303.0,
+        "hit_rate": 0.5
+    },
+    "target rate": {
+        "avg_count": 1.0,
+        "avg_order": 305.0,
+        "hit_rate": 0.5
+    },
+    "rate target": {
+        "avg_count": 1.0,
+        "avg_order": 307.0,
+        "hit_rate": 0.5
+    },
+    "target vol": {
+        "avg_count": 1.0,
+        "avg_order": 309.0,
+        "hit_rate": 0.5
+    },
+    "vol": {
+        "avg_count": 1.0,
+        "avg_order": 310.0,
+        "hit_rate": 0.5
+    },
+    "vol vmin": {
+        "avg_count": 1.0,
+        "avg_order": 311.0,
+        "hit_rate": 0.5
+    },
+    "vmin": {
+        "avg_count": 1.0,
+        "avg_order": 312.0,
+        "hit_rate": 0.5
+    },
+    "vmin epap": {
+        "avg_count": 1.0,
+        "avg_order": 313.0,
+        "hit_rate": 0.5
+    },
+    "epap min": {
+        "avg_count": 1.0,
+        "avg_order": 315.0,
+        "hit_rate": 0.5
+    },
+    "max minps": {
+        "avg_count": 1.0,
+        "avg_order": 321.0,
+        "hit_rate": 0.5
+    },
+    "maxps y": {
+        "avg_count": 1.0,
+        "avg_order": 325.0,
+        "hit_rate": 0.5
+    },
+    "y humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 326.0,
+        "hit_rate": 0.5
+    },
+    "humidifier o": {
+        "avg_count": 1.0,
+        "avg_order": 328.0,
+        "hit_rate": 0.5
+    },
+    "mask itera": {
+        "avg_count": 1.0,
+        "avg_order": 331.0,
+        "hit_rate": 0.5
+    },
+    "itera": {
+        "avg_count": 1.0,
+        "avg_order": 332.0,
+        "hit_rate": 0.5
+    },
+    "itera size": {
+        "avg_count": 1.0,
+        "avg_order": 333.0,
+        "hit_rate": 0.5
+    },
+    "size": {
+        "avg_count": 1.0,
+        "avg_order": 334.0,
+        "hit_rate": 0.5
+    },
+    "size mtype": {
+        "avg_count": 1.0,
+        "avg_order": 335.0,
+        "hit_rate": 0.5
+    },
+    "mtype": {
+        "avg_count": 1.0,
+        "avg_order": 336.0,
+        "hit_rate": 0.5
+    },
+    "mtype fea": {
+        "avg_count": 1.0,
+        "avg_order": 337.0,
+        "hit_rate": 0.5
+    },
+    "fea": {
+        "avg_count": 1.0,
+        "avg_order": 338.0,
+        "hit_rate": 0.5
+    },
+    "fea o": {
+        "avg_count": 1.0,
+        "avg_order": 339.0,
+        "hit_rate": 0.5
+    },
+    "o or": {
+        "avg_count": 1.0,
+        "avg_order": 340.0,
+        "hit_rate": 0.5
+    },
+    "or best": {
+        "avg_count": 1.0,
+        "avg_order": 341.0,
+        "hit_rate": 0.5
+    },
+    "best": {
+        "avg_count": 1.0,
+        "avg_order": 342.0,
+        "hit_rate": 0.5
+    },
+    "best fit": {
+        "avg_count": 1.0,
+        "avg_order": 343.0,
+        "hit_rate": 0.5
+    },
+    "fit pap": {
+        "avg_count": 1.0,
+        "avg_order": 345.0,
+        "hit_rate": 0.5
+    },
+    "pap mask": {
+        "avg_count": 1.0,
+        "avg_order": 347.0,
+        "hit_rate": 0.5
+    },
+    "mask and": {
+        "avg_count": 1.0,
+        "avg_order": 349.0,
+        "hit_rate": 0.5
+    },
+    "and supplies": {
+        "avg_count": 1.0,
+        "avg_order": 350.0,
+        "hit_rate": 0.5
+    },
+    "supplies length": {
+        "avg_count": 1.0,
+        "avg_order": 352.0,
+        "hit_rate": 0.5
+    },
+    "months y": {
+        "avg_count": 1.0,
+        "avg_order": 359.0,
+        "hit_rate": 0.5
+    },
+    "y water": {
+        "avg_count": 1.0,
+        "avg_order": 360.0,
+        "hit_rate": 0.5
+    },
+    "water": {
+        "avg_count": 1.0,
+        "avg_order": 361.0,
+        "hit_rate": 0.5
+    },
+    "water chamber": {
+        "avg_count": 1.0,
+        "avg_order": 362.0,
+        "hit_rate": 0.5
+    },
+    "chamber a": {
+        "avg_count": 1.0,
+        "avg_order": 364.0,
+        "hit_rate": 0.5
+    },
+    "a mo": {
+        "avg_count": 9.0,
+        "avg_order": 365.0,
+        "hit_rate": 0.5
+    },
+    "mo o": {
+        "avg_count": 4.0,
+        "avg_order": 366.0,
+        "hit_rate": 0.5
+    },
+    "o nasal": {
+        "avg_count": 3.0,
+        "avg_order": 367.0,
+        "hit_rate": 0.5
+    },
+    "nasal": {
+        "avg_count": 3.0,
+        "avg_order": 368.0,
+        "hit_rate": 0.5
+    },
+    "nasal cushion": {
+        "avg_count": 1.0,
+        "avg_order": 369.0,
+        "hit_rate": 0.5
+    },
+    "cushion": {
+        "avg_count": 2.0,
+        "avg_order": 370.0,
+        "hit_rate": 0.5
+    },
+    "cushion a": {
+        "avg_count": 2.0,
+        "avg_order": 371.0,
+        "hit_rate": 0.5
+    },
+    "o patient": {
+        "avg_count": 1.0,
+        "avg_order": 374.0,
+        "hit_rate": 0.5
+    },
+    "patient preference": {
+        "avg_count": 1.0,
+        "avg_order": 376.0,
+        "hit_rate": 0.5
+    },
+    "preference": {
+        "avg_count": 1.0,
+        "avg_order": 377.0,
+        "hit_rate": 0.5
+    },
+    "preference y": {
+        "avg_count": 1.0,
+        "avg_order": 378.0,
+        "hit_rate": 0.5
+    },
+    "y heated": {
+        "avg_count": 1.0,
+        "avg_order": 379.0,
+        "hit_rate": 0.5
+    },
+    "mo y": {
+        "avg_count": 5.0,
+        "avg_order": 385.0,
+        "hit_rate": 0.5
+    },
+    "y full": {
+        "avg_count": 2.0,
+        "avg_order": 386.0,
+        "hit_rate": 0.5
+    },
+    "full": {
+        "avg_count": 2.0,
+        "avg_order": 387.0,
+        "hit_rate": 0.5
+    },
+    "full face": {
+        "avg_count": 2.0,
+        "avg_order": 388.0,
+        "hit_rate": 0.5
+    },
+    "face mask": {
+        "avg_count": 1.0,
+        "avg_order": 390.0,
+        "hit_rate": 0.5
+    },
+    "mask a": {
+        "avg_count": 2.0,
+        "avg_order": 392.0,
+        "hit_rate": 0.5
+    },
+    "nasal pillows": {
+        "avg_count": 1.0,
+        "avg_order": 397.0,
+        "hit_rate": 0.5
+    },
+    "pillows": {
+        "avg_count": 1.0,
+        "avg_order": 398.0,
+        "hit_rate": 0.5
+    },
+    "pillows a": {
+        "avg_count": 1.0,
+        "avg_order": 399.0,
+        "hit_rate": 0.5
+    },
+    "a mol": {
+        "avg_count": 1.0,
+        "avg_order": 400.0,
+        "hit_rate": 0.5
+    },
+    "mol": {
+        "avg_count": 1.0,
+        "avg_order": 401.0,
+        "hit_rate": 0.5
+    },
+    "mol o": {
+        "avg_count": 1.0,
+        "avg_order": 402.0,
+        "hit_rate": 0.5
+    },
+    "o nonheated": {
+        "avg_count": 1.0,
+        "avg_order": 403.0,
+        "hit_rate": 0.5
+    },
+    "nonheated": {
+        "avg_count": 1.0,
+        "avg_order": 404.0,
+        "hit_rate": 0.5
+    },
+    "nonheated tubing": {
+        "avg_count": 1.0,
+        "avg_order": 405.0,
+        "hit_rate": 0.5
+    },
+    "face cushion": {
+        "avg_count": 1.0,
+        "avg_order": 414.0,
+        "hit_rate": 0.5
+    },
+    "y head": {
+        "avg_count": 1.0,
+        "avg_order": 419.0,
+        "hit_rate": 0.5
+    },
+    "head": {
+        "avg_count": 1.0,
+        "avg_order": 420.0,
+        "hit_rate": 0.5
+    },
+    "head gear": {
+        "avg_count": 1.0,
+        "avg_order": 421.0,
+        "hit_rate": 0.5
+    },
+    "gear": {
+        "avg_count": 1.0,
+        "avg_order": 422.0,
+        "hit_rate": 0.5
+    },
+    "gear a": {
+        "avg_count": 1.0,
+        "avg_order": 423.0,
+        "hit_rate": 0.5
+    },
+    "y disposable": {
+        "avg_count": 1.0,
+        "avg_order": 426.0,
+        "hit_rate": 0.5
+    },
+    "disposable filters": {
+        "avg_count": 1.0,
+        "avg_order": 428.0,
+        "hit_rate": 0.5
+    },
+    "filters": {
+        "avg_count": 1.0,
+        "avg_order": 429.0,
+        "hit_rate": 0.5
+    },
+    "filters a": {
+        "avg_count": 1.0,
+        "avg_order": 430.0,
+        "hit_rate": 0.5
+    },
+    "a lmo": {
+        "avg_count": 1.0,
+        "avg_order": 431.0,
+        "hit_rate": 0.5
+    },
+    "lmo": {
+        "avg_count": 1.0,
+        "avg_order": 432.0,
+        "hit_rate": 0.5
+    },
+    "lmo o": {
+        "avg_count": 1.0,
+        "avg_order": 433.0,
+        "hit_rate": 0.5
+    },
+    "nasal mask": {
+        "avg_count": 1.0,
+        "avg_order": 436.0,
+        "hit_rate": 0.5
+    },
+    "y chin": {
+        "avg_count": 1.0,
+        "avg_order": 441.0,
+        "hit_rate": 0.5
+    },
+    "chin": {
+        "avg_count": 1.0,
+        "avg_order": 442.0,
+        "hit_rate": 0.5
+    },
+    "chin strap": {
+        "avg_count": 1.0,
+        "avg_order": 443.0,
+        "hit_rate": 0.5
+    },
+    "strap": {
+        "avg_count": 1.0,
+        "avg_order": 444.0,
+        "hit_rate": 0.5
+    },
+    "strap a": {
+        "avg_count": 1.0,
+        "avg_order": 445.0,
+        "hit_rate": 0.5
+    },
+    "o oxygen": {
+        "avg_count": 1.0,
+        "avg_order": 448.0,
+        "hit_rate": 0.5
+    },
+    "oxygen": {
+        "avg_count": 1.0,
+        "avg_order": 449.0,
+        "hit_rate": 0.5
+    },
+    "oxygen lpm": {
+        "avg_count": 1.0,
+        "avg_order": 450.0,
+        "hit_rate": 0.5
+    },
+    "lpm": {
+        "avg_count": 1.0,
+        "avg_order": 451.0,
+        "hit_rate": 0.5
+    },
+    "lpm during": {
+        "avg_count": 1.0,
+        "avg_order": 452.0,
+        "hit_rate": 0.5
+    },
+    "during sleep": {
+        "avg_count": 1.0,
+        "avg_order": 453.0,
+        "hit_rate": 0.5
+    },
+    "sleep mode": {
+        "avg_count": 1.0,
+        "avg_order": 455.0,
+        "hit_rate": 0.5
+    },
+    "mode": {
+        "avg_count": 1.0,
+        "avg_order": 456.0,
+        "hit_rate": 0.5
+    },
+    "mode o": {
+        "avg_count": 1.0,
+        "avg_order": 457.0,
+        "hit_rate": 0.5
+    },
+    "o inline": {
+        "avg_count": 1.0,
+        "avg_order": 458.0,
+        "hit_rate": 0.5
+    },
+    "inline": {
+        "avg_count": 1.0,
+        "avg_order": 459.0,
+        "hit_rate": 0.5
+    },
+    "inline wcpapbipap": {
+        "avg_count": 1.0,
+        "avg_order": 460.0,
+        "hit_rate": 0.5
+    },
+    "wcpapbipap": {
+        "avg_count": 1.0,
+        "avg_order": 461.0,
+        "hit_rate": 0.5
+    },
+    "wcpapbipap o": {
+        "avg_count": 1.0,
+        "avg_order": 462.0,
+        "hit_rate": 0.5
+    },
+    "o cannula": {
+        "avg_count": 1.0,
+        "avg_order": 463.0,
+        "hit_rate": 0.5
+    },
+    "cannula": {
+        "avg_count": 1.0,
+        "avg_order": 464.0,
+        "hit_rate": 0.5
+    },
+    "cannula comments": {
+        "avg_count": 1.0,
+        "avg_order": 465.0,
+        "hit_rate": 0.5
+    },
+    "comments": {
+        "avg_count": 1.0,
+        "avg_order": 466.0,
+        "hit_rate": 0.5
+    },
+    "comments physician": {
+        "avg_count": 1.0,
+        "avg_order": 467.0,
+        "hit_rate": 0.5
+    },
+    "physician": {
+        "avg_count": 1.0,
+        "avg_order": 468.0,
+        "hit_rate": 0.5
+    },
+    "physician signature": {
+        "avg_count": 1.0,
+        "avg_order": 469.0,
+        "hit_rate": 0.5
+    },
+    "signature": {
+        "avg_count": 1.0,
+        "avg_order": 470.0,
+        "hit_rate": 0.5
+    },
+    "signature date": {
+        "avg_count": 1.0,
+        "avg_order": 471.0,
+        "hit_rate": 0.5
+    },
+    "of signatureorder": {
+        "avg_count": 1.0,
+        "avg_order": 474.0,
+        "hit_rate": 0.5
+    },
+    "signatureorder": {
+        "avg_count": 1.0,
+        "avg_order": 475.0,
+        "hit_rate": 0.5
+    },
+    "signatureorder o": {
+        "avg_count": 1.0,
+        "avg_order": 476.0,
+        "hit_rate": 0.5
+    },
+    "o jenny": {
+        "avg_count": 1.0,
+        "avg_order": 477.0,
+        "hit_rate": 0.5
+    },
+    "jenny": {
+        "avg_count": 1.0,
+        "avg_order": 478.0,
+        "hit_rate": 0.5
+    },
+    "jenny f": {
+        "avg_count": 1.0,
+        "avg_order": 479.0,
+        "hit_rate": 0.5
+    },
+    "f reid": {
+        "avg_count": 1.0,
+        "avg_order": 480.0,
+        "hit_rate": 0.5
+    },
+    "reid": {
+        "avg_count": 1.0,
+        "avg_order": 481.0,
+        "hit_rate": 0.5
+    },
+    "reid np": {
+        "avg_count": 1.0,
+        "avg_order": 482.0,
+        "hit_rate": 0.5
+    },
+    "np npi": {
+        "avg_count": 2.0,
+        "avg_order": 483.0,
+        "hit_rate": 0.5
+    },
+    "npi": {
+        "avg_count": 5.0,
+        "avg_order": 484.0,
+        "hit_rate": 0.5
+    },
+    "npi o": {
+        "avg_count": 4.0,
+        "avg_order": 485.0,
+        "hit_rate": 0.5
+    },
+    "o lois": {
+        "avg_count": 1.0,
+        "avg_order": 486.0,
+        "hit_rate": 0.5
+    },
+    "lois": {
+        "avg_count": 1.0,
+        "avg_order": 487.0,
+        "hit_rate": 0.5
+    },
+    "lois neering": {
+        "avg_count": 1.0,
+        "avg_order": 488.0,
+        "hit_rate": 0.5
+    },
+    "neering": {
+        "avg_count": 1.0,
+        "avg_order": 489.0,
+        "hit_rate": 0.5
+    },
+    "neering np": {
+        "avg_count": 1.0,
+        "avg_order": 490.0,
+        "hit_rate": 0.5
+    },
+    "o james": {
+        "avg_count": 1.0,
+        "avg_order": 494.0,
+        "hit_rate": 0.5
+    },
+    "james": {
+        "avg_count": 1.0,
+        "avg_order": 495.0,
+        "hit_rate": 0.5
+    },
+    "james g": {
+        "avg_count": 1.0,
+        "avg_order": 496.0,
+        "hit_rate": 0.5
+    },
+    "g milliken": {
+        "avg_count": 1.0,
+        "avg_order": 497.0,
+        "hit_rate": 0.5
+    },
+    "milliken": {
+        "avg_count": 1.0,
+        "avg_order": 498.0,
+        "hit_rate": 0.5
+    },
+    "milliken md": {
+        "avg_count": 1.0,
+        "avg_order": 499.0,
+        "hit_rate": 0.5
+    },
+    "md npi": {
+        "avg_count": 3.0,
+        "avg_order": 500.0,
+        "hit_rate": 0.5
+    },
+    "o john": {
+        "avg_count": 1.0,
+        "avg_order": 503.0,
+        "hit_rate": 0.5
+    },
+    "john": {
+        "avg_count": 1.0,
+        "avg_order": 504.0,
+        "hit_rate": 0.5
+    },
+    "john p": {
+        "avg_count": 1.0,
+        "avg_order": 505.0,
+        "hit_rate": 0.5
+    },
+    "p kremarik": {
+        "avg_count": 1.0,
+        "avg_order": 506.0,
+        "hit_rate": 0.5
+    },
+    "kremarik": {
+        "avg_count": 1.0,
+        "avg_order": 507.0,
+        "hit_rate": 0.5
+    },
+    "kremarik md": {
+        "avg_count": 1.0,
+        "avg_order": 508.0,
+        "hit_rate": 0.5
+    },
+    "o hillary": {
+        "avg_count": 1.0,
+        "avg_order": 512.0,
+        "hit_rate": 0.5
+    },
+    "hillary": {
+        "avg_count": 1.0,
+        "avg_order": 513.0,
+        "hit_rate": 0.5
+    },
+    "hillary loomisking": {
+        "avg_count": 1.0,
+        "avg_order": 514.0,
+        "hit_rate": 0.5
+    },
+    "loomisking": {
+        "avg_count": 1.0,
+        "avg_order": 515.0,
+        "hit_rate": 0.5
+    },
+    "loomisking md": {
+        "avg_count": 1.0,
+        "avg_order": 516.0,
+        "hit_rate": 0.5
+    },
+    "npi revised": {
+        "avg_count": 1.0,
+        "avg_order": 519.0,
+        "hit_rate": 0.5
+    },
+    "revised": {
+        "avg_count": 1.0,
+        "avg_order": 520.0,
+        "hit_rate": 0.5
+    },
+    "revised document": {
+        "avg_count": 1.0,
+        "avg_order": 521.0,
+        "hit_rate": 0.5
+    },
+    "document": {
+        "avg_count": 1.0,
+        "avg_order": 522.0,
+        "hit_rate": 0.5
+    },
+    "document rx": {
+        "avg_count": 1.0,
+        "avg_order": 523.0,
+        "hit_rate": 0.5
+    },
+    "rx cpap": {
+        "avg_count": 1.0,
+        "avg_order": 524.0,
+        "hit_rate": 0.5
+    },
+    "cpap mhme": {
+        "avg_count": 1.0,
+        "avg_order": 526.0,
+        "hit_rate": 0.5
+    },
+    "mhme": {
+        "avg_count": 1.0,
+        "avg_order": 527.0,
+        "hit_rate": 0.5
+    },
+    "mhme tc": {
+        "avg_count": 1.0,
+        "avg_order": 528.0,
+        "hit_rate": 0.5
+    },
+    "tc printed": {
+        "avg_count": 1.0,
+        "avg_order": 529.0,
+        "hit_rate": 0.5
+    },
+    "printed": {
+        "avg_count": 1.0,
+        "avg_order": 530.0,
+        "hit_rate": 0.5
+    },
+    "printed newn": {
+        "avg_count": 1.0,
+        "avg_order": 531.0,
+        "hit_rate": 0.5
+    },
+    "newn": {
+        "avg_count": 1.0,
+        "avg_order": 532.0,
+        "hit_rate": 0.5
+    },
+    "newn afd": {
+        "avg_count": 1.0,
+        "avg_order": 533.0,
+        "hit_rate": 0.5
+    },
+    "afd": {
+        "avg_count": 1.0,
+        "avg_order": 534.0,
+        "hit_rate": 0.5
+    },
+    "hcmg": {
+        "avg_count": 1.0,
+        "avg_order": 0.0,
+        "hit_rate": 0.5
+    },
+    "hcmg pulmonary": {
+        "avg_count": 1.0,
+        "avg_order": 1.0,
+        "hit_rate": 0.5
+    },
+    "pulmonary": {
+        "avg_count": 1.0,
+        "avg_order": 2.0,
+        "hit_rate": 0.5
+    },
+    "pulmonary date": {
+        "avg_count": 1.0,
+        "avg_order": 3.0,
+        "hit_rate": 0.5
+    },
+    "date apr": {
+        "avg_count": 1.0,
+        "avg_order": 5.0,
+        "hit_rate": 0.5
+    },
+    "apr": {
+        "avg_count": 2.0,
+        "avg_order": 6.0,
+        "hit_rate": 0.5
+    },
+    "apr n": {
+        "avg_count": 1.0,
+        "avg_order": 7.0,
+        "hit_rate": 0.5
+    },
+    "n federal": {
+        "avg_count": 1.0,
+        "avg_order": 8.0,
+        "hit_rate": 0.5
+    },
+    "federal": {
+        "avg_count": 1.0,
+        "avg_order": 9.0,
+        "hit_rate": 0.5
+    },
+    "federal hwy": {
+        "avg_count": 1.0,
+        "avg_order": 10.0,
+        "hit_rate": 0.5
+    },
+    "hwy": {
+        "avg_count": 1.0,
+        "avg_order": 11.0,
+        "hit_rate": 0.5
+    },
+    "hwy ste": {
+        "avg_count": 1.0,
+        "avg_order": 12.0,
+        "hit_rate": 0.5
+    },
+    "ste": {
+        "avg_count": 1.0,
+        "avg_order": 13.0,
+        "hit_rate": 0.5
+    },
+    "ste fort": {
+        "avg_count": 1.0,
+        "avg_order": 14.0,
+        "hit_rate": 0.5
+    },
+    "fort": {
+        "avg_count": 1.0,
+        "avg_order": 15.0,
+        "hit_rate": 0.5
+    },
+    "fort lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 16.0,
+        "hit_rate": 0.5
+    },
+    "lauderdale": {
+        "avg_count": 1.0,
+        "avg_order": 17.0,
+        "hit_rate": 0.5
+    },
+    "lauderdale fl": {
+        "avg_count": 1.0,
+        "avg_order": 18.0,
+        "hit_rate": 0.5
+    },
+    "fl phone": {
+        "avg_count": 1.0,
+        "avg_order": 19.0,
+        "hit_rate": 0.5
+    },
+    "phone fax": {
+        "avg_count": 1.0,
+        "avg_order": 21.0,
+        "hit_rate": 0.5
+    },
+    "fax cpap": {
+        "avg_count": 1.0,
+        "avg_order": 23.0,
+        "hit_rate": 0.5
+    },
+    "cpap dme": {
+        "avg_count": 1.0,
+        "avg_order": 25.0,
+        "hit_rate": 0.5
+    },
+    "dme order": {
+        "avg_count": 1.0,
+        "avg_order": 27.0,
+        "hit_rate": 0.5
+    },
+    "order": {
+        "avg_count": 2.0,
+        "avg_order": 28.0,
+        "hit_rate": 0.5
+    },
+    "order id": {
+        "avg_count": 1.0,
+        "avg_order": 29.0,
+        "hit_rate": 0.5
+    },
+    "id order": {
+        "avg_count": 1.0,
+        "avg_order": 30.0,
+        "hit_rate": 0.5
+    },
+    "order date": {
+        "avg_count": 1.0,
+        "avg_order": 32.0,
+        "hit_rate": 0.5
+    },
+    "date diagnosis": {
+        "avg_count": 1.0,
+        "avg_order": 34.0,
+        "hit_rate": 0.5
+    },
+    "diagnosis obstructive": {
+        "avg_count": 1.0,
+        "avg_order": 36.0,
+        "hit_rate": 0.5
+    },
+    "obstructive": {
+        "avg_count": 1.0,
+        "avg_order": 37.0,
+        "hit_rate": 0.5
+    },
+    "obstructive sleep": {
+        "avg_count": 1.0,
+        "avg_order": 38.0,
+        "hit_rate": 0.5
+    },
+    "sleep apnea": {
+        "avg_count": 1.0,
+        "avg_order": 40.0,
+        "hit_rate": 0.5
+    },
+    "apnea": {
+        "avg_count": 1.0,
+        "avg_order": 41.0,
+        "hit_rate": 0.5
+    },
+    "apnea adult": {
+        "avg_count": 1.0,
+        "avg_order": 42.0,
+        "hit_rate": 0.5
+    },
+    "adult": {
+        "avg_count": 1.0,
+        "avg_order": 43.0,
+        "hit_rate": 0.5
+    },
+    "adult g": {
+        "avg_count": 1.0,
+        "avg_order": 44.0,
+        "hit_rate": 0.5
+    },
+    "g quantity": {
+        "avg_count": 1.0,
+        "avg_order": 45.0,
+        "hit_rate": 0.5
+    },
+    "quantity": {
+        "avg_count": 1.0,
+        "avg_order": 46.0,
+        "hit_rate": 0.5
+    },
+    "quantity height": {
+        "avg_count": 1.0,
+        "avg_order": 47.0,
+        "hit_rate": 0.5
+    },
+    "height": {
+        "avg_count": 1.0,
+        "avg_order": 48.0,
+        "hit_rate": 0.5
+    },
+    "height weight": {
+        "avg_count": 1.0,
+        "avg_order": 49.0,
+        "hit_rate": 0.5
+    },
+    "weight": {
+        "avg_count": 1.0,
+        "avg_order": 50.0,
+        "hit_rate": 0.5
+    },
+    "weight scheduling": {
+        "avg_count": 1.0,
+        "avg_order": 51.0,
+        "hit_rate": 0.5
+    },
+    "scheduling": {
+        "avg_count": 1.0,
+        "avg_order": 52.0,
+        "hit_rate": 0.5
+    },
+    "scheduling instructions": {
+        "avg_count": 1.0,
+        "avg_order": 53.0,
+        "hit_rate": 0.5
+    },
+    "instructions": {
+        "avg_count": 1.0,
+        "avg_order": 54.0,
+        "hit_rate": 0.5
+    },
+    "instructions if": {
+        "avg_count": 1.0,
+        "avg_order": 55.0,
+        "hit_rate": 0.5
+    },
+    "if the": {
+        "avg_count": 1.0,
+        "avg_order": 56.0,
+        "hit_rate": 0.5
+    },
+    "the ahi": {
+        "avg_count": 3.0,
+        "avg_order": 57.0,
+        "hit_rate": 0.5
+    },
+    "ahi": {
+        "avg_count": 3.0,
+        "avg_order": 58.0,
+        "hit_rate": 0.5
+    },
+    "ahi or": {
+        "avg_count": 2.0,
+        "avg_order": 59.0,
+        "hit_rate": 0.5
+    },
+    "or rdi": {
+        "avg_count": 1.0,
+        "avg_order": 60.0,
+        "hit_rate": 0.5
+    },
+    "rdi": {
+        "avg_count": 1.0,
+        "avg_order": 61.0,
+        "hit_rate": 0.5
+    },
+    "rdi is": {
+        "avg_count": 1.0,
+        "avg_order": 62.0,
+        "hit_rate": 0.5
+    },
+    "is calculated": {
+        "avg_count": 1.0,
+        "avg_order": 63.0,
+        "hit_rate": 0.5
+    },
+    "calculated": {
+        "avg_count": 1.0,
+        "avg_order": 64.0,
+        "hit_rate": 0.5
+    },
+    "calculated based": {
+        "avg_count": 1.0,
+        "avg_order": 65.0,
+        "hit_rate": 0.5
+    },
+    "based": {
+        "avg_count": 1.0,
+        "avg_order": 66.0,
+        "hit_rate": 0.5
+    },
+    "based on": {
+        "avg_count": 1.0,
+        "avg_order": 67.0,
+        "hit_rate": 0.5
+    },
+    "on less": {
+        "avg_count": 1.0,
+        "avg_order": 68.0,
+        "hit_rate": 0.5
+    },
+    "less": {
+        "avg_count": 1.0,
+        "avg_order": 69.0,
+        "hit_rate": 0.5
+    },
+    "less than": {
+        "avg_count": 1.0,
+        "avg_order": 70.0,
+        "hit_rate": 0.5
+    },
+    "than hours": {
+        "avg_count": 1.0,
+        "avg_order": 71.0,
+        "hit_rate": 0.5
+    },
+    "hours": {
+        "avg_count": 1.0,
+        "avg_order": 72.0,
+        "hit_rate": 0.5
+    },
+    "hours of": {
+        "avg_count": 1.0,
+        "avg_order": 73.0,
+        "hit_rate": 0.5
+    },
+    "of sleep": {
+        "avg_count": 1.0,
+        "avg_order": 74.0,
+        "hit_rate": 0.5
+    },
+    "sleep or": {
+        "avg_count": 1.0,
+        "avg_order": 76.0,
+        "hit_rate": 0.5
+    },
+    "or recording": {
+        "avg_count": 1.0,
+        "avg_order": 77.0,
+        "hit_rate": 0.5
+    },
+    "recording": {
+        "avg_count": 1.0,
+        "avg_order": 78.0,
+        "hit_rate": 0.5
+    },
+    "recording time": {
+        "avg_count": 1.0,
+        "avg_order": 79.0,
+        "hit_rate": 0.5
+    },
+    "time": {
+        "avg_count": 1.0,
+        "avg_order": 80.0,
+        "hit_rate": 0.5
+    },
+    "time the": {
+        "avg_count": 1.0,
+        "avg_order": 81.0,
+        "hit_rate": 0.5
+    },
+    "the total": {
+        "avg_count": 1.0,
+        "avg_order": 82.0,
+        "hit_rate": 0.5
+    },
+    "total": {
+        "avg_count": 1.0,
+        "avg_order": 83.0,
+        "hit_rate": 0.5
+    },
+    "total number": {
+        "avg_count": 1.0,
+        "avg_order": 84.0,
+        "hit_rate": 0.5
+    },
+    "number": {
+        "avg_count": 2.0,
+        "avg_order": 85.0,
+        "hit_rate": 0.5
+    },
+    "number of": {
+        "avg_count": 2.0,
+        "avg_order": 86.0,
+        "hit_rate": 0.5
+    },
+    "of recorded": {
+        "avg_count": 1.0,
+        "avg_order": 87.0,
+        "hit_rate": 0.5
+    },
+    "recorded": {
+        "avg_count": 1.0,
+        "avg_order": 88.0,
+        "hit_rate": 0.5
+    },
+    "recorded events": {
+        "avg_count": 1.0,
+        "avg_order": 89.0,
+        "hit_rate": 0.5
+    },
+    "events used": {
+        "avg_count": 1.0,
+        "avg_order": 91.0,
+        "hit_rate": 0.5
+    },
+    "used": {
+        "avg_count": 1.0,
+        "avg_order": 92.0,
+        "hit_rate": 0.5
+    },
+    "used to": {
+        "avg_count": 1.0,
+        "avg_order": 93.0,
+        "hit_rate": 0.5
+    },
+    "to calculate": {
+        "avg_count": 1.0,
+        "avg_order": 94.0,
+        "hit_rate": 0.5
+    },
+    "calculate": {
+        "avg_count": 1.0,
+        "avg_order": 95.0,
+        "hit_rate": 0.5
+    },
+    "calculate the": {
+        "avg_count": 1.0,
+        "avg_order": 96.0,
+        "hit_rate": 0.5
+    },
+    "or rd": {
+        "avg_count": 1.0,
+        "avg_order": 100.0,
+        "hit_rate": 0.5
+    },
+    "rd must": {
+        "avg_count": 1.0,
+        "avg_order": 101.0,
+        "hit_rate": 0.5
+    },
+    "must": {
+        "avg_count": 1.0,
+        "avg_order": 102.0,
+        "hit_rate": 0.5
+    },
+    "must be": {
+        "avg_count": 1.0,
+        "avg_order": 103.0,
+        "hit_rate": 0.5
+    },
+    "be at": {
+        "avg_count": 1.0,
+        "avg_order": 104.0,
+        "hit_rate": 0.5
+    },
+    "at least": {
+        "avg_count": 1.0,
+        "avg_order": 105.0,
+        "hit_rate": 0.5
+    },
+    "least": {
+        "avg_count": 1.0,
+        "avg_order": 106.0,
+        "hit_rate": 0.5
+    },
+    "least the": {
+        "avg_count": 1.0,
+        "avg_order": 107.0,
+        "hit_rate": 0.5
+    },
+    "the number": {
+        "avg_count": 1.0,
+        "avg_order": 108.0,
+        "hit_rate": 0.5
+    },
+    "of events": {
+        "avg_count": 1.0,
+        "avg_order": 111.0,
+        "hit_rate": 0.5
+    },
+    "events that": {
+        "avg_count": 1.0,
+        "avg_order": 113.0,
+        "hit_rate": 0.5
+    },
+    "that would": {
+        "avg_count": 1.0,
+        "avg_order": 114.0,
+        "hit_rate": 0.5
+    },
+    "would": {
+        "avg_count": 1.0,
+        "avg_order": 115.0,
+        "hit_rate": 0.5
+    },
+    "would have": {
+        "avg_count": 1.0,
+        "avg_order": 116.0,
+        "hit_rate": 0.5
+    },
+    "have been": {
+        "avg_count": 1.0,
+        "avg_order": 117.0,
+        "hit_rate": 0.5
+    },
+    "been required": {
+        "avg_count": 1.0,
+        "avg_order": 118.0,
+        "hit_rate": 0.5
+    },
+    "required": {
+        "avg_count": 1.0,
+        "avg_order": 119.0,
+        "hit_rate": 0.5
+    },
+    "required in": {
+        "avg_count": 1.0,
+        "avg_order": 120.0,
+        "hit_rate": 0.5
+    },
+    "in a": {
+        "avg_count": 1.0,
+        "avg_order": 121.0,
+        "hit_rate": 0.5
+    },
+    "a hour": {
+        "avg_count": 1.0,
+        "avg_order": 122.0,
+        "hit_rate": 0.5
+    },
+    "hour": {
+        "avg_count": 2.0,
+        "avg_order": 123.0,
+        "hit_rate": 0.5
+    },
+    "hour period": {
+        "avg_count": 1.0,
+        "avg_order": 124.0,
+        "hit_rate": 0.5
+    },
+    "period": {
+        "avg_count": 1.0,
+        "avg_order": 125.0,
+        "hit_rate": 0.5
+    },
+    "period the": {
+        "avg_count": 1.0,
+        "avg_order": 126.0,
+        "hit_rate": 0.5
+    },
+    "the facetoface": {
+        "avg_count": 1.0,
+        "avg_order": 127.0,
+        "hit_rate": 0.5
+    },
+    "facetoface": {
+        "avg_count": 1.0,
+        "avg_order": 128.0,
+        "hit_rate": 0.5
+    },
+    "facetoface evaluation": {
+        "avg_count": 1.0,
+        "avg_order": 129.0,
+        "hit_rate": 0.5
+    },
+    "evaluation": {
+        "avg_count": 2.0,
+        "avg_order": 130.0,
+        "hit_rate": 0.5
+    },
+    "evaluation was": {
+        "avg_count": 1.0,
+        "avg_order": 131.0,
+        "hit_rate": 0.5
+    },
+    "was completed": {
+        "avg_count": 1.0,
+        "avg_order": 132.0,
+        "hit_rate": 0.5
+    },
+    "completed": {
+        "avg_count": 2.0,
+        "avg_order": 133.0,
+        "hit_rate": 0.5
+    },
+    "completed by": {
+        "avg_count": 1.0,
+        "avg_order": 134.0,
+        "hit_rate": 0.5
+    },
+    "by reasons": {
+        "avg_count": 1.0,
+        "avg_order": 135.0,
+        "hit_rate": 0.5
+    },
+    "reasons": {
+        "avg_count": 1.0,
+        "avg_order": 136.0,
+        "hit_rate": 0.5
+    },
+    "reasons for": {
+        "avg_count": 1.0,
+        "avg_order": 137.0,
+        "hit_rate": 0.5
+    },
+    "for script": {
+        "avg_count": 1.0,
+        "avg_order": 138.0,
+        "hit_rate": 0.5
+    },
+    "script": {
+        "avg_count": 1.0,
+        "avg_order": 139.0,
+        "hit_rate": 0.5
+    },
+    "script new": {
+        "avg_count": 1.0,
+        "avg_order": 140.0,
+        "hit_rate": 0.5
+    },
+    "new prescription": {
+        "avg_count": 1.0,
+        "avg_order": 142.0,
+        "hit_rate": 0.5
+    },
+    "prescription": {
+        "avg_count": 1.0,
+        "avg_order": 143.0,
+        "hit_rate": 0.5
+    },
+    "prescription and": {
+        "avg_count": 1.0,
+        "avg_order": 144.0,
+        "hit_rate": 0.5
+    },
+    "and all": {
+        "avg_count": 1.0,
+        "avg_order": 145.0,
+        "hit_rate": 0.5
+    },
+    "all related": {
+        "avg_count": 1.0,
+        "avg_order": 146.0,
+        "hit_rate": 0.5
+    },
+    "related": {
+        "avg_count": 1.0,
+        "avg_order": 147.0,
+        "hit_rate": 0.5
+    },
+    "related supplies": {
+        "avg_count": 1.0,
+        "avg_order": 148.0,
+        "hit_rate": 0.5
+    },
+    "supplies additional": {
+        "avg_count": 1.0,
+        "avg_order": 150.0,
+        "hit_rate": 0.5
+    },
+    "additional": {
+        "avg_count": 1.0,
+        "avg_order": 151.0,
+        "hit_rate": 0.5
+    },
+    "additional providers": {
+        "avg_count": 1.0,
+        "avg_order": 152.0,
+        "hit_rate": 0.5
+    },
+    "providers": {
+        "avg_count": 1.0,
+        "avg_order": 153.0,
+        "hit_rate": 0.5
+    },
+    "providers who": {
+        "avg_count": 1.0,
+        "avg_order": 154.0,
+        "hit_rate": 0.5
+    },
+    "who completed": {
+        "avg_count": 1.0,
+        "avg_order": 155.0,
+        "hit_rate": 0.5
+    },
+    "completed a": {
+        "avg_count": 1.0,
+        "avg_order": 157.0,
+        "hit_rate": 0.5
+    },
+    "a face": {
+        "avg_count": 1.0,
+        "avg_order": 158.0,
+        "hit_rate": 0.5
+    },
+    "face to": {
+        "avg_count": 1.0,
+        "avg_order": 160.0,
+        "hit_rate": 0.5
+    },
+    "to face": {
+        "avg_count": 1.0,
+        "avg_order": 161.0,
+        "hit_rate": 0.5
+    },
+    "face evaluation": {
+        "avg_count": 1.0,
+        "avg_order": 163.0,
+        "hit_rate": 0.5
+    },
+    "evaluation of": {
+        "avg_count": 1.0,
+        "avg_order": 165.0,
+        "hit_rate": 0.5
+    },
+    "of the": {
+        "avg_count": 1.0,
+        "avg_order": 166.0,
+        "hit_rate": 0.5
+    },
+    "the patient": {
+        "avg_count": 1.0,
+        "avg_order": 167.0,
+        "hit_rate": 0.5
+    },
+    "patient sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 169.0,
+        "hit_rate": 0.5
+    },
+    "sorhage": {
+        "avg_count": 1.0,
+        "avg_order": 170.0,
+        "hit_rate": 0.5
+    },
+    "sorhage frank": {
+        "avg_count": 1.0,
+        "avg_order": 171.0,
+        "hit_rate": 0.5
+    },
+    "frank": {
+        "avg_count": 1.0,
+        "avg_order": 172.0,
+        "hit_rate": 0.5
+    },
+    "frank changes": {
+        "avg_count": 1.0,
+        "avg_order": 173.0,
+        "hit_rate": 0.5
+    },
+    "changes": {
+        "avg_count": 1.0,
+        "avg_order": 174.0,
+        "hit_rate": 0.5
+    },
+    "changes only": {
+        "avg_count": 1.0,
+        "avg_order": 175.0,
+        "hit_rate": 0.5
+    },
+    "only auto": {
+        "avg_count": 1.0,
+        "avg_order": 176.0,
+        "hit_rate": 0.5
+    },
+    "auto unit": {
+        "avg_count": 1.0,
+        "avg_order": 178.0,
+        "hit_rate": 0.5
+    },
+    "unit": {
+        "avg_count": 1.0,
+        "avg_order": 179.0,
+        "hit_rate": 0.5
+    },
+    "unit lh": {
+        "avg_count": 1.0,
+        "avg_order": 180.0,
+        "hit_rate": 0.5
+    },
+    "lh tubing": {
+        "avg_count": 1.0,
+        "avg_order": 181.0,
+        "hit_rate": 0.5
+    },
+    "a reusable": {
+        "avg_count": 2.0,
+        "avg_order": 184.0,
+        "hit_rate": 0.5
+    },
+    "reusable": {
+        "avg_count": 2.0,
+        "avg_order": 185.0,
+        "hit_rate": 0.5
+    },
+    "reusable tubing": {
+        "avg_count": 1.0,
+        "avg_order": 186.0,
+        "hit_rate": 0.5
+    },
+    "tubing mo": {
+        "avg_count": 3.0,
+        "avg_order": 188.0,
+        "hit_rate": 0.5
+    },
+    "mo tubing": {
+        "avg_count": 1.0,
+        "avg_order": 189.0,
+        "hit_rate": 0.5
+    },
+    "a heated": {
+        "avg_count": 2.0,
+        "avg_order": 192.0,
+        "hit_rate": 0.5
+    },
+    "mo type": {
+        "avg_count": 3.0,
+        "avg_order": 197.0,
+        "hit_rate": 0.5
+    },
+    "type": {
+        "avg_count": 4.0,
+        "avg_order": 198.0,
+        "hit_rate": 0.5
+    },
+    "type of": {
+        "avg_count": 4.0,
+        "avg_order": 199.0,
+        "hit_rate": 0.5
+    },
+    "of interface": {
+        "avg_count": 4.0,
+        "avg_order": 200.0,
+        "hit_rate": 0.5
+    },
+    "interface": {
+        "avg_count": 4.0,
+        "avg_order": 201.0,
+        "hit_rate": 0.5
+    },
+    "interface and": {
+        "avg_count": 4.0,
+        "avg_order": 202.0,
+        "hit_rate": 0.5
+    },
+    "and accessories": {
+        "avg_count": 4.0,
+        "avg_order": 203.0,
+        "hit_rate": 0.5
+    },
+    "accessories": {
+        "avg_count": 4.0,
+        "avg_order": 204.0,
+        "hit_rate": 0.5
+    },
+    "accessories a": {
+        "avg_count": 4.0,
+        "avg_order": 205.0,
+        "hit_rate": 0.5
+    },
+    "a disposable": {
+        "avg_count": 1.0,
+        "avg_order": 206.0,
+        "hit_rate": 0.5
+    },
+    "disposable filter": {
+        "avg_count": 1.0,
+        "avg_order": 208.0,
+        "hit_rate": 0.5
+    },
+    "filter": {
+        "avg_count": 2.0,
+        "avg_order": 209.0,
+        "hit_rate": 0.5
+    },
+    "filter mo": {
+        "avg_count": 2.0,
+        "avg_order": 210.0,
+        "hit_rate": 0.5
+    },
+    "mo mask": {
+        "avg_count": 1.0,
+        "avg_order": 211.0,
+        "hit_rate": 0.5
+    },
+    "mask fit": {
+        "avg_count": 1.0,
+        "avg_order": 213.0,
+        "hit_rate": 0.5
+    },
+    "fit to": {
+        "avg_count": 1.0,
+        "avg_order": 215.0,
+        "hit_rate": 0.5
+    },
+    "to patients": {
+        "avg_count": 1.0,
+        "avg_order": 216.0,
+        "hit_rate": 0.5
+    },
+    "patients": {
+        "avg_count": 1.0,
+        "avg_order": 217.0,
+        "hit_rate": 0.5
+    },
+    "patients comfort": {
+        "avg_count": 1.0,
+        "avg_order": 218.0,
+        "hit_rate": 0.5
+    },
+    "comfort": {
+        "avg_count": 1.0,
+        "avg_order": 219.0,
+        "hit_rate": 0.5
+    },
+    "comfort type": {
+        "avg_count": 1.0,
+        "avg_order": 220.0,
+        "hit_rate": 0.5
+    },
+    "reusable filter": {
+        "avg_count": 1.0,
+        "avg_order": 231.0,
+        "hit_rate": 0.5
+    },
+    "a humidifier": {
+        "avg_count": 1.0,
+        "avg_order": 257.0,
+        "hit_rate": 0.5
+    },
+    "humidifier chamber": {
+        "avg_count": 1.0,
+        "avg_order": 259.0,
+        "hit_rate": 0.5
+    },
+    "chamber mo": {
+        "avg_count": 1.0,
+        "avg_order": 261.0,
+        "hit_rate": 0.5
+    },
+    "mo length": {
+        "avg_count": 1.0,
+        "avg_order": 262.0,
+        "hit_rate": 0.5
+    },
+    "months the": {
+        "avg_count": 1.0,
+        "avg_order": 269.0,
+        "hit_rate": 0.5
+    },
+    "ahi is": {
+        "avg_count": 1.0,
+        "avg_order": 272.0,
+        "hit_rate": 0.5
+    },
+    "is from": {
+        "avg_count": 1.0,
+        "avg_order": 273.0,
+        "hit_rate": 0.5
+    },
+    "from to": {
+        "avg_count": 1.0,
+        "avg_order": 274.0,
+        "hit_rate": 0.5
+    },
+    "to events": {
+        "avg_count": 1.0,
+        "avg_order": 275.0,
+        "hit_rate": 0.5
+    },
+    "events per": {
+        "avg_count": 1.0,
+        "avg_order": 277.0,
+        "hit_rate": 0.5
+    },
+    "per": {
+        "avg_count": 1.0,
+        "avg_order": 278.0,
+        "hit_rate": 0.5
+    },
+    "per hour": {
+        "avg_count": 1.0,
+        "avg_order": 279.0,
+        "hit_rate": 0.5
+    },
+    "hour with": {
+        "avg_count": 1.0,
+        "avg_order": 281.0,
+        "hit_rate": 0.5
+    },
+    "with documented": {
+        "avg_count": 1.0,
+        "avg_order": 282.0,
+        "hit_rate": 0.5
+    },
+    "documented": {
+        "avg_count": 1.0,
+        "avg_order": 283.0,
+        "hit_rate": 0.5
+    },
+    "documented symptoms": {
+        "avg_count": 1.0,
+        "avg_order": 284.0,
+        "hit_rate": 0.5
+    },
+    "symptoms": {
+        "avg_count": 1.0,
+        "avg_order": 285.0,
+        "hit_rate": 0.5
+    },
+    "symptoms of": {
+        "avg_count": 1.0,
+        "avg_order": 286.0,
+        "hit_rate": 0.5
+    },
+    "of osa": {
+        "avg_count": 1.0,
+        "avg_order": 287.0,
+        "hit_rate": 0.5
+    },
+    "g insurance": {
+        "avg_count": 1.0,
+        "avg_order": 290.0,
+        "hit_rate": 0.5
+    },
+    "insurance": {
+        "avg_count": 1.0,
+        "avg_order": 291.0,
+        "hit_rate": 0.5
+    },
+    "insurance payor": {
+        "avg_count": 1.0,
+        "avg_order": 292.0,
+        "hit_rate": 0.5
+    },
+    "payor": {
+        "avg_count": 1.0,
+        "avg_order": 293.0,
+        "hit_rate": 0.5
+    },
+    "payor plan": {
+        "avg_count": 1.0,
+        "avg_order": 294.0,
+        "hit_rate": 0.5
+    },
+    "plan": {
+        "avg_count": 1.0,
+        "avg_order": 295.0,
+        "hit_rate": 0.5
+    },
+    "plan group": {
+        "avg_count": 1.0,
+        "avg_order": 296.0,
+        "hit_rate": 0.5
+    },
+    "group": {
+        "avg_count": 1.0,
+        "avg_order": 297.0,
+        "hit_rate": 0.5
+    },
+    "group subscrib": {
+        "avg_count": 1.0,
+        "avg_order": 298.0,
+        "hit_rate": 0.5
+    },
+    "subscrib": {
+        "avg_count": 1.0,
+        "avg_order": 299.0,
+        "hit_rate": 0.5
+    },
+    "subscrib erid": {
+        "avg_count": 1.0,
+        "avg_order": 300.0,
+        "hit_rate": 0.5
+    },
+    "erid": {
+        "avg_count": 1.0,
+        "avg_order": 301.0,
+        "hit_rate": 0.5
+    },
+    "erid primary": {
+        "avg_count": 1.0,
+        "avg_order": 302.0,
+        "hit_rate": 0.5
+    },
+    "primary": {
+        "avg_count": 1.0,
+        "avg_order": 303.0,
+        "hit_rate": 0.5
+    },
+    "primary medicare": {
+        "avg_count": 1.0,
+        "avg_order": 304.0,
+        "hit_rate": 0.5
+    },
+    "medicare": {
+        "avg_count": 1.0,
+        "avg_order": 305.0,
+        "hit_rate": 0.5
+    },
+    "medicare secondary": {
+        "avg_count": 1.0,
+        "avg_order": 306.0,
+        "hit_rate": 0.5
+    },
+    "secondary": {
+        "avg_count": 1.0,
+        "avg_order": 307.0,
+        "hit_rate": 0.5
+    },
+    "secondary aarp": {
+        "avg_count": 1.0,
+        "avg_order": 308.0,
+        "hit_rate": 0.5
+    },
+    "aarp": {
+        "avg_count": 1.0,
+        "avg_order": 309.0,
+        "hit_rate": 0.5
+    },
+    "aarp electronically": {
+        "avg_count": 1.0,
+        "avg_order": 310.0,
+        "hit_rate": 0.5
+    },
+    "electronically": {
+        "avg_count": 1.0,
+        "avg_order": 311.0,
+        "hit_rate": 0.5
+    },
+    "electronically signed": {
+        "avg_count": 1.0,
+        "avg_order": 312.0,
+        "hit_rate": 0.5
+    },
+    "signed": {
+        "avg_count": 1.0,
+        "avg_order": 313.0,
+        "hit_rate": 0.5
+    },
+    "signed by": {
+        "avg_count": 1.0,
+        "avg_order": 314.0,
+        "hit_rate": 0.5
+    },
+    "by on": {
+        "avg_count": 1.0,
+        "avg_order": 315.0,
+        "hit_rate": 0.5
+    },
+    "on apr": {
+        "avg_count": 1.0,
+        "avg_order": 316.0,
+        "hit_rate": 0.5
+    },
+    "apr at": {
+        "avg_count": 1.0,
+        "avg_order": 318.0,
+        "hit_rate": 0.5
+    }
+}

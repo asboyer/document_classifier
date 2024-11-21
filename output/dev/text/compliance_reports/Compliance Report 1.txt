@@ -1,0 +1,150 @@
+oor’,
+e “.
+e *.
+ay °
+"eee®
+
+resmed
+
+airview™ age: 45 years
+compliance report gender: male
+compliance met yes
+compliance percentage 100%
+payor medicare
+usage days 30/30 days (100%)
+
+>= 4 hours 30 days (100%)
+< 4 hours 0 days (0%)
+usage hours 323 hours 21 minutes
+average usage (total days) 10 hours 47 minutes
+average usage (days used) 10 hours 47 minutes
+median usage (days used) 11 hours 14 minutes
+total used hours (value since last reset - 08/17/2023) 931 hours
+
+airsense 11 autoset
+
+serial number 22231038074
+mode cpap
+set pressure 15 cmh20
+epr fulltime
+epr level 3
+leaks - l/min median: 120.0 95th percentile120.0 maximum:120.0
+events per hour al: 8.7 hi: 0.4 ahi: = 9.1
+apnea index central: 0.0 obstructive: 0.0 unknown: 8.6
+rera index 1.0
+cheyne-stokes respiration (average duration per night) 0 minutes (0%)
+
+usage - hours
+
+resmed
+
+airview"
+
+age: 45 years
+
+therapy report gender: male
+
+nse 11 autoset 22231038074
+
+usage (hours)
+usage days 30/30 (100%)
+>= 4 hour days 30 (100%)
+days not used 0 (0%)
+days no data 0 (0%)
+used/day (avg.) 10.8 hrs.
+
+leak ¢tmin)
+set threshold 24.0 min
+maximum (avg) 120.0
+median (avg) 120.0
+
+pressure (cmh20)
+mode cpap
+set epr fulltime,
+
+3.0
+
+set pressure 15.0
+
+ahi (events/hour)
+
+ah 9.1
+(=
+
+| 87
+
+cal 0.0
+
+oal 0.0
+
+uai 8.6
+
+rera 1.0
+
+csr% (avg) 0.0
+maximum (avg)
+95th % (avg)
+median (avg)
+
+maximum (avg)
+95th % (avg)
+median (avg)
+
+maximum (avg)
+95th % (avg)
+median (avg)
+
+therapy report
+
+airsense 11 oset sn: 22231038074
+
+tidal volume!)
+
+1621
+745
+275
+
+respiratory ratabreaths/min)
+
+38
+30
+19
+
+minute ventilationl/min)
+
+23.1
+12.8
+5.2
+resmed
+
+airview"
+
+therapy report
+
+sense 11 autoset 22231038074
+
+care check-in
+
+no available data because the user declined to answer the therapy questions, this feature was
+turned off on the user’s machine or the user did not consent to share their data with myair.
+
+about care check-in
+
+short patient surveys are conducted on the airsense 11 and myair app to better understand how
+the patient is doing with therapy. if the patient consents, we can share care check-in information
+through airview for clinical users.
+
+questions and answers
+
+at the beginning of therapy, the patient is asked a baseline question. a few additional questions are
+asked, about once per week, during the early stages of therapy. for example:
+
+how sleepy did you feel this week? extremely, very, moderately, slightly, not at all.
+
+how is your therapy? great, ok, challenging.
+
+what bothers you most? getting used to therapy, fitting the mask, using the machine.
+
+please rate your usual sleep quality. very poor, poor, ok, good, excellent
+
+how was your sleep quality in the last week? very poor, poor, ok, good, excellent

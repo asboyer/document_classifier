@@ -1,0 +1,3786 @@
+{
+    "order_1": {
+        "am from": {
+            "count": 1,
+            "order": 0
+        },
+        "from fax": {
+            "count": 1,
+            "order": 1
+        },
+        "fax": {
+            "count": 1,
+            "order": 2
+        },
+        "fax carlos": {
+            "count": 1,
+            "order": 3
+        },
+        "carlos": {
+            "count": 2,
+            "order": 4
+        },
+        "carlos r": {
+            "count": 2,
+            "order": 5
+        },
+        "r santos": {
+            "count": 2,
+            "order": 6
+        },
+        "santos": {
+            "count": 2,
+            "order": 7
+        },
+        "santos md": {
+            "count": 1,
+            "order": 8
+        },
+        "md pa": {
+            "count": 1,
+            "order": 9
+        },
+        "pa n": {
+            "count": 1,
+            "order": 10
+        },
+        "n miami": {
+            "count": 1,
+            "order": 11
+        },
+        "miami": {
+            "count": 2,
+            "order": 12
+        },
+        "miami beach": {
+            "count": 2,
+            "order": 13
+        },
+        "beach": {
+            "count": 2,
+            "order": 14
+        },
+        "beach office": {
+            "count": 1,
+            "order": 15
+        },
+        "office": {
+            "count": 1,
+            "order": 16
+        },
+        "office to": {
+            "count": 1,
+            "order": 17
+        },
+        "to page": {
+            "count": 1,
+            "order": 18
+        },
+        "page": {
+            "count": 1,
+            "order": 19
+        },
+        "page of": {
+            "count": 1,
+            "order": 20
+        },
+        "of patient": {
+            "count": 1,
+            "order": 21
+        },
+        "patient": {
+            "count": 1,
+            "order": 22
+        },
+        "patient abreu": {
+            "count": 1,
+            "order": 23
+        },
+        "abreu": {
+            "count": 1,
+            "order": 24
+        },
+        "abreu juan": {
+            "count": 1,
+            "order": 25
+        },
+        "juan": {
+            "count": 1,
+            "order": 26
+        },
+        "juan dob": {
+            "count": 1,
+            "order": 27
+        },
+        "dob": {
+            "count": 1,
+            "order": 28
+        },
+        "dob aug": {
+            "count": 1,
+            "order": 29
+        },
+        "aug": {
+            "count": 1,
+            "order": 30
+        },
+        "aug standard": {
+            "count": 1,
+            "order": 31
+        },
+        "standard": {
+            "count": 1,
+            "order": 32
+        },
+        "standard written": {
+            "count": 1,
+            "order": 33
+        },
+        "written": {
+            "count": 1,
+            "order": 34
+        },
+        "written or": {
+            "count": 1,
+            "order": 35
+        },
+        "or l": {
+            "count": 1,
+            "order": 36
+        },
+        "l doc": {
+            "count": 1,
+            "order": 37
+        },
+        "doc": {
+            "count": 1,
+            "order": 38
+        },
+        "doc physician": {
+            "count": 1,
+            "order": 39
+        },
+        "physician": {
+            "count": 1,
+            "order": 40
+        },
+        "physician carlos": {
+            "count": 1,
+            "order": 41
+        },
+        "santos ne": {
+            "count": 1,
+            "order": 46
+        },
+        "ne avesuite": {
+            "count": 1,
+            "order": 47
+        },
+        "avesuite": {
+            "count": 1,
+            "order": 48
+        },
+        "avesuite a": {
+            "count": 1,
+            "order": 49
+        },
+        "a initial": {
+            "count": 1,
+            "order": 50
+        },
+        "initial": {
+            "count": 1,
+            "order": 51
+        },
+        "initial date": {
+            "count": 1,
+            "order": 52
+        },
+        "date": {
+            "count": 2,
+            "order": 53
+        },
+        "date revised": {
+            "count": 1,
+            "order": 54
+        },
+        "revised": {
+            "count": 1,
+            "order": 55
+        },
+        "revised date": {
+            "count": 1,
+            "order": 56
+        },
+        "date miami": {
+            "count": 1,
+            "order": 58
+        },
+        "beach florida": {
+            "count": 1,
+            "order": 62
+        },
+        "florida": {
+            "count": 1,
+            "order": 63
+        },
+        "florida recertification": {
+            "count": 1,
+            "order": 64
+        },
+        "recertification": {
+            "count": 1,
+            "order": 65
+        },
+        "recertification license": {
+            "count": 1,
+            "order": 66
+        },
+        "license": {
+            "count": 1,
+            "order": 67
+        },
+        "license j": {
+            "count": 1,
+            "order": 68
+        },
+        "j length": {
+            "count": 1,
+            "order": 69
+        },
+        "length": {
+            "count": 1,
+            "order": 70
+        },
+        "length of": {
+            "count": 1,
+            "order": 71
+        },
+        "of need": {
+            "count": 1,
+            "order": 72
+        },
+        "need": {
+            "count": 1,
+            "order": 73
+        },
+        "need so": {
+            "count": 1,
+            "order": 74
+        },
+        "so phone": {
+            "count": 1,
+            "order": 75
+        },
+        "phone": {
+            "count": 1,
+            "order": 76
+        },
+        "phone tin": {
+            "count": 1,
+            "order": 77
+        },
+        "tin": {
+            "count": 1,
+            "order": 78
+        },
+        "tin months": {
+            "count": 1,
+            "order": 79
+        },
+        "months": {
+            "count": 7,
+            "order": 80
+        },
+        "months progrmeasis": {
+            "count": 1,
+            "order": 81
+        },
+        "progrmeasis": {
+            "count": 1,
+            "order": 82
+        },
+        "progrmeasis diagnosis": {
+            "count": 1,
+            "order": 83
+        },
+        "diagnosis": {
+            "count": 1,
+            "order": 84
+        },
+        "diagnosis cd": {
+            "count": 1,
+            "order": 85
+        },
+        "cd cade": {
+            "count": 1,
+            "order": 86
+        },
+        "cade": {
+            "count": 1,
+            "order": 87
+        },
+        "cade description": {
+            "count": 1,
+            "order": 88
+        },
+        "description": {
+            "count": 1,
+            "order": 89
+        },
+        "description ats": {
+            "count": 1,
+            "order": 90
+        },
+        "ats": {
+            "count": 1,
+            "order": 91
+        },
+        "ats obstrudlve": {
+            "count": 1,
+            "order": 92
+        },
+        "obstrudlve": {
+            "count": 1,
+            "order": 93
+        },
+        "obstrudlve seep": {
+            "count": 1,
+            "order": 94
+        },
+        "seep": {
+            "count": 1,
+            "order": 95
+        },
+        "seep apnea": {
+            "count": 1,
+            "order": 96
+        },
+        "apnea": {
+            "count": 1,
+            "order": 97
+        },
+        "apnea adel": {
+            "count": 1,
+            "order": 98
+        },
+        "adel": {
+            "count": 1,
+            "order": 99
+        },
+        "adel pedaukc": {
+            "count": 1,
+            "order": 100
+        },
+        "pedaukc": {
+            "count": 1,
+            "order": 101
+        },
+        "pedaukc equipmentservices": {
+            "count": 1,
+            "order": 102
+        },
+        "equipmentservices": {
+            "count": 1,
+            "order": 103
+        },
+        "equipmentservices ots": {
+            "count": 1,
+            "order": 104
+        },
+        "ots": {
+            "count": 1,
+            "order": 105
+        },
+        "ots item": {
+            "count": 1,
+            "order": 106
+        },
+        "item": {
+            "count": 1,
+            "order": 107
+        },
+        "item name": {
+            "count": 1,
+            "order": 108
+        },
+        "name": {
+            "count": 1,
+            "order": 109
+        },
+        "name narrative": {
+            "count": 1,
+            "order": 110
+        },
+        "narrative": {
+            "count": 1,
+            "order": 111
+        },
+        "narrative bos": {
+            "count": 1,
+            "order": 112
+        },
+        "bos": {
+            "count": 1,
+            "order": 113
+        },
+        "bos humidifier": {
+            "count": 1,
+            "order": 114
+        },
+        "humidifier": {
+            "count": 1,
+            "order": 115
+        },
+        "humidifier heated": {
+            "count": 1,
+            "order": 116
+        },
+        "heated": {
+            "count": 1,
+            "order": 117
+        },
+        "heated useo": {
+            "count": 1,
+            "order": 118
+        },
+        "useo": {
+            "count": 1,
+            "order": 119
+        },
+        "useo w": {
+            "count": 1,
+            "order": 120
+        },
+        "w pap": {
+            "count": 1,
+            "order": 121
+        },
+        "pap": {
+            "count": 2,
+            "order": 122
+        },
+        "pap at": {
+            "count": 1,
+            "order": 123
+        },
+        "at night": {
+            "count": 1,
+            "order": 124
+        },
+        "night": {
+            "count": 2,
+            "order": 125
+        },
+        "night aris": {
+            "count": 1,
+            "order": 126
+        },
+        "aris": {
+            "count": 1,
+            "order": 127
+        },
+        "aris pos": {
+            "count": 1,
+            "order": 128
+        },
+        "pos": {
+            "count": 1,
+            "order": 129
+        },
+        "pos airway": {
+            "count": 1,
+            "order": 130
+        },
+        "airway": {
+            "count": 1,
+            "order": 131
+        },
+        "airway press": {
+            "count": 1,
+            "order": 132
+        },
+        "press": {
+            "count": 1,
+            "order": 133
+        },
+        "press headgear": {
+            "count": 1,
+            "order": 134
+        },
+        "headgear": {
+            "count": 1,
+            "order": 135
+        },
+        "headgear included": {
+            "count": 1,
+            "order": 136
+        },
+        "included": {
+            "count": 2,
+            "order": 137
+        },
+        "included per": {
+            "count": 2,
+            "order": 138
+        },
+        "per": {
+            "count": 7,
+            "order": 139
+        },
+        "per g": {
+            "count": 1,
+            "order": 140
+        },
+        "g months": {
+            "count": 1,
+            "order": 141
+        },
+        "months a": {
+            "count": 2,
+            "order": 143
+        },
+        "a ah": {
+            "count": 1,
+            "order": 144
+        },
+        "ah pap": {
+            "count": 1,
+            "order": 145
+        },
+        "pap slimline": {
+            "count": 1,
+            "order": 147
+        },
+        "slimline": {
+            "count": 1,
+            "order": 148
+        },
+        "slimline tubing": {
+            "count": 1,
+            "order": 149
+        },
+        "tubing": {
+            "count": 1,
+            "order": 150
+        },
+        "tubing per": {
+            "count": 1,
+            "order": 151
+        },
+        "per months": {
+            "count": 4,
+            "order": 153
+        },
+        "a full": {
+            "count": 1,
+            "order": 156
+        },
+        "full": {
+            "count": 1,
+            "order": 157
+        },
+        "full face": {
+            "count": 1,
+            "order": 158
+        },
+        "face": {
+            "count": 1,
+            "order": 159
+        },
+        "face nasal": {
+            "count": 1,
+            "order": 160
+        },
+        "nasal": {
+            "count": 2,
+            "order": 161
+        },
+        "nasal pillow": {
+            "count": 1,
+            "order": 162
+        },
+        "pillow": {
+            "count": 1,
+            "order": 163
+        },
+        "pillow or": {
+            "count": 1,
+            "order": 164
+        },
+        "or nasal": {
+            "count": 1,
+            "order": 165
+        },
+        "nasal cushion": {
+            "count": 1,
+            "order": 167
+        },
+        "cushion": {
+            "count": 1,
+            "order": 168
+        },
+        "cushion included": {
+            "count": 1,
+            "order": 169
+        },
+        "per month": {
+            "count": 2,
+            "order": 173
+        },
+        "month": {
+            "count": 2,
+            "order": 174
+        },
+        "month feey": {
+            "count": 1,
+            "order": 175
+        },
+        "feey": {
+            "count": 1,
+            "order": 176
+        },
+        "feey resmeo": {
+            "count": 1,
+            "order": 177
+        },
+        "resmeo": {
+            "count": 1,
+            "order": 178
+        },
+        "resmeo crap": {
+            "count": 1,
+            "order": 179
+        },
+        "crap": {
+            "count": 1,
+            "order": 180
+        },
+        "crap airsense": {
+            "count": 1,
+            "order": 181
+        },
+        "airsense": {
+            "count": 1,
+            "order": 182
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 183
+        },
+        "autoset": {
+            "count": 1,
+            "order": 184
+        },
+        "autoset af": {
+            "count": 1,
+            "order": 185
+        },
+        "af night": {
+            "count": 1,
+            "order": 186
+        },
+        "night a": {
+            "count": 1,
+            "order": 188
+        },
+        "a rasmed": {
+            "count": 1,
+            "order": 189
+        },
+        "rasmed": {
+            "count": 1,
+            "order": 190
+        },
+        "rasmed akfa": {
+            "count": 1,
+            "order": 191
+        },
+        "akfa": {
+            "count": 1,
+            "order": 192
+        },
+        "akfa f": {
+            "count": 1,
+            "order": 193
+        },
+        "f system": {
+            "count": 1,
+            "order": 194
+        },
+        "system": {
+            "count": 1,
+            "order": 195
+        },
+        "system medium": {
+            "count": 1,
+            "order": 196
+        },
+        "medium": {
+            "count": 1,
+            "order": 197
+        },
+        "medium wihdgr": {
+            "count": 1,
+            "order": 198
+        },
+        "wihdgr": {
+            "count": 1,
+            "order": 199
+        },
+        "wihdgr peri": {
+            "count": 1,
+            "order": 200
+        },
+        "peri": {
+            "count": 1,
+            "order": 201
+        },
+        "peri months": {
+            "count": 1,
+            "order": 202
+        },
+        "months arib": {
+            "count": 1,
+            "order": 204
+        },
+        "arib": {
+            "count": 1,
+            "order": 205
+        },
+        "arib aickt": {
+            "count": 1,
+            "order": 206
+        },
+        "aickt": {
+            "count": 1,
+            "order": 207
+        },
+        "aickt filter": {
+            "count": 1,
+            "order": 208
+        },
+        "filter": {
+            "count": 2,
+            "order": 209
+        },
+        "filter stantatd": {
+            "count": 1,
+            "order": 210
+        },
+        "stantatd": {
+            "count": 1,
+            "order": 211
+        },
+        "stantatd pack": {
+            "count": 1,
+            "order": 212
+        },
+        "pack": {
+            "count": 1,
+            "order": 213
+        },
+        "pack per": {
+            "count": 1,
+            "order": 214
+        },
+        "month apoi": {
+            "count": 1,
+            "order": 218
+        },
+        "apoi": {
+            "count": 1,
+            "order": 219
+        },
+        "apoi premium": {
+            "count": 1,
+            "order": 220
+        },
+        "premium": {
+            "count": 1,
+            "order": 221
+        },
+        "premium chin": {
+            "count": 1,
+            "order": 222
+        },
+        "chin": {
+            "count": 1,
+            "order": 223
+        },
+        "chin straps": {
+            "count": 1,
+            "order": 224
+        },
+        "straps": {
+            "count": 1,
+            "order": 225
+        },
+        "straps per": {
+            "count": 1,
+            "order": 226
+        },
+        "months apo": {
+            "count": 1,
+            "order": 230
+        },
+        "apo": {
+            "count": 1,
+            "order": 231
+        },
+        "apo remstar": {
+            "count": 1,
+            "order": 232
+        },
+        "remstar": {
+            "count": 1,
+            "order": 233
+        },
+        "remstar pro": {
+            "count": 1,
+            "order": 234
+        },
+        "pro": {
+            "count": 1,
+            "order": 235
+        },
+        "pro pollen": {
+            "count": 1,
+            "order": 236
+        },
+        "pollen": {
+            "count": 1,
+            "order": 237
+        },
+        "pollen filter": {
+            "count": 1,
+            "order": 238
+        },
+        "filter pk": {
+            "count": 1,
+            "order": 240
+        },
+        "pk per": {
+            "count": 1,
+            "order": 241
+        },
+        "months aag": {
+            "count": 1,
+            "order": 245
+        },
+        "aag": {
+            "count": 1,
+            "order": 246
+        },
+        "aag drearmstation": {
+            "count": 1,
+            "order": 247
+        },
+        "drearmstation": {
+            "count": 1,
+            "order": 248
+        },
+        "drearmstation waterchamber": {
+            "count": 1,
+            "order": 249
+        },
+        "waterchamber": {
+            "count": 1,
+            "order": 250
+        },
+        "waterchamber per": {
+            "count": 1,
+            "order": 251
+        },
+        "months signature": {
+            "count": 1,
+            "order": 255
+        },
+        "signature": {
+            "count": 1,
+            "order": 256
+        },
+        "signature hnuseeaaaea": {
+            "count": 1,
+            "order": 257
+        },
+        "hnuseeaaaea": {
+            "count": 1,
+            "order": 258
+        },
+        "hnuseeaaaea an": {
+            "count": 1,
+            "order": 259
+        },
+        "an a": {
+            "count": 1,
+            "order": 260
+        }
+    },
+    "order_3": {
+        "marmon": {
+            "count": 1,
+            "order": 0
+        },
+        "marmon pm": {
+            "count": 1,
+            "order": 1
+        },
+        "pm fax": {
+            "count": 1,
+            "order": 2
+        },
+        "fax": {
+            "count": 5,
+            "order": 3
+        },
+        "fax no": {
+            "count": 1,
+            "order": 4
+        },
+        "no p": {
+            "count": 1,
+            "order": 5
+        },
+        "p bush": {
+            "count": 1,
+            "order": 6
+        },
+        "bush": {
+            "count": 1,
+            "order": 7
+        },
+        "bush robert": {
+            "count": 1,
+            "order": 8
+        },
+        "robert": {
+            "count": 1,
+            "order": 9
+        },
+        "robert mrn": {
+            "count": 1,
+            "order": 10
+        },
+        "mrn": {
+            "count": 1,
+            "order": 11
+        },
+        "mrn encounter": {
+            "count": 1,
+            "order": 12
+        },
+        "encounter": {
+            "count": 1,
+            "order": 13
+        },
+        "encounter date": {
+            "count": 1,
+            "order": 14
+        },
+        "date": {
+            "count": 2,
+            "order": 15
+        },
+        "date imusc": {
+            "count": 1,
+            "order": 16
+        },
+        "imusc": {
+            "count": 1,
+            "order": 17
+        },
+        "imusc medical": {
+            "count": 1,
+            "order": 18
+        },
+        "medical": {
+            "count": 1,
+            "order": 19
+        },
+        "medical university": {
+            "count": 1,
+            "order": 20
+        },
+        "university": {
+            "count": 1,
+            "order": 21
+        },
+        "university of": {
+            "count": 1,
+            "order": 22
+        },
+        "of south": {
+            "count": 1,
+            "order": 23
+        },
+        "south": {
+            "count": 1,
+            "order": 24
+        },
+        "south carolina": {
+            "count": 1,
+            "order": 25
+        },
+        "carolina": {
+            "count": 1,
+            "order": 26
+        },
+        "carolina patient": {
+            "count": 1,
+            "order": 27
+        },
+        "patient": {
+            "count": 4,
+            "order": 28
+        },
+        "patient demographics": {
+            "count": 1,
+            "order": 29
+        },
+        "demographics": {
+            "count": 1,
+            "order": 30
+        },
+        "demographics department": {
+            "count": 1,
+            "order": 31
+        },
+        "department": {
+            "count": 1,
+            "order": 32
+        },
+        "department name": {
+            "count": 1,
+            "order": 33
+        },
+        "name": {
+            "count": 2,
+            "order": 34
+        },
+        "name address": {
+            "count": 1,
+            "order": 35
+        },
+        "address": {
+            "count": 1,
+            "order": 36
+        },
+        "address poor": {
+            "count": 1,
+            "order": 37
+        },
+        "poor": {
+            "count": 1,
+            "order": 38
+        },
+        "poor phane": {
+            "count": 1,
+            "order": 39
+        },
+        "phane": {
+            "count": 1,
+            "order": 40
+        },
+        "phane fax": {
+            "count": 1,
+            "order": 41
+        },
+        "fax pulmonology": {
+            "count": 1,
+            "order": 43
+        },
+        "pulmonology": {
+            "count": 1,
+            "order": 44
+        },
+        "pulmonology at": {
+            "count": 1,
+            "order": 45
+        },
+        "at musc": {
+            "count": 1,
+            "order": 46
+        },
+        "musc": {
+            "count": 2,
+            "order": 47
+        },
+        "musc health": {
+            "count": 2,
+            "order": 48
+        },
+        "health": {
+            "count": 2,
+            "order": 49
+        },
+        "health midtown": {
+            "count": 1,
+            "order": 50
+        },
+        "midtown": {
+            "count": 1,
+            "order": 51
+        },
+        "midtown avenue": {
+            "count": 1,
+            "order": 52
+        },
+        "avenue": {
+            "count": 1,
+            "order": 53
+        },
+        "avenue nd": {
+            "count": 1,
+            "order": 54
+        },
+        "nd floor": {
+            "count": 1,
+            "order": 55
+        },
+        "floor": {
+            "count": 1,
+            "order": 56
+        },
+        "floor east": {
+            "count": 1,
+            "order": 57
+        },
+        "east": {
+            "count": 2,
+            "order": 58
+        },
+        "east cooper": {
+            "count": 2,
+            "order": 59
+        },
+        "cooper": {
+            "count": 2,
+            "order": 60
+        },
+        "cooper mt": {
+            "count": 1,
+            "order": 61
+        },
+        "mt pleasant": {
+            "count": 1,
+            "order": 62
+        },
+        "pleasant": {
+            "count": 1,
+            "order": 63
+        },
+        "pleasant sc": {
+            "count": 1,
+            "order": 64
+        },
+        "sc order": {
+            "count": 1,
+            "order": 65
+        },
+        "order": {
+            "count": 5,
+            "order": 66
+        },
+        "order order": {
+            "count": 1,
+            "order": 67
+        },
+        "order name": {
+            "count": 1,
+            "order": 69
+        },
+        "name priority": {
+            "count": 1,
+            "order": 71
+        },
+        "priority": {
+            "count": 1,
+            "order": 72
+        },
+        "priority other": {
+            "count": 1,
+            "order": 73
+        },
+        "other suppliesequipment": {
+            "count": 1,
+            "order": 74
+        },
+        "suppliesequipment": {
+            "count": 1,
+            "order": 75
+        },
+        "suppliesequipment routine": {
+            "count": 1,
+            "order": 76
+        },
+        "routine": {
+            "count": 1,
+            "order": 77
+        },
+        "routine associated": {
+            "count": 1,
+            "order": 78
+        },
+        "associated": {
+            "count": 1,
+            "order": 79
+        },
+        "associated diagnoses": {
+            "count": 1,
+            "order": 80
+        },
+        "diagnoses": {
+            "count": 1,
+            "order": 81
+        },
+        "diagnoses cdcm": {
+            "count": 1,
+            "order": 82
+        },
+        "cdcm": {
+            "count": 1,
+            "order": 83
+        },
+        "cdcm icdgm": {
+            "count": 1,
+            "order": 84
+        },
+        "icdgm": {
+            "count": 1,
+            "order": 85
+        },
+        "icdgm osa": {
+            "count": 1,
+            "order": 86
+        },
+        "osa": {
+            "count": 2,
+            "order": 87
+        },
+        "osa obstructive": {
+            "count": 1,
+            "order": 88
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 89
+        },
+        "obstructive sleep": {
+            "count": 1,
+            "order": 90
+        },
+        "sleep": {
+            "count": 1,
+            "order": 91
+        },
+        "sleep apnea": {
+            "count": 1,
+            "order": 92
+        },
+        "apnea": {
+            "count": 1,
+            "order": 93
+        },
+        "apnea g": {
+            "count": 1,
+            "order": 94
+        },
+        "g primary": {
+            "count": 1,
+            "order": 95
+        },
+        "primary": {
+            "count": 1,
+            "order": 96
+        },
+        "primary comments": {
+            "count": 1,
+            "order": 97
+        },
+        "comments": {
+            "count": 1,
+            "order": 98
+        },
+        "comments please": {
+            "count": 1,
+            "order": 99
+        },
+        "please": {
+            "count": 8,
+            "order": 100
+        },
+        "please setup": {
+            "count": 2,
+            "order": 101
+        },
+        "setup": {
+            "count": 4,
+            "order": 102
+        },
+        "setup res": {
+            "count": 1,
+            "order": 103
+        },
+        "res": {
+            "count": 1,
+            "order": 104
+        },
+        "res med": {
+            "count": 1,
+            "order": 105
+        },
+        "med": {
+            "count": 1,
+            "order": 106
+        },
+        "med s": {
+            "count": 1,
+            "order": 107
+        },
+        "s or": {
+            "count": 1,
+            "order": 108
+        },
+        "or auto": {
+            "count": 1,
+            "order": 109
+        },
+        "auto": {
+            "count": 1,
+            "order": 110
+        },
+        "auto elite": {
+            "count": 1,
+            "order": 111
+        },
+        "elite": {
+            "count": 1,
+            "order": 112
+        },
+        "elite cpap": {
+            "count": 1,
+            "order": 113
+        },
+        "cpap": {
+            "count": 1,
+            "order": 114
+        },
+        "cpap at": {
+            "count": 1,
+            "order": 115
+        },
+        "at emh": {
+            "count": 1,
+            "order": 116
+        },
+        "emh": {
+            "count": 1,
+            "order": 117
+        },
+        "emh with": {
+            "count": 1,
+            "order": 118
+        },
+        "with heated": {
+            "count": 1,
+            "order": 119
+        },
+        "heated": {
+            "count": 2,
+            "order": 120
+        },
+        "heated humidification": {
+            "count": 1,
+            "order": 121
+        },
+        "humidification": {
+            "count": 1,
+            "order": 122
+        },
+        "humidification ramp": {
+            "count": 1,
+            "order": 123
+        },
+        "ramp": {
+            "count": 1,
+            "order": 124
+        },
+        "ramp as": {
+            "count": 1,
+            "order": 125
+        },
+        "as needed": {
+            "count": 2,
+            "order": 126
+        },
+        "needed": {
+            "count": 5,
+            "order": 127
+        },
+        "needed chin": {
+            "count": 1,
+            "order": 128
+        },
+        "chin": {
+            "count": 1,
+            "order": 129
+        },
+        "chin strap": {
+            "count": 1,
+            "order": 130
+        },
+        "strap": {
+            "count": 1,
+            "order": 131
+        },
+        "strap as": {
+            "count": 1,
+            "order": 132
+        },
+        "needed filters": {
+            "count": 1,
+            "order": 135
+        },
+        "filters": {
+            "count": 1,
+            "order": 136
+        },
+        "filters headgear": {
+            "count": 1,
+            "order": 137
+        },
+        "headgear": {
+            "count": 1,
+            "order": 138
+        },
+        "headgear mask": {
+            "count": 1,
+            "order": 139
+        },
+        "mask": {
+            "count": 1,
+            "order": 140
+        },
+        "mask as": {
+            "count": 1,
+            "order": 141
+        },
+        "as per": {
+            "count": 1,
+            "order": 142
+        },
+        "per": {
+            "count": 1,
+            "order": 143
+        },
+        "per choice": {
+            "count": 1,
+            "order": 144
+        },
+        "choice": {
+            "count": 1,
+            "order": 145
+        },
+        "choice tubing": {
+            "count": 1,
+            "order": 146
+        },
+        "tubing": {
+            "count": 2,
+            "order": 147
+        },
+        "tubing compliance": {
+            "count": 1,
+            "order": 148
+        },
+        "compliance": {
+            "count": 1,
+            "order": 149
+        },
+        "compliance card": {
+            "count": 1,
+            "order": 150
+        },
+        "card": {
+            "count": 1,
+            "order": 151
+        },
+        "card and": {
+            "count": 1,
+            "order": 152
+        },
+        "and option": {
+            "count": 1,
+            "order": 153
+        },
+        "option": {
+            "count": 1,
+            "order": 154
+        },
+        "option for": {
+            "count": 1,
+            "order": 155
+        },
+        "for heated": {
+            "count": 1,
+            "order": 156
+        },
+        "heated tubing": {
+            "count": 1,
+            "order": 158
+        },
+        "tubing if": {
+            "count": 1,
+            "order": 160
+        },
+        "if needed": {
+            "count": 1,
+            "order": 161
+        },
+        "needed please": {
+            "count": 1,
+            "order": 163
+        },
+        "setup with": {
+            "count": 1,
+            "order": 167
+        },
+        "with supplies": {
+            "count": 1,
+            "order": 168
+        },
+        "supplies": {
+            "count": 2,
+            "order": 169
+        },
+        "supplies asap": {
+            "count": 1,
+            "order": 170
+        },
+        "asap": {
+            "count": 2,
+            "order": 171
+        },
+        "asap please": {
+            "count": 1,
+            "order": 172
+        },
+        "please download": {
+            "count": 1,
+            "order": 174
+        },
+        "download": {
+            "count": 1,
+            "order": 175
+        },
+        "download in": {
+            "count": 1,
+            "order": 176
+        },
+        "in one": {
+            "count": 1,
+            "order": 177
+        },
+        "one": {
+            "count": 1,
+            "order": 178
+        },
+        "one month": {
+            "count": 1,
+            "order": 179
+        },
+        "month": {
+            "count": 1,
+            "order": 180
+        },
+        "month two": {
+            "count": 1,
+            "order": 181
+        },
+        "two": {
+            "count": 1,
+            "order": 182
+        },
+        "two months": {
+            "count": 1,
+            "order": 183
+        },
+        "months": {
+            "count": 1,
+            "order": 184
+        },
+        "months and": {
+            "count": 1,
+            "order": 185
+        },
+        "and at": {
+            "count": 1,
+            "order": 186
+        },
+        "at the": {
+            "count": 1,
+            "order": 187
+        },
+        "the year": {
+            "count": 1,
+            "order": 188
+        },
+        "year": {
+            "count": 1,
+            "order": 189
+        },
+        "year mark": {
+            "count": 1,
+            "order": 190
+        },
+        "mark": {
+            "count": 1,
+            "order": 191
+        },
+        "mark and": {
+            "count": 1,
+            "order": 192
+        },
+        "and fax": {
+            "count": 1,
+            "order": 193
+        },
+        "fax to": {
+            "count": 1,
+            "order": 195
+        },
+        "to attention": {
+            "count": 1,
+            "order": 196
+        },
+        "attention": {
+            "count": 1,
+            "order": 197
+        },
+        "attention dr": {
+            "count": 1,
+            "order": 198
+        },
+        "dr rinn": {
+            "count": 1,
+            "order": 199
+        },
+        "rinn": {
+            "count": 1,
+            "order": 200
+        },
+        "rinn please": {
+            "count": 1,
+            "order": 201
+        },
+        "please fax": {
+            "count": 1,
+            "order": 203
+        },
+        "fax a": {
+            "count": 1,
+            "order": 205
+        },
+        "a confirmation": {
+            "count": 1,
+            "order": 206
+        },
+        "confirmation": {
+            "count": 1,
+            "order": 207
+        },
+        "confirmation that": {
+            "count": 1,
+            "order": 208
+        },
+        "that you": {
+            "count": 1,
+            "order": 209
+        },
+        "you received": {
+            "count": 1,
+            "order": 210
+        },
+        "received": {
+            "count": 1,
+            "order": 211
+        },
+        "received this": {
+            "count": 1,
+            "order": 212
+        },
+        "this order": {
+            "count": 1,
+            "order": 213
+        },
+        "order any": {
+            "count": 1,
+            "order": 215
+        },
+        "any additional": {
+            "count": 1,
+            "order": 216
+        },
+        "additional": {
+            "count": 1,
+            "order": 217
+        },
+        "additional items": {
+            "count": 1,
+            "order": 218
+        },
+        "items": {
+            "count": 1,
+            "order": 219
+        },
+        "items needed": {
+            "count": 1,
+            "order": 220
+        },
+        "needed and": {
+            "count": 1,
+            "order": 222
+        },
+        "and a": {
+            "count": 1,
+            "order": 223
+        },
+        "a setup": {
+            "count": 1,
+            "order": 224
+        },
+        "setup date": {
+            "count": 1,
+            "order": 226
+        },
+        "date setup": {
+            "count": 1,
+            "order": 228
+        },
+        "setup for": {
+            "count": 1,
+            "order": 230
+        },
+        "for lifetime": {
+            "count": 1,
+            "order": 231
+        },
+        "lifetime": {
+            "count": 1,
+            "order": 232
+        },
+        "lifetime or": {
+            "count": 1,
+            "order": 233
+        },
+        "or years": {
+            "count": 1,
+            "order": 234
+        },
+        "years": {
+            "count": 1,
+            "order": 235
+        },
+        "years please": {
+            "count": 1,
+            "order": 236
+        },
+        "please add": {
+            "count": 1,
+            "order": 238
+        },
+        "add": {
+            "count": 1,
+            "order": 239
+        },
+        "add to": {
+            "count": 1,
+            "order": 240
+        },
+        "to alrview": {
+            "count": 1,
+            "order": 241
+        },
+        "alrview": {
+            "count": 1,
+            "order": 242
+        },
+        "alrview musc": {
+            "count": 1,
+            "order": 243
+        },
+        "health east": {
+            "count": 1,
+            "order": 247
+        },
+        "cooper please": {
+            "count": 1,
+            "order": 251
+        },
+        "please contact": {
+            "count": 1,
+            "order": 253
+        },
+        "contact": {
+            "count": 1,
+            "order": 254
+        },
+        "contact the": {
+            "count": 1,
+            "order": 255
+        },
+        "the patient": {
+            "count": 1,
+            "order": 256
+        },
+        "patient the": {
+            "count": 1,
+            "order": 258
+        },
+        "the day": {
+            "count": 1,
+            "order": 259
+        },
+        "day": {
+            "count": 1,
+            "order": 260
+        },
+        "day you": {
+            "count": 1,
+            "order": 261
+        },
+        "you receive": {
+            "count": 1,
+            "order": 262
+        },
+        "receive": {
+            "count": 1,
+            "order": 263
+        },
+        "receive thia": {
+            "count": 1,
+            "order": 264
+        },
+        "thia": {
+            "count": 1,
+            "order": 265
+        },
+        "thia order": {
+            "count": 1,
+            "order": 266
+        },
+        "order if": {
+            "count": 1,
+            "order": 268
+        },
+        "if you": {
+            "count": 1,
+            "order": 269
+        },
+        "you cannot": {
+            "count": 1,
+            "order": 270
+        },
+        "cannot": {
+            "count": 1,
+            "order": 271
+        },
+        "cannot service": {
+            "count": 1,
+            "order": 272
+        },
+        "service": {
+            "count": 1,
+            "order": 273
+        },
+        "service this": {
+            "count": 1,
+            "order": 274
+        },
+        "this patient": {
+            "count": 1,
+            "order": 275
+        },
+        "patient please": {
+            "count": 1,
+            "order": 277
+        },
+        "please call": {
+            "count": 1,
+            "order": 279
+        },
+        "call": {
+            "count": 1,
+            "order": 280
+        },
+        "call our": {
+            "count": 1,
+            "order": 281
+        },
+        "our office": {
+            "count": 1,
+            "order": 282
+        },
+        "office": {
+            "count": 1,
+            "order": 283
+        },
+        "office immediately": {
+            "count": 1,
+            "order": 284
+        },
+        "immediately": {
+            "count": 1,
+            "order": 285
+        },
+        "immediately fax": {
+            "count": 1,
+            "order": 286
+        },
+        "fax number": {
+            "count": 1,
+            "order": 288
+        },
+        "number": {
+            "count": 1,
+            "order": 289
+        },
+        "number is": {
+            "count": 1,
+            "order": 290
+        },
+        "is order": {
+            "count": 1,
+            "order": 291
+        },
+        "order questions": {
+            "count": 1,
+            "order": 293
+        },
+        "questions": {
+            "count": 1,
+            "order": 294
+        },
+        "questions question": {
+            "count": 1,
+            "order": 295
+        },
+        "question": {
+            "count": 1,
+            "order": 296
+        },
+        "question ae": {
+            "count": 1,
+            "order": 297
+        },
+        "ae on": {
+            "count": 1,
+            "order": 298
+        },
+        "on answere": {
+            "count": 1,
+            "order": 299
+        },
+        "answere": {
+            "count": 1,
+            "order": 300
+        },
+        "answere og": {
+            "count": 1,
+            "order": 301
+        },
+        "og me": {
+            "count": 1,
+            "order": 302
+        },
+        "me how": {
+            "count": 1,
+            "order": 303
+        },
+        "how will": {
+            "count": 1,
+            "order": 304
+        },
+        "will dme": {
+            "count": 1,
+            "order": 305
+        },
+        "dme": {
+            "count": 1,
+            "order": 306
+        },
+        "dme be": {
+            "count": 1,
+            "order": 307
+        },
+        "be supplied": {
+            "count": 1,
+            "order": 308
+        },
+        "supplied": {
+            "count": 2,
+            "order": 309
+        },
+        "supplied patient": {
+            "count": 1,
+            "order": 310
+        },
+        "patient supplied": {
+            "count": 1,
+            "order": 312
+        },
+        "supplied will": {
+            "count": 1,
+            "order": 314
+        },
+        "will print": {
+            "count": 1,
+            "order": 315
+        },
+        "print": {
+            "count": 1,
+            "order": 316
+        },
+        "print supplies": {
+            "count": 1,
+            "order": 317
+        },
+        "supplies or": {
+            "count": 1,
+            "order": 319
+        },
+        "or equipment": {
+            "count": 1,
+            "order": 320
+        },
+        "equipment": {
+            "count": 1,
+            "order": 321
+        },
+        "equipment needed": {
+            "count": 1,
+            "order": 322
+        },
+        "needed osa": {
+            "count": 1,
+            "order": 324
+        },
+        "osa tx": {
+            "count": 1,
+            "order": 326
+        },
+        "tx asap": {
+            "count": 1,
+            "order": 327
+        },
+        "asap authorization": {
+            "count": 1,
+            "order": 329
+        },
+        "authorization": {
+            "count": 1,
+            "order": 330
+        },
+        "authorization please": {
+            "count": 1,
+            "order": 331
+        },
+        "please review": {
+            "count": 1,
+            "order": 333
+        },
+        "review": {
+            "count": 1,
+            "order": 334
+        },
+        "review provider": {
+            "count": 1,
+            "order": 335
+        },
+        "provider": {
+            "count": 2,
+            "order": 336
+        },
+        "provider signature": {
+            "count": 1,
+            "order": 337
+        },
+        "signature": {
+            "count": 1,
+            "order": 338
+        },
+        "signature if": {
+            "count": 1,
+            "order": 339
+        },
+        "if not": {
+            "count": 1,
+            "order": 340
+        },
+        "not electronically": {
+            "count": 1,
+            "order": 341
+        },
+        "electronically": {
+            "count": 1,
+            "order": 342
+        },
+        "electronically entered": {
+            "count": 1,
+            "order": 343
+        },
+        "entered": {
+            "count": 1,
+            "order": 344
+        },
+        "entered by": {
+            "count": 1,
+            "order": 345
+        },
+        "by authorizing": {
+            "count": 1,
+            "order": 346
+        },
+        "authorizing": {
+            "count": 1,
+            "order": 347
+        },
+        "authorizing provider": {
+            "count": 1,
+            "order": 348
+        },
+        "provider above": {
+            "count": 1,
+            "order": 350
+        },
+        "above or": {
+            "count": 1,
+            "order": 351
+        },
+        "or this": {
+            "count": 1,
+            "order": 352
+        },
+        "this is": {
+            "count": 1,
+            "order": 353
+        },
+        "is a": {
+            "count": 1,
+            "order": 354
+        },
+        "a reprint": {
+            "count": 1,
+            "order": 355
+        },
+        "reprint": {
+            "count": 1,
+            "order": 356
+        },
+        "reprint of": {
+            "count": 1,
+            "order": 357
+        },
+        "of an": {
+            "count": 1,
+            "order": 358
+        },
+        "an original": {
+            "count": 1,
+            "order": 359
+        },
+        "original": {
+            "count": 1,
+            "order": 360
+        },
+        "original page": {
+            "count": 1,
+            "order": 361
+        },
+        "page": {
+            "count": 1,
+            "order": 362
+        },
+        "page of": {
+            "count": 1,
+            "order": 363
+        }
+    },
+    "order_2": {
+        "g afb": {
+            "count": 1,
+            "order": 0
+        },
+        "afb": {
+            "count": 1,
+            "order": 1
+        },
+        "afb ob": {
+            "count": 1,
+            "order": 2
+        },
+        "ob sp": {
+            "count": 1,
+            "order": 3
+        },
+        "sp he": {
+            "count": 1,
+            "order": 4
+        },
+        "he ppar": {
+            "count": 1,
+            "order": 5
+        },
+        "ppar": {
+            "count": 1,
+            "order": 6
+        },
+        "ppar ty": {
+            "count": 1,
+            "order": 7
+        },
+        "ty health": {
+            "count": 1,
+            "order": 8
+        },
+        "health": {
+            "count": 1,
+            "order": 9
+        },
+        "health vedzngn": {
+            "count": 1,
+            "order": 10
+        },
+        "vedzngn": {
+            "count": 1,
+            "order": 11
+        },
+        "vedzngn rfcomect": {
+            "count": 1,
+            "order": 12
+        },
+        "rfcomect": {
+            "count": 1,
+            "order": 13
+        },
+        "rfcomect pam": {
+            "count": 1,
+            "order": 14
+        },
+        "pam": {
+            "count": 1,
+            "order": 15
+        },
+        "pam page": {
+            "count": 1,
+            "order": 16
+        },
+        "page": {
+            "count": 1,
+            "order": 17
+        },
+        "page baz": {
+            "count": 1,
+            "order": 18
+        },
+        "baz": {
+            "count": 1,
+            "order": 19
+        },
+        "baz standard": {
+            "count": 1,
+            "order": 20
+        },
+        "standard": {
+            "count": 2,
+            "order": 21
+        },
+        "standard written": {
+            "count": 1,
+            "order": 22
+        },
+        "written": {
+            "count": 1,
+            "order": 23
+        },
+        "written order": {
+            "count": 1,
+            "order": 24
+        },
+        "order": {
+            "count": 1,
+            "order": 25
+        },
+        "order provide": {
+            "count": 1,
+            "order": 26
+        },
+        "provide": {
+            "count": 1,
+            "order": 27
+        },
+        "provide fort": {
+            "count": 1,
+            "order": 28
+        },
+        "fort": {
+            "count": 1,
+            "order": 29
+        },
+        "fort laterdale": {
+            "count": 1,
+            "order": 30
+        },
+        "laterdale": {
+            "count": 1,
+            "order": 31
+        },
+        "laterdale florida": {
+            "count": 1,
+            "order": 32
+        },
+        "florida": {
+            "count": 2,
+            "order": 33
+        },
+        "florida phone": {
+            "count": 1,
+            "order": 34
+        },
+        "phone": {
+            "count": 1,
+            "order": 35
+        },
+        "phone fax": {
+            "count": 1,
+            "order": 36
+        },
+        "fax": {
+            "count": 1,
+            "order": 37
+        },
+        "fax boc": {
+            "count": 1,
+            "order": 38
+        },
+        "boc": {
+            "count": 1,
+            "order": 39
+        },
+        "boc ids": {
+            "count": 1,
+            "order": 40
+        },
+        "ids": {
+            "count": 1,
+            "order": 41
+        },
+        "ids physicians": {
+            "count": 1,
+            "order": 42
+        },
+        "physicians": {
+            "count": 1,
+            "order": 43
+        },
+        "physicians prank": {
+            "count": 1,
+            "order": 44
+        },
+        "prank": {
+            "count": 1,
+            "order": 45
+        },
+        "prank sorhage": {
+            "count": 1,
+            "order": 46
+        },
+        "sorhage": {
+            "count": 1,
+            "order": 47
+        },
+        "sorhage ne": {
+            "count": 1,
+            "order": 48
+        },
+        "ne th": {
+            "count": 1,
+            "order": 49
+        },
+        "th st": {
+            "count": 1,
+            "order": 50
+        },
+        "st suite": {
+            "count": 1,
+            "order": 51
+        },
+        "suite": {
+            "count": 1,
+            "order": 52
+        },
+        "suite initlai": {
+            "count": 1,
+            "order": 53
+        },
+        "initlai": {
+            "count": 1,
+            "order": 54
+        },
+        "initlai date": {
+            "count": 1,
+            "order": 55
+        },
+        "date": {
+            "count": 3,
+            "order": 56
+        },
+        "date revised": {
+            "count": 1,
+            "order": 57
+        },
+        "revised": {
+            "count": 1,
+            "order": 58
+        },
+        "revised date": {
+            "count": 1,
+            "order": 59
+        },
+        "date ft": {
+            "count": 1,
+            "order": 61
+        },
+        "ft lauderdale": {
+            "count": 1,
+            "order": 62
+        },
+        "lauderdale": {
+            "count": 1,
+            "order": 63
+        },
+        "lauderdale florida": {
+            "count": 1,
+            "order": 64
+        },
+        "florida recertification": {
+            "count": 1,
+            "order": 66
+        },
+        "recertification": {
+            "count": 1,
+            "order": 67
+        },
+        "recertification length": {
+            "count": 1,
+            "order": 68
+        },
+        "length": {
+            "count": 1,
+            "order": 69
+        },
+        "length of": {
+            "count": 1,
+            "order": 70
+        },
+        "of need": {
+            "count": 1,
+            "order": 71
+        },
+        "need": {
+            "count": 1,
+            "order": 72
+        },
+        "need in": {
+            "count": 1,
+            "order": 73
+        },
+        "in months": {
+            "count": 1,
+            "order": 74
+        },
+        "months": {
+            "count": 5,
+            "order": 75
+        },
+        "months prognosis": {
+            "count": 1,
+            "order": 76
+        },
+        "prognosis": {
+            "count": 1,
+            "order": 77
+        },
+        "prognosis diagnosis": {
+            "count": 1,
+            "order": 78
+        },
+        "diagnosis": {
+            "count": 1,
+            "order": 79
+        },
+        "diagnosis icd": {
+            "count": 1,
+            "order": 80
+        },
+        "icd": {
+            "count": 1,
+            "order": 81
+        },
+        "icd cade": {
+            "count": 1,
+            "order": 82
+        },
+        "cade": {
+            "count": 1,
+            "order": 83
+        },
+        "cade deseription": {
+            "count": 1,
+            "order": 84
+        },
+        "deseription": {
+            "count": 1,
+            "order": 85
+        },
+        "deseription obstructive": {
+            "count": 1,
+            "order": 86
+        },
+        "obstructive": {
+            "count": 1,
+            "order": 87
+        },
+        "obstructive sleep": {
+            "count": 1,
+            "order": 88
+        },
+        "sleep": {
+            "count": 1,
+            "order": 89
+        },
+        "sleep apnea": {
+            "count": 1,
+            "order": 90
+        },
+        "apnea": {
+            "count": 1,
+            "order": 91
+        },
+        "apnea adtll": {
+            "count": 1,
+            "order": 92
+        },
+        "adtll": {
+            "count": 1,
+            "order": 93
+        },
+        "adtll pediatric": {
+            "count": 1,
+            "order": 94
+        },
+        "pediatric": {
+            "count": 1,
+            "order": 95
+        },
+        "pediatric equipment": {
+            "count": 1,
+            "order": 96
+        },
+        "equipment": {
+            "count": 1,
+            "order": 97
+        },
+        "equipment services": {
+            "count": 1,
+            "order": 98
+        },
+        "services": {
+            "count": 1,
+            "order": 99
+        },
+        "services qty": {
+            "count": 1,
+            "order": 100
+        },
+        "qty": {
+            "count": 1,
+            "order": 101
+        },
+        "qty prac": {
+            "count": 1,
+            "order": 102
+        },
+        "prac": {
+            "count": 1,
+            "order": 103
+        },
+        "prac cede": {
+            "count": 1,
+            "order": 104
+        },
+        "cede": {
+            "count": 1,
+            "order": 105
+        },
+        "cede them": {
+            "count": 1,
+            "order": 106
+        },
+        "them name": {
+            "count": 1,
+            "order": 107
+        },
+        "name": {
+            "count": 1,
+            "order": 108
+        },
+        "name narratives": {
+            "count": 1,
+            "order": 109
+        },
+        "narratives": {
+            "count": 1,
+            "order": 110
+        },
+        "narratives l": {
+            "count": 1,
+            "order": 111
+        },
+        "l es": {
+            "count": 1,
+            "order": 112
+        },
+        "es humidifier": {
+            "count": 1,
+            "order": 113
+        },
+        "humidifier": {
+            "count": 1,
+            "order": 114
+        },
+        "humidifier heated": {
+            "count": 1,
+            "order": 115
+        },
+        "heated": {
+            "count": 1,
+            "order": 116
+        },
+        "heated used": {
+            "count": 1,
+            "order": 117
+        },
+        "used": {
+            "count": 1,
+            "order": 118
+        },
+        "used w": {
+            "count": 1,
+            "order": 119
+        },
+        "w pap": {
+            "count": 1,
+            "order": 120
+        },
+        "pap": {
+            "count": 2,
+            "order": 121
+        },
+        "pap at": {
+            "count": 1,
+            "order": 122
+        },
+        "at night": {
+            "count": 2,
+            "order": 123
+        },
+        "night": {
+            "count": 2,
+            "order": 124
+        },
+        "night ft": {
+            "count": 1,
+            "order": 125
+        },
+        "ft a": {
+            "count": 1,
+            "order": 126
+        },
+        "a pos": {
+            "count": 1,
+            "order": 127
+        },
+        "pos": {
+            "count": 1,
+            "order": 128
+        },
+        "pos airway": {
+            "count": 1,
+            "order": 129
+        },
+        "airway": {
+            "count": 1,
+            "order": 130
+        },
+        "airway press": {
+            "count": 1,
+            "order": 131
+        },
+        "press": {
+            "count": 1,
+            "order": 132
+        },
+        "press headgear": {
+            "count": 1,
+            "order": 133
+        },
+        "headgear": {
+            "count": 1,
+            "order": 134
+        },
+        "headgear included": {
+            "count": 1,
+            "order": 135
+        },
+        "included": {
+            "count": 2,
+            "order": 136
+        },
+        "included per": {
+            "count": 2,
+            "order": 137
+        },
+        "per": {
+            "count": 6,
+            "order": 138
+        },
+        "per months": {
+            "count": 4,
+            "order": 139
+        },
+        "months i": {
+            "count": 2,
+            "order": 141
+        },
+        "i a": {
+            "count": 1,
+            "order": 142
+        },
+        "a ahc": {
+            "count": 1,
+            "order": 143
+        },
+        "ahc": {
+            "count": 1,
+            "order": 144
+        },
+        "ahc pap": {
+            "count": 1,
+            "order": 145
+        },
+        "pap slimline": {
+            "count": 1,
+            "order": 147
+        },
+        "slimline": {
+            "count": 1,
+            "order": 148
+        },
+        "slimline tubing": {
+            "count": 1,
+            "order": 149
+        },
+        "tubing": {
+            "count": 1,
+            "order": 150
+        },
+        "tubing per": {
+            "count": 1,
+            "order": 151
+        },
+        "months l": {
+            "count": 1,
+            "order": 155
+        },
+        "l eoeot": {
+            "count": 1,
+            "order": 156
+        },
+        "eoeot": {
+            "count": 1,
+            "order": 157
+        },
+        "eoeot resmed": {
+            "count": 1,
+            "order": 158
+        },
+        "resmed": {
+            "count": 1,
+            "order": 159
+        },
+        "resmed cpap": {
+            "count": 1,
+            "order": 160
+        },
+        "cpap": {
+            "count": 1,
+            "order": 161
+        },
+        "cpap airsense": {
+            "count": 1,
+            "order": 162
+        },
+        "airsense": {
+            "count": 1,
+            "order": 163
+        },
+        "airsense autoset": {
+            "count": 1,
+            "order": 164
+        },
+        "autoset": {
+            "count": 1,
+            "order": 165
+        },
+        "autoset at": {
+            "count": 1,
+            "order": 166
+        },
+        "night a": {
+            "count": 1,
+            "order": 169
+        },
+        "a alri": {
+            "count": 1,
+            "order": 170
+        },
+        "alri": {
+            "count": 1,
+            "order": 171
+        },
+        "alri filter": {
+            "count": 1,
+            "order": 172
+        },
+        "filter": {
+            "count": 1,
+            "order": 173
+        },
+        "filter standard": {
+            "count": 1,
+            "order": 174
+        },
+        "standard pack": {
+            "count": 1,
+            "order": 176
+        },
+        "pack": {
+            "count": 1,
+            "order": 177
+        },
+        "pack per": {
+            "count": 1,
+            "order": 178
+        },
+        "per month": {
+            "count": 2,
+            "order": 180
+        },
+        "month": {
+            "count": 2,
+            "order": 181
+        },
+        "month i": {
+            "count": 1,
+            "order": 182
+        },
+        "i arc": {
+            "count": 1,
+            "order": 183
+        },
+        "arc": {
+            "count": 1,
+            "order": 184
+        },
+        "arc only": {
+            "count": 1,
+            "order": 185
+        },
+        "only fisher": {
+            "count": 1,
+            "order": 186
+        },
+        "fisher": {
+            "count": 1,
+            "order": 187
+        },
+        "fisher and": {
+            "count": 1,
+            "order": 188
+        },
+        "and paykel": {
+            "count": 1,
+            "order": 189
+        },
+        "paykel": {
+            "count": 1,
+            "order": 190
+        },
+        "paykel vitera": {
+            "count": 1,
+            "order": 191
+        },
+        "vitera": {
+            "count": 1,
+            "order": 192
+        },
+        "vitera ff": {
+            "count": 1,
+            "order": 193
+        },
+        "ff fitpack": {
+            "count": 1,
+            "order": 194
+        },
+        "fitpack": {
+            "count": 1,
+            "order": 195
+        },
+        "fitpack per": {
+            "count": 1,
+            "order": 196
+        },
+        "i ao": {
+            "count": 1,
+            "order": 201
+        },
+        "ao pull": {
+            "count": 1,
+            "order": 202
+        },
+        "pull": {
+            "count": 1,
+            "order": 203
+        },
+        "pull face": {
+            "count": 1,
+            "order": 204
+        },
+        "face": {
+            "count": 1,
+            "order": 205
+        },
+        "face nasal": {
+            "count": 1,
+            "order": 206
+        },
+        "nasal": {
+            "count": 2,
+            "order": 207
+        },
+        "nasal pillow": {
+            "count": 1,
+            "order": 208
+        },
+        "pillow": {
+            "count": 1,
+            "order": 209
+        },
+        "pillow or": {
+            "count": 1,
+            "order": 210
+        },
+        "or nasal": {
+            "count": 1,
+            "order": 211
+        },
+        "nasal cushion": {
+            "count": 1,
+            "order": 213
+        },
+        "cushion": {
+            "count": 1,
+            "order": 214
+        },
+        "cushion included": {
+            "count": 1,
+            "order": 215
+        },
+        "month ayoag": {
+            "count": 1,
+            "order": 221
+        },
+        "ayoag": {
+            "count": 1,
+            "order": 222
+        },
+        "ayoag water": {
+            "count": 1,
+            "order": 223
+        },
+        "water": {
+            "count": 1,
+            "order": 224
+        },
+        "water chamber": {
+            "count": 1,
+            "order": 225
+        },
+        "chamber": {
+            "count": 1,
+            "order": 226
+        },
+        "chamber per": {
+            "count": 1,
+            "order": 227
+        },
+        "months cnot": {
+            "count": 1,
+            "order": 231
+        },
+        "cnot": {
+            "count": 1,
+            "order": 232
+        },
+        "cnot signature": {
+            "count": 1,
+            "order": 233
+        },
+        "signature": {
+            "count": 1,
+            "order": 234
+        },
+        "signature date": {
+            "count": 1,
+            "order": 235
+        },
+        "date veit": {
+            "count": 1,
+            "order": 237
+        },
+        "veit": {
+            "count": 1,
+            "order": 238
+        }
+    },
+    "order_4": {
+        "munson": {
+            "count": 1,
+            "order": 0
+        },
+        "munson healthcare": {
+            "count": 1,
+            "order": 1
+        },
+        "healthcare": {
+            "count": 1,
+            "order": 2
+        },
+        "healthcare rrd": {
+            "count": 1,
+            "order": 3
+        },
+        "rrd": {
+            "count": 1,
+            "order": 4
+        },
+        "rrd po": {
+            "count": 1,
+            "order": 5
+        },
+        "po megp": {
+            "count": 1,
+            "order": 6
+        },
+        "megp": {
+            "count": 1,
+            "order": 7
+        },
+        "megp gloc": {
+            "count": 1,
+            "order": 8
+        },
+        "gloc": {
+            "count": 1,
+            "order": 9
+        },
+        "gloc a": {
+            "count": 1,
+            "order": 10
+        },
+        "a dha": {
+            "count": 1,
+            "order": 11
+        },
+        "dha": {
+            "count": 1,
+            "order": 12
+        },
+        "dha tcs": {
+            "count": 1,
+            "order": 13
+        },
+        "tcs": {
+            "count": 1,
+            "order": 14
+        },
+        "tcs gtsg": {
+            "count": 1,
+            "order": 15
+        },
+        "gtsg": {
+            "count": 1,
+            "order": 16
+        },
+        "gtsg cbfc": {
+            "count": 1,
+            "order": 17
+        },
+        "cbfc": {
+            "count": 1,
+            "order": 18
+        },
+        "cbfc baui": {
+            "count": 1,
+            "order": 19
+        },
+        "baui": {
+            "count": 1,
+            "order": 20
+        },
+        "baui thv": {
+            "count": 1,
+            "order": 21
+        },
+        "thv": {
+            "count": 1,
+            "order": 22
+        },
+        "thv scb": {
+            "count": 1,
+            "order": 23
+        },
+        "scb": {
+            "count": 1,
+            "order": 24
+        },
+        "scb m": {
+            "count": 1,
+            "order": 25
+        },
+        "m in": {
+            "count": 1,
+            "order": 26
+        },
+        "in progress": {
+            "count": 1,
+            "order": 27
+        },
+        "progress": {
+            "count": 1,
+            "order": 28
+        },
+        "progress pg": {
+            "count": 1,
+            "order": 29
+        },
+        "pg pap": {
+            "count": 1,
+            "order": 30
+        },
+        "pap": {
+            "count": 1,
+            "order": 31
+        },
+        "pap and": {
+            "count": 1,
+            "order": 32
+        },
+        "and supplies": {
+            "count": 1,
+            "order": 33
+        },
+        "supplies": {
+            "count": 1,
+            "order": 34
+        },
+        "supplies provider": {
+            "count": 1,
+            "order": 35
+        },
+        "provider": {
+            "count": 1,
+            "order": 36
+        },
+        "provider mangon": {
+            "count": 1,
+            "order": 37
+        },
+        "mangon": {
+            "count": 1,
+            "order": 38
+        },
+        "mangon home": {
+            "count": 1,
+            "order": 39
+        },
+        "home": {
+            "count": 1,
+            "order": 40
+        },
+        "home services": {
+            "count": 1,
+            "order": 41
+        },
+        "services": {
+            "count": 2,
+            "order": 42
+        },
+        "services patient": {
+            "count": 1,
+            "order": 43
+        },
+        "patient": {
+            "count": 1,
+            "order": 44
+        },
+        "patient s": {
+            "count": 1,
+            "order": 45
+        },
+        "s w": {
+            "count": 1,
+            "order": 46
+        },
+        "w front": {
+            "count": 1,
+            "order": 47
+        },
+        "front": {
+            "count": 1,
+            "order": 48
+        },
+        "front street": {
+            "count": 1,
+            "order": 49
+        },
+        "street": {
+            "count": 1,
+            "order": 50
+        },
+        "street traverse": {
+            "count": 1,
+            "order": 51
+        },
+        "traverse": {
+            "count": 1,
+            "order": 52
+        },
+        "traverse city": {
+            "count": 1,
+            "order": 53
+        },
+        "city": {
+            "count": 1,
+            "order": 54
+        },
+        "city mi": {
+            "count": 1,
+            "order": 55
+        },
+        "mi phone": {
+            "count": 1,
+            "order": 56
+        },
+        "phone": {
+            "count": 1,
+            "order": 57
+        },
+        "phone initial": {
+            "count": 1,
+            "order": 58
+        },
+        "initial": {
+            "count": 1,
+            "order": 59
+        },
+        "initial date": {
+            "count": 1,
+            "order": 60
+        },
+        "date": {
+            "count": 2,
+            "order": 61
+        },
+        "date physician": {
+            "count": 1,
+            "order": 62
+        },
+        "physician": {
+            "count": 1,
+            "order": 63
+        },
+        "physician revised": {
+            "count": 1,
+            "order": 64
+        },
+        "revised": {
+            "count": 1,
+            "order": 65
+        },
+        "revised date": {
+            "count": 1,
+            "order": 66
+        },
+        "date recertification": {
+            "count": 1,
+            "order": 68
+        },
+        "recertification": {
+            "count": 1,
+            "order": 69
+        },
+        "recertification length": {
+            "count": 1,
+            "order": 70
+        },
+        "length": {
+            "count": 1,
+            "order": 71
+        },
+        "length of": {
+            "count": 1,
+            "order": 72
+        },
+        "of need": {
+            "count": 1,
+            "order": 73
+        },
+        "need": {
+            "count": 1,
+            "order": 74
+        },
+        "need in": {
+            "count": 1,
+            "order": 75
+        },
+        "in months": {
+            "count": 1,
+            "order": 76
+        },
+        "months": {
+            "count": 8,
+            "order": 77
+        },
+        "months policy": {
+            "count": 1,
+            "order": 78
+        },
+        "policy": {
+            "count": 1,
+            "order": 79
+        },
+        "policy sec": {
+            "count": 1,
+            "order": 80
+        },
+        "sec": {
+            "count": 1,
+            "order": 81
+        },
+        "sec laws": {
+            "count": 1,
+            "order": 82
+        },
+        "laws": {
+            "count": 1,
+            "order": 83
+        },
+        "laws diagnosis": {
+            "count": 1,
+            "order": 84
+        },
+        "diagnosis": {
+            "count": 1,
+            "order": 85
+        },
+        "diagnosis description": {
+            "count": 1,
+            "order": 86
+        },
+        "description": {
+            "count": 1,
+            "order": 87
+        },
+        "description oqustruclive": {
+            "count": 1,
+            "order": 88
+        },
+        "oqustruclive": {
+            "count": 1,
+            "order": 89
+        },
+        "oqustruclive sleep": {
+            "count": 1,
+            "order": 90
+        },
+        "sleep": {
+            "count": 2,
+            "order": 91
+        },
+        "sleep apnea": {
+            "count": 1,
+            "order": 92
+        },
+        "apnea": {
+            "count": 1,
+            "order": 93
+        },
+        "apnea adult": {
+            "count": 1,
+            "order": 94
+        },
+        "adult": {
+            "count": 1,
+            "order": 95
+        },
+        "adult pediatric": {
+            "count": 1,
+            "order": 96
+        },
+        "pediatric": {
+            "count": 1,
+            "order": 97
+        },
+        "pediatric equipment": {
+            "count": 1,
+            "order": 98
+        },
+        "equipment": {
+            "count": 1,
+            "order": 99
+        },
+        "equipment services": {
+            "count": 1,
+            "order": 100
+        },
+        "services qty": {
+            "count": 1,
+            "order": 102
+        },
+        "qty": {
+            "count": 1,
+            "order": 103
+        },
+        "qty proc": {
+            "count": 1,
+            "order": 104
+        },
+        "proc": {
+            "count": 1,
+            "order": 105
+        },
+        "proc cade": {
+            "count": 1,
+            "order": 106
+        },
+        "cade": {
+            "count": 1,
+            "order": 107
+        },
+        "cade item": {
+            "count": 1,
+            "order": 108
+        },
+        "item": {
+            "count": 1,
+            "order": 109
+        },
+        "item namenarrative": {
+            "count": 1,
+            "order": 110
+        },
+        "namenarrative": {
+            "count": 1,
+            "order": 111
+        },
+        "namenarrative i": {
+            "count": 1,
+            "order": 112
+        },
+        "i a": {
+            "count": 2,
+            "order": 113
+        },
+        "a mask": {
+            "count": 1,
+            "order": 114
+        },
+        "mask": {
+            "count": 1,
+            "order": 115
+        },
+        "mask airfitn": {
+            "count": 1,
+            "order": 116
+        },
+        "airfitn": {
+            "count": 1,
+            "order": 117
+        },
+        "airfitn large": {
+            "count": 1,
+            "order": 118
+        },
+        "large": {
+            "count": 1,
+            "order": 119
+        },
+        "large apore": {
+            "count": 1,
+            "order": 120
+        },
+        "apore": {
+            "count": 1,
+            "order": 121
+        },
+        "apore cushion": {
+            "count": 1,
+            "order": 122
+        },
+        "cushion": {
+            "count": 1,
+            "order": 123
+        },
+        "cushion i": {
+            "count": 1,
+            "order": 124
+        },
+        "a heacigear": {
+            "count": 1,
+            "order": 126
+        },
+        "heacigear": {
+            "count": 1,
+            "order": 127
+        },
+        "heacigear ao": {
+            "count": 1,
+            "order": 128
+        },
+        "ao chinatiap": {
+            "count": 1,
+            "order": 129
+        },
+        "chinatiap": {
+            "count": 1,
+            "order": 130
+        },
+        "chinatiap apo": {
+            "count": 1,
+            "order": 131
+        },
+        "apo": {
+            "count": 1,
+            "order": 132
+        },
+        "apo disposable": {
+            "count": 1,
+            "order": 133
+        },
+        "disposable": {
+            "count": 1,
+            "order": 134
+        },
+        "disposable filter": {
+            "count": 1,
+            "order": 135
+        },
+        "filter": {
+            "count": 1,
+            "order": 136
+        },
+        "filter a": {
+            "count": 1,
+            "order": 137
+        },
+        "a tubing": {
+            "count": 1,
+            "order": 138
+        },
+        "tubing": {
+            "count": 1,
+            "order": 139
+        },
+        "tubing apoag": {
+            "count": 1,
+            "order": 140
+        },
+        "apoag": {
+            "count": 1,
+            "order": 141
+        },
+        "apoag chamber": {
+            "count": 1,
+            "order": 142
+        },
+        "chamber": {
+            "count": 1,
+            "order": 143
+        },
+        "chamber additional": {
+            "count": 1,
+            "order": 144
+        },
+        "additional": {
+            "count": 1,
+            "order": 145
+        },
+        "additional medical": {
+            "count": 1,
+            "order": 146
+        },
+        "medical": {
+            "count": 1,
+            "order": 147
+        },
+        "medical information": {
+            "count": 1,
+            "order": 148
+        },
+        "information": {
+            "count": 1,
+            "order": 149
+        },
+        "information informational": {
+            "count": 1,
+            "order": 150
+        },
+        "informational": {
+            "count": 1,
+            "order": 151
+        },
+        "informational onlvgty": {
+            "count": 1,
+            "order": 152
+        },
+        "onlvgty": {
+            "count": 1,
+            "order": 153
+        },
+        "onlvgty limits": {
+            "count": 1,
+            "order": 154
+        },
+        "limits": {
+            "count": 1,
+            "order": 155
+        },
+        "limits a": {
+            "count": 1,
+            "order": 156
+        },
+        "a months": {
+            "count": 3,
+            "order": 157
+        },
+        "months ao": {
+            "count": 1,
+            "order": 159
+        },
+        "ao month": {
+            "count": 1,
+            "order": 160
+        },
+        "month": {
+            "count": 3,
+            "order": 161
+        },
+        "month a": {
+            "count": 1,
+            "order": 162
+        },
+        "a pairmonth": {
+            "count": 2,
+            "order": 163
+        },
+        "pairmonth": {
+            "count": 2,
+            "order": 164
+        },
+        "pairmonth a": {
+            "count": 2,
+            "order": 165
+        },
+        "months a": {
+            "count": 2,
+            "order": 171
+        },
+        "a month": {
+            "count": 1,
+            "order": 175
+        },
+        "month months": {
+            "count": 2,
+            "order": 177
+        },
+        "months month": {
+            "count": 1,
+            "order": 179
+        },
+        "months months": {
+            "count": 2,
+            "order": 183
+        },
+        "months i": {
+            "count": 1,
+            "order": 187
+        },
+        "i i": {
+            "count": 1,
+            "order": 188
+        },
+        "i un": {
+            "count": 1,
+            "order": 189
+        },
+        "un ligtolbhgs": {
+            "count": 1,
+            "order": 190
+        },
+        "ligtolbhgs": {
+            "count": 1,
+            "order": 191
+        },
+        "ligtolbhgs sleep": {
+            "count": 1,
+            "order": 192
+        },
+        "sleep disorders": {
+            "count": 1,
+            "order": 194
+        },
+        "disorders": {
+            "count": 1,
+            "order": 195
+        },
+        "disorders tc": {
+            "count": 1,
+            "order": 196
+        },
+        "tc page": {
+            "count": 1,
+            "order": 197
+        },
+        "page": {
+            "count": 1,
+            "order": 198
+        },
+        "page of": {
+            "count": 1,
+            "order": 199
+        }
+    }
+}

@@ -1,0 +1,65 @@
+dme rx
+munson traverse city sleep disorders center
+
+* 550 munson ave patient
+(231) 935-9307 fax: (231) 935-9300 sticker
+patient name- date of arn
+home phone
+
+dme company: e
+
+new pap device w/60d download © pressure change o if done in office, please indicate o mask change
+o download in __ bays o-continne current pressure o continue current mask o continue current maskand pressure
+diagnosis (icd-10): @ osa g47.33 o csa (g47.31) o tx emerg csa (g47.37) o copd 144.9 © other: |
+
+duration of need: 12 months or o other:
+
+cpap (e0601) pressure: / y c-flex/epr setting:
+o autopap (eq601) pressure range: c-flex/epr setting:
+o bipap s (e0470) ipap: epap: bi-flex setting:
+
+o auto bipap (20470) min epap max [pap ps
+
+for bipap (e0470); o tried cpap and failed highest cpap tried
+
+[e) bipap st (e0471) ipap epap. back up rate
+
+for bipap w/ backup rate (e0471)__——s patient had__—'% central events (need > 50 % centrals)
+
+o asv (e0471) epap: maxps: min ps:
+
+o asv auto (e0471) min epap: max ipap: ss min ps: maxps:_
+
+for asv patient had central events (need > 50 % centrals)
+
+o iaps (e0471) pt. ht.____s target rate_—s target vol____/min epap minps maxps.
+
+o avaps (£0471) pt. ht___ target rate___ target vol vmin epap min epap max minps maxps
+
+y humidifier (£0562)
+
+o mask: itera size: m_type: fea o or best fit
+
+pap mask and supplies (length of need 12 months)
+
+y water chamber (a7046) 1/6 mo. o nasal cushion (a7032) 2/mo. o patient preference
+
+y heated tubing (a4604) 1/3 mo. y full face mask (a7030) 1/3 mo. o nasal pillows (a7033) 2/mol
+
+o non-heated tubing (a7037) 1/3 mo. y full face cushion (a7031) 1/1] mo. y head gear (a7035) 1/6 mo.
+y disposable filters (a7038) 2/lmo > o nasal mask (a7034) 1/3 mo. y chin strap (a7036) 1/6 mo.
+o oxygen ___lpm during sleep mode: o inline w/cpap/bipap o cannula
+
+comments:
+
+physician signature: date of signature/order:
+
+o jenny f. reid, np npi 1447555073 o lois neering, np npi 1215108584 o james g. milliken, md npi 1467459867
+
+o john p. kremarik, md npi 1932106531 o hillary loomis-king, md npi 1346404068
+
+revised!01/09/2023
+
+document: rx cpap mhme tc 03.02.2023 printed: 03-29-2023 01:55:46
+
+newn 4 afd

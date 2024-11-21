@@ -1,0 +1,156 @@
+mar/27/2023/mon 03:01 pm fax no, pol!
+
+musc
+
+medical university
+of south carolina
+
+sleep study report
+
+first name: last name: id:
+
+birth date: age: gender:
+bmi: 26.5 (w=185 ib, h=5' 10")
+se
+study date: 03/14/23 s/h/a version: §.3.81.5/42.14112/ 81
+first name: last name: hospital/outside entity
+
+severe obstructive sleep apnea
+
+1, treatment options for patients with obstructive sleep apnea include positive airway pressure which remains the gold
+standard for treatment of osa, further options may include: a mandibular advancing device, surgical interventions
+including a hypoglosgal nerve stimulator implant and weight logs in combination with the above treatment strategies.
+2. general recommendations for patients with obstructive sleep apnea include: avoiding drowsy driving, avoiding
+occupational hazards, counseling patients on the impact of sedating medications, anesthesia and alcohol in patients
+with osa and maintaining a haaithy waight/avoiding waight gain. ganeral slaap tips include obtaining 7-9 hours of
+sleep in every 24-hour period for adults.
+
+report prepared by: electronically signed: 03/16/23
+
+signature:
+
+| certify that | have reviewed the raw data in accordance with aasm guidelines for acereditation
+
+03/14/23,5861539,09/03/46,male page 1 of 3 revaté printad on:03/16/23
+mar/27/2023/mon 03:02 pm fax no, p12
+
+a9 sleep study report a
+
+start study time: 10:20:56 pm
+end study time: 5:44:30 am
+7 hrs, 23 min
+
+mean: 93 minimum: 72 maxirnurn: 98
+mean of desaturations nadirs (%): 90
+
+total recording time:
+
+oxygen desatur. 4: 4-9 10-20 >20 =total
+
+total sleep time
+% rem of sleap time: 20,5
+
+6 hrs, 0 min
+
+evants number 147 26 4 174
+
+14.9
+
+total 64,5 0.6 100.0
+
+2 or gah ate a
+
+respiratory indioes 5
+total events
+
+oxygen saturation: =90 <=88 «b5 <80 =70
+
+prdi: 236
+pahi 4%: 206
+ode 174
+pahic 4% 6
+% gsr: 0.0
+
+indices are caleulatad using technically vaid sieap time of 5 hrs, 50 min.
+
+38.4
+32.0
+247
+0.9
+
+duration (minutes): 94 72 2.7
+sleep % 25 20 07
+
+lee
+
+mean: 53° minimum: 37 maximum: 102
+
+prd! is calculated using oxi desaturation 2 4%
+
+pat respiratory events
+
+ti
+
+exsluded
+
+sit
+prone
+lat
+right
+supine fe
+nia
+
+>
+
+saq? (m8)
+
+pulse rate (bpay
+
+wake / sleep stages
+
+wake
+rem
+l steep
+d sisep
+
+03/14/23,5861 539,03/03/468, male paga 2 af 3 revers printed on:03/16/23
+mar/27/2023/mon 03:03 pm fax no, p.013
+
+me sleep study report .
+
+sae
+
+position supine prone right left non-supine
+sleep (min) 308.6 0.0 5.0 47.0 52,0
+sleep % 85.6 0.0 14 13.0 14.4
+prd) 43.3 n/a n/a 16,7 23,7
+pahi 38.9 na nia 6.4 14.2
+odi 33.1 na n/a 6.4 106.8
+
+snoring leval (db) >40 760 >60 >70 80 >threshold (45) mean: 4308
+
+sleep (min) 126.4 37.5 2.5 0.0 0.0 68.9
+sleep % 35.1 10.4 0.7 0.0 0.0 19.1
+
+ee
+
+sleep/wake states slaap stages
+
+hrem 20.52%
+
+sky 8.25% light 70.06%
+tota 10.00% deep 9.43%
+total: 100.00%
+sleep latency (min): 28
+rem latensy (min): 45
+number of wakes: ane
+
+pari=35 _3
+
+{
+fs] 15 30
+
+* reference values are given by physician
+
+nit it i
+03/14/23,5361539,03/03/46, male page 3 of 3 revat4 printed on:03/16/23
