@@ -23,8 +23,7 @@ if __name__ == "__main__":
             file_path = os.path.join(r, file)
 
             overarch = r.split("docs/")[1]
-            if overarch != "prescriptions":
-                continue
+
             correct_path_pdf = file
             correct_path_text = file.replace('.pdf', '.txt')
 
