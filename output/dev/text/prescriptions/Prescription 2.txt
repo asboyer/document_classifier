@@ -1,0 +1,54 @@
+hcmg pulmonary date: apr 27, 2023
+4725 n federal hwy, ste 203
+
+fort lauderdale fl 33308-4603
+
+phone: 954-491-8981
+
+fax: 954-489-0655
+
+cpap dme (order id: 701783674)
+
+order date: 4/27/2023
+
+diagnosis: obstructive sleep apnea, adult (g47.33)
+quantity: 1
+
+height:
+
+weight:
+
+scheduling instructions: if the ahi or rdi is calculated based on less than 2 hours of sleep or recording time, the
+total number of recorded events used to calculate the ahi or rd! must be at least the number of events that would
+have been required in a 2 hour period.
+
+the face-to-face evaluation was completed by:
+
+reason(s) for script: new prescription (and all related supplies)
+
+additional providers who completed a face to face evaluation of the patient: sorhage, frank [50595]
+changes only: (auto unit l=5/h=20)
+
+tubing: (a7037) reusable tubing (1/3mo)
+
+tubing: (a4604) heated tubing (1/3mo)
+
+type of interface and accessories: (a7038) disposable filter (2/1mo) (mask fit to patients comfort)
+type of interface and accessories: (a7039) reusable filter (1/6mo)
+
+type of interface and accessories: (a4604) heated tubing (1/3mo)
+
+type of interface and accessories: (a7046) humidifier chamber (1/6mo)
+
+length of need 12 months: (99)
+
+the ahi is from 5 to 14 events per hour with documented symptoms of: (osa g47.33)
+
+insurance payor plan group# subscrib
+erid
+
+primary: medicare 40000101
+secondary: aarp 10000701
+
+electronically signed by
+on apr 27, 2023, at 5:18

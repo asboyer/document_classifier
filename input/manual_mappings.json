@@ -1,5 +1,6 @@
 {
     "compliance_reports": {
+        "description": "Compliance reports are used to report on this",
         "manual_keywords": [
             "compliance report",
             "usage",

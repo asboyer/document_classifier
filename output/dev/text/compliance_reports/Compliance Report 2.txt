@@ -1,0 +1,175 @@
+resmed
+
+airview"
+
+fort lauderdale
+
+6600 nw 12th ave ste 217
+fort lauderdale
+
+florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+compliance report
+
+initial compliance period
+
+05/04/2023 - 06/02/202
+
+compliance met yes
+compliance percentage 93%
+payor medicare
+
+05/04/2023 - 06/02/202
+
+usage
+
+usage days 29/30 days (97%)
+>= 4 hours 28 days (93%)
+< 4 hours 1 days (3%)
+
+usage hours 210 hours 21 minutes
+
+average usage (total days) 7 hours 1 minutes
+average usage (days used) 7 hours 15 minutes
+median usage (days used) 7 hours 21 minutes
+
+total used hours (value since last reset - 06/02/2023) 213 hours
+
+airsense 11 autoset
+
+serial number 23223608894
+mode autoset
+min pressure 5 cmh20
+max pressure 20 cmh20
+epr ramp only
+epr level 3
+
+response standard
+
+therapy
+
+pressure - cmh20 median: 8.9 95th percentile: 13.3 maximum: 15.5
+leaks - l/min median: 13.8 95th percentile: 42.6 maximum: 75.4
+events per hour al: 1.7 hi: 0.4 ahi: = 2.1
+apnea index central: 0.0 obstructive: 1.5 unknown: 0.1
+rera index 0.2
+
+cheyne-stokes respiration (average duration per night) 0 minutes (0%)
+
+usage - hours
+fort lauderdale
+6600 nw 12th ave ste 217
+fort lauderdale
+
+resmed florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+airview"
+therapy report
+
+airsense 11 autoset 23223608894
+usage (hours)
+usage days 29/30 (97%)
+>= 4 hour days 28 (93%)
+days not used 1 (3%)
+days no data 0 (0%)
+used/day (avg.) 7.3 hrs.
+leak (l/min)
+set threshold 24.0 min
+maximum (avg) 75.4
+median (avg) 13.8
+pressure (cmh20)
+mode autoset
+set epr ramp only]
+3.0
+set max pressure 20.0
+set min pressure 5.0
+maximum (avg) 15.5)
+95th % (avg) 13.3
+median (avg) 8.9
+
+ahi (events/hour)
+
+ah 21
+a
+
+al | | 1.7
+
+cai 0.0
+
+oai 1.5
+
+uai 0.1
+
+rera 0.2
+
+csr% (avg) 0.1
+fort lauderdale
+6600 nw 12th ave ste 217
+fort lauderdale
+
+resmed florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+airview"
+therapy report
+
+airsense 11 autoset 23223608894
+
+tidal volume!)
+
+maximum (avg) 637
+95th % (avg) 334|
+median (avg) 226)
+respiratory ratabreaths/min)
+maximum (avg) 37
+95th % (avg) 29
+median (avg) 24
+minute ventilationlmin)
+maximum (avg) 13.7
+95th % (avg) 8.0
+
+median (avg) 5.5
+resmed
+
+airview"
+
+fort lauderdale
+
+6600 nw 12th ave ste 217
+fort lauderdale
+
+florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+therapy report
+
+airsense 11 autoset 23223608894
+
+care check-in
+
+no available data because the user declined to answer the therapy questions, this feature was
+turned off on the user’s machine or the user did not consent to share their data with myair.
+
+about care check-in
+
+short patient surveys are conducted on the airsense 11 and myair app to better understand how
+the patient is doing with therapy. if the patient consents, we can share care check-in information
+through airview for clinical users.
+
+questions and answers
+at the beginning of therapy, the patient is asked a baseline question. a few additional questions are
+asked, about once per week, during the early stages of therapy. for example:
+
+how sleepy did you feel this week? extremely, very, moderately, slightly, not at all.
+how is your therapy? great, ok, challenging.
+what bothers you most? getting used to therapy, fitting the mask, using the machine.

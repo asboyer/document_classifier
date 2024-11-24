@@ -1,0 +1,8 @@
+{
+    "document_name": [
+        "Compliance Report 1.pdf"
+    ],
+    "classification": "compliance_reports",
+    "%_match": "95",
+    "reasoning": "The document is formatted as a compliance report, containing metrics such as usage days, hours, average usage, median usage, and leak data.  It also includes details about the CPAP machine (airsense 11 autoset), serial number, mode, pressure settings, and event indices (AHI, apnea index, RERA index).  The presence of a \"therapy report\" section further solidifies its classification as a compliance report.  The style and content closely mirror the provided examples in the compliance_reports category.\n"
+}
