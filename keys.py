@@ -8,6 +8,7 @@ import json
 
 docs_path = "input/docs"
 text_path = "output/dev/text"
+image_path = "output/dev/images"
 unkown_path = "input/unknown"
 
 folders = [f for f in os.listdir(docs_path) if os.path.isdir(os.path.join(docs_path, f))]
@@ -15,10 +16,26 @@ folders = [f for f in os.listdir(docs_path) if os.path.isdir(os.path.join(docs_p
 def extract_text(pdf_path):
     """Extracts text from a PDF file using OCR."""
     text = ''
+
     try:
         # Convert PDF pages to images
         images = convert_from_path(pdf_path)
         for i, image in enumerate(images):
+            if not os.path.exists("output/dev"):
+                os.makedirs("output/dev")
+            if not os.path.exists(image_path):
+                os.makedirs(image_path)
+            internal_path = pdf_path.split("/")[2]
+            if unkown_path in pdf_path:
+                internal_path = "unknown"
+                if not os.path.exists(os.path.join(image_path, "unknown")):
+                    os.makedirs(os.path.join(image_path, "unknown"))
+                image.save(os.path.join(image_path, internal_path, f"unknown_{i}.png"), "PNG")
+            else:
+                internal_path = pdf_path.split("/")[2]
+                if not os.path.exists(os.path.join(image_path, pdf_path.split("/")[2])):
+                    os.makedirs(os.path.join(image_path, pdf_path.split("/")[2]))
+                image.save(os.path.join(image_path, internal_path, f"{os.path.splitext(os.path.basename(pdf_path))[0]}_{i}.png"), "PNG")
             # Perform OCR on each image
             page_text = pytesseract.image_to_string(image)
             if page_text:
@@ -166,3 +183,6 @@ def calculate_average_keywords(data):
     sorted_keywords = dict(sorted(average_keywords.items(), key=lambda item: item[1]['hit_rate'], reverse=True))
 
     return sorted_keywords
+
+if __name__ == "__main__":
+    extract_all_text()

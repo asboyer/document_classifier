@@ -1,0 +1,4486 @@
+
+    Your job is to classify documents. You have been given a document that you need to classify.
+    You have been given the text from that document, as well as one or more images of that document.
+    You have also been given categories of documents that have already been classified.
+
+    The document is one of the following categories: sleep_study_reports, compliance_reports, phys_notes, delivery_tickets, orders, prescriptions.
+
+    I am now going to give you all the known information about the documents in each category.
+    Each category will be seperated by a line of stars, like this: "*****************".
+    Each document will first have the title of the document, followed by the text from that document.
+    Each document will be separated by a line of dashes, like this: "-----------------".
+    
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the sleep_study_reports category:
+Sleep Study Report 2_2.png
+Sleep Study Report 2_1.png
+Sleep Study Report 2_0.png
+Sleep Study Report 4_2.png
+Sleep Study Report 4_3.png
+Sleep Study Report 4_1.png
+Sleep Study Report 4_0.png
+Sleep Study Report 3_1.png
+Sleep Study Report 1_2.png
+Sleep Study Report 3_0.png
+Sleep Study Report 3_2.png
+Sleep Study Report 1_0.png
+Sleep Study Report 1_1.png
+        This is the text from all known documents in the sleep_study_reports category:
+        Sleep Study Report 1.txt
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 027 of 030
+
+polysomnography report
+
+patient demographics:
+patient name: |
+| ficst name:
+
+i
+diagnostic psg
+
+9.48: 48 pm
+[pir bate et stopped taz
+feighte peg bs
+bmi: 44.01 fm arthn | - ca
+referring provider: lmarien perez interpreting physician:
+
+testing type & methods
+
+type of test: diagnostic psg
+
+method: polysomnography was conducted on the night of 6/22/2023. the following parameters were monitored:
+frontal, central and occipital eeg, electroculogram {eog}, submentalis emg, nasal and oral airflow, anterior tibialis
+emg, body position and electrocardiogram. additionally, thoracic and abdominal movements were recorded by
+inductance plethysmography, oxygen saturation (¢p02) was monitored using a pulse oximeter, the tracing was
+scored using 30 second epochs. hypopneas were scored per aasm definition.
+
+a central apnea was defined as a cessation of oral and nasal airflow with simultaneous cessations of respiratory
+movements for at least 10 seconds (2 respiratory cycles in children),
+
+an obstructive apnea was defined as a cessation of airflow for at least 10 seconds (2 respiratory cycles in children)
+in the presence of continuous respiratory movements.
+
+hypopneas were scored per aasm definition.
+
+brief clinical history
+this patient is a 44 year old male who underwent a diagnostic polysomnogram in an effort to determine the etiology of
+the patient's complaints of excessive daytime somnolence, loud snoring and frequent arousals from sleep.
+
+sleep data:
+
+the study began at 9:48:48 pm. the patient was monitored for a total of 449.5 minutes, out of which the patient slept
+for 346.5 minutes. sleep onset occurred at 11:09:47 pm for a sleep latency of 81.0 minutes. rem latency was 106.5
+minutes. wake after sleep onset (waso) was 22.0 minutes. the study ended at 5.18:25 am,
+
+a breakdown of sleep staging reveals the following: stage n1 4.5 minutes (1% of total sleep time), n2 229.0 minutes
+{66% of total sleep time), n3 35.0 minutes (10% of total sleep time), rem 78.0 minutes {23% of total sleep time.)
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 028 of 030
+
+caveat) test date: 6/22/2023 page 2
+
+respiratory data:
+during the study, there were a total of 2 apnea events for an apnea index of 0.3/hour. 113 hypopnea events occurred
+
+for a hypopnea index of 19.6/hour. 115 apnea and hypopnea events were observed during the analysis period as
+follows: 2 obstructive apneas, 0 central apneas, 0 mixed apneas, and 113 for an apnea/hypopnea index (ahi) of
+20/hour of sleep. cheyne stokes was not observed. during this time, 227 desaturations occurred during the study.
+desaturations were based cn 4% or greater drop from baseline. the lowest sao2 was 65% with an average of 92%,
+the minimum spoq2 value associated with a respiratory event was 65%.
+
+snoring was moderate and associated with frequent snore arousals,
+arousal statistics:
+a total of 116 arousals (20. 1/hour) were observed during the analysis period as follows: 115 respiratory arousals, 0
+
+leg movement arousals, 1 spontaneous arousals, and 0 snore arousals,
+
+plm statistics:
+there were 0 plms with 0 with related arousal
+
+tech comments:
+ess 13
+
+sleep architecture:
+
+preserved sleep architecture associated with considerable sleep fragmentation.
+
+arare ~~ en em oo
+rem co ee an pood. an 8 .
+
+stage2p- --- - -- : bee 7 blk f bo ee
+stage 3 le 7 coe bh a ee a ae loe
+
+staging
+
+3 4 § &
+12:48 bm 40 am 3:48 am 343 am 4:38 an
+
+a 2
+9:48 pa 40:48 pm tied pm
+
+py
+be
+3s
+
+heart rate
+ao oe
+ao 5
+
+2 3 a &
+41:48 pr 12:48 am $343 am 2:48 6m
+
+eee 4
+9:48 pm 10:48 pm
+
+44:48 pm 12:48 am 4348 am
+
+7/17/2023 10:20 am from: fax null to: 9548341807
+
+patient »» test date: 6/22/2023
+
+page: 029 of 030
+
+cr ee
+oa
+abb
+nde ee eee +
+ie 4 2 3 4 8 4 r
+10:48 pm 11:48 pa 42:48 am 148 am 2:48 am 2a8 am 4:48 am
+i ae ae me es a es ss ds ae a ae se a
+lm
+ww
+&
+ea
+wt
+arousal
++--+}
+2 8 &
+o4g om 10:48 pm 11:48 pm 1248 am 1:48 am 248 aw as am
+cs oz sr a mn a ds sd ss a
+bde eee
+a .
+upright de wf 4 - sf pans fff ef pnfenif 4 } . i pe oe oft
+eee 1 2 3 4 5 8
+9:48 pm 40:48 pm y48 pm 1248 am 1:48 am 248 am 348 am
+impressions:
+there is evidence of moderate obstructive sleep apnea/hypopnea syndrome (osa/hs).
+patient had an overall aht of 20/hour.
+
+sinus rhythm and no significant cardiac arrhythmias seen.
+patient presented with a plm index of 0.00
+
+sa kwnne
+
+patient had moderate snoring not associated with frequent snore arousals.
+
+preserved sleep architecture associated with considerable sleep fragmentation.
+
+1. return to the sleep laboratory for a repeat sleep study with cpap titration.
+2. begin a medically supervised program to achieve and maintain ideal body weight.
+
+3. sleep in a non-supine position.
+4, sleep hygiene should be followed nightly.
+
+general recommendations:
+1. avoid bedtime alcohol and sedatives.
+2. avoid operating heavy equipment when sleepy or tired.
+3. avoid driving while feeling drowsy,
+
+page 3
+
+--------------------------------------------------
+Sleep Study Report 3.txt
+mar/27/2023/mon 03:01 pm fax no, pol!
+
+musc
+
+medical university
+of south carolina
+
+sleep study report
+
+first name: last name: id:
+
+birth date: age: gender:
+bmi: 26.5 (w=185 ib, h=5' 10")
+se
+study date: 03/14/23 s/h/a version: §.3.81.5/42.14112/ 81
+first name: last name: hospital/outside entity
+
+severe obstructive sleep apnea
+
+1, treatment options for patients with obstructive sleep apnea include positive airway pressure which remains the gold
+standard for treatment of osa, further options may include: a mandibular advancing device, surgical interventions
+including a hypoglosgal nerve stimulator implant and weight logs in combination with the above treatment strategies.
+2. general recommendations for patients with obstructive sleep apnea include: avoiding drowsy driving, avoiding
+occupational hazards, counseling patients on the impact of sedating medications, anesthesia and alcohol in patients
+with osa and maintaining a haaithy waight/avoiding waight gain. ganeral slaap tips include obtaining 7-9 hours of
+sleep in every 24-hour period for adults.
+
+report prepared by: electronically signed: 03/16/23
+
+signature:
+
+| certify that | have reviewed the raw data in accordance with aasm guidelines for acereditation
+
+03/14/23,5861539,09/03/46,male page 1 of 3 revaté printad on:03/16/23
+mar/27/2023/mon 03:02 pm fax no, p12
+
+a9 sleep study report a
+
+start study time: 10:20:56 pm
+end study time: 5:44:30 am
+7 hrs, 23 min
+
+mean: 93 minimum: 72 maxirnurn: 98
+mean of desaturations nadirs (%): 90
+
+total recording time:
+
+oxygen desatur. 4: 4-9 10-20 >20 =total
+
+total sleep time
+% rem of sleap time: 20,5
+
+6 hrs, 0 min
+
+evants number 147 26 4 174
+
+14.9
+
+total 64,5 0.6 100.0
+
+2 or gah ate a
+
+respiratory indioes 5
+total events
+
+oxygen saturation: =90 <=88 «b5 <80 =70
+
+prdi: 236
+pahi 4%: 206
+ode 174
+pahic 4% 6
+% gsr: 0.0
+
+indices are caleulatad using technically vaid sieap time of 5 hrs, 50 min.
+
+38.4
+32.0
+247
+0.9
+
+duration (minutes): 94 72 2.7
+sleep % 25 20 07
+
+lee
+
+mean: 53° minimum: 37 maximum: 102
+
+prd! is calculated using oxi desaturation 2 4%
+
+pat respiratory events
+
+ti
+
+exsluded
+
+sit
+prone
+lat
+right
+supine fe
+nia
+
+>
+
+saq? (m8)
+
+pulse rate (bpay
+
+wake / sleep stages
+
+wake
+rem
+l steep
+d sisep
+
+03/14/23,5861 539,03/03/468, male paga 2 af 3 revers printed on:03/16/23
+mar/27/2023/mon 03:03 pm fax no, p.013
+
+me sleep study report .
+
+sae
+
+position supine prone right left non-supine
+sleep (min) 308.6 0.0 5.0 47.0 52,0
+sleep % 85.6 0.0 14 13.0 14.4
+prd) 43.3 n/a n/a 16,7 23,7
+pahi 38.9 na nia 6.4 14.2
+odi 33.1 na n/a 6.4 106.8
+
+snoring leval (db) >40 760 >60 >70 80 >threshold (45) mean: 4308
+
+sleep (min) 126.4 37.5 2.5 0.0 0.0 68.9
+sleep % 35.1 10.4 0.7 0.0 0.0 19.1
+
+ee
+
+sleep/wake states slaap stages
+
+hrem 20.52%
+
+sky 8.25% light 70.06%
+tota 10.00% deep 9.43%
+total: 100.00%
+sleep latency (min): 28
+rem latensy (min): 45
+number of wakes: ane
+
+pari=35 _3
+
+{
+fs] 15 30
+
+* reference values are given by physician
+
+nit it i
+03/14/23,5361539,03/03/46, male page 3 of 3 revat4 printed on:03/16/23
+
+--------------------------------------------------
+Sleep Study Report 2.txt
+64/66/23 18516347 413-313-5933 ~> trinity health vortex orders page 481
+
+em phone, 813-831-2727 / 888-710-2
+e blackstone fax: |
+
+medical services
+
+at home sleep study
+
+history: the patient has undergone diagnostic polysomnography to be evaluated for sleep apnea.
+
+procedure in detail: the patient underwent overnight home monitoring that included a continuous recording of
+airflow, respiratory effort, sleep time, heart rate and oximetry. apnea events were identified as a 10 or more second
+period of at least 80% reduced airflow, hypopneas events were identified as a 10 or more second period of at least
+30% reduced airflow and a4 or more % drop in oxygen saturation. obstructive apnea events show an effart to
+breathe; central events shaw no effort to breathe,
+
+study overview: the study was performed on 4/3/2023. the recording was started at 14:10 pm and ended at 7:17
+am for a total recording duration of 8 hours and 7 minutes. total sleep time was 2h 57 min.
+
+respiratory event summary: the patient had 4 apneas, there are 4 obstructive, 0 unclassified, 0 central and 0
+mixed apneas; and 57 hypopneas for a combined apnea-hypopnea index (ahi) of 20.7 respiratory events per hour.
+there were 1799 snoring events recorded.
+
+oxygenation: the patient's average oxygen saturation was 91, and the lowest saturation was 81%. there
+were 36.03 minutes (20.4%) below 90% saturation. there were 2,18 minutes (1.2%) below 85% saturation.
+
+pulse rate: the patient had a minimum heart rate of 46 beats/minute, a maximum heart rate of 77 beats/minute;
+and an average heart rate of 61 beats/minute,
+
+overall impression: moderate obstructive sleep apnea (g47.33).
+
+recommendation; the patient will benefit from treatment of obstructive sleep apnea. autopap/cpap/bipap
+therapy is generally the most effective form of therapy and {s suggested in this case, there are other therapeutic
+options including mandibular advancement devices, and surgical procedures, and these would have to be discussed
+in detail before their application.
+
+consider initiating treatment with automatic positive airway pressure (auto-pap) with heated humidification,
+
+pressure between 4 to 20 cmh20, and mask of the patient's choice. compliance card analysis for the compliance and
+adequacy of autopap/cpap treatment is warranted in 4-6 weeks.
+
+i. advise the patient to exercise caution while driving a motor vehicle at all times.
+64/86/23 18:11:18 813-313-5933 -> trinity health vortex orders page 482
+
+em phone. 813-831-2727 / 888-710
+blackstone fax: 813-313-5933
+
+medical services
+
+i)
+
+2. avoid evening sedatives, hypnotics and alcohol before going to bed.
+3. maintenance of ideal weight recommended.
+4, ifan overnight stay in the hospital is required, patient shauld use thelr apap/cpap machine.
+
+5, if patient ever requires surgery, patient should inform their anesthesiologist about their diagnosis of sleep
+apnea.
+
+6. alternatives ta pap therapy, which include: ent evaluation, mandibular advancement device in the event
+
+af pap nen-compliance/failure, weight loss, or airway enlargement procedures in cases of maxillofacial
+skeletal deformity, should be discussed with the patient,
+
+‘thank yau for allowing blackstone to be a partner in providing quality healthcare,
+ja/ad
+
+this document has been electronically signed
+
+april 6, 2023 10:06 am
+64/86/23 18:11:23 813-313-5933
+
+e blackstone”
+
+» medical services
+
+treating physician: frank sorilage md.
+
+patient data
+
+first name
+
+last name
+
+bor
+
+recording
+
+date 432028
+
+start wid em
+
+end ttam
+
+duranon 47 min
+normal range
+
+-> trinity health
+
+vortex orders
+
+page 883
+
+phone. 813-831-2727 / 888-710-2727
+
+fax: 813-313-5933
+
+height shvin
+weight 197 ibs
+bmi 26.76 kgm
+evaluation
+
+‘sua 1:10pm
+end tar am
+duration xu 8 rain
+
+analyais (tow ovaliation period; 8h mm total steop timer 2h $7 mm)
+
+indices
+alll 20.7
+ar 14
+apmea indes, 14
+val 0
+oal 1
+cul 0
+mal q
+
+hypopnas fndex
+
+udi oxygen desaturation index 18.6
+average sotnvation an
+lowest desafuration a
+lowest saturation by
+baseline saturation 84
+minirmun pulse do
+maximum putse pu
+average pulse a
+
+analvais status anafyzad automatically
+analysis parameters used (default)
+
+normal renult
+
+sh average breaths per minute
+breaths
+
+sb
+
+09%
+unolassitied apnea
+obstructive apawas
+centead apriens
+mixed apnews
+
+hypopneas
+
+snonng rvents
+
+sih no. of desaturatians
+94% or) saturation = io
+ba saturation = ks
+fu o = d¥"o saturation «80%.
+%o saturation» 89%
+
+40 bpm.
+
+9 bpm,
+bpm
+
+0
+2340
+4
+
+d(a%)
+4 (100%)
+0 (0%)
+00%)
+”
+
+1799
+
+55
+
+3603 (14%)
+218 (1.2%)
+(0%)
+
+24.7 (12.3%)
+
+--------------------------------------------------
+Sleep Study Report 4.txt
+splint inighit report mubissonsleep di sorderersenerrer
+
+name: studiydbiat e2/ 22/28/2023
+
+dob: gender: male medica lrrewdr
+
+heigjttt: 5°11'1" weight: 2220!tg lbs bmi: 3088 sleep sspeiciadis'
+
+physician): reisececdhoffnaand do scorimpt fechiogdeankaanes apsgt
+type off tesgpsaliigmght
+
+chief cgomiplain&n onring apapneamted
+
+medicatiosscinmanvon mild ithist|éistfish soily sihatva skiatiappit lh ly dcroondnethiaz iglescosaminesspinirs 18h mg,
+iprattoppionhrdonamide
+
+ultdibe i iy shiopanr sleep faosisix omraore
+hous vita sry icher tontersieshaenjaubdiarunt win sildleiny peranehenz wanaciamed:- ts sa, am csr doonma} oln) oc. m1,
+loc-m2, ohine bmgr ra lat thasasphessu ee tikenmishosnoressensorip (chest, abdtonten) pullseo oxi atetryodh adyitipositiiinsaoniagofolkaws
+the reenomenentiatinofitire aamrenicahcatieade n1\6! ef sléepicied tieata i (ape at yd yproprscinites )isifitheum ben é pofeap raraithhyqoeaeas
+with aat40aiecebatuiatipar hbaunfafistee)a me msqu@quicetnetenirea lhhyqnoene30-20%rerhatiotidn drooseniasaflowlfombteedst 01@csedends,
+assodidtedwith b02 086 %-ihash asdureatuctithor ofothiaten verb choomieradeh tfol lovedd> ybyxoxyy dasdesdtur aif attiteas#°4 the eevanthshiduidt not
+
+be sscoréds asntehiraheinrtisenpreseerig gr orcineseaseuimsubenama activity.
+
+full inightrr ecotate gina iéb( t4by-5 srinin.
+
+diagnostic s&xcttoow
+sleep stage ssuimmvrry:
+ligtttsootut: 10:1 17:00 pm latenoyiot6lesleep85.22mnin. totail steepritfiene: 12655nmin.
+ligitttso@n: 03000050" am latemoyiot@: r: 16200nmin. wake aéfte8.g.: o.: 72.00nmin.
+total recorded iminf@ &7.1b)2837 min. sleep efffierency: 44.56%
+stages minutes % tst normal *nonmalvaratseseabesbased7 6n- 7.5 h@ués hours
+n1 14.00 111% 2-5% of sleep in a youn adwitt witiotit sleep
+n2 89.55 70.88% 45-55 5% compstat
+n3 21.00 16.56% 13-223%
+r 2.0 1.6% 20-235%
+totall 1255 100
+respiratory summary: total ahit: 11 1
+event type numiberr index body prestitio minutes;
+obsinuttiya papaea - - ahi supine: - supime -
+mixeti/prea - - ahi left: 16.11 left 12655
+centra lapmeaa - - ahi rigftit: - righit -
+obsinuttiy etykypopnea 34 16.11 ahi prome: - prone -
+centralhypoprea - - % centralev: = -
+apneat+ +\ypopamea 34 16.11 oahi: 16.11
+ahi im r steep: 30.00
+arousal ssuwiwnvrarys:: count index periodic liunvebnvooxererntt ssn
+total mlumobeof 6farzalsal: 51 24.22 total #ob? buls 238
+respilaitorpidisturbasdemunsal 16 7.6 total#o0p pum mialsteep 238
+plm arousts 5 2.4 plms indlexinisisteep 11299
+sponttameousanoussa| 27 12.88
+reras 9 4.3
+oximetry summary:
+
+the idowetstte sttsactiuna tims :884%0%
+the nmaeaspspo2aswas.692. 6%
+minuttess spo2 8£9b824 {2 1b iov) of tib)
+
+pe peers
+
+leep sta 4
+
+titration section
+
+ligttts0otut 0300g050vam —_latemaytotdlesteep68.00minin. totail steeprifiene: 81.00ninin.
+ligittts0@n: 06:224:242m am latemoyiot: r: 38.55minin. wake aéfte$.g.: o.: 54.55 mmin.
+total recorded iminfé £t1b)203 99min. sleep efffierency: 39.77%
+stages minutes % tst normail norma lvahatses eabest sed? 6n- 7.5 bis hours
+nu 8.0 9.9% 2-5% of slegp in a young adultt wittout sleap
+n2 53.55 66.00% 45-55 5% compteritit
+n3 75 9.3% 13-23%
+r 12.00 14.88% 20-225%
+totail 81.00 100
+
+respiratory summary: total ahi: 59
+event type numiberr index body prestitio minutes;
+obstimuttiya papaea - - ahi supine: - supine -
+mixetprea - - ahi left: 10.55 left 40.00
+centra lapmeaa - - ahi rigftit: 15 righit 41.00
+obstnuctitiy ety ypopnea 8 5.9 ahi prome: - prone -
+centra lhypopreea - - % cesta iev: -
+apnea+ +\hiypopmea 8 5.9 oahi: 5.9
+
+ahi iim rr skeep: 5.0
+
+arousal ssuiwnwraryy: count index periodic lunvebnvoxereenttsslnimarry
+totail nlumobeof 6farzalsal: 15 1111 total #ob? bus 75
+respiraitor dibisharbas desnusal > = totail#obp pum miblsteep 75
+plm arousts 1 0.7 plms indiexinisisteep 55.66
+sponttameousaroussa| 14 10.44
+reras 2 15
+
+oximetry summary:
+
+the ldoweistte stsatiua tims :88690%
+the nmeaspspo2aswas094. 0%
+minuttess spo2 8£9b824 {2 1b dio) of tib)
+
+oxygen disbibiwtiorn :
+[ 100955| 95-900 | 90-385 | 85860 | 80785 | 75700 | 70865 | gsm | goss | 55580 |
+
+minuttes
+% of tlinte
+
+cardiac eaxernntss (f(a thigti@)hnt) :
+average ridindraipsieep: 74.77
+minimum ha ruding re egte ep: 60.00
+minimum ha rudiog mer arecord6fgi0
+highesthr durtiugsistgep: 97.00
+highesthr duriag erecarndingl0900
+
+y/n event type
+n bradiycaddia lowesitrataté’ 71
+n asysitte longestpausse -
+n sinus ta@ahnacdiadtiumigs! steep highzstraite - -
+n nammwc wophpl éxc thaciyicardia higihwes tratte + -
+n wide coomipiexchachyitardia higimestratte- -
+¥ atria lfifibttidtation lowesitrataté0 60
+y pacemeleer
+n otter
+
+page 2 2f df 4
+cumulative cpap suntuary:
+
+pap
+
+sleep | oa | ca ci ae ch awh total
+
+lev "| etm | 'm® events inde index evertsts ahi
+
+el x x x x x
+
+of | 75 xe] 20 | 00) se] eet. |. - fisz - 33 15.27] 2188 yt
+™* | 70 00 | 00 oo | om%!] - | - - j- -  -  - | - =f
+8* | 5500 0.0 | 0.0 0.0 | 00%] - | - - f-  -
+
+12 | 1700 7.0 | 00 70 | “2 p- fe: | 343 - 4 sas 171 =|
+7 an 1
+
+14* | 3800 37.00] 0.0 97.44
+
+*=crap
+note: bbitesrel 7 epatr ate asl phe ep/smiarb bm axps;
+
+cronological cpap ssidamuvrry :
+
+*=crap
+note: bbitesrell 7 epatb ot6\/ ashe ep/wmirerbe maxps;
+
+acquiring technologist ::jjoe_ban&prrsgt
+acquiring technologist summagry :ssheteegmno0ogis riepbrin par eininsleseve or orterpererise
+
+epworthssepisescale: 6
+pain aassessrevent: 0
+
+scoring tekh oss: joe laecrrpggt
+
+scoring technolo sswiimary this wwas split plithnigintystldyslepten sleptftam hig heftdaad sriginiasittelsd
+respiratoryy eventsrewetedng@prap wiastatartedd ahetetitratécnto4, gan2zoherbe ba nhdiwsettees mfadium viter
+he reepdetet athat ship si¢eplain the wabsawasnwonrse itedra dlsemlenthel ms ddimgubihtmee
+
+pe pees
+hyposagitam
+
+w.
+
+r
+ni
+nz.
+
+timeotiiday a) t is
+
+f t t t tt t
+hess) 2daltsos 230omns 23hsmsos o4amsos o1i3hsos o2i2msos of11n0s 0400m05 0449505 05.3bms05
+ceritabhpyenea
+
+mixeti ‘ppeea
+olstroutitive
+
+rms 's) ¥ 22120505 2300m505 2358505 on444505 o1:33h505 02222505 03:1210505 0400ms05 04499505 05:388s05
+olstroutitive
+er ee typopnea
+
+timreotbay i t t t t t t t t t
+(inrms) s) 2211505 2300m505 23:55h505 od:44m505 o06:33r505 ob22ms05 031200505 04:00m505 04499505 05:388505
+
+osat ee ee —~
+
+timeotibjay f t t t t t t t t t
+(hrs: s) 22q1itsos 2boogos 2bsshsos 0o:44ms 01g9mns 0202ms05 ob:11h505 o400mso5 04499505 05:39—505
+
+botty osittion
+
+se
+
+ghia) s) 22117505 2300@505 23:5551505 o0:444505 09:333i505 o2.222505
+02 (oesatstiation sut ott tt a te ee ot) et ae
+ine 22:122505 23000505 2355:9505 00:444505 01:338505 02222505 o3:110s05 04000505 04499505 05:388505
+respera _____. -. .l & a. _#. £._ _ _@
+arousal i a |
+
+time off:
+pastes ad 22:17705 23006505 2355505 oo44505 01733905 0222055 o3:110505 o400m505 04:44%n5 05:3305
+
+pulse atte
+
+03:1130505  04-009505
+
+ie
+
+042499505 05:388)505
+
+eee tt
+
+bpm i
+timeodiday te a at te: a t t t t at
+abinta)\5) 22:1inn5 2boiomsos 2bsshsios oo:444oms5 01:33hn5 o2:22mn5 ob:1110n5 04:00mn5 0449905 053805
+pressanetiteatian
+ao
+5.
+timecobbday i t t t t t t t t t
+(inns) s) 221imn5 zbmeomsos 2bsshsos oo:44405 01:33ns o2:22m5 ob:11i05 0400005 0449955 05:3b805
+limtbnitewerne nt ts
+timeeotiday
+(inns: s) 22120505 2300@505 2355505 0444505 09:332505 02222505 03:110505 04200505 04499505 05:388)505
+timeotdday ig t t te t t t 4 ig 3
+(innme)s) 22:1imds 2boomsios 2bsshsios oo:44moms 01:33hms 02:22mn5 ob:11i0n5 04:00mn5 04:44nn5 05:388505
+
+page 4f df 4
+
+
+--------------------------------------------------
+
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the compliance_reports category:
+Compliance Report 2_0.png
+Compliance Report 2_1.png
+Compliance Report 2_3.png
+Compliance Report 2_2.png
+Compliance Report 4_0.png
+Compliance Report 2_4.png
+Compliance Report 1_1.png
+Compliance Report 1_0.png
+Compliance Report 3_0.png
+Compliance Report 1_2.png
+Compliance Report 1_3.png
+Compliance Report 3_1.png
+        This is the text from all known documents in the compliance_reports category:
+        Compliance Report 4.txt
+0?
+
+resivied 06/08/2023 - 07/07/2023
+
+airview"
+
+compliance report
+
+initial compliance period 06/08/2028 - 07/07/2023
+compliance met yes
+compliance percentage 70%
+payor standard
+usage days 22/30 days (73%)
+>= 4 hours 21 days (70%)
+<4 hours 1 days (3%)
+“usage hours 149 hours 48 minutes
+average usage (total days) 5 hours 0 minutes
+average usage (days used) 6 hours 49 minutes
+median usage (days used) 6 hours 55 minutes
+total used hours (value since last reset - 07/07/2023) 276 hours:
+mirsanca autose
+serial number 23231350306
+mode cpap
+set pressure : 15 cemh20
+epr fulltime
+epr level 3
+erap
+leaks - l/min median: 34,5 95th percentile: 62.6 maximum: 72.7
+events per hour al: 4.0 hk: 21 ahi: 6.1
+apnea index central: 1.8 obstructive: 0.4 unknown: 1.7
+rera index 1.3
+cheyne-stokes respiration (average duration per night) 7 minutes (2%)
+
+usage - hours
+
+8 10 12 14 16 18 20 22 24 26 28 30 2. 4 6
+
+printed on 07/11/2023 - resmed airview version 4.41.0-9.0 page 1 of i
+
+--------------------------------------------------
+Compliance Report 2.txt
+resmed
+
+airview"
+
+fort lauderdale
+
+6600 nw 12th ave ste 217
+fort lauderdale
+
+florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+compliance report
+
+initial compliance period
+
+05/04/2023 - 06/02/202
+
+compliance met yes
+compliance percentage 93%
+payor medicare
+
+05/04/2023 - 06/02/202
+
+usage
+
+usage days 29/30 days (97%)
+>= 4 hours 28 days (93%)
+< 4 hours 1 days (3%)
+
+usage hours 210 hours 21 minutes
+
+average usage (total days) 7 hours 1 minutes
+average usage (days used) 7 hours 15 minutes
+median usage (days used) 7 hours 21 minutes
+
+total used hours (value since last reset - 06/02/2023) 213 hours
+
+airsense 11 autoset
+
+serial number 23223608894
+mode autoset
+min pressure 5 cmh20
+max pressure 20 cmh20
+epr ramp only
+epr level 3
+
+response standard
+
+therapy
+
+pressure - cmh20 median: 8.9 95th percentile: 13.3 maximum: 15.5
+leaks - l/min median: 13.8 95th percentile: 42.6 maximum: 75.4
+events per hour al: 1.7 hi: 0.4 ahi: = 2.1
+apnea index central: 0.0 obstructive: 1.5 unknown: 0.1
+rera index 0.2
+
+cheyne-stokes respiration (average duration per night) 0 minutes (0%)
+
+usage - hours
+fort lauderdale
+6600 nw 12th ave ste 217
+fort lauderdale
+
+resmed florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+airview"
+therapy report
+
+airsense 11 autoset 23223608894
+usage (hours)
+usage days 29/30 (97%)
+>= 4 hour days 28 (93%)
+days not used 1 (3%)
+days no data 0 (0%)
+used/day (avg.) 7.3 hrs.
+leak (l/min)
+set threshold 24.0 min
+maximum (avg) 75.4
+median (avg) 13.8
+pressure (cmh20)
+mode autoset
+set epr ramp only]
+3.0
+set max pressure 20.0
+set min pressure 5.0
+maximum (avg) 15.5)
+95th % (avg) 13.3
+median (avg) 8.9
+
+ahi (events/hour)
+
+ah 21
+a
+
+al | | 1.7
+
+cai 0.0
+
+oai 1.5
+
+uai 0.1
+
+rera 0.2
+
+csr% (avg) 0.1
+fort lauderdale
+6600 nw 12th ave ste 217
+fort lauderdale
+
+resmed florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+airview"
+therapy report
+
+airsense 11 autoset 23223608894
+
+tidal volume!)
+
+maximum (avg) 637
+95th % (avg) 334|
+median (avg) 226)
+respiratory ratabreaths/min)
+maximum (avg) 37
+95th % (avg) 29
+median (avg) 24
+minute ventilationlmin)
+maximum (avg) 13.7
+95th % (avg) 8.0
+
+median (avg) 5.5
+resmed
+
+airview"
+
+fort lauderdale
+
+6600 nw 12th ave ste 217
+fort lauderdale
+
+florida, 33309
+
+phone: 954-772-5052
+email: lsologuren@ahcequip.com
+
+therapy report
+
+airsense 11 autoset 23223608894
+
+care check-in
+
+no available data because the user declined to answer the therapy questions, this feature was
+turned off on the user’s machine or the user did not consent to share their data with myair.
+
+about care check-in
+
+short patient surveys are conducted on the airsense 11 and myair app to better understand how
+the patient is doing with therapy. if the patient consents, we can share care check-in information
+through airview for clinical users.
+
+questions and answers
+at the beginning of therapy, the patient is asked a baseline question. a few additional questions are
+asked, about once per week, during the early stages of therapy. for example:
+
+how sleepy did you feel this week? extremely, very, moderately, slightly, not at all.
+how is your therapy? great, ok, challenging.
+what bothers you most? getting used to therapy, fitting the mask, using the machine.
+
+--------------------------------------------------
+Compliance Report 3.txt
+oor’,
+e “.
+e *.
+ay °
+"eee®
+
+resmed
+
+airview"
+
+charleston
+
+2090 executive hall rd ste 100
+charleston
+
+south carolina, 29407
+
+phone: 843-554-4000
+fax: 843-769-6849
+email: t}@atlanticrespiratory.com
+
+compliance report
+
+payor standard
+usage days 207/212 days (98%)
+>= 4 hours 200 days (94%)
+< 4 hours 7 days (3%)
+usage hours 1,458 hours 37 minutes
+average usage (total days) 6 hours 53 minutes
+average usage (days used) 7 hours 3 minutes
+median usage (days used) 7 hours 9 minutes
+total used hours (value since last reset - 10/29/2023) 1,449 hours
+
+airsense 10 autoset
+
+serial number 23223420062
+mode autoset
+min pressure 5 cmh20
+max pressure 20 cmh20
+epr fulltime
+epr level 3
+response standard
+pressure - cmh20 median: 6.4 95th percentile: 9.6 maximum: 11.1
+leaks - l/min median: 7.5 95th percentile: 33.2 maximum: 54.8
+events per hour al: 1.3 hi: 0.8 ahi: = 2.1
+apnea index central: 0.5 obstructive: 0.6 unknown: 0.2
+rera index 0.1
+cheyne-stokes respiration (average duration per night) 1 minutes (0%)
+
+usage - hours
+
+printed on 10/30/2023 - resmed airview version 4.42.0-16.0 page 1 of 1
+charleston
+2090 executive hall rd ste 100
+charleston
+
+resmed = "7""""
+
+phone: 843-554-4000
+. . ™
+airview
+
+fax: 843-769-6849
+email: t}@atlanticrespiratory.com
+
+therapy report
+airs
+
+2322342006
+
+usage (hours)
+
+usage days 207/212
+>= 4 hour days 200 (9
+
+days not used 1 (0%)|
+days no data 4 (2%)
+used/day (avg.) 7.0 hrs.
+leak (l/min)
+set threshold 24.0 min
+maximum (avg) 54.8
+median (avg) 7.5
+pressure (cmh20)
+mode autoset
+set epr fulltime,
+3.0
+set max pressure 20.0)
+set min pressure 5.0
+maximum (avg) 11.1
+95th % (avg) 9.6
+median (avg) 6.4)
+
+ahi (events/hour)
+
+ah 21
+a
+al u 1.3
+cai 0.5
+oai 0.6
+uai 0.2
+rera 0.1
+csr% (avg) 0.3
+
+printed on 10/30/2023 - resmed airview version 4.42.0-16.0 page 1 of 1
+
+--------------------------------------------------
+Compliance Report 1.txt
+oor’,
+e “.
+e *.
+ay °
+"eee®
+
+resmed
+
+airview™ age: 45 years
+compliance report gender: male
+compliance met yes
+compliance percentage 100%
+payor medicare
+usage days 30/30 days (100%)
+
+>= 4 hours 30 days (100%)
+< 4 hours 0 days (0%)
+usage hours 323 hours 21 minutes
+average usage (total days) 10 hours 47 minutes
+average usage (days used) 10 hours 47 minutes
+median usage (days used) 11 hours 14 minutes
+total used hours (value since last reset - 08/17/2023) 931 hours
+
+airsense 11 autoset
+
+serial number 22231038074
+mode cpap
+set pressure 15 cmh20
+epr fulltime
+epr level 3
+leaks - l/min median: 120.0 95th percentile120.0 maximum:120.0
+events per hour al: 8.7 hi: 0.4 ahi: = 9.1
+apnea index central: 0.0 obstructive: 0.0 unknown: 8.6
+rera index 1.0
+cheyne-stokes respiration (average duration per night) 0 minutes (0%)
+
+usage - hours
+
+resmed
+
+airview"
+
+age: 45 years
+
+therapy report gender: male
+
+nse 11 autoset 22231038074
+
+usage (hours)
+usage days 30/30 (100%)
+>= 4 hour days 30 (100%)
+days not used 0 (0%)
+days no data 0 (0%)
+used/day (avg.) 10.8 hrs.
+
+leak ¢tmin)
+set threshold 24.0 min
+maximum (avg) 120.0
+median (avg) 120.0
+
+pressure (cmh20)
+mode cpap
+set epr fulltime,
+
+3.0
+
+set pressure 15.0
+
+ahi (events/hour)
+
+ah 9.1
+(=
+
+| 87
+
+cal 0.0
+
+oal 0.0
+
+uai 8.6
+
+rera 1.0
+
+csr% (avg) 0.0
+maximum (avg)
+95th % (avg)
+median (avg)
+
+maximum (avg)
+95th % (avg)
+median (avg)
+
+maximum (avg)
+95th % (avg)
+median (avg)
+
+therapy report
+
+airsense 11 oset sn: 22231038074
+
+tidal volume!)
+
+1621
+745
+275
+
+respiratory ratabreaths/min)
+
+38
+30
+19
+
+minute ventilationl/min)
+
+23.1
+12.8
+5.2
+resmed
+
+airview"
+
+therapy report
+
+sense 11 autoset 22231038074
+
+care check-in
+
+no available data because the user declined to answer the therapy questions, this feature was
+turned off on the user’s machine or the user did not consent to share their data with myair.
+
+about care check-in
+
+short patient surveys are conducted on the airsense 11 and myair app to better understand how
+the patient is doing with therapy. if the patient consents, we can share care check-in information
+through airview for clinical users.
+
+questions and answers
+
+at the beginning of therapy, the patient is asked a baseline question. a few additional questions are
+asked, about once per week, during the early stages of therapy. for example:
+
+how sleepy did you feel this week? extremely, very, moderately, slightly, not at all.
+
+how is your therapy? great, ok, challenging.
+
+what bothers you most? getting used to therapy, fitting the mask, using the machine.
+
+please rate your usual sleep quality. very poor, poor, ok, good, excellent
+
+how was your sleep quality in the last week? very poor, poor, ok, good, excellent
+
+--------------------------------------------------
+
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the phys_notes category:
+Physician Notes 1_8.png
+Physician Notes 1_9.png
+Physician Notes 2_3.png
+Physician Notes 1_11.png
+Physician Notes 1_10.png
+Physician Notes 2_2.png
+Physician Notes 2_0.png
+Physician Notes 1_12.png
+Physician Notes 1_13.png
+Physician Notes 2_1.png
+Physician Notes 2_5.png
+Physician Notes 4_3.png
+Physician Notes 1_16.png
+Physician Notes 4_2.png
+Physician Notes 2_4.png
+Physician Notes 2_6.png
+Physician Notes 4_0.png
+Physician Notes 1_14.png
+Physician Notes 1_15.png
+Physician Notes 4_1.png
+Physician Notes 3_0.png
+Physician Notes 1_2.png
+Physician Notes 1_3.png
+Physician Notes 3_1.png
+Physician Notes 3_3.png
+Physician Notes 1_1.png
+Physician Notes 1_0.png
+Physician Notes 3_2.png
+Physician Notes 1_4.png
+Physician Notes 1_5.png
+Physician Notes 3_5.png
+Physician Notes 1_7.png
+Physician Notes 1_6.png
+Physician Notes 3_4.png
+        This is the text from all known documents in the phys_notes category:
+        Physician Notes 3.txt
+mar/27/2023/mon 02:57 pm fax mo, p. 003
+medical university of south carolina page | of 6
+
+=1musc health
+
+medical university of sauth carolina
+progress notes ee
+
+progress notes by mmiii, 00 signed at 2/27/2023 11 10 am ___
+author: service: — author type: physician
+
+encounter date: 3 filed: 2/27/2023 11:10 am status: signed
+
+editor: hysician)
+
+new patient sleep evaluation
+
+history of present illness: this is a 76 y.o. male who was seen today for snoring, morning
+headaches, and frequent nighttime urination. concern for sleep apnea.
+
+total sleep time in any 24 hours is estimated to be 7-8 by history. weekday bedtime tends to be
+around 9. weekend bedtime tends to be around 9. weekday wake time tends to be 6-7.
+weekend wake time tends to be6-7. sleep onset takes 10 min to hour. the patient reporis
+
+3-4 awakenings per night that last 1/2 hour fo 1.5 hourass during which time the patient may
+read. exercise is not reported before bedtime. watching tv in bed or reading prior to sleep is
+not reported. napping is not reported. n
+
+the patient does report a history of snoring. snoring is described as severe, witnessed apneas
+have not been reported. the patient does not report awakening with gasping or choking
+episodes. daytime sleepiness is rarely reported. the patient does not report falling asleep
+involuniarily. the patient does not report falling asleep while driving. the patient does
+
+not report loss of muscle tone when extremely emotional. the patient does not report feeling
+unable to move when waking or falling asleep. the patient does not report vivid dreamlike
+scenes when awakening or falling asleep, parasomnias are not otherwise reported, nocturia is
+reported.
+
+has two times per week, increased frequency, wakes up with headache, no imaging to date, hx
+of headaches that pt felt improved with caffeine cessation in past years
+
+the epworth sleepiness scale is 0.
+occupation: retired chiropractor
+safety concerns: none
+
+past medical history:
+past medical history:
+biaghasis |
+
+* arthritis
+
+lt. knee surgery in 2022
+
+* coronary artery disease involving native heart without angina pectoris
+
+» gerd (gastroesophageal reflux disease)
+
++ heart disease
+
+* hyperlipidemia
+
+* hypertension
+
+* myocardial infarction 2014 —
+
+rine by eleanor wright... encounter nate: 02/27/2023
+
+mar/27/2023/mon 02:58 pm fax no, p. 004
+
+medical university of south carolina page 2 of 6
+* peptic ulceration past
+esophageal
+erosion
+on pansoprazole
+
+past surgical history:
+
++ joint replacement 01/03/2022
+left knee
+
+* pr gptr-asst surgical navigation image-less 01/03/2022
+procedure: ; surgeon: harry a demos, md; location: musc main or; service:
+orthopaedics
+
+* pr total knee arthroplasty left 01/03/2022
+
+procedure: total knee arthroplasty generic; surgeonaeaen im md;
+location: musc main or; service: orthopaedics
++ stent placement
+
+allergies:
+
+review of patient’
+
+allergen! ay
+
++ statins-hmg-coa reductase inhibitors other (see comments)
+muscle cramps.
+
++ beta-blockers (beta-adrenergic blocking agts) other (see comments)
+other reaction(s): other (see comments)
+
+hr dropped to the 40s.
+hr dropped to the 40s,
+
++ lopressor [metoprolol tartrate] other (see comments)
+hr dropped to the 40s.
+
+* gluten other (see comments)
+"stomach reaction" reported 12/7/2021
+
+*meloxicam other (see comments)
+"bothers my stomach"
+
++other other (see comments)
+“white adhesive tape; causes rash at the site”
+
+*penicillins other (see comments)
+flush
+
+*soy other (see comments)
+acid reflux
+
+medications:
+
+enteric coated tablet ce ee
+
+* glucosamine-chondroitin 500- take 1 capsule by mouth 3 times daily.
+400 mg per caps eee es ,
+
+* lisinopril (prinivil) 2.5 mg tablet take 1 tablet by mouth every day
+
+fe printed hv fleaner wright... eneeunter date: 92/27/2023
+mar/27/2023/mon 02:58 pm fax no. p, 005
+medical university of south carolina page 3 of 6
+
+* multivitamin with folic acid 400° “take 1 tablet by mouth daily.
+meg tablet _ veo _ a
+
+* pantoprazole (protonix) 40 mg take 1 tablet by mouth every day
+delayed release tablet nmmmsomees ump owes a se na
+
+* nitroglycerin (nitrostat) 0.4mg place 1 tablet under the tongue every 5 minutes as
+
+sublingual tablet needed for chest pain.
+* other medication med name: mvi daily (patient not taking: reported
+on 2/27/2023)
+
+social history:
+social history
+socideconcint hey
+
++ marital status:
+
+spouse name: not on file
+« number of children: not on file
+* years of education: not on file
+
+. smoking status: never
+
+* smokeless tobacco: _ never
+substance and sexual acthity ic
+* alcohol use: not currently
+* drug use: never
+* sexual activity: yes
+partners: female
+birth control/protection: none
+_ , comment: ed .
+other tai gone 8
+* not on file ;
+sodat history nar
+* not on file
+
+social determinants of health
+
+colon, breast
+* hypertension mother
+
+pe printed hv eleanar wricht 9 eneainter date: 09/97/9172
+mar/27/2023/mon 02:59 pm fax no, p. 006
+
+medical university of south carolina page 4 of 6
+» heart disease mother
+* stroke mother
+* vision loss mother
+
+from stroke
++ mental illness father
++ cancer father
+prostate at 90yo
++ depression sister
+* hypertension sister
++ skin cancer neg hx
++ melanoma neg hx
++ anesthetic reactions neg hx
+
+physical exam:
+
+ms oo oes 1624
+bp: 127/79
+pulse: 64
+resp: 16
+temp: 36.7 °c (98 °f)
+tempsre: temporal
+spo2: 98%
+weight 84.4 kg (186 ib)
+height: 177.8 em (5' 10")
+
+wt readings from last 3 encounters:
+02/27/23 84.4 kg (186 ib)
+
+01/23/23 85.7 kg (189 ib)
+
+11/18/22 86.1 kg (189 lb 12.8 oz)
+
+ms: ao
+
+genera! well developed, well nourished
+
+heent mmiv
+
+cardiac:nad
+
+pulm: no respiratory distress
+
+derm: no obvious erythema/bruising on face
+
+extremities: unremarkable
+
+neuro cn [i-xll unremarkable, appropriate speech and language, gait unremarkable
+
+polysomnograms:
+none
+
+record review/other results:
+
+ft ventricle:
+
++ left ventricular size is normal,
+
++ left ventricular wall thickness and indexed mass are normal.
+
+« there is mild global lv systolic dysfunction.
+
++ left ventricular ef is 45-50 %,
+
++ lv regional wall motion is remarkable for inferior and posterior moderate-severe hypokinesia.
+right venitricle:
+
++ the right ventricle is normal size with normal function.
+
+i ne by eleanor wright... encounter date: 02/27/2023
+mar/27/2023/mon 03:00 pm fax no, p.007
+medical university of south carolina page 5 of 6
+
+mitral valve:
+
++ there is trace mitral regurgitation.
+
+overall conclusions:
+
++ compared to prior study from 7/11/2019, the endocardium is better visualized and the wall motion abnormality in
+the
+
+inferior and posterior walls is now seen well and the lv ejection fraction appears to have decreased slightly.
+
+dr, huber's note reviewed
+
+t:
+ae is a 76 y.o. male with snoring, htn, cad hx and nighttine awakenings at times
+associated with headache with concerns for osa.
+prostate ca, cad, mi, htn
+
+patient education: we reviewed obstructive sleep apnea and associated medical disorders.
+we discussed cardiovascular risks associated with sleep disordered breathing. we reviewed
+treatment options for sleep disordered breathing including pap therapy, oral appliances,
+surgical intervention, and others. we reviewed the importance of pap therapy adherence. we
+reviewed the impact of alcohol and drugs on sleep and osa. we discussed the risk associated
+with driving, operating heavy machinery, or engaging in other activities during which falling
+asleep would be hazardous. he was advised not to drive or participate in such activities if
+drowsy. we discussed tne importance of informing anesthesiology prior to any intervention as
+patients with osa may be at increased risk of perioperative morbidity and morbidity. we
+discussed the potential impact of weight gain and weight loss on osa. the importance of good
+sleep hygiene was reviewed as well as the impact of sleep deprivation.
+
+plan:
+
+hsat expedite
+
+orders to follow for auto pap as needed
+
+preliminary results 1-2 weeks post hsat
+
+rec neuroimaging for has if persist once possible osa addressed and or progress/reviewed
+with patient
+
+offered neuroimaging today/pt deferred and will follow symptoms
+
+rtc 3-6 months aj swartz
+
+ps bo
+
+diplomate american board of sleep medicine
+abpn, sub-board sleep medicine
+division of pulmonary, critical care, allargy and sleep
+
+electronically signed by andrea rinn, do at 2/27/2023 11:10 am
+
+routing history
+
+priority senton from a to. message type
+11/21/2022 8:18 mychart, musc health mychart, muse health
+am
+
+fe printed by eleanor wright... encounter date: 02/27/2023
+mar/27/2023/mon 03:00 pm fax no, p. 008
+medical university of south carolina page 6 of 6
+
+i
+
+created by on
+encounter creation information not available
+
+fe printed by eleanor wright... encounter date: 02/27/2023
+
+--------------------------------------------------
+Physician Notes 2.txt
+encounter date: 02/09/2023
+
+| progress notes ¥ encounter date: 2/9/2023
+
+physician addendum
+specialty: pulmonology
+
+& member of trinity health
+pulmonary consult note
+
+2/9/2023:
+
+a. is i present for consultation at the request of
+
+referring physician, md, regarding the following;
+
+chief complaint:
+
+chief complaint
+
+patient presents with
+* discuss hst result
+
+hpi:
+
+sleep medicine evaluation regarding obstructive sleep apnea and presents today for review of
+her recent home sleep study.
+
+this is a 86-year-old female past medical history significant for cva with expressive aphasia also
+no known history of congestive heart failure and atrial fibrillation on anticoagulation therapy
+who presents today as a new patient regarding further evaluation for obstructive sleep apnea.
+patient clinically notes snoring at night according to her daughter and has had witnessed
+apneas as well as gasping episodes. given the patient's expressive aphasia most of the history
+is obtained through the daughter. apparently sleeps on her back the entire night. notes 5 to
+10 pound weight gain over the last year with a current bmi of 30.8. sleep apnea was clinically
+suspected and underwent a home sleep study on december 3 which was a somewhat of a
+limited study given that there was less than 4 hours of monitoring time. however, home sleep
+study revealed an ahi index of 16 suggesting moderate obstructive sleep apnea associated
+with mild snoring throughout the night he had no significant nocturnal hypoxemia... awakens
+not well rested at times denies excessive daytime sleepiness. denies morning headaches.
+
+neck circumference 15 inches
+
+po encounter date: 02/09/2023
+ess equals 6
+
+review of systems:
+
+review of systems
+
+constitutional: negative for chills, fatigue, fever and unexpected weight change.
+
+hent: negative for congestion, ear pain, hearing loss, postnasal drip, sinus pain, sore throat,
+tinnitus and trouble swallowing.
+
+eyes: negative for photophobia, itching and visual disturbance.
+
+respiratory: negative for apnea, cough, chest tightness, shortness of breath, wheezing and
+stridor.
+
+cardiovascular: negative for chest pain, palpitations and leg swelling.
+
+gastrointestinal: negative for abdominal distention, abdominal pain, blood in stool,
+constipation, diarrhea and vomiting.
+
+endocrine: negative for cold intolerance and heat intolerance.
+
+genitourinary: negative for difficulty urinating, frequency and hematuria.
+
+musculoskeletal: negative for back pain, joint swelling and neck stiffness.
+
+skin: negative for pallor and rash.
+
+neurological: negative for dizziness, syncope, light-headedness and headaches.
+hematological: negative for adenopathy. does not bruise/bleed easily.
+psychiatric/behavioral: negative for agitation, confusion and sleep disturbance.
+
+medications:
+
+current outpatient medications:
+
++ apixaban (eliquis) 5 mg tablet, take 1 tablet (5 mg total) by mouth 2 (two) times a day., disp:
+60 each, rfl: 1
+
+* aspirin 81 mg ec tablet, daily, disp: , rft:
+
+* atorvastatin (lipitor) 40 mg tablet, take 1 tablet (40 mg total) by mouth at bedtime. take 1
+tablet at bedtime., disp: 90 each, rfl: 2
+
+* bacillus coagulans-inulin oral, probiotic caps refills: 0, disp: , rfl:
+
+* calcium carb/vit d3/minerals (calcium-vitamin d oral), take by mouth., disp: , rfl:
+
+* digoxin (lanoxin) 125 mcg (0.125 mg) tablet, take 0.5 tablet by mouth daily, disp: , rfl:
++ diltiazem (cardizem) 90 mg immediate release tablet, take 1 tablet (90 mg total) by mouth
+3 (three) times a day. take 1 tablet by mouth three times a day, disp: 180 tablet, rfl: 1
+
+* docusate sodium (colace) 250 mg capsule, take 1 capsule (250 mg total) by mouth 1 (one)
+time each day., disp: , rfl:
+
+* furosemide (lasix) 20 mg tablet, take 1 tablet (20 mg total) by mouth 1 (one) time each day.
+daily, disp: 30 each, rfl: 2
+
++ hylan (synvisc-one) 48 mg/6 ml syringe injection, inject one syringe into right knee., disp: ,
+
+[oo encounter date: 02/09/2023
+rfl:
+* potassium chloride 20 meq tablet extended release, take 1 tablet orally daily, disp:, rfl:
+* valsartan (diovan) 40 mg tablet, bedtime, disp: , rfl:
+
+patient history:
+social history
+
+tobacco use
+
++ smoking status: former
+years: 2.00
+types: cigarettes
+
+* smokeless tobacco: never
+
+substance use topics
+« drug use: never
+
+no family history on file.
+
+past medical history:
+diagnosis date
++ a-fib (cms/hcc)
+* acc/aha stage c heart
+failure with preserved
+ejection fraction (cms/hcc)
+« h/o ischemic left mca stroke
+* hypothyroidism
+
+past surgical history:
+
+procedure laterality date
+
+* cesarean
+section, low
+transverse
+
++ hip fracture
+surgery
+
++ hip resection
+arthroplasty
+
+* pelvic
+fracture
+surgery
+
+* thyroid
+surgery
+
+po encounter date: 02/09/2023
+« total hip
+arthroplasty
+
+allergies:
+
+patient has no known allergies.
+
+vital signs:
+
+visit vitals
+
+bp 113/74 (bp location: right arm,
+patient position: sitting, bp cuff
+size: adult)
+
+pulse 80
+
+temp 36.8 °c (98.2 °f) (temporal)
+
+resp 16
+
+ht 1.27 m (50")
+
+wt 62.6 kg (138 ib)
+
+spo02 95%
+
+bmi 38.81 kg/m?
+
+smoking status former
+
+bsa 1.4 m?
+
+physical exam:
+
+physical exam
+constitutional:
+general: she is not in acute distress.
+appearance: normal appearance. she is not toxic-appearing or diaphoretic.
+hent:
+head: normocephalic and atraumatic.
+mouth/throat:
+mouth: mucous membranes are dry.
+pharynx: oropharynx is clear. no oropharyngeal exudate or posterior oropharyngeal erythema
+
+eyes:
+general: no scleral icterus.
+extraocular movements: extraocular movements intact.
+conjunctiva/sclera: conjunctivae normal.
+pupils: pupils are equal, round, and reactive to light.
+neck:
+vascular: no carotid bruit.
+
+[po eneounter date: 02/09/2023
+cardiovascular:
+
+rate and rhythm: normal rate and regular rhythm.
+
+pulses: normal pulses.
+
+heart sounds: normal heart sounds. no murmur heard. no friction rub. no gailop.
+pulmonary:
+
+effort: pulmonary effort is normal. no respiratory distress.
+
+breath sounds: normal breath sounds. no stridor. no wheezing, rhonchi or rales.
+chest:
+
+chest wall: no tenderness.
+abdominal:
+
+general: abdomen is flat. bowe! sounds are normal. there is no distension.
+
+palpations: abdomen is soft. there is no mass.
+
+tenderness: there is no abdominal tenderness. there is no right cva tenderness, left cva
+tenderness, guarding or rebound.
+
+hernia: no hernia is present.
+musculoskeletal:
+
+general: normal range of motion.
+
+cervical back: normal range of motion and neck supple.
+lymphadenopathy:
+
+cervical: no cervical adenopathy.
+
+general: skin is warm and dry.
+
+coloration: skin is not jaundiced.
+
+findings: no bruising or rash.
+neurological:
+
+general: no focal deficit present.
+
+mental status: she is alert and oriented to person, place, and time. mental status is at
+baseline.
+
+cranial nerves: no cranial nerve deficit.
+
+psychiatric:
+mood and affect: mood normal.
+
+data review:
+
+no orders to display
+
+echo:
+
+po encounter date: 02/09/2023
+no results found for this or any previous visit.
+
+pulmonary functions testing results:
+no results found for: fev1, fvc, fev1fvc, tlc, dlco
+
+home sleep study dated december 3, 2022 reviewed with the daughter and patient which was
+somewhat of a limited study given short duration of monitoring time he had did reveal an ahi
+index of 16 suggesting moderate obstructive sleep apnea associated with mild snoring.
+
+assessment/plan:
+
+1. osa (obstructive sleep apnea) home sleep test
+
+2. atrial fibrillation, unspecified type
+(cms/hcc)
+
+3. congestive heart failure, unspecified hf
+chronicity, unspecified heart failure type
+(cms/hcc)
+
+4. acc/aha stage c heart failure with
+preserved ejection fraction (cms/hcc)
+
+5. hypothyroidism, unspecified type
+
+the patient will more than likely benefit from cpap therapy however, | have recommended that
+she repeat home sleep study and have recommended a 2 night home sleep study and follow-up
+in the cpap clinic for review,
+
+patient was counseled regarding sleep apnea and potential cardiovascular complications
+weight loss would be beneficial and the patient should avoid the supine position while sleeping
+alcohol and other sedatives should be avoided at night
+
+avoid driving if excessively sleepy
+
+follow-up in the cpap clinic for review of repeat sleep study once completed after which more
+than likely cpap therapy will be initiated and will follow-up in the cpap clinic for mask fitting.
+
+| have discussed at length the plan of care and differential diagnosis with the patient and/or the
+patient's family. the patient and/or the patient's family was given time to ask questions and
+raise concerns which were answered and addressed to the patient's/family's satisfaction.
+
+frank sorhage, md
+pulmonary & critical care medicine
+
+[oo encounter date: 02/09/2023
+electronically signed by frank sorhage, md at 2/9/2023 4:53 pm
+electronically signed by frank sorhage, md at 3/10/2023 8:50 am
+
+office visit on 2/9/2023 = note shared with patient
+additional documentation
+
+bp 113/74 (bp location: right arm, patient position: sitting, bp cuff size: adult) puise 80
+
+vitals:
+temp 36.8 °c (98.2 °f) (temporal) resp 16 ht 1.27 m (50") wt 62.6 kg (138 ib) spo2 95%
+bmi 38.81 kg/m? bsa 1.4 m? pain sc o-no pain
+
+flowsheets: vital signs, vitals reassessment
+
+orders placed
+
+home sleep test
+
+medication changes
+as of 2/9/2023 4:00 pm
+
+none
+
+visit diagnoses
+primary: osa (obstructive sleep apnea) g47.33
+
+atrial fibrillation, unspecified type (cms/hcc) 148.91
+congestive heart failure, unspecified hf chronicity, unspecified heart failure type (cms/hcc) 150.9
+
+acc/aha stage c heart failure with preserved ejection fraction (cms/hcc) 150.30
+hypothyroidism, unspecified type e03.9
+
+[oo eneounter date: 02/09/2023
+
+--------------------------------------------------
+Physician Notes 1.txt
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 005 of 030
+
+page 1 of 17
+
+1. follow
+
+nye
+
+up: sleep stucy results
+
+taking
+6 bisacodyl 5 mg tablet delayed
+release 1 tablet as needed orally
+once a day
+& gemfibrozil 600 mg tablet oral
+§ quetiapine fumarate 300 mg
+tablet oral
+& vitamin d (ergocalciferal) 1.25 mg
+(50000 ut} capsule oral
+6 nystatin 100000 unit/gm
+ointment 1 application externelly
+twice a day
+
+_ depression screening:
+phq-2 (2015 edition)
+
+little interest or pleasure in doing things? not at all
+
+feeling down, depressed, or hopeless? not at all
+
+total score 0
+isolation precautions:
+
+respiratory illness screening
+a cea ay aso mg tablet 1. is fever present / reported? no
+fae svone mi able ‘ 2. are respiratory illness symptom(s) present / reported? no
+3 celeoarls me tabet tablet only ‘ 3. are other symptom(s} present / reported? no
+once a day : 5. has there been reported travel to a high risk respiratory
+6 nifedipine er 30 mg tablet _ illness region? no
+extended release 24 hour 1 tablet 6. has close* contact with person(s) known to have
+aay. empty stomach orally once a communicable illness been reported? no
+benztrapine mesylate 2 mg tablet 1 7. did travel or close contact (if applicable} occur within 14
+tablet orally once day g tablet = days of symptom onset? no
+osuvastatin calcium aolet 4 ie
+‘tablet orally once a day te ent is bring by the caregiver. hehas a schizophrenia and
+divalproex sodium 500 mg tablet . ° . a . °
+delayed release oral can not cooperate with the interrogatory. h eis is coming for the first
+time. he has been having sleep issues: snoring, stop breathing at
+night, sleepiness during the day. insomnia, dry mouth. epworth 19.
+
+fluoxetine hcl 20 mg capsule oral
+metoprolol tartrate25 mg tablet
+oral
+
+haloperidol 10 mg tablet oral
+ingrezza 40 mg capsule oral
+medication list reviewed and
+reconciled with the patient
+
+og oo oo or
+
+temp: 97.0 f,hr: 90 /min, ht: 67 in, wt 278 ibs, bmi:
+: rr: 16 /min, oxygen sat %: 99 %, ht-cm: 170.18 cm, wt-
+~ kg: 126.55 kg.
+
+fs
+
+psychiatric disarder,
+
+general examination:
+
+general appearance: in no acute distress, well developed,
+
+= well nourished.
+
+lungs: clear to auscultation bilaterally.
+
+head: normocephalic, atraumatic.
+
+eyes: pupils equal, round, reactive to light and accommodation.
+ears: normal.
+
+schizoaffective disarder,
+anxiety.
+
+hypertension.
+
+high cholesterol.
+obesity.
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 006 of 030
+
+page 2 of 17
+
+1*2%f *1éa $/"q 2215615912. xb8.bd -xi)) . dp 962191.$/39 211158.16267.
+
+father: alive
+mother: alive
+non-cantributory
+tobacco use:
+tobacco use/ smoking
+are youla non tebacco user
+tobacco use other than smoking
+are you an other tobacco user?
+no
+drugs/alcohol:
+drugs
+have you used drugs other than
+those for medical reasons in the past
+42 manths? no
+alcohol screen
+did you have a drink containing
+alcohol inthe past year? no
+points 0
+interpretation negative
+opioid risk tool (2018 edition)
+family hx alcohol? no
+family hx illegal drugs? no
+farnily hx rx drugs? no
+personal hx aicohal? na
+personal hx iflegal drugs? no
+personal hx rx drugs? no
+age between 16-45 years? yes
+depression? no
+total score 1
+risk level for opioid use low
+
+n.
+
+allergyéimmi nology:
+
+denies blistering of skin.
+denies congestion. denies cough,
+denies hives. denies itching.
+denies rash. denies sneezing.
+denies watery eyes.
+
+denies wheezing.
+ophthalmologic:
+
+denies blurred vision, in both
+
+eyes, affecting both the near
+
+and distant vision.
+denies diminished visual acuity.
+denies discharge. denies dry eye.
+denies flashes of light in the visual
+field, denies floaters in the visual
+field. denies itching and redness.
+denies pain. denies red eye.
+denies vision screen.
+ene
+
+denies blocked ear,
+denies decreased hearing.
+
+oral cavity: mucosa moist.
+
+throat: clear.
+
+neck/thyroid: neck supple, full range of motion, no cervical
+lymphadenopathy.
+
+skin: no suspicious lesions, warm and dry.
+
+heart: no murmurs, regular rate and rhythm, $1, $2 normal.
+
+abdomen: normal, bowel sounds present, soft, nontender,
+nondistended.
+
+extremities: no clubbing, cyanosis, or edema.
+
+neurologic: nonfocal, motor strength normal upper and
+
+~ lower extremities, sensory exam intact.
+
+© 1.gsa (obstructive sleep apnea) - g47.33 (primary)
+
+2. snoring - r06.83
+3. obesity - £66.9
+
+2 4. schizophrenia - f20.9
+
+5. anxiety - f41.9
+6. htn (hypertension) - 116
+7. hld (hyperlipidemia) - £78.5
+
+, :
+1. osa (obstructive sleep apnea)
+
+start eszopiclone tablet, 1 mg, 1 tablet immediately before bedtime,
+orally, once a day, 30 days, 30 tablet, refills 3
+
+2. schizophrenia
+
+: continue trazodone hcl tablet, 150 mg, 1 tablet at bedtime, orally,
+© once a day
+
+« continue benztropine mesylate tablet, 2 mg, 1 tablet, orally, gncea
+: day
+
+continue divalproex sodium tablet delayed release, 500 mg, oral
+continue fluoxetine hci capsule, 20 mg, oral
+
+continue h aloperidol tablet, 10 mg, oral
+
+continue ingrezza capsule, 40 mg, oral
+
+3. htn (hypertension)
+
+continue lisinopril tablet, 5 mg, 1 tablet, orally, once a day
+continue nifedipine er tablet extended release 24 hour, 30 mg,
+1 tablet on an empty stomach, orally, once a day
+
+continue metoprolol tartrate tablet, 25 mg, oral
+
+© 4.hld (hyperlipidemia)
+~ continue rosuvastatin calcium tablet, 40 mg, 1 tablet, orally, once
+~ aday
+
+counseling:
+care goal follow-up plan:
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 007 of 030
+
+page 3 of 17
+
+1*2%f *1éa $/"q 2215615912. xb8.bd -xi)) . dp 962191.$/39 211158.16267.
+
+denies decreased sense of smell i above normal bmi follow-up dietary management education,
+denies difficulty swallowing, guidance, and counseling
+
+denies dry mouth. denies ear pain. :
+
+denies hearing screen. bmi management provided yes
+
+denies nosebleed. denies ringing in
+the ears. denies sinus pain,
+denies sore throat. denies swollen
+glands.
+endocrine:
+
+denies cold intolerance.
+denies difficulty sleeping.
+denies dizziness. denies excessive
+sweating. denies e xcessive thirst.
+denies frequent urination.
+denies heat intolerance.
+denies irregular menses.
+denies weakness. denies weight
+loss.
+respiratory:
+
+snoring admits.
+denies breathing pattern.
+denies chest pain. denies cough.
+denies hemoptysis. denies pain
+with inspiration, denies shortness of
+breath at rest. denies shortness of
+breath with exertion. denies sputum
+roduction, denies wheezing,
+breast;
+denies bloody nipple discharge.
+denies breast lump. denies breast
+ain. denies breast swelling.
+denies fever. denies gland
+swelling. denies nipple discharge.
+denies red skin. denies weight
+oss. <
+
+genies chest pain at rest.
+denies chest pain with exertion,
+denies claudication.
+denies cyanosis. denies difficulty
+aying flat. denies dizziness.
+denies dyspnea on exertion.
+denies fluid accumulation in the
+egs. denies [rregular heartbeat,
+denies orthopnea.
+denies palpitations.
+denies shortness of breath,
+denies weakness. denies weight
+gain.
+gastrointestinal:
+
+denies abdominal pain.
+denies blood in steal,
+denies change in bowel habits.
+denies constipation.
+denies decreased appetite.
+denies diarrhea, denies difficulty
+swallowing, denies exposure to
+hepatitis, denies heartburn,
+denies hematernesis.
+denies nausea, denies rectal
+bleeding. denies v omiting.
+denies weight loss.
+hematology:
+
+denies breast lump.
+denies dizziness. denies easy
+
+7/17/2023 10:20 am from: fax null
+
+to:
+
+9548341807
+
+page: 008 of 030
+
+page 4 of 17
+
+1*2%f *1éa $/"q 2215615912. xb8.bd -xi)) . dp 962191.$/39 211158.16267.
+
+bruising, denies fever.
+denies groin mass.
+denies prolonged bleeding.
+denies recent transfusion,
+denies swollen glands.
+denies weakness, denies weight
+loss.
+women only:
+
+denies breast jump.
+denies breast pain.
+denies discharge from the breast.
+denies heavy bleeding during
+menses. denies hot flashes.
+denies irregular menses. :
+denies missed periods. <
+denies painful intercourse. :
+denies painful menses.
+denies vaginal bleeding between
+periods. denies vaginal
+discharge/ itching.
+men only:
+
+denies difficulty initiating
+stream. denies dribbling after
+urination. denies hard testicle.
+denies hernia.
+
+denies hypospadias. denies lump
+in groin. denies penile discharge.
+denies rash or blisters an penis,
+denies scrotal pain. denies scrotal
+swelling. denies undescended
+testicle.
+genitourinary:
+
+denies abdominal
+pain/ swelling. denies blood in
+urine. denies difficulty urinating,
+denies frequent urination,
+
+denies pain in lower back.
+denies painful urination.
+letal:
+
+denies carpal tunnel.
+
+denies] aint stiffness. denies leg
+cramps. denies muscle aches.
+denies pain in shoulder¢s).
+denies painful joints.
+
+denies sciatica. denies swollen
+feints. denies trauma to arms),
+denies trauma te hip(s}.
+
+denies trauma to kneefs),
+denies trauma te ankle(s),
+denies weakness,
+
+peripheral vascular:
+
+denies absent pulses in hands.
+denies absent pulses in feet.
+
+denies blanching of skin.
+denies cold extremities.
+denies decreased sensation in
+extremities. denies pain/cramping
+in legs after exertion, denies painful
+extremities. denies ulceration of
+feet.
+podiatric:
+
+denies achilles pain.
+denies achilles swelling.
+denies ankle pain. denies ankle
+swelling, denies bail of foot pain,
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 009 of 030
+
+page 5 of 17
+
+1*2%f *1éa $/"q 2215615912. xb8.bd -xi)) . dp 962191.$/39 211158.16267.
+
+denies big toe pain. denies big toe
+swelling. denies burning.
+
+denies difficulty walking.
+
+denies fever. denies foot
+numbness, denies foot pain.
+denies | oint dislocation,
+
+denies redness over the achilles.
+denies sole pain. denies wound
+oozing.
+
+denies acne. denies blistering
+of skin. denies discoloration,
+denies dry skin. denies eczema.
+denies hives, denies itching. :
+denies kelaid formation. <
+denies mole(s). denies nacule(s). .
+denies photasensitivity.
+
+denies rash. denies rash on feet.
+denies scaly lesions of skin/scalp.
+denies skin cancer. denies skin
+lesion(s). denies skin oozing.
+denies sun sensitivity.
+
+neurologic:
+
+denies balance difficulty.
+
+denies coordination,
+
+denies difficulty speaking.
+
+denies dizziness. denies fainting,
+denies gait abnormality.
+
+denies headache.
+
+denies irritability. denies loss of
+strength. denies lass of use of
+extremity, denies low back pain.
+denies memory lass. denies pain.
+denies seizures. denies tics.
+denies tingling/ numbness,
+denies transient lass of vision.
+denies tremor.
+
+psychiatric:
+
+benies anxiety.
+
+denies auditory/ visual
+hallucinations. denies delusions.
+denies depressed mood,
+
+denies difficulty sleeping.
+
+denies eating disorder. denies loss
+of appetite. denies mental or
+physical abuse, denies stressors,
+denies substance abuse.
+
+denies suicidal thoughts.
+
+health education:
+
+denies blood pressure
+screening, denies diabetes
+screening, denies family
+planning/safe sex teaching.
+
+denies healthy weight education.
+denies h epatitis vaccination,
+denies influenza vaccination.
+denies lipid screening.
+
+denies pneumovax vaccination.
+denies smoking cessation.
+cancer self-management:
+
+denies breast self-exam.
+denies colenoscopy.
+
+denies mammogram. denies pap
+testing. denies psa testing.
+denies skin exam. denies smoking
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 011 of 030
+
+page 7 of 17
+
+1" 296f *1éa $/"q 22056.151012 xbr. bd -xin) 1 . dp 962191$/39 2ote2i6267.
+
+curr ans ea follow up osa
+taking = 2. result sleep study a
+& trazodone hci 150 mg tablet 1 e
+tablet at becltime orally once a day
+& lisinopril 5 mg tablet 1 tablet orally
+
+oncea day : depression screening:
+8 nifedipineer 36 mg tablet phq-2 (2015 edition) a ;
+extended release 24 hour 1 tablet little interest or pleasure in doing things? notat all
+onan empty stomach orally once a feeling down, depressed, or hopeless? not at all
+day total score 6
+6 benztropine mesylate 2 mg tablet 1 . .
+tablet orally once a day isolation precautions:
+& rosuvastatin calcium 40 mg tablet respiratory illness screening
+. rabiet orally once a day tablet : 1. is fever present / reported? no
+° delayad re eee oral a : 2. are respiratory illness symptom(s) present / reported? no
+8 fluoxetine hcl 20 mg capsuleoral 3. are other symptom(s) present / reported? no
+8 metoprolol tartrate 25 mg tablet : 5. has there been reported travel to a high risk respiratory
+ora illness region? no
+6 haloperidol 10 mg tablet oral * .
+8 ingrezza 40 mg capsule oral 6. has close contact with person(s) known to have
+& bisacodyl mg tablet delayed communicable illness been reported? no
+release 1 tablet as needed orally 7. did travel or close contact (if applicable} occur within 14
+once a day >
+& gemfibrozil 600 mg tabiet oral e ays of symptom onset? no
+& quetiapine fumarate 300 mg ouow up: . , . ; . .
+tablet oral the patient is bring by the caregiver. he has a schizophrenia and
+& vitamin d (ergocalciferal) 1.25 mg can not cooperate with the interrogatory. h eis is coming for the first
+(30000 ut) capsule grat time. he has been having sleep issues: snoring, stop breathing at
+& nystatin bgo untt/gm night, sleepiness during the day. insomnia, dry mouth. epworth 19
+ointment 1 application externally gn, pi & y. , ory ep .
+twice a day
+medication list reviewed and
+reconciled with the patient temp: 97.5 f, hr: 88 7min, bp: 116/72 mm hg, ht: 67 in, wt:
+
+~ 279 ibs, bmi: , rr: 16 /min, oxygen sat %: 98 %,
+© ht-cm: 170.18 cm, wt-kg: 126.55 kg.
+
+paychiatric disorder.
+schizoaffective disorder,
+anxiety.
+
+hypertension.
+
+high cholesterol.
+obesity.
+
+foe es
+
+imaging: polysm sleep staging 4/> addl param
+» (order date - 06/05/2023) (collection date - 06/22/2023)
+
+: general examination:
+general appearance: in no acute distress, well developed,
+
+denies past surgical history
+
+7/17/2023 10:20 am from: fax null to:
+
+9548341807 page: 012 of 030
+
+page 8 of 17
+
+1*2%f 1 éa $/"q 2215615912. xb8.bd -xi!)) . dp 962191.$/39 2016216267.
+
+father: alive
+mother: alive
+
+ial
+
+tobacco use:
+tobacco use/ smoking
+are youa non tobacco user
+tobacco use other than smoking
+are you an other tobacco user?
+no
+drugs/alcohal:
+drugs
+have you used drugs other than
+those far medical reasons in the past
+12 months? no
+alcohal screen
+did you have a drink containing
+alcohal in the past year? no
+points 0
+interpretation negative
+opioid risk tool (2018 edition)
+family hx alcohol? no
+family hx [legal drugs? na
+family hx rx drugs? no
+persanal hx aicahol? no
+personal hx ihegal drugs? no
+personal hx rx orugs? no
+age between 16-45 years? yes
+depression? no
+totalscore 1
+risk level for opioid use low
+nucd.a.
+
+denies past hospitalization
+
+allergy/immunology:
+benies glistering of skin.
+denies congestion. denies cough.
+denies hives, denies itching.
+denies rash. denies sneezing,
+denies watery eyes,
+denies wheezing.
+ophthalmologic:
+denies blurred vision, in both
+eyes, affecting both the near
+
+and distant vision,
+denies diminished visual acuity.
+denies discharge. denies dry eye.
+denies flashes of light in the visual
+field. denies floaters in the visual
+field, denies itching and redness,
+denies pain, denies red eye.
+denies vision screen.
+ent:
+
+denies blocked ear.
+denies decreased hearing.
+denies decreased sense of smell.
+
+well nourished.
+lungs: clear to auscultation bilaterally.
+head: normocephalic, atraumatic.
+eyes: pupils equal, round, reactive to light and accommodation.
+ears: normal.
+oral cavity: mucosa moist.
+throat: clear.
+neck/thyroid: neck supple, full range of motion, no cervical
+lymphadenopathy.
+skin: no suspicious lesions, warm and dry.
+heart: no murmurs, regular rate and rhythm, $1, s2 normal.
+abdomen: normal, bowel sounds present, soft, nontender,
+nondistended.
+extremities: no clubbing, cyanosis, or edema.
+neurologic: nonfocal, motor strength normal upper and
+lower extremities, sensory exam intact.
+
+1. gsa (obstructive sleep apnea) - g47.33 (primary)
+2. snoring - rog.83
+
+3. obesity - £66.9
+
+4, schizophrenia - f20.9
+
+5 anxiety - f419
+
+6. htn (hypertension) - 110
+
+7. hld (hyperlipidemia) - £78.5
+
+1.05a (obstructive sleep apnea)
+imaging: polysm sleep staging 4/> addl param
+
+w/cpap tx (ordered for 06/28/2023)
+
+2. schizophrenia
+
+continue traz odone hci tablet, 150 mg, 1 tablet at bedtime, orally,
+once a day
+continue benztropine mesylate tablet, 2 mg, 1 tablet, orally, once a
+day
+continue divalproex sodium tablet delayed release, 500 mg, oral
+continue fl uoxetine hci capsule, 20 mg, oral
+
+continue h aloperidol tablet, 10 mg, oral
+
+continue ingrezza capsule, 40 mg, oral
+
+3. htn (hypertension)
+
+continue lisinopril tablet, 5 mg, 1 tablet, orally, once a day
+continue nifedipine er tablet extended release 24 hour, 30 mg,
+1 tablet on an empty stomach, orally, once a day
+
+continue metoprolol tartrate tablet, 25 mg, oral
+
+4.hld (hyperlipidemia)
+continue r osuvastatin calcium tablet, 40 mg, 1 tablet, orally, once
+aday
+
+at
+
+immunization record has been reviewed and upcated.
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 013 of 030
+
+page 9 of 17
+
+1*2%f 1 éa $/"q 2215615912. xb8.bd -xi!)) . dp 962191.$/39 2016216267.
+
+denies difficulty swallowing.
+
+denies dry mouth. denies ear pain.
+
+denies hearing screen,
+
+denies nosebleed. denies ringing in
+
+the ears. denies sinus pain.
+
+denies sore throat. denies swellen
+
+glands.
+
+endocrine:
+denies cold intolerance.
+
+denies difficulty sleeping.
+
+denies dizziness. denies excessive
+
+sweating. denies excessive thirst.
+
+denies frequent urination.
+
+denies h eat intolerance. :
+
+denies irregular menses. <
+
+denies weakness. denies weight :
+
+loss,
+
+der
+
+counseling:
+care goal follow-up plan:
+above normal bmi follow-up dietary management education,
+guidance, and counseling
+bmi management provided yes
+
+sho lu
+
+?
+3
+
+ite :
+
+snoring admits.
+
+denies breathing pattern.
+
+denies chest pain. denies cough.
+denies hemaptysis. denies pain
+with inspiration. denies shortness of
+breath at rest. denies shortness of
+breath with exertion, denies sputum
+production. denies wheezing.
+breast:
+
+denies bloady nipple discharge.
+denies breast lump. denies breast
+pain. denies breast swelling,
+denies fever. denies gland
+swelling. denies nipple discharge.
+denies red skin, denies weight
+loss.
+
+cardiovascular:
+
+beanies chast pain at rest.
+denies chest pain with exertion.
+denies claudication.
+
+denies cyanasis, denies difficulty
+laying flat. denies dizziness.
+denies dyspnea on exertion.
+denies fluid accumulation in the
+legs. denies irregular heartbeat.
+denies orthopnea.
+
+denies palpitations.
+
+denies shortness of breath,
+
+denies weakness. denies weight
+gain.
+gastrointestinal:
+
+denies abdaminal pain.
+denies blood in stool.
+
+denies change in bowel habits.
+denies constipation.
+
+denies decreased appetite.
+denies diarrhea. denies difficulty
+swallowing. denies exposure to
+hepatitis. denies heartburn.
+denies h ematemesis,
+
+denies nausea. denies rectal
+bleeding. denies vomiting.
+denies weight loss.
+hematology:
+
+denies breast jump.
+
+denies dizziness. denies easy
+bruising, denies fever.
+
+7/17/2023 10:20 am from: fax null
+
+to:
+
+9548341807
+
+page: 014 of 030
+
+page 10 of 17
+
+1*2%f 1 éa $/"q 2215615912. xb8.bd -xi!)) . dp 962191.$/39 2016216267.
+
+denies groin mass.
+denies prolonged bleeding.
+denies recent transfusion.
+denies swollen glands.
+denies weakness. denies weight
+loss,
+women only:
+
+denies breast lump.
+denies breast pain.
+denies discharge from the breast,
+denies heavy bleeding during
+menses. denies hat flashes.
+denies irregular menses.
+denies missed periods, 8
+denies painful intercourse. <
+denies painful menses. :
+denies vaginal bleeding between
+periods. denies vaginal
+discharges itching.
+men only:
+
+denies difficulty initiating
+stream. denies dribbling after
+urination. denies hard testicle.
+denies hernia.
+
+denies hypespadias, denies lump
+in groin. denies penile discharge.
+denies rash or blisters on penis.
+denies scrotal pain, denies scratal
+swelling. denies undescended
+testicle.
+
+genitourinary:
+
+denies abdominal
+pain/swelling. denies blood in
+urine. denies difficulty urinating.
+denies frequent urination,
+
+denies pain in lower back.
+denies painful urination.
+musculoskeletal:
+
+genies carpal tunnel.
+
+denies | oint stiffness. denies leg
+cramps. denies muscle aches.
+denies pain in shoulders}.
+denies painful joints.
+
+denies sciatica. denies swollen
+joints. denies trauma to arm(s).
+denies trauma te hip(s}.
+
+denies trauma te knee(s).
+denies trauma to ankles).
+denies weakness.
+
+peripheral vascular:
+
+denies absent pulses in hands.
+denies absent pulses in feet.
+denies blanching of skin.
+denies cold extremities.
+denies decreased sensation in
+extremities, denies pain/cramping
+in legs after exertion. denies painful
+extremities. denies ulceration of
+feet.
+podiatric:
+
+denies achilles pain.
+denies achilles swelling.
+denies ankle pain, denies ankle
+swelling. denies baill of foot pain.
+denies big toe pain, denies big toe
+
+7/17/2023 10:20 am from: fax null
+
+to:
+
+9548341807
+
+page: 015 of 030
+
+page 11 of 17
+
+1*2%f 1 éa $/"q 2215615912. xb8.bd -xi!)) . dp 962191.$/39 2016216267.
+
+swelling. denies burning.
+denies difficulty walking.
+
+denies fever. denies fact
+numbness, denies foot pain.
+denies] oint dislocation.
+
+denies redness over the achilles.
+denies sale pain. denies wound
+oozing.
+
+denies acne. denies blistering
+of skin. denies discoloration.
+denies dry skin. denies eczema.
+denies hives. denies itching.
+denies kelaid formation. 8
+denies mole{s). denies nadulefs). <
+denies photosensitivity. :
+denies rash. denies rash on feet.
+denies scaly lesions of skin/scatp,
+denies skin cancer. denies skin
+lesion(s), denies skin oazing.
+denies sun sensitivity.
+
+neurologic:
+
+denies balance difficulty.
+
+denies coordination.
+
+denies difficulty speaking.
+
+denies dizziness. denies fainting.
+denies gait abnormality.
+
+denies headache.
+
+denies irritability. denles logs of
+strength. denies loss of use of
+extremity, denies low back pain.
+denies memory loss, denies pain.
+denies seizures. denies tics.
+denies tingling/ numbness.
+denies transient loss of vision.
+denies tremor,
+
+bp: datric:
+
+genies anxiety.
+
+denies auditary/ visual
+hallucinations. denies delusions.
+denies depressed mood.
+
+denies difficulty sleeping.
+
+denies eating disorder. denies loss
+of appetite. denies mental or
+physical abuse. denies stressors.
+denies substance abuse.
+
+denies suicidal thaughts.
+
+health education:
+
+denies bload pressure
+screening, denies diabetes
+screening, denies family
+planning/safe sex teaching.
+
+denies healthy weight education.
+denies hepatitis vaccination.
+denies influenza vaccination.
+denies lipid screening.
+
+denies preurevax vaccination.
+denies smoking cessation.
+cancer self-management:
+
+denies breast self-exam.
+denies colonoscopy.
+
+denies mammogram. denies pap
+testing. denies psa testing.
+denies skin exam. denies smoking
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 016 of 030
+
+page 12 of 17
+
+1*2%f 1 éa $/"q 2215615912. xb8.bd -xi!)) . dp 962191.$/39 2016216267.
+
+cessation. denies use of sunscreen,
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 010 of 030
+
+page 6 of 17
+
+1*2%f *1éa $/"q 2215615912. xb8.bd -xi)) . dp 962191.$/39 211158.16267.
+
+cessation. denies use of sunscreen,
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 017 of 030
+
+page 13 of 17
+
+1" 296f *1éa $/"q 22056.1519012 xbr. bd -xtn) 1 . dp 962191$/39 2012916267.
+
+paar
+
+ay
+
+1. new patient visit; snore: breathing problems when heis sleeping.
+
+cure shtts
+taking
+
+6 trazodone hcl 150 mg tablet 1
+tablet at becltime orally once a day
+
+& bisacodyl 5 mg tablet delayed
+release 1 tablet as needed orally
+
+h my
+
+depression screening:
+: phq-2 (2015 edition)
+
+oncea day ° little interest or pleasure in doing things? not at all
+& lisinopril 5 mg tabiet 1 tablet orally feeling down, depressed, or hopeless? not at afl
+once a day total score 0
+
+& nifedipine er 30 mg tablet
+extended release 24 hour 1 tablet
+on an ernpty stomach orally once a
+day
+
+6 benztropine mesylate 2 mg tablet 1
+tablet orally once a day
+
+& rosuvastatin calcium 40 mg tablet
+
+isolation precautions:
+respiratory illness screening
+1. 1s fever present / reported? no
+2. are respiratory illness symptom(s) present / reported? no
+3. are other symptom(s} present / reported? no
+
+1 tablet orally once a day : 5. has there been reported travel to a high risk respiratory
+3 gemfibrozil 600 mg tablet oral . illness region? no
+6 ew eapne fumarate 300 mg : 6. has close* contact with person(s) known to have
+
+communicable illness been reported? no
+7. did travel or close contact (if applicable) occur within 14
+= days of symptom onset? no
+the patient is bring by the caregiver. hehas a schizophrenia and
+can not cooperate with the interrogatary. h eis is coming for the first
+time. he has been having sleep issues: snoring, stop breathing at
+night, sleepiness during the day. insomnia, dry mouth. epworth 19.
+
+§ vitamin d (ergocalciferal) 1.25 mg
+(50006 ut} capsule ora
+6 divalproex sodium 500 mg tablet
+delayed release oral
+& fluoxetine hci 20 mg capsule oral
+6 metoprolol tartrate 25 mg tablet
+oral
+6 ingrezza 40 mg capsule oral
+is)
+4
+
+haloperidol 10 mg tablet oral
+nystatin 100000 unit/gm
+ointment 1 application externally
+twice a day
+
+medication list reviewed and
+reconciled with the patient
+
+¥ signs
+temp: 97.1f,hr:97 /min, bp: 118/79 mm hg, ht 67 in, wt
+2811bs, bmi: 4 sx, rr: 16 /min, oxygen sat %: 97 %, ht
+
+~ cm: 170.18 cm, wi-kg: 127.46 kg.
+
+r
+
+edinal has
+
+psychiatric disorder. ah .
+schizoaffective disorder, ' general examination:
+anxiety. general appearance: in no acute distress, well developed,
+
+hypertension.
+high cholesterol.
+obesity.
+
+well nourished.
+: lungs: clear to auscultation bilaterally.
+head: normocephalic, atraumatic.
+eyes: pupils equal, round, reactive to light and accommodation.
+ears: normal.
+oral cavity: mucosa moist.
+
+denies past surgical history
+
+7/17/2023 10:20 am from: fax null to:
+
+9548341807 page: 018 of 030
+
+page 14 of 17
+
+1° 2%f *1éa $/"q 2215615912. xb8.id -xi!)) . dp 962191.$/39 210129.16267.
+
+father: alive
+mother: alive
+
+ial
+
+tobacco use:
+tobacco use/ smoking
+are youa non tobacco user
+drugs/alcohol:
+drugs
+have you used drugs other than
+those for medical reasons in the past
+12 months? no
+alcohal screen
+did you have a drink containing
+alcohel in the past year? no
+points @
+interpretation negative
+opioid risk tool (2018 editicn)
+family hx alcohol? no
+family hx illegal drugs? ne
+family hx rx drugs? no
+personal hx alcohol? no
+personal hx [hegal drugs? no
+personal hx rx drugs? no
+age between 16-45 years? yes
+depressian? no
+total score 1
+risk level for gpicid use low
+
+yee
+
+denies past f ospitalization
+
+; ms
+allergv/ immunology:
+
+denies blistering of skin.
+
+denies congestion. denies cough.
+denies hives, denies itching.
+denies rash. denies sneezing.
+denies watery eyes.
+
+denies wheezing.
+
+denies blurred vision, in both
+eyes, affecting both the near
+and distant vision.
+denies diminished visual acuity.
+denies discharge. denies dry eye.
+denies flashes of light in the visual
+field. oenies floaters in the visual
+field. denies itching and redness.
+denies pain. denies red eye,
+denies vision screen.
+ent:
+
+denies blocked ear.
+denies decreased hearing.
+denies decreased sense of smell.
+denies difficulty swallowing.
+denies dry mouth. denies ear pain.
+denies hearing screen.
+
+throat: clear.
+
+neck/thyroid: neck supple, full range of motion, no cervical
+lymphadenopathy.
+
+skin: no suspicious lesions, warm and dry.
+
+heart: no murmurs, regular rate and rhythm, $1, s2 normal.
+
+abdomen: normal, bowel sounds present, soft, nontender,
+nondistended.
+
+extremities: no clubbing, cyanosis, or edema.
+
+neurologic: nonfocal, motor strength normal upper and
+lower extremities, sensory exam intact.
+
+1. osa (obstructive sleep apnea) - g47.33 (primary)
+2. snoring - ro6.83
+
+3. obesity - £66.9
+
+4. schizophrenia - f20.9
+
+5. anxiety - f41.9
+
+6. htn (hypertension) - 110
+
+7.hld (hyperlipidemia) - e78.5
+
+sa (obstructive sleep apnea)
+
+maging: polysm sleep staging 4/> addl param
+(ordered for 66/05/2023)
+
+imaging: chest pa and 1lat (ordered for 06/05/2023
+
+2. schizophrenia
+
+continue trazodone hcl tablet, 150 mg, 1 tablet at bedtime, orally,
+once a day
+
+continue benztropine mesylate tablet, 2 mg, 1 tablet, orally, gncea
+day
+continue divalproex sodium tablet delayed release, 500 mg, oral
+continue fluoxetine hci capsule, 20 mg, oral
+
+continue h aloperidol tablet, 10 mg, oral
+
+continue ingrezza capsule, 40 mg, oral
+
+3. htn (hypertension)
+
+continue lisinopril tablet, 5 mg, 1 tablet, orally, once a day
+continue nifedipine er tablet extended release 24 hour, 30 mg,
+1 tablet on an empty stomach, orally, once a day
+
+continue metoprolol tartrate tablet, 25 mg, oral
+
+4.hld (hyperlipidemia)
+continue rosuvastatin calcium tablet, 40 mg, 1tablet, orally, once
+a day
+
+vers of
+
+immunization record has been reviewed and updated.
+
+7/17/2023 10:20 am from: fax null to: 9548341807 page: 019 of 030
+
+page 15 of 17
+
+1° 2%f *1éa $/"q 2215615912. xb8.id -xi!)) . dp 962191.$/39 210129.16267.
+
+denies nosebleed. denies ringingin = above normal bmi follow-up dietary management education,
+the ears, denies sinus pain. guidance, and counseling
+
+denies sore throat. denies swollen :
+
+glands, bmi management provided yes
+
+endocrine:
+
+denies cald intolerance,
+denies difficulty sleeping.
+denies dizziness. denies e xcessive
+sweating. denies excessive thirst,
+denies frequent urination.
+denies heat intolerance.
+denies irregular menses.
+denies weakness. denies weight
+
+loss, <
+ot
+
+respiratory: 7
+
+snoring admits. 5
+denies breathing pattern.
+
+denies chest pain. denies cough,
+denies hemoptysis, denies pain
+with inspiration, denies shortness of
+breath at rest. denies shortness of
+breath with exertion. denies sputum
+production. denies wheezing.
+breast:
+
+denies bloody nipple discharge.
+denies breast lump. denies breast
+ain, denies breast swelling,
+
+denies fever. denies gland
+swelling. denies nipple discharge.
+denies red skin. denies weight
+oss.
+
+cardiovascular:
+
+denies chest pain at rest.
+denies chest pain with exertion.
+denies claudication.
+
+denies cyanosis. denies difficulty
+aying flat. denies dizziness.
+denies dyspnea on exertion.
+denies fluid accurnulation inthe
+egs. denies irregular heartbeat.
+denies orthopnea.
+
+denies palpitations.
+
+denies shortness of breath.
+
+denies weakness, denies weight
+gain.
+
+benies abdominal pain.
+denies blood in stool.
+denies change in bowel habits.
+denies constipation.
+denies decreased appetite.
+denies diarrhea. denies difficulty
+swallowing, denies exposure to
+hepatitis. denies heartburn,
+denies hematemesis.
+denies nausea, denies rectal
+bleeding. benies vomiting.
+denies weight loss.
+hematology:
+
+denies breast jump.
+denies dizziness. denies easy
+bruising. denies fever.
+denies groin mass.
+denies prolonged bleeding.
+denies recent transfusion,
+
+7/17/2023 10:20 am from: fax null
+
+to:
+
+9548341807
+
+1*29f *éa $/"q 2215615812. xbb. kd - xti}
+
+denies swallen glands.
+denies weakness. denies weight
+loss,
+women only:
+
+denies breast jump.
+denies breast pain.
+denies discharge from the breast.
+denies heavy bleeding during
+menses, denies hot flashes.
+denies irregular menses.
+denies missed periods.
+denies painful intercourse.
+denies painful menses.
+denies vaginal bleeding between 8
+periods. denies vaginal <
+discharges itching. :
+
+denies difficulty initiating
+stream. denies dribbling after
+urination, benies hard testicle.
+denies hernia.
+
+denies hypespadias. denies lump
+in grain. denies penile discharge.
+denies rash or blisters on penis.
+denies scrotal pain, denies scrotal
+swelling. denies undescencled
+testicle,
+
+genitourinary:
+
+denies abdominal
+pain/swelling. denies blood in
+urine. denies difficulty urinating.
+denies frequent urination.
+
+denies pain in lower back,
+denies painful urination.
+musculoskeletal:
+
+denies carpal tunnel.
+
+denies | oint stiffness. denies leg
+cramps. denies muscle aches.
+denies pain in shoulder(s).
+denies painful joints.
+
+denies sciatica. denies swollen
+joints. denies trauma to arm{s).
+denies trauma to hip(s}.
+
+denies trauma to knee{s}.
+denies trauma to anklefs}.
+denies weakness.
+
+peripheral vascular:
+
+denies absent pulses in hands.
+denies absent pulses in feet.
+denies blanching of skin,
+
+denies cold extremities.
+
+denies decreased sensation in
+
+extremities. denies pain/cramping
+
+in legs after exertion. denies painful
+
+extremities. denies ulceration of
+
+feet.
+
+podiatric:
+genies achilles pain.
+
+denies achilles swelling.
+
+denies ankle pain. denies ankle
+
+swelling. denies baill of foot pain.
+
+denies big toe pain. denies big toe
+
+swelling. denies burning.
+
+denies difficulty walking.
+
+denies fever, denies foot
+
+page: 020 of 030
+
+page 16 of 17
+
+gp 962131.$/38 21012916267.
+
+7/17/2023 10:20 am from: fax null
+
+to:
+
+9548341807
+
+page: 021 of 030
+
+page 17 of 17
+
+1° 2%f *1éa $/"q 2215615912. xb8.id -xi!)) . dp 962191.$/39 210129.16267.
+
+numbness. denies foot pain.
+denies] oint dislocation.
+
+denies redness over the achilles.
+denies sole pain. denies wound
+oozing.
+
+denies acne. denies blistering
+of skin. denies discoloration.
+denies dry skin, denies eczema,
+denies hives, denies itching.
+denies keloid formation.
+
+denies molefs). denies nodulefs).
+denies photosensitivity.
+
+denies rash. denies rash on feet, 8
+denies scaly lesions of skin/scalp. <
+denies skin cancer. denies skin :
+lesion{s). denies skin cazing.
+denies sun sensitivity.
+
+neurologic:
+
+genies balance difficulty.
+
+denies coordination.
+
+denies difficulty speaking.
+
+denies dizziness. denies fainting,
+denies gait abnormality.
+
+denies headache.
+
+denies frritability. denies loss of
+strength. denies loss of use of
+extremity. genies low back pain,
+denies memory loss. denies pain.
+denies seizures. denies tics.
+denies tingling/ numbness.
+denies transient loss of vision.
+denies tremor.
+
+psychiatric:
+
+denies anxiety.
+
+denies auditory/visual
+hallucinations. denies delusions,
+denies depressed mood,
+
+denies difficulty sleeping.
+
+denies eating disorder. denies loss
+of appetite. denies mental or
+physical abuse. denies stressors.
+denies substance abuse.
+
+denies suicidal thoughts.
+
+health education:
+
+denies blood pressure
+screening, genies diabetes
+screening, denies family
+planning/safe sex teaching,
+denies h ealthy weight education.
+denies h epatitis vaccination.
+denies influenza vaccination.
+denies lipid screening.
+denies pneumovax vaccination.
+denies smoking cessation.
+cancer self-management:
+
+denies breast self-exam.
+denies colanoscapy.
+denies mammogram. denies pap
+testing. denies psa testing.
+denies skin exam. denies smoking
+cessation. denies use of sunscreen,
+
+
+--------------------------------------------------
+Physician Notes 4.txt
+pagel biof 4
+
+ee
+2023
+
+) munson healthcara
+
+appointment facility:
+
+02/28/2023 proggass: note: [need
+reason for appointment
+cumment medicatsans lfaass pli flivight
+* cinnamon hisitosy of present liiness
+ee screening and: splial. tests:
+‘ si tino moqmabtetial tablet th morsef. iskalcale
+mmputnonsesedagday let history obfafhtin gniineirediateitim withintl nifmtiis
++ lisinopmil comagtralsfet tabled bgt secanidaryliatiagnosno - 0
+pt mileniakne resthurse aassist0
+tablats rone wi) kno -
+- {uae piin aenday gait/transfferringg normal/bedressfimmakitte- 20
+* aspirin 881 _ mental statss orientatitctouowmbiability - 0
+* ipratropiun® ®roniide etre n ent
+‘ moai: arivamt donhid odiag sittire;arsittiadinafid lreading?
+slig
+whatissqounhatiant dong oziag wwtramglatthing! nae
+whatis syoutharant donfigoziag sittieninsitttivegniagatilie in a public
+place? 0 -2nawe
+whatis atheantdonhgezingasssngepassentarfor 1
+hour, mob d- nore
+"whatid sour chatleant doeihgostieg yktypdov ngreioianhto rest in the
+afterraofi? 3 -
+offa yey chanieveal cing lines sill ant stisro it talking to
+someone? 0 —/kare
+see rt chaties ct seumgociny sithenqsittingfteuiathy? after lunch?
+2-
+whatis sqoutharhant donfhigodiag dwheg adrimistgpacdan stopped in
+trafific? 0 -\nare
+epee
+tanttorks |steapimdhsilscale
+
+how ddegiplyo dou fallyéesleyolasisiegiitiast night?
+“ho soi dos pbieseyciaghiest ih sex? usual sleep?
+
+degreesfgicteepiness
+testing:
+sleep6tstydy
+meneeoth de sctinical pad euiae be ght ig htaffdtration
+study thisisvaw asspait syptibt stout. or lefsateftigitd right
+
+sides sisnoringnaéndprespina wegmtsvaveratndtgbap was
+
+progpess: noe md 02/28/2023
+
+note ggeneratied diiechinioalwgrks femr/pmb software c liminuiegtinioalwvorks. com)
+
+hitbo///17d. 30. d1: 20008200 /rhobitédodéispsdatalddhunl/stintmultiplechacto pticdi2radakou...
+page 2fof 4
+
+i  ec73.10) necrse. nessrncwass57 dos:
+
+62/28/2023
+
+startediamn dttiteated.¢ on14 2m brr 3h heedseckediumddiam vitera
+ffm. aterneportiedatihitssieep tire the wabuwas worseuthale usual.
+had ffeeocrerrlms. ddnee jaane
+rer oer ar ial
+ss hs
+clinical peiytysomangnasplit inbbt ittitiatigmditudy:
+datreofofisipepicstun\p8 /2o2b/
+
+full nibhteracextienhetinie:s a8zutssninutes
+
+indication:
+
+patiantis a777feeatd atdlanaleiswbmgisvabingddvatiated for sleep
+apnea patient twarsdidiagaatecthvletbp see (apmear(isareecords are
+avaallaibte)hethadhaepiu bpripsym pfaiasp ofisteap2 aprkebatert back. patient
+wouilldlikikéo be treevaduated| ebrfapnsteaind stariddinehredérbarté nt.
+patiertthasprpinbf dt htiycepadem presence ef ofabbcimieh left
+7 einai ceed obesity
+
+130)
+
+reviewingnarhe¢hen firén019/ 2019
+
+1.) ntonmaalv efettin draractiend ghbablabatsthlictysialim.function.
+
+2. draraobionsi¢d5c%.60%.
+
+3. ig nape eater om =
+
+4. thheortortid wai waldsfisti ets tctnctaiba thy pain
+nonmd led exexcursiomitihoutamycedider cbaarftiactticostenosis or
+insufffiatengy
+
+5. whikd nntitiaval twerepequitgitation.
+
+6. méddertateictripus piguns gurgitation.
+
+7. inarma ‘sys tolissypeessure.
+8. thket ptsi'p s/apchwasohi lia theclaa wwihietsitiswedlhnositioned and
+thereisiscdotlot.
+
+1. ssiefeparbafieecubresteemrarchitactumesinimpaided
+inchudlimpininreneas 6. shtbps lmepeasat téaskedp ndstes in3) eidowval
+wanees|steem dalzdradest dies rem |steepic&eeppfeffidiency of 44. 6%
+
+(nonmad 185%) skigepwnbetniatenéy.cohi®atd mi da at
+15-<20mmirtatadanéhye 65y-93 deni h:8 os pam erm cof 162
+minutkednororh 80-442 fhimitestes)
+
+2. snoring: thdchniniaeprepdrhectisnorimghsyasdobsenyed during
+
+sturity.
+
+3. respiratory: mimddertatebstbstructivep steep vafinaa with an
+apnea/hypopredniideshahi) of d@dteyeritsugenphoeur, supine
+stariileobly el clea or pasitidnewdis taehieved) . the
+slegpdidisdedet ¢ vatee}h ivithha nh /
+teat oodadeutaimultta saasatroeos 692 péenp arene. 2.8
+minutes inith>gp@2natbeod keep 7 or completed
+from 77oto4 bhem bi 2a grapppcessiere; dba heeaahwvawas
+3.4/hormmiminnuiipospoz sas be pitinseowithasspo2ores end below 88%
+wasow qirmiat tasvrbematate nals wasrobs dastledakawas
+aceebthlel dirt diet bittebio suppdtemetatamyege nvawast not
+required cinayectskekbscatheat birtterpatientswmas absent.
+
+4. eecgaanavysist ithevcawer dgart meginin waass bbrbpm.
+normalsinusrinith maswased tbeshgthnouijeoudig hprepremmature
+
+progpess note md 02/28/2023
+
+note ggenerated di yiectibicalwvorks femr/am &oftwarecliminmmie@tinioalworks. com)
+
+htbo'///1°7d. 30.21: bodlb2oo0 srhobipédotfispidatahagikial /ohiatmultiplechacto pti cdj/2yamexkk ou...
+pages 3fof 4
+
+ ec73.10) necrse. nessrncwasss57 dos
+
+62/28/2023
+
+pentinicuta contreattin ip (rv gptedt &depisdd ef ofideidenplmplex
+tee eats
+
+iueg iwonfenieintss anmalysisaaigighifind ikepaatativityawas
+seen sh ermehiclin tinnbbernenty gprm yt inde w am asec hey that that
+improwelcotoss5 lau owth gtap.cpap.
+
+i pleascvfefer paiyeotysommagratn pate atanné doom tharther
+jetaits.
+
+vittsl signs
+ht: coftfits iki, wht: wdto a {bms iiilex, botiys:stifadeedtrea:
+2.23 paaiscateate:
+
+assesmreants
+
+1. obatiuctivdesierpcapfeg.32g4aibayprimary)
+2. witideonmieplexhtaahyaa tit@.c roo. 0
+
+3. pvc (focematerearttrialda cortteattion} 149.33
+4, ppaciddiiniinnoveanvemefites p g4g41.61
+
+treattnesnt
+i. obstructive sleep agmresa
+notes:
+
+iti ce ra presessu rifconi2 pa pattemtll
+archicabtdianiedigdl suppimycshehpmbniwwikbese a
+maskteta: iter foremeaneaaocasatettmask fitting.
+
+- patierituailll nétumrfofdollfotow atphatldpecsslte pn cehtero tml to 90 days
+repute vipa arin teal ear de. itod egm@pidnco tips pes is
+
+to sandch corginplienievdowntbtice poftiins aar mtedofdhethe
+
+initial 7adays.
+
+- reconmmeddeleetaw aitiiuinggpprerecéobinand wwelgmhanagaagement.
+avoidimarcaticsetiativesn éattoattoholheasnthesaceayteskagerbate sleep
+apnearahdt undeddylyinespaspiratdsyrdisorder.
+
+- the mussofles}ee popiser@arste mi tk bencontactingatizat patient
+
+to disous sh¢hesediiiged ingsrcannhmendshomsnmaitieredtp pptignatients
+follow-ipppapmdinéntent.
+
+in aacontdancethwibk atneriam ériademacéieap/mefistaepmyledicine,
+signatucetiatte shat that athéatrani tidatdeapf hhisedleepaprocedure was
+revieveddh itsitstierttitetyidyncrecanthyscorestdydasdgistened technician
+in itscemtitetscorings im incardandamath titaatid maasiml fitemual
+sconingofdii sp epd ascocssddiatats farenthe usingintheded commended
+quiiddlime sexeepforf bfedvientic ansieg hthecatadpt abidelgutisjelines,
+
+2043. .
+
+2. wide-complex tachycardia
+notes:
+
+- an episddef ofdvidenphmiplewckadhycardistewvas noted
+
+progpess note md 02/28/2023
+
+note ggeneratied cdiyiectinicalwrks femr/alm software c (immaiegtinioalworks. com)
+
+hitbo///1°7d. 30.21: boilb2o0 srhobipédotfispidatakadikinal /ohiatmultiplechacto pti cdj/2yamerxkk ou...
+pagel 4fof 4
+
+i  ec73.10) necrse. nessrncwass57 dos:
+
+62/28/2023
+
+- patiierttwasasgsypippbamationingththesieepiystudy
+- patiienttwascatatiech ddincddmedianiedmanyms yar bemes s,
+
+pallpitation direst papajsobsobepedbegaedema
+- patiierttwasadasdded cal rgn tegpritomtorgeve 6 getltekg/ holter
+monitor pation wasaadsided gtalgobthe lertdftsaashasts having
+
+elas se oe plan
+
+2. ee ee aioe contractiam)
+mnp pcp thocmndéelen b4hbiteholtertamon(ekgig/
+
+deen rariodic limb mowanrantsof sttegp
+
+- pay ee en ee, plmd.
+bae mededitatitra treatriterrpmmd .
+
+proaetiuee codes
+958i ppovysdimnorrarhy vpepap
+
+foltaw up
+31tto98gagaysenfhera imi¢idtingpy\thenapyittomgaonitoripgiaand compliance
+
+electionitailly signed a on apr2/2023 ait
+65:48 pm bst
+
+sign afff stittss completed
+
+sleep disorders center
+550 nwnson ave
+trauereee city, mi 49686-3580
+tel: 231-093599697
+fax: 231-0935993800
+
+progness note: ferris alkazir,md 02/28/2023
+note ggenetatted diyieciblicalwvorks femr/pm gofitwarec(iminmmie@tintoalworks. com)
+
+htbo'///1°7d. 30.21: bodlb2oo0 srhobipédotfispidatahagikial /ohiatmultiplechacto pti cdj/2yamexkk ou...
+
+--------------------------------------------------
+
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the delivery_tickets category:
+Delivery Ticket 2_1.png
+Delivery Ticket 2_0.png
+Delivery Ticket 1_0.png
+Delivery Ticket 1_1.png
+        This is the text from all known documents in the delivery_tickets category:
+        Delivery Ticket 1.txt
+american homecare
+quipment
+‘oxygen permit #327067
+
+american homecare equipment, inc.
+6600 nw 12th ave
+
+suite 217
+
+fort lauderdale, fl 33309
+954-772-5052
+
+bill to:
+
+insurance: cigna government services / medicaid
+
+comments or special instructions:
+
+mm - rt new home set up.
+*compliance required
+
+delivery receipt
+
+branch:
+
+inv location:
+date:
+
+cs
+order #:
+patient id:
+customer #:
+account #;
+dob:
+gender:
+
+shipped/delivered to:
+
+phone:
+mobile:
+
+hipaa signature on file: yes
+
+rx cpap at 15 cm h20 with epr 3 and airtouch f20 mask from dr carlos santos
+
+ord qty [del qty type item
+
+ext. allow ext. amt. co-pay
+
+rental resmed / 39000
+
+uom:each(es)
+
+serial number: 22231038074
+
+note:
+
+cp0100/generic cpap standard or auto.
+39000 / resmed cpap airsense 11 autoset
+
+$63.08 $152.50 $0.00 $0.00
+
+£0562/humidifier heated used w pap.
+
+purchase uom:each(es)
+
+note:
+
+$206.32 $330.30 $0.00 $0.00
+
+pillow or nasal
+purchase
+resmed / 63401
+uom:each(es)
+
+note:
+
+mask-ff-np-na gene/generic cpap mask full face, nasal
+
+63401 / resmed airfit f20 system medium w/hdgr
+
+$130.37 $250.00 $0.00 $0.00
+
+purchase cushion included
+
+uom:each(es)
+
+note:
+
+ahc-cpap cushion rep/full face, nasal pillow or nasal
+
+$49.59 $122.10 $0.00 $0.00
+
+name: abreu, juan
+order#: 196580
+
+page 1 of 2
+ord qty [del qty type item ext. allow ext. amt. tax co-pay
+a7035/pos airway press headgear included
+1 1 purchase uom:each(es) $25.74 $50.00 $0.00 $0.00
+note:
+fil-gen cpap dispfil/generic cpap disposable filter
+39301 / air11 filter standard, 2 pack
+6 6 purchase resmed / 30303 $19.50 $54.00 $0.00 $0.00
+uom:each(es)
+note:
+a7037-slim-ahc/ahc pap slimline tubing
+1 1 purchase uom:each(es) $21.20 $75.00 $0.00 $0.00
+note:
+total $515.80 $1,033.90 $0.00 $0.00
+
+please note that the above pricing amounts are an estimate of your financial responsibility only and are not a
+guarantee. final determinatation of your financial responsibility is made by your insurance provider after your
+claim for services has been submitted. any private pay or otherwise patient responsibility equipment sales,
+services, or copays/coinsurance are considered final and non-refunadable, unless agreed to seperately in
+writing.
+
+all information has been given to the company to bill any resources for services provided. | certify this
+information is correct. | have been instructed & understand the safe use & maintenance of the above equipment. |
+authorize the release of any medical information necessary to process this claim. | also request payment of
+medical benefits to the undersigned supplier for services. | have read & understand the provisions on this
+agreement.
+
+linh 19 dl
+
+signature of patient or date tech signature
+authorized representative
+abreu, juan 07/19/2023 14:15 daniel torres
+
+relationship to patient: self
+
+reason patient could not sign:
+
+name: abreu, juan page 2 of 2
+order#: 196580
+
+--------------------------------------------------
+Delivery Ticket 2.txt
+delivery receipt
+
+american homecare
+quipment
+‘oxygen permit #327067 . .
+american homecare equipment, inc. branch:american homecare equipment, inc
+6600 nw 12th ave inv location: miami warehouse
+suite 217
+fort lauderdale, fl 33309 date
+954-772-5052 csr
+order
+patient |
+customer
+account #
+dob
+gender: female ht (in): 59.84 wt (ib): 120.20
+bill to: shipped/delivered to:
+phone:
+mobile:
+insurance: cigna government services / aarp hipaa signature on file: yes
+
+comments or special instructions:
+
+mm - rt new home set up.
+
+*hcmg clinic
+
+*compliance required
+
+rx apap 5-20 cm h20 with mask of choice from dr frank sorhage
+
+"| authorize credit card ending in 1008 to be charged for current and future insurance out of the pocket responsibilities."
+
+ord qty del qty type item ext. allow ext. amt. tax co-pay
+
+cp0100/generic cpap standard or auto.
+39000 / resmed cpap airsense 11 autoset
+resmed / 39000
+
+uom:each(es)
+
+1 1 rental $63.08 $152.50 $0.00 $0.00
+
+serial number: 23223608894
+
+note:
+
+£0562/humidifier heated used w pap.
+
+1 1 purchase uom:each(es)
+
+$206.32 $330.30 $0.00 $0.00
+
+note:
+
+mask-ff-np-na gene/generic cpap mask full face, nasal
+pillow or nasal.
+
+1 1 purchase vit1smla / (ahc only) fisher and paykel vitera ff fitpack $0.00 $0.00 $0.00 $0.00
+fisher & paykel healthcare / vitismla
+uom:each(es)
+
+note:
+
+ahc-cpap cushion rep/full face, nasal pillow or nasal
+
+1 1 purchase cushion included $0.00 $0.00 $0.00 $0.00
+uom:each(es)
+note:
+name: shamlian, diane page 1 of 2
+
+order#: 188525
+ord qty [del qty type item ext. allow ext. amt. tax co-pay
+a7035/pos airway press headgear included
+1 1 purchase uom:each(es) $25.74 $50.00 $0.00 $0.00
+note:
+fil-gen cpap dispfil/generic cpap disposable filter
+39301 / air11 filter standard, 2 pack
+6 6 purchase resmed / 30303 $19.50 $54.00 $0.00 $0.00
+uom:each(es)
+note:
+a7037-slim-ahc/ahc pap slimline tubing
+1 1 purchase uom:each(es) $21.20 $75.00 $0.00 $0.00
+note:
+total $335.84 $661.80 $0.00 $0.00
+
+please note that the above pricing amounts are an estimate of your financial responsibility only and are not a
+guarantee. final determinatation of your financial responsibility is made by your insurance provider after your
+claim for services has been submitted. any private pay or otherwise patient responsibility equipment sales,
+services, or copays/coinsurance are considered final and non-refunadable, unless agreed to seperately in
+writing.
+
+all information has been given to the company to bill any resources for services provided. | certify this
+information is correct. | have been instructed & understand the safe use & maintenance of the above equipment. |
+authorize the release of any medical information necessary to process this claim. | also request payment of
+medical benefits to the undersigned supplier for services. | have read & understand the provisions on this
+agreement.
+
+(fhe 5/43 emt le
+
+signature of patient or date tech signature
+authorized representative
+
+05/04/2023 19:00 humberto landa
+
+relationship to patient: self
+
+reason patient could not sign:
+
+name: shamlian, diane page 2 of 2
+order#: 188525
+
+--------------------------------------------------
+
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the orders category:
+Order 2_0.png
+Order 4_0.png
+Order 3_0.png
+Order 1_0.png
+        This is the text from all known documents in the orders category:
+        .DS_Store
+   Bud1            %                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @                                              @                                                @                                                @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   E   %                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       DSDB                             `                                                     @                                                @                                                @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+--------------------------------------------------
+Order 1.txt
+7/20/2023 11:43 am from: fax carlos r. santos md pa (n miami beach office) to: 9548341807 page: 003 of 004
+patient: abreu, juan dob: aug 12, 1978
+
+standard written ‘or
+
+|
+|
+l
+|
+
+doc 10: 1/8491 [883239
+physician: carlos r santos
+; 16855 ne 2 avesuite 302a initial date = 07/24/
+revised date
+miami beach, florida 33162 recertification
+license 9/007 j || length of need so
+phone [| tin months) - -.
+progrmeasis .
+diagnosis ; ‘
+cd-10 cade description :
+ats obstrudlve seep apnea (adel) (pedaukc)
+equipment/services
+ots item name/ narrative
+bos62 humidifier heated useo w pap at night . -
+aris pos airway press headgear included 1 per g months
+a037 ah pap slimline tubing 1 per 2 months
+a033 full face, nasal pillow or nasal cushion included 1 per 1 month
+feey resmeo crap airsense 14 autoset af night
+a034 rasmed akfa f20 system medium wihdgr 1 peri months
+arib aickt filter stantatd, 2 pack 2 per 1 month
+apoi6 premium chin straps 1 per 6 months
+apo39 remstar pro pollen filter 1 pk 1 per 6 months
+aag drearmstation water;chamber 1 per 6 months
+
+signature:
+
+hnuseeaaaea an a
+
+
+--------------------------------------------------
+Order 3.txt
+mar/27/2023/mon 02:57 pm fax no, p. 002
+
+bush, robert (mrn 005861539) encounter date: 03/16/2023
+
+i:musc
+medical university
+of south carolina
+
+patient demographics
+
+department ;
+name address - poor phane 0, fax
+pulmonology at musc health 1600 midtown avenue, 2nd floor 843-792-9200 843-876-8255
+east cooper mt pleasant sc 29464
+order
+order name : : 2." priority
+other supplies/equipment routine
+associated diagnoses
+__1cd-10-cm icd-8-gm
+osa (obstructive sleep apnea) - = g47.33 327.23
+primary
+comments
+
+please set-up res med s10 or 11 auto elite cpap at 5-20 em/h20 with heated
+humidification, ramp as needed, chin strap as needed, filters, headgear, mask as per
+choice, tubing compliance card, and option for heated tubing if needed. please set-up
+with supplies asap. please download in one month, two months and at the year mark and
+fax to attention dr. rinn.
+
+please fax a confirmation that you received this order, any additional items needed
+and a setup date.
+
+setup for lifetime or 99 years
+please add to alrview musc- health east cooper
+
+please contact the patient the day you receive thia order, if you cannot service this
+patient please call our office immediately.
+
+fax number is 843-876-8255
+
+order questions .
+question - | ae on  answere og me
+how will dme be supplied? patient supplied (will print)
+supplies or equipment needed osa tx asap
+
+authorization - please review
+
+provider signature (if not electronically entered by authorizing provider above or this is a reprint of an original
+page 1 of 2
+
+--------------------------------------------------
+Order 2.txt
+05 / 08g afb /29 ob sp he ppar ty health > vedz211ngn21 rfcomect pam = page baz
+
+standard written order
+
+provide [| ——
+
+fort laterdale, florida 33309-1147
+phone (954)772-5052
+
+fax — (9549834-1811
+boc ids 148491 )822182
+physicians prank sorhage
+
+1930 ne 47th st suite 205 initlai date = 04/27/2023
+revised date
+ft lauderdale, florida 33308 recertification
+
+length of need 99
+{in months)
+
+prognosis
+diagnosis
+icd-16 cade ‘deseription
+647,33 obstructive sleep apnea (adtll} (pediatric)
+equipment /services
+qty prac. cede them name narratives 00
+l e0s62 humidifier heated used w pap at night
+ft a?038 pos airway press headgear included 1 per 6 months
+i a037 ahc pap slimline tubing 1 per 3 months
+l eoeot resmed cpap airsense 11 autoset at night
+§ a038 alri filter standard, 2 pack 2 per 1 month
+i 47036 (arc only} fisher and paykel vitera ff fitpack 1 per 2 months
+i a7o34 pull face, nasal pillow or nasal cushion included 1 per 1 month
+£ ayoag water chamber 1 per 6 months
+cno-t?
+
+; -,
+
+signature: date:
+
+veit
+
+414822482
+
+--------------------------------------------------
+Order 4.txt
+# 6/2/2023 15:20 munson healthcare rrd > 2316475909 4/4
+
+po megp 136887; gloc 72839; a4013204; dha82362; tc8s5969; gtsg55116;
+
+cbfc855969, baui15261; thv95267; sc6b532; m0514526
+11/30/1945 * in progress * 0057323260
+
+05716423 11753 12319359300 pg 2
+
+pap and supplies
+
+provider: mangon home services patient:
+s21: w, front: street
+traverse city, mi 49684-8153
+phone (234) 935-2100
+
+initial date 05/00/2023
+physician: revised date:
+recertification
+
+length of need 12
+(in months}
+
+policy sec2 laws ?.
+
+diagnosis -
+
+description
+oqustruclive sleep apnea. (adult) (pediatric)
+
+equipment/ services
+
+qty. proc, cade item name/narrative
+i a7034 #mask, airfit-n 20 large
+9 apore cushion:
+
+i a?035 heacigear
+
+4 a?o36. chinatiap:
+
+& apo38 disposable filter
+
+4 a404 tubing
+
+1 apoag chamber
+
+additional medical information
+informational onlv-gty. limits
+(a7030 1/3 months
+
+a?o3% 1/month
+
+a7032 2: pair/month
+
+(a7033 2 pair/month
+
+(a7034 1/3 months
+
+a035. 1/6 months
+
+(a7036: 1/6. month
+
+: 1/3 months.
+
+2/month
+
+1/6 months
+
+1/6 months
+
+4/3 months
+
+i i un
+
+ligt2olbhg08s
+
+sleep disorders tc page 4 of 4
+
+--------------------------------------------------
+
+**************************************************
+
+            The images are sorted by document. It will be formated like so:
+            For a given document, its corresponding images will be titled like so "[document_title]_[i].png", where i will be the index of the image.
+            So, for example, if there are three images for a document titled "example1.pdf", the images will be titled like so:
+            "example1_0.png", "example1_1.png", and "example1_2.png".
+            These are the names of the images in the prescriptions category:
+Prescription 2_0.png
+Prescription 4_0.png
+        This is the text from all known documents in the prescriptions category:
+        Prescription 4.txt
+dme rx
+munson traverse city sleep disorders center
+
+* 550 munson ave patient
+(231) 935-9307 fax: (231) 935-9300 sticker
+patient name- date of arn
+home phone
+
+dme company: e
+
+new pap device w/60d download © pressure change o if done in office, please indicate o mask change
+o download in __ bays o-continne current pressure o continue current mask o continue current maskand pressure
+diagnosis (icd-10): @ osa g47.33 o csa (g47.31) o tx emerg csa (g47.37) o copd 144.9 © other: |
+
+duration of need: 12 months or o other:
+
+cpap (e0601) pressure: / y c-flex/epr setting:
+o autopap (eq601) pressure range: c-flex/epr setting:
+o bipap s (e0470) ipap: epap: bi-flex setting:
+
+o auto bipap (20470) min epap max [pap ps
+
+for bipap (e0470); o tried cpap and failed highest cpap tried
+
+[e) bipap st (e0471) ipap epap. back up rate
+
+for bipap w/ backup rate (e0471)__——s patient had__—'% central events (need > 50 % centrals)
+
+o asv (e0471) epap: maxps: min ps:
+
+o asv auto (e0471) min epap: max ipap: ss min ps: maxps:_
+
+for asv patient had central events (need > 50 % centrals)
+
+o iaps (e0471) pt. ht.____s target rate_—s target vol____/min epap minps maxps.
+
+o avaps (£0471) pt. ht___ target rate___ target vol vmin epap min epap max minps maxps
+
+y humidifier (£0562)
+
+o mask: itera size: m_type: fea o or best fit
+
+pap mask and supplies (length of need 12 months)
+
+y water chamber (a7046) 1/6 mo. o nasal cushion (a7032) 2/mo. o patient preference
+
+y heated tubing (a4604) 1/3 mo. y full face mask (a7030) 1/3 mo. o nasal pillows (a7033) 2/mol
+
+o non-heated tubing (a7037) 1/3 mo. y full face cushion (a7031) 1/1] mo. y head gear (a7035) 1/6 mo.
+y disposable filters (a7038) 2/lmo > o nasal mask (a7034) 1/3 mo. y chin strap (a7036) 1/6 mo.
+o oxygen ___lpm during sleep mode: o inline w/cpap/bipap o cannula
+
+comments:
+
+physician signature: date of signature/order:
+
+o jenny f. reid, np npi 1447555073 o lois neering, np npi 1215108584 o james g. milliken, md npi 1467459867
+
+o john p. kremarik, md npi 1932106531 o hillary loomis-king, md npi 1346404068
+
+revised!01/09/2023
+
+document: rx cpap mhme tc 03.02.2023 printed: 03-29-2023 01:55:46
+
+newn 4 afd
+
+--------------------------------------------------
+Prescription 2.txt
+hcmg pulmonary date: apr 27, 2023
+4725 n federal hwy, ste 203
+
+fort lauderdale fl 33308-4603
+
+phone: 954-491-8981
+
+fax: 954-489-0655
+
+cpap dme (order id: 701783674)
+
+order date: 4/27/2023
+
+diagnosis: obstructive sleep apnea, adult (g47.33)
+quantity: 1
+
+height:
+
+weight:
+
+scheduling instructions: if the ahi or rdi is calculated based on less than 2 hours of sleep or recording time, the
+total number of recorded events used to calculate the ahi or rd! must be at least the number of events that would
+have been required in a 2 hour period.
+
+the face-to-face evaluation was completed by:
+
+reason(s) for script: new prescription (and all related supplies)
+
+additional providers who completed a face to face evaluation of the patient: sorhage, frank [50595]
+changes only: (auto unit l=5/h=20)
+
+tubing: (a7037) reusable tubing (1/3mo)
+
+tubing: (a4604) heated tubing (1/3mo)
+
+type of interface and accessories: (a7038) disposable filter (2/1mo) (mask fit to patients comfort)
+type of interface and accessories: (a7039) reusable filter (1/6mo)
+
+type of interface and accessories: (a4604) heated tubing (1/3mo)
+
+type of interface and accessories: (a7046) humidifier chamber (1/6mo)
+
+length of need 12 months: (99)
+
+the ahi is from 5 to 14 events per hour with documented symptoms of: (osa g47.33)
+
+insurance payor plan group# subscrib
+erid
+
+primary: medicare 40000101
+secondary: aarp 10000701
+
+electronically signed by
+on apr 27, 2023, at 5:18
+
+--------------------------------------------------
+
+    Now that you have all the information, you need to classify the inputted, unknown document.
+    Here is the text from that unknown document:
+    7/17/2023 10:20 am from: fax null to: 9548341807 page: 003 of 030
+
+oba +
+s00 north agami geach glvih, suite ad!
+" rorth mamldeach, fl ko182
+tel (sebo gsae, fax (rg) b05
+bation wag 51 1 re
+
+mame
+anbness
+tampere aresitant security featired listed on brac hoof ec
+
+oy.
+
+r oof
+o cpap isen ha
+& epl-3-0
+go hehe
+ose * fs hae
+aodlourl f2-0
+
+rh
+
+'
+
+pain excép hon ci
+coh?
+
+fe ordsr fora grandmas diggnnged the pragcones mung writin markaly
+
+a
+neosssary on thedroct ef this paesanion, :
+
+0 oo0s1s 2koagpoz4agea
+
+lake
+roll naoo1 2 a 4
+
+
+    
+        Here are the image titles for the unknown document:
+        unknown_0.png
+
+    THIS STEP IS VERY IMPORTANT! OUTPUT YOUR CLASSIFICATION IN THE FOLLOWING FORMAT:
+    "Classification: [category]", Confidence_%: [confidence_%], Reasoning: [reasoning]
+    For example, if you think the document is in the example category with 80% confidence, you would output:
+    "Classification: example", Confidence_%: 80, Reasoning: [reasoning]
+
+    ONLY OUTPUT THE CLASSIFICATION, CONFIDENCE, AND REASONING. DO NOT OUTPUT ANYTHING ELSE.
+    
+

@@ -1,0 +1,8 @@
+{
+    "document_name": [
+        "Delivery Ticket 1.pdf"
+    ],
+    "classification": "delivery_tickets",
+    "%_match": "95",
+    "reasoning": "The document is a delivery receipt for medical equipment.  It includes billing information, insurance details, patient information, and a list of items delivered.  The layout and content strongly resemble other delivery tickets provided in the dataset.\n"
+}

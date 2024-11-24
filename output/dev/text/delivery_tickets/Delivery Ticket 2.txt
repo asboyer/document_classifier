@@ -1,0 +1,111 @@
+delivery receipt
+
+american homecare
+quipment
+‘oxygen permit #327067 . .
+american homecare equipment, inc. branch:american homecare equipment, inc
+6600 nw 12th ave inv location: miami warehouse
+suite 217
+fort lauderdale, fl 33309 date
+954-772-5052 csr
+order
+patient |
+customer
+account #
+dob
+gender: female ht (in): 59.84 wt (ib): 120.20
+bill to: shipped/delivered to:
+phone:
+mobile:
+insurance: cigna government services / aarp hipaa signature on file: yes
+
+comments or special instructions:
+
+mm - rt new home set up.
+
+*hcmg clinic
+
+*compliance required
+
+rx apap 5-20 cm h20 with mask of choice from dr frank sorhage
+
+"| authorize credit card ending in 1008 to be charged for current and future insurance out of the pocket responsibilities."
+
+ord qty del qty type item ext. allow ext. amt. tax co-pay
+
+cp0100/generic cpap standard or auto.
+39000 / resmed cpap airsense 11 autoset
+resmed / 39000
+
+uom:each(es)
+
+1 1 rental $63.08 $152.50 $0.00 $0.00
+
+serial number: 23223608894
+
+note:
+
+£0562/humidifier heated used w pap.
+
+1 1 purchase uom:each(es)
+
+$206.32 $330.30 $0.00 $0.00
+
+note:
+
+mask-ff-np-na gene/generic cpap mask full face, nasal
+pillow or nasal.
+
+1 1 purchase vit1smla / (ahc only) fisher and paykel vitera ff fitpack $0.00 $0.00 $0.00 $0.00
+fisher & paykel healthcare / vitismla
+uom:each(es)
+
+note:
+
+ahc-cpap cushion rep/full face, nasal pillow or nasal
+
+1 1 purchase cushion included $0.00 $0.00 $0.00 $0.00
+uom:each(es)
+note:
+name: shamlian, diane page 1 of 2
+
+order#: 188525
+ord qty [del qty type item ext. allow ext. amt. tax co-pay
+a7035/pos airway press headgear included
+1 1 purchase uom:each(es) $25.74 $50.00 $0.00 $0.00
+note:
+fil-gen cpap dispfil/generic cpap disposable filter
+39301 / air11 filter standard, 2 pack
+6 6 purchase resmed / 30303 $19.50 $54.00 $0.00 $0.00
+uom:each(es)
+note:
+a7037-slim-ahc/ahc pap slimline tubing
+1 1 purchase uom:each(es) $21.20 $75.00 $0.00 $0.00
+note:
+total $335.84 $661.80 $0.00 $0.00
+
+please note that the above pricing amounts are an estimate of your financial responsibility only and are not a
+guarantee. final determinatation of your financial responsibility is made by your insurance provider after your
+claim for services has been submitted. any private pay or otherwise patient responsibility equipment sales,
+services, or copays/coinsurance are considered final and non-refunadable, unless agreed to seperately in
+writing.
+
+all information has been given to the company to bill any resources for services provided. | certify this
+information is correct. | have been instructed & understand the safe use & maintenance of the above equipment. |
+authorize the release of any medical information necessary to process this claim. | also request payment of
+medical benefits to the undersigned supplier for services. | have read & understand the provisions on this
+agreement.
+
+(fhe 5/43 emt le
+
+signature of patient or date tech signature
+authorized representative
+
+05/04/2023 19:00 humberto landa
+
+relationship to patient: self
+
+reason patient could not sign:
+
+name: shamlian, diane page 2 of 2
+order#: 188525
