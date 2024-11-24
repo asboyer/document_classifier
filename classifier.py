@@ -31,6 +31,7 @@ def classify(doc_name, auto_move=False, debug=False, images=False):
     classification["classification"] = category
     classification["%_match"] = confidence
     classification["reasoning"] = reasoning
+    classification["images"] = images
     if not os.path.exists("output/classifications"):
         os.makedirs("output/classifications")
     with open(os.path.join('output/classifications', f'{doc_name.replace(" ", "_").replace(".pdf", "")}.json'), 'w') as json_file:
