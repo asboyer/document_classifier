@@ -5,12 +5,12 @@ from keys import extract_all_text, unkown_path, extract_text
 from llm import classify_llm
 import os, json, shutil
 
-def classify(doc_name, auto_move=False, debug=False):
+def classify(doc_name, auto_move=False, debug=False, images=False):
     if debug:
         print("-"*50)
         print("Classifying", doc_name)
-        print("Extracting text")
-
+    
+    print("Extracting text from", doc_name)
     text = extract_text(os.path.join(unkown_path, doc_name))
 
     ignore = doc_name.replace(".pdf", ".txt")
@@ -21,9 +21,7 @@ def classify(doc_name, auto_move=False, debug=False):
     if debug:
         print("Classifying...")
 
-    output = classify_llm(text, ignore=ignore)
-
-    print(output)
+    output = classify_llm(text, ignore=ignore, images=images)
 
     category = output.split(",")[0].split("Classification:")[1].strip(" ")
     confidence = output.split(",")[1].split("Confidence_%:")[1].strip(" ")
@@ -61,6 +59,26 @@ def classify(doc_name, auto_move=False, debug=False):
         if os.path.exists(source_path):
             os.remove(source_path)
 
+        if os.path.exists(os.path.join('output', 'dev', 'files.json')) and images:
+            with open(os.path.join('output', 'dev', 'files.json'), 'r') as f:
+                files = json.load(f)
+
+        for file in os.listdir("output/dev/images/unknown"):
+            source_path = os.path.join('output', 'dev/images', 'unknown', file)
+            doc_img_name = f"{doc_name.replace(".pdf", "")}{file.split('unknown')[1]}"
+            if os.path.exists(os.path.join('output', 'dev', 'files.json')) and images:
+                file_id = files[file]
+                files[doc_img_name] = file_id
+                del files[file]
+            destination_path = os.path.join('output', 'dev/images', category, doc_img_name)
+            if os.path.exists(source_path) and not os.path.exists(destination_path):
+                shutil.move(source_path, destination_path)
+            elif os.path.exists(destination_path):
+                os.remove(source_path)
+        if os.path.exists(os.path.join('output', 'dev', 'files.json')) and images:
+            with open(os.path.join('output', 'dev', 'files.json'), 'w') as f:
+                json.dump(files, f, indent=4)
+
 def classify_all():
     for doc in os.listdir(unkown_path):
         if doc.endswith(".pdf"):
@@ -69,4 +87,4 @@ def classify_all():
 if __name__ == "__main__":
     for doc in os.listdir(unkown_path):
         if doc.endswith(".pdf"):
-            classify(doc, True)
+            classify(doc, auto_move=True, debug=True, images=True)

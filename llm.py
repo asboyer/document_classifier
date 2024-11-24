@@ -1,5 +1,5 @@
 import google.generativeai as genai
-import os
+import os, json, shutil
 from dotenv import load_dotenv
 from keys import get_mappings, get_common_ignore, folders
 load_dotenv()
@@ -10,7 +10,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 def create_prompt(unkown_text, images=False, manual=False, common=False, ignore=None):
     prompt = f"""
     Your job is to classify documents. You have been given a document that you need to classify.
-    You have been given the text from that document, as well as one or more images of that document.
+    You have been given the text from that document{", as well as one or more images of that document" if images else ""}.
     You have also been given categories of documents that have already been classified.
 
     The document is one of the following categories: {', '.join(folders)}.
@@ -55,9 +55,14 @@ def create_prompt(unkown_text, images=False, manual=False, common=False, ignore=
         for file in os.listdir(f"output/dev/text/{category}"):
             if file == ignore:
                 continue
-            with open(f"output/dev/text/{category}/{file}", "r") as f:
-                text = f.read()
-                prompt += f"{file}\n{text}\n{'-'*50}\n"
+            try:
+                with open(f"output/dev/text/{category}/{file}", "r", encoding='utf-8') as f:
+                    text = f.read()
+                    prompt += f"{file}\n{text}\n{'-'*50}\n"
+            except UnicodeDecodeError:
+                with open(f"output/dev/text/{category}/{file}", "r", encoding='latin-1') as f:
+                    text = f.read()
+                    prompt += f"{file}\n{text}\n{'-'*50}\n"
 
     prompt += f"""
     Now that you have all the information, you need to classify the inputted, unknown document.
@@ -81,22 +86,61 @@ def create_prompt(unkown_text, images=False, manual=False, common=False, ignore=
     ONLY OUTPUT THE CLASSIFICATION, CONFIDENCE, AND REASONING. DO NOT OUTPUT ANYTHING ELSE.
     """
 
-    with open("output/dev/prompt.txt", "w") as f:
-        f.write(prompt)
-
     return prompt
 
-def classify_llm(unkown_text, images=False, ignore=None):
+def classify_llm(unkown_text, images=False, ignore=None, debug=False):
     content = []
+    prompt = create_prompt(unkown_text, images=images, ignore=ignore)
     if images:
+        if not os.path.exists("output/dev/files.json"):
+            with open("output/dev/files.json", "w") as f:
+                json.dump({}, f)
+        with open("output/dev/files.json", "r") as f:
+            files = json.load(f)
         for category in folders:
             for file in os.listdir(f"output/dev/images/{category}"):
+                if f"{file.split("_")[0]}.txt" == ignore:
+                    continue
+                if file in files.keys():
+                    if debug:
+                        print("Already uploaded", file)
+                    content.append(genai.get_file(files[file]))
+                    content.append("\n\n")
+                    prompt.replace(file, f"{file} aka {files[file]}")
+                    continue
                 image_path = f"output/dev/images/{category}/{file}"
-                myfile = genai.upload_file(mime_type="image/png", file_path=image_path)
+                myfile = genai.upload_file(mime_type="image/png", path=image_path)
+                if debug:
+                    print("Uploading", image_path)
                 content.append(myfile)
                 content.append("\n\n")
+                prompt.replace(file, f"{file} aka {myfile.name}")
+                files[file] = myfile.name
+        
+        for file in os.listdir("output/dev/images/unknown"):
+            image_path = f"output/dev/images/unknown/{file}"
+            myfile = genai.upload_file(mime_type="image/png", path=image_path)
+            if debug:
+                print("Uploading", image_path)
+            content.append(myfile)
+            content.append("\n\n")
+            prompt.replace(file, f"{file} aka {myfile.name}")
+            files[file] = myfile.name
 
-    prompt = create_prompt(unkown_text, images=images, ignore=ignore)
+        with open("output/dev/files.json", "w") as f:
+            json.dump(files, f)
+    
+    content_strings = []
+    if debug:
+        for item in content:
+            if not type(item) == str:
+                content_strings.append(f"{item.name} | {item.display_name}")
+
+    with open("output/dev/prompt.txt", "w") as f:
+        f.write(prompt)
+        f.write("\n\n")
+        f.write('\n'.join(content_strings))
+
     if images:
         content.append(prompt)
         return model.generate_content(content).text

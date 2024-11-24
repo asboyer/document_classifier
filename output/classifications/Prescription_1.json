@@ -1,0 +1,8 @@
+{
+    "document_name": [
+        "Prescription 1.pdf"
+    ],
+    "classification": "prescriptions",
+    "%_match": "95",
+    "reasoning": "The document is a prescription for CPAP. It includes the patient's name, address, date of birth, and the prescription for CPAP.  The specific device, pressure, and mask are noted.  Additionally, there's a note indicating the order is for in-home use.  All this information aligns with a prescription for medical equipment.\n"
+}

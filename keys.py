@@ -16,7 +16,7 @@ folders = [f for f in os.listdir(docs_path) if os.path.isdir(os.path.join(docs_p
 def extract_text(pdf_path):
     """Extracts text from a PDF file using OCR."""
     text = ''
-    print(f"Extracting text from {pdf_path}")
+
     try:
         # Convert PDF pages to images
         images = convert_from_path(pdf_path)
@@ -30,11 +30,12 @@ def extract_text(pdf_path):
                 internal_path = "unknown"
                 if not os.path.exists(os.path.join(image_path, "unknown")):
                     os.makedirs(os.path.join(image_path, "unknown"))
+                image.save(os.path.join(image_path, internal_path, f"unknown_{i}.png"), "PNG")
             else:
                 internal_path = pdf_path.split("/")[2]
                 if not os.path.exists(os.path.join(image_path, pdf_path.split("/")[2])):
                     os.makedirs(os.path.join(image_path, pdf_path.split("/")[2]))
-            image.save(os.path.join(image_path, internal_path, f"{os.path.splitext(os.path.basename(pdf_path))[0]}_{i}.png"), "PNG")
+                image.save(os.path.join(image_path, internal_path, f"{os.path.splitext(os.path.basename(pdf_path))[0]}_{i}.png"), "PNG")
             # Perform OCR on each image
             page_text = pytesseract.image_to_string(image)
             if page_text:
