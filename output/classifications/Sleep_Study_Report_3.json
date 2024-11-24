@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Sleep Study Report 3.pdf"
+    ],
+    "classification": "sleep_study_reports",
+    "%_match": "99",
+    "reasoning": "The document contains typical elements of a sleep study report, such as patient demographics, sleep stages, respiratory events, and oximetry data.  The presence of graphs and charts further supports this classification.  The concluding section includes a professional assessment and recommendations related to sleep apnea.\n",
+    "images": true,
+    "time": 23.082006216049194
+}

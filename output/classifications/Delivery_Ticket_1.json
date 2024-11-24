@@ -3,6 +3,8 @@
         "Delivery Ticket 1.pdf"
     ],
     "classification": "delivery_tickets",
-    "%_match": "95",
-    "reasoning": "The document is a delivery receipt for medical equipment.  It includes billing information, insurance details, patient information, and a list of items delivered.  The layout and content strongly resemble other delivery tickets provided in the dataset.\n"
+    "%_match": "99",
+    "reasoning": "The document contains information about a delivery, including the patient's name, insurance information, items delivered, quantities, prices, and a signature.  The format and content closely resemble a delivery receipt or packing slip.",
+    "images": true,
+    "time": 14.526909112930298
 }

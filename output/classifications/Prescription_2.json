@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Prescription 2.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "95",
+    "reasoning": "The document is an order for CPAP DME (Continuous Positive Airway Pressure Durable Medical Equipment) from HCMG Pulmonary.  It includes details like the order date, diagnosis, quantity, scheduling instructions, and insurance information.  The format and content strongly align with the provided examples in the 'orders' category.\n",
+    "images": true,
+    "time": 12.386278867721558
+}

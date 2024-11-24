@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Compliance Report 4.pdf"
+    ],
+    "classification": "compliance_reports",
+    "%_match": "100",
+    "reasoning": "The document contains a compliance report for a CPAP machine, showing usage statistics, pressure settings, leak rates, and apnea/hypopnea index.  The formatting and terminology are consistent with other compliance reports provided.  The presence of a graph visualizing usage over time further solidifies this classification.\n",
+    "images": true,
+    "time": 13.317708015441895
+}

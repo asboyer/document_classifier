@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Physician Notes 3.pdf"
+    ],
+    "classification": "phys_notes",
+    "%_match": "100",
+    "reasoning": "The document contains progress notes from a physician, including details about the patient's medical history, symptoms, diagnoses, and treatment plan.  The format and content strongly align with the phys_notes category.",
+    "images": true,
+    "time": 26.511685132980347
+}

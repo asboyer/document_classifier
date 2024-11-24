@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Order 1.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "95",
+    "reasoning": "The document is a standard written order for CPAP equipment and supplies.  It lists the equipment, quantities, and billing codes, which is characteristic of an order form for durable medical equipment (DME).  The formatting and presence of a signature line further support this classification.\n",
+    "images": true,
+    "time": 15.515634298324585
+}

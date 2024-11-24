@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Delivery Ticket 2.pdf"
+    ],
+    "classification": "delivery_tickets",
+    "%_match": "95",
+    "reasoning": "The document is a delivery receipt for medical equipment, including a CPAP machine and related supplies.  It has pricing details, insurance information, patient details, and a signature section, which are all common features of delivery tickets.",
+    "images": true,
+    "time": 15.244489908218384
+}

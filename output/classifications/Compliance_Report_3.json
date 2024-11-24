@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Compliance Report 3.pdf"
+    ],
+    "classification": "compliance_reports",
+    "%_match": "99",
+    "reasoning": "The document contains data on usage days, usage hours, average usage, median usage, total used hours, and therapy parameters such as pressure, leaks, events per hour, apnea index, and RERA index.  These metrics are typical of a compliance report for CPAP therapy, indicating the patient's adherence to the prescribed treatment.  The branding and layout also clearly identify it as a ResMed AirView Compliance Report.\n",
+    "images": true,
+    "time": 15.937865018844604
+}

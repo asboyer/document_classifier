@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Sleep Study Report 1.pdf"
+    ],
+    "classification": "sleep_study_reports",
+    "%_match": "99",
+    "reasoning": "The document contains a polysomnography report, including patient demographics, testing methods, sleep data, respiratory data, arousal statistics, PLM statistics, tech comments, sleep architecture, impressions, and recommendations.  The presence of sleep staging diagrams and respiratory waveforms further solidifies its classification as a sleep study report.  The formatting and content closely resemble other sleep study reports provided.\n",
+    "images": true,
+    "time": 18.74401617050171
+}

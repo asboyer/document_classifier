@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Prescription 4.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "95",
+    "reasoning": "The document is an order form for CPAP machine and supplies.  It includes patient information, ICD codes, equipment/services requested, and signatures for authorization.  The format and content strongly align with the provided examples of \"orders\" documents.",
+    "images": true,
+    "time": 12.221032857894897
+}

@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Order 3.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "95",
+    "reasoning": "The document is an order for CPAP supplies and equipment, specifying the device, pressure settings, accessories, and delivery instructions.  It includes details for billing and authorization, which are characteristic of an order form.  The language used (\"please set-up,\" \"please fax a confirmation,\" \"authorization\") further supports this classification.",
+    "images": true,
+    "time": 13.510894775390625
+}

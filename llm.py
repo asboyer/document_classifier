@@ -99,6 +99,8 @@ def classify_llm(unkown_text, images=False, ignore=None, debug=False):
             files = json.load(f)
         for category in folders:
             for file in os.listdir(f"output/dev/images/{category}"):
+                if file == ".DS_Store":
+                    continue
                 if f"{file.split("_")[0]}.txt" == ignore:
                     continue
                 if file in files.keys():
@@ -118,6 +120,8 @@ def classify_llm(unkown_text, images=False, ignore=None, debug=False):
                 files[file] = myfile.name
         
         for file in os.listdir("output/dev/images/unknown"):
+            if file == ".DS_Store":
+                continue
             image_path = f"output/dev/images/unknown/{file}"
             myfile = genai.upload_file(mime_type="image/png", path=image_path)
             if debug:

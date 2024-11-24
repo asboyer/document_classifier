@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Sleep Study Report 4.pdf"
+    ],
+    "classification": "sleep_study_reports",
+    "%_match": "99",
+    "reasoning": "The document contains multiple pages of a sleep study report, including data on sleep stages, respiratory events, oxygen saturation, and heart rate.  The presence of technical information, graphs, charts, and medical terminology all point definitively towards a sleep study report.",
+    "images": true,
+    "time": 22.566536903381348
+}

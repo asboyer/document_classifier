@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Compliance Report 2.pdf"
+    ],
+    "classification": "compliance_reports",
+    "%_match": "99",
+    "reasoning": "The document contains data about the usage of a CPAP machine, including usage days, hours, leaks, events per hour, apnea index, and other metrics.  These are all characteristic of a compliance report for a CPAP device.  The report also includes the serial number of the device and information about the payer (Medicare), further confirming its classification as a compliance report.  The formatting and layout are consistent with other compliance reports provided.\n",
+    "images": true,
+    "time": 28.04554009437561
+}

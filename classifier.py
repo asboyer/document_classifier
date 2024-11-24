@@ -22,7 +22,7 @@ def classify(doc_name, auto_move=False, debug=False, images=False):
     if debug:
         print("Classifying...")
 
-    output = classify_llm(text, ignore=ignore, images=images)
+    output = classify_llm(text, ignore=ignore, images=images, debug=debug)
 
     category = output.split(",")[0].split("Classification:")[1].strip(" ")
     confidence = output.split(",")[1].split("Confidence_%:")[1].strip(" ")

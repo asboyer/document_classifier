@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Order 2.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "99",
+    "reasoning": "The document is clearly an order form for CPAP supplies.  It includes itemized lists of equipment and supplies, quantities, and a provider signature section.  The ICD code indicates obstructive sleep apnea.  The structure and content closely align with typical medical equipment order forms.\n",
+    "images": true,
+    "time": 12.275563955307007
+}

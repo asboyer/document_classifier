@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Order 4.pdf"
+    ],
+    "classification": "orders",
+    "%_match": "95",
+    "reasoning": "The document is titled \"PAP AND SUPPLIES\" and lists quantities, procedure codes, and item names for equipment and services related to PAP therapy.  It also includes information about the provider, patient, dates, and policy number. These are all characteristic features of an order form for medical equipment and supplies.  The \"in progress\" notation and the request for additional information further suggest an order.\n",
+    "images": true,
+    "time": 13.185432195663452
+}

@@ -31,7 +31,7 @@ if __name__ == "__main__":
             if os.path.exists(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}'):
                 os.remove(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}')
                 
-            classify_all(debug=False, images=False)
+            classify_all(debug=True, images=True)
             test_counter+=1
 
             result = check(overarch, file)

@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Physician Notes 4.pdf"
+    ],
+    "classification": "phys_notes",
+    "%_match": "95",
+    "reasoning": "The document contains progress notes from a physician's visit, including a detailed patient history, current medications, physical examination findings, and assessment/plan.  The format and content are consistent with physician notes, and there is specific medical terminology and details related to a patient's condition.",
+    "images": true,
+    "time": 24.84969687461853
+}

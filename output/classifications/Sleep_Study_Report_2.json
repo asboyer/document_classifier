@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Sleep Study Report 2.pdf"
+    ],
+    "classification": "sleep_study_reports",
+    "%_match": "95",
+    "reasoning": "The document contains a detailed analysis of sleep stages, respiratory events (apnea, hypopnea), oxygen saturation levels, and heart rate, which are all characteristic features of a sleep study report.  The inclusion of an overall impression and recommendations further solidifies its classification as a sleep study report.  The formatting and terminology used also align with typical sleep study reports.\n",
+    "images": true,
+    "time": 19.232875108718872
+}

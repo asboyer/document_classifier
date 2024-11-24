@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Physician Notes 2.pdf"
+    ],
+    "classification": "phys_notes",
+    "%_match": "95",
+    "reasoning": "The document contains a patient's medical history, current medications, a physical exam, and assessment/plan.  The headings, formatting, and content are consistent with physician's progress notes.  The inclusion of an electronically signed section further supports this classification.",
+    "images": true,
+    "time": 29.804036855697632
+}

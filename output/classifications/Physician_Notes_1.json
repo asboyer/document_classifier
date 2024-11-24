@@ -1,0 +1,10 @@
+{
+    "document_name": [
+        "Physician Notes 1.pdf"
+    ],
+    "classification": "phys_notes",
+    "%_match": "95",
+    "reasoning": "The document contains a patient's history, current medications, review of systems, physical exam, assessment and plan.  The formatting and content strongly suggest a physician's progress note.  The presence of ICD codes further reinforces this classification.  The use of medical terminology and detailed descriptions of the patient's condition and treatment plan indicate it's not a simple prescription, order, or compliance report.  The inclusion of multiple pages further supports that it is a more substantial document than a delivery ticket.\n",
+    "images": true,
+    "time": 59.38020610809326
+}
