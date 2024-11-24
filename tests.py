@@ -31,7 +31,7 @@ if __name__ == "__main__":
             if os.path.exists(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}'):
                 os.remove(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}')
                 
-            classify_all(debug=False, images=True)
+            classify_all(debug=False, images=False)
             test_counter+=1
 
             result = check(overarch, file)
@@ -58,10 +58,15 @@ if __name__ == "__main__":
                     for file in os.listdir(f"output/dev/images/{category}"):
                         if file == ".DS_Store":
                             continue
-                        if os.path.exists(f"output/dev/images/{overarch}/{file}") and file.startswith(correct_path_pdf.split(".pdf")[0]):
-                            pass
-                        elif file.startswith(correct_path_pdf.split(".pdf")[0]):
-                            shutil.move(f"output/dev/images/{category}/{file}", f"output/dev/images/{overarch}")
+
+                    # is it in the right dir? then remove from wrong dir
+                    if os.path.exists(f"output/dev/images/{overarch}/{file}") and file.startswith(correct_path_pdf.split(".pdf")[0]) and overarch != category:
+                        os.remove(f"output/dev/images/{category}/{file}")
+                    # is it in the wrong dir and not in the right dir? then move to right dir
+                    if not os.path.os.path.exists(f"output/dev/images/{overarch}/{file}") and file.startswith(correct_path_pdf.split(".pdf")[0]) and overarch != category:
+                        shutil.move(f"output/dev/images/{category}/{file}", f"output/dev/images/{overarch}")
+                    # is it in the wrong dir and in the right dir? then remove from wrong dir
+                    # 
             else:
                 successes+=1
     end_time = time.time()  # End the timer
