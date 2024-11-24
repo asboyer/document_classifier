@@ -2,9 +2,11 @@ document_to_classify = "Sleep Study Report 1.pdf"
 
 from keys import extract_all_text, unkown_path, extract_text
 from llm import classify_llm
-import os, json, shutil
+import os, json, shutil, time
 
 def classify(doc_name, auto_move=False, debug=False, images=False):
+    start_time = time.time()
+    
     if debug:
         print("-"*50)
         print("Classifying", doc_name)
@@ -25,13 +27,15 @@ def classify(doc_name, auto_move=False, debug=False, images=False):
     category = output.split(",")[0].split("Classification:")[1].strip(" ")
     confidence = output.split(",")[1].split("Confidence_%:")[1].strip(" ")
     reasoning = output.split("Reasoning:")[1].strip(" ")
-
+    end_time = time.time()  # End the timer
+    total_time = end_time - start_time
     classification = {}
     classification["document_name"] = doc_name,
     classification["classification"] = category
     classification["%_match"] = confidence
     classification["reasoning"] = reasoning
     classification["images"] = images
+    classification["time"] = total_time
     if not os.path.exists("output/classifications"):
         os.makedirs("output/classifications")
     with open(os.path.join('output/classifications', f'{doc_name.replace(" ", "_").replace(".pdf", "")}.json'), 'w') as json_file:
@@ -64,6 +68,8 @@ def classify(doc_name, auto_move=False, debug=False, images=False):
                 files = json.load(f)
 
         for file in os.listdir("output/dev/images/unknown"):
+            if file == ".DS_Store":
+                continue
             source_path = os.path.join('output', 'dev/images', 'unknown', file)
             doc_img_name = f"{doc_name.replace(".pdf", "")}{file.split('unknown')[1]}"
             if os.path.exists(os.path.join('output', 'dev', 'files.json')) and images:
