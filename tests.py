@@ -24,7 +24,7 @@ if __name__ == "__main__":
                 if os.path.exists(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}'):
                     os.remove(f'output/dev/text/{overarch}/{file.replace('.pdf', '.txt')}')
                     
-                classify_all()
+                classify_all(debug=False, images=True)
                 test_counter+=1
 
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
                     os.system("git stash")
                 else:
                     os.system("git add .")
-                    os.system("git commit -m 'successful test")
+                    os.system("git commit -m 'successful test'")
                     successes+=1
     
     print(f"Success rate: {successes}/{test_counter}")

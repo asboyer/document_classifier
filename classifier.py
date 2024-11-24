@@ -1,4 +1,3 @@
-
 document_to_classify = "Sleep Study Report 1.pdf"
 
 from keys import extract_all_text, unkown_path, extract_text
@@ -79,10 +78,10 @@ def classify(doc_name, auto_move=False, debug=False, images=False):
             with open(os.path.join('output', 'dev', 'files.json'), 'w') as f:
                 json.dump(files, f, indent=4)
 
-def classify_all():
+def classify_all(auto_move=True, debug=True, images=True):
     for doc in os.listdir(unkown_path):
         if doc.endswith(".pdf"):
-            classify(doc, True)
+            classify(doc, auto_move=auto_move, debug=debug, images=images)
 
 if __name__ == "__main__":
     for doc in os.listdir(unkown_path):
