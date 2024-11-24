@@ -35,6 +35,8 @@ if __name__ == "__main__":
                 if result == "Failure":
                     os.system("git stash")
                 else:
+                    os.system("git add .")
+                    os.system("git commit -m 'successful test")
                     successes+=1
     
     print(f"Success rate: {successes}/{test_counter}")
